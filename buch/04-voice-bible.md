@@ -145,6 +145,11 @@ an den persönlichen Stellen klingen:
 - „quasi so für sich gesagt" (beschreibt, was im Kunden vorgeht)
 - Beschreibt Verkaufsgespräche als wörtliche Rede, nicht als Zusammenfassung —
   das sollte das Buch übernehmen
+- „klipp und klar" (kündigt eine unbequeme Aussage an)
+- „Ich verstehe die Anmerkung. Ich kann aber aus meiner Erfahrung sagen …"
+  (Standardeinstieg beim Widerspruch: erst anerkennen, dann widersprechen)
+- „Outcome" — eines der wenigen englischen Wörter, die der Autor benutzt
+- Siezt Kunden
 
 Beobachtung zum Rhythmus: kurze, aneinandergereihte Hauptsätze, oft mit „und"
 verbunden. Erzählt in der Reihenfolge, in der es passiert ist, nicht in der
@@ -209,7 +214,44 @@ darauf, dass der Preis unter der Zahlungsbereitschaft liegt.** Zweiter Punkt:
 Die Frage nach dem Einwand ist gut, das Nachgeben danach macht sie zunichte —
 der Kunde lernt, dass Nachfragen den Preis senkt.
 
-Dieses Paar (G3 und G4) trägt das gesamte Pricing-Kapitel. Es sollte in der
+**G5 — Das Frühwarnzeichen: der Kunde mit zu vielen eigenen Ideen**
+Die Kunden, die im Rückblick problematisch waren, hat man laut Autor „schon am
+Anfang gemerkt": Sie drängen eigene Ideen und Gedanken auf, statt sich auf den
+Dienstleister einzulassen.
+
+Die Begründung des Autors, im Buch fast wörtlich verwendbar: *Wenn ein Kunde
+einen Dienstleister beauftragt, liegt es meist nicht daran, dass er es selbst
+nicht besser könnte — er will die Zeit, den Aufwand und das Learning nicht
+hineinstecken. Dann muss er aber auch mit den eigenen Ideen zurückstecken.*
+
+Sein Umgang damit, ebenfalls fast wörtlich verwendbar: *„Ich verstehe die
+Anmerkung. Ich kann aber aus meiner Erfahrung sagen: So sollten wir es nicht
+machen"* — mit Begründung — *„Entweder wir machen es nach meiner Erfahrung,
+dann haben wir das bessere Ergebnis. Oder wir machen es so, wie Sie es möchten.
+Dann gebe ich darauf allerdings keine Garantie."*
+
+→ Verwendung, dreifach:
+1. **Teil I, Kapitel 5 (Produktisierung).** Der Kunde, der eigene Ideen
+   aufdrängt, ist der Kunde, der ein standardisiertes Angebot nicht akzeptiert.
+   Das Frühwarnzeichen ist damit gleichzeitig ein Passungskriterium.
+2. **Teil III, Kapitel 3 (Die ersten zehn Kunden).** Als konkretes
+   Auswahlkriterium mit einer im Erstgespräch beobachtbaren Ausprägung.
+3. **Der Garantie-Hebel als wiederkehrendes Werkzeug im ganzen Buch.** Nicht
+   bis zum Sieg argumentieren, sondern die Verantwortung verteilen: Standardweg
+   mit Garantie, Kundenweg ohne. So verteidigt man ein produktisiertes Angebot
+   gegen Individualisierung, ohne den Kunden zu verlieren.
+
+**Die Asymmetrie — wichtigste Beobachtung bisher**
+Bei der Methode ist der Autor hart und benennt die Konsequenz. Beim Preis gibt
+er nach, bevor der Kunde überhaupt widerspricht (G3, G4). Dieselbe Person, zwei
+gegensätzliche Verhandlungshaltungen.
+
+→ Das ist der Aufhänger für Teil III, Kapitel 4: Fast jeder Dienstleister
+verteidigt seine fachliche Autorität selbstverständlich und seinen Preis gar
+nicht. Der Autor kann das an sich selbst zeigen, statt es zu behaupten. Diese
+Stelle sollte im Buch ausdrücklich als Selbstbeobachtung stehen.
+
+Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
 Praxis darin wiedererkennt, bevor er die Kritik liest.
 
@@ -223,6 +265,14 @@ Praxis darin wiedererkennt, bevor er die Kritik liest.
   *(Diese Haltung ist im Buch der Ausgangspunkt des Pricing-Kapitels und wird
   dort vom Autor selbst hinterfragt — sie bleibt als Ausgangshaltung stehen,
   nicht als Empfehlung.)*
+- Wer einen Dienstleister beauftragt, kauft nicht Können ein, sondern spart sich
+  Zeit, Aufwand und Lernkurve. Wer das kauft, muss die eigenen Ideen
+  zurückstellen.
+- Fachliche Führung ist Teil der Leistung. Der Dienstleister, der jede
+  Kundenidee umsetzt, liefert schlechtere Ergebnisse und ist seinen Preis nicht
+  wert.
+- Eine Garantie ist ein Verhandlungsinstrument, kein Marketingversprechen: Sie
+  gilt für den Standardweg und entfällt beim Sonderweg.
 
 ### 5.4 Wörter, die der Autor nicht benutzt
 *(noch keine)*
