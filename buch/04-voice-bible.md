@@ -716,6 +716,47 @@ Deutschland nicht die elegantere Wahl, sondern weitgehend die einzige zulässige
 Genauer Rechtsstand ist im Recherche-Backlog vermerkt und vor Drucklegung zu
 prüfen.
 
+**G23 — Kennzahlen: „Umsatz ist komplett irrelevant"**
+Position des Autors:
+
+- **Umsatz ist die am stärksten überbewertete Zahl.** Er sagt gefühlt gar
+  nichts, solange Kosten, Vertriebsmodell, Mitarbeiter und Margen unbekannt
+  sind. Plakativ: *„Umsatz ist komplett irrelevant."*
+- **EBIT ist das Wichtigste.**
+- **Cashflow** ist die zweite zentrale Größe: Was steht monatlich zur Verfügung,
+  was sind die Ausgaben, was ist Gewinn, und was wird für Steuern vorab
+  weggeführt.
+- **Das Warnsignal bei gutem Umsatz:** die Vertriebs- beziehungsweise
+  Werbekosten je verkauftem Produkt im Shopgeschäft, und die Personalkosten bei
+  einer Dienstleistung.
+
+→ Der letzte Punkt ist CAC, ohne dass der Autor den Begriff benutzt. Im Buch
+wird der Begriff eingeführt, die Formulierung des Autors aber beibehalten: *Was
+kostet dich ein gewonnener Kunde, und wie lange zahlt er, bis sich das gelohnt
+hat?*
+
+→ **Eröffnungsgeschichte für Teil III, Kapitel 8:** der eigene Dropshipping-Shop
+(G1, G17). Hoher Umsatz, Kapital im Lager gebunden, auf Kante gelebt. Der Beleg
+dafür, dass Umsatz nichts aussagt, kommt damit aus der eigenen Erfahrung.
+
+**Die sechs Zahlen für Teil III, Kapitel 8 — vom Autor freigegeben:**
+
+1. **EBIT** — das operative Ergebnis, nicht der Umsatz
+2. **Cashflow** — was im Monat tatsächlich verfügbar ist
+3. **Steuerrücklage** — was weggelegt ist, bevor es ausgegeben wird
+4. **Vertriebskosten je gewonnenem Kunden (CAC)** — im Produkt- und Shopgeschäft
+5. **Personalkostenquote** — bei Dienstleistungen
+6. **Deckungsgrad der Fixkosten durch wiederkehrenden Umsatz** — wie viel
+   Prozent der monatlichen Fixkosten bezahlt sind, bevor im Monat der erste neue
+   Auftrag hereinkommt
+
+→ Zahl 6 ist die Leitkennzahl des gesamten Buches. Sie steht in keinem
+BWL-Lehrbuch, ist in zehn Minuten ausrechenbar und verbindet alles: den ersten
+50-Euro-Retainer (G2), das Credit-Abo (G6), den Poolbauer (G21), die
+Kündigungsgründe (G9). Bei 0 % beginnt jeder Monat bei null, bei 80 % ist es ein
+anderes Unternehmen — bei identischem Umsatz. Diese Zahl sollte im Buch mehrfach
+wiederkehren und im Bewertungsbogen im Anhang stehen.
+
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
 Praxis darin wiedererkennt, bevor er die Kritik liest.
@@ -790,6 +831,9 @@ Praxis darin wiedererkennt, bevor er die Kritik liest.
 - Empfehlungen wartet man nicht ab, man fordert sie aktiv ein.
 - Influencer-Marketing im B2C ist unterschätzt.
 - Kaltakquise per Telefon ist in Deutschland tot.
+- Umsatz ist die am stärksten überbewertete Zahl im Mittelstand.
+- EBIT ist die wichtigste Zahl, Cashflow die zweitwichtigste.
+- Steuern legt man vorab weg, bevor das Geld als verfügbar gilt.
 
 ### 5.4 Wörter und Formulierungen, die trotz Autorennähe nicht ins Buch gehen
 

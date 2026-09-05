@@ -302,7 +302,9 @@ Der Entscheidungsbaum vor jeder Softwareentwicklung. Make or buy. Was
 Skalierung im Alltag tatsächlich bedeutet und was sie kostet.
 
 **8. Kennzahlen — und die Frage, wann man aufhört.**
-Die sechs Zahlen, die reichen. Wann man weitermacht, wann man verkauft, wann
+Die sechs Zahlen, die reichen: EBIT, Cashflow, Steuerrücklage, Vertriebskosten
+je gewonnenem Kunden, Personalkostenquote — und als Leitkennzahl des Buches der
+Deckungsgrad der Fixkosten durch wiederkehrenden Umsatz. Wann man weitermacht, wann man verkauft, wann
 man schließt. Warum das Beenden eines Modells eine unternehmerische Leistung
 ist und keine Niederlage.
 
