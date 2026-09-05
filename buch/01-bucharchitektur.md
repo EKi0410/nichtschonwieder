@@ -167,23 +167,29 @@ werden, sonst liest sich das Buch als verkappte Software-Werbung.
 
 ```
 VORSPANN
-  Einleitung: Warum dieses Buch anders rechnet          (6 S.)
+  Einleitung: Warum dieses Buch anders rechnet           (7 S.)
 
-TEIL I — DIE DENKWEISE                                  (28 S.)
+TEIL I — DIE DENKWEISE                                   (40 S.)
   7 Kapitel + Zwischenstück „Der Bewertungsrahmen"
 
-TEIL II — DIE GESCHÄFTSMODELLE                         (118 S.)
-  10 Kategorien, 100 Modelle, davon 20 in voller Tiefe
+TEIL II — DIE GESCHÄFTSMODELLE                          (371 S.)
+  10 Kategorien, 100 Modelle, jedes in voller Tiefe
 
-TEIL III — VOM MODELL ZUM UNTERNEHMEN                   (24 S.)
+TEIL III — VOM MODELL ZUM UNTERNEHMEN                    (32 S.)
   8 Kapitel
 
 NACHSPANN
-  Bewertungsbogen zum Kopieren, Modellregister nach
-  Kapitalbedarf/Branche, Quellen                        (6 S.)
+  Nachwort, Bewertungsbogen, Modellmatrix über alle 100
+  Modelle, Register, Quellen                             (27 S.)
 ```
 
----
+Gesamtumfang: **rund 480 Seiten**, etwa 138.000 Wörter.
+
+Damit ist das Buch kein Lesebuch mehr, sondern ein Lese- und Nachschlagewerk.
+Das ist eine bewusste Entscheidung und verändert drei Dinge, die weiter unten
+umgesetzt sind: Teil II braucht einen Navigationsapparat, die Kapitel dürfen
+unterschiedlich lang sein, und die Kategorien brauchen eigene Einführungen, die
+als Einstiegspunkte funktionieren.
 
 ## 8. Inhaltsverzeichnis
 
@@ -258,7 +264,7 @@ Modelle in `02-modellkatalog.md`.
 - **I** Medien, Bildung, Community
 - **J** Plattform-, Vermittlungs- und Beteiligungsmodelle
 
-Jede Kategorie beginnt mit einer knappen Einführung (ca. 0,8 Seiten): Was diese
+Jede Kategorie beginnt mit einer Einführung (ca. 1,5 Seiten): Was diese
 Modelle gemeinsam haben, welcher Unternehmertyp hier gewinnt, welcher typische
 Denkfehler in dieser Kategorie am häufigsten vorkommt.
 
@@ -302,100 +308,144 @@ ist und keine Niederlage.
 
 ### Nachspann
 
-- Bewertungsbogen: das Raster auf zwei Seiten zum Kopieren
-- Register: alle 100 Modelle sortiert nach Kapitalbedarf und nach Branche
+- Nachwort: wer hier geschrieben hat, für wen, und für wen nicht
+- Bewertungsbogen: das Raster zum Kopieren und selbst Anwenden
+- Modellmatrix: alle 100 Modelle mit Sternen, Note, Zielstufe und
+  Kapitalbedarf auf acht Seiten — das Nachschlagewerk im Nachschlagewerk
+- Register nach Kapitalbedarf, nach Branche, nach Note
 - Quellen und Stand der Recherche
 
 ---
 
 ## 9. Seitenplanung
 
+Entscheidung des Autors: **Variante C** — alle hundert Modelle in voller Tiefe.
+Das Buch darf entsprechend länger werden.
+
 Annahme für die Kalkulation: Buchformat 15,5 × 23,5 cm, Satzspiegel mit
-ca. 300 Wörtern pro Seite bei 11 pt Schrift. Boxen sind dabei
-flächenbereinigt eingerechnet.
+ca. 300 Wörtern pro Seite bei 11 pt Schrift. Boxen sind flächenbereinigt
+eingerechnet.
 
 | Baustein | Anzahl | Seiten je Einheit | Seiten gesamt | Wörter |
 |---|---:|---:|---:|---:|
-| Titelei, Inhaltsverzeichnis | — | — | 4 | — |
-| Einleitung | 1 | 6 | 6 | 1.800 |
-| Teil I, Kapitel | 7 | 3,5 | 24,5 | 7.350 |
-| Teil I, Zwischenstück Bewertungsrahmen | 1 | 4 | 4 | 1.200 |
-| Teil II, Kategorie-Einführungen | 10 | 0,8 | 8 | 2.400 |
-| Teil II, Tiefenanalysen | 20 | 3,5 | 70 | 21.000 |
-| Teil II, Kompaktprofile | 80 | 0,55 | 44 | 13.200 |
-| Teil III, Kapitel | 8 | 3 | 24 | 7.200 |
-| Nachspann | — | — | 6 | 1.000 |
-| **Summe** | | | **190,5** | **55.150** |
+| Titelei, Inhaltsverzeichnis (100 Kapitel) | — | — | 6 | — |
+| Einleitung | 1 | 7 | 7 | 2.100 |
+| Teil I, Kapitel | 7 | 5 | 35 | 10.500 |
+| Teil I, Zwischenstück Bewertungsrahmen | 1 | 5 | 5 | 1.500 |
+| Teil II, Kategorie-Einführungen | 10 | 1,5 | 15 | 4.500 |
+| Teil II, Leitmodelle | 20 | 4,5 | 90 | 27.000 |
+| Teil II, Standardkapitel | 60 | 3,5 | 210 | 63.000 |
+| Teil II, kompakte Vollkapitel | 20 | 2,8 | 56 | 16.800 |
+| Teil III, Kapitel | 8 | 4 | 32 | 9.600 |
+| Nachwort | 1 | 3 | 3 | 900 |
+| Anhang: Bewertungsbogen | — | — | 4 | — |
+| Anhang: Modellmatrix (alle 100 auf einen Blick) | — | — | 8 | — |
+| Anhang: Register und Quellen | — | — | 12 | 2.000 |
+| **Summe** | | | **483** | **ca. 138.000** |
 
-Das liegt im oberen Bereich des Zielkorridors. Puffer: Die Kompaktprofile
-lassen sich auf 0,5 Seiten kürzen (minus 4 Seiten), die Tiefenanalysen auf
-3,2 Seiten (minus 6 Seiten). Damit erreicht man 180 Seiten, ohne die Substanz
-anzufassen. Umgekehrt bleibt bis 200 Seiten Luft für Abbildungen, das
-Framework-Schaubild und Kapitel, die es verdienen, länger zu sein.
+### Alle hundert in voller Tiefe — aber nicht alle gleich lang
 
-### Der Konflikt, den ich benennen muss
+Volle Tiefe heißt: **jedes** der hundert Kapitel bekommt die komplette Struktur
+aus `03-kapitelvorlage-bewertungssystem.md` — alle acht Boxen mit Erklärung,
+Stufenmodell, Beispielrechnung, Herausforderungen, Startplan, Urteil,
+Learnings. Kein Modell wird abgekürzt.
 
-Die geforderte Kapitelstruktur — acht bewertete Boxen mit ausführlicher
-Erklärung, Stufenmodell, Startplan, Urteil, Learnings — braucht pro Modell
-etwa 1.100 bis 1.400 Wörter. Bei hundert Modellen wären das 110.000 bis
-140.000 Wörter, also **380 bis 480 Buchseiten**, nur für Teil II.
+Die *Länge* variiert trotzdem, in drei Stufen:
 
-Hundert Modelle in voller Tiefe und 150–200 Seiten schließen sich aus. Das ist
-keine Formulierungsfrage, sondern Arithmetik.
+- **20 Leitmodelle**, ca. 4,5 Seiten. Sie tragen die Methode, bekommen die
+  ausführlichsten Beispielrechnungen und die Coaching-Überleitung. Sie werden
+  zuerst geschrieben und dienen als Kalibrierung für alle anderen. Welche das
+  sind, steht in `02-modellkatalog.md`.
+- **60 Standardkapitel**, ca. 3,5 Seiten. Vollständige Struktur, normale
+  Ausführlichkeit.
+- **20 kompakte Vollkapitel**, ca. 2,8 Seiten. Modelle, deren Ökonomie einfach
+  ist oder die sich stark an ein Nachbarmodell anlehnen. Vollständige Struktur,
+  aber ohne Wiederholung dessen, was zwei Kapitel vorher schon erklärt wurde.
 
-**Mein Vorschlag: zweistufige Tiefe.**
+Gleiche Länge für alle hundert wäre der falsche Ehrgeiz. Sie würde bedeuten,
+schwache Modelle künstlich aufzublasen — und genau das erkennt der Leser sofort.
+Ein Kapitel ist so lang, wie das Modell hergibt.
 
-- **20 Tiefenanalysen** (2 je Kategorie) mit dem vollständigen Programm: alle
-  acht Boxen mit Erklärung, das komplette Stufenmodell, Beispielrechnung,
-  Startplan, Urteil, Learnings, bei ausgewählten Modellen die
-  Coaching-Überleitung. Diese zwanzig Kapitel tragen die Methode.
-- **80 Kompaktprofile** mit: Sterne-Zeile über alle acht Dimensionen,
-  Kundenbeschreibung, Kernproblem, Preisanker, erster Vertriebsweg,
-  Stufenpfad in einer Zeile, größtes Risiko, Urteil mit Begründungssatz.
-  Kein reduzierter Anspruch, sondern verdichtete Form.
+### Was ein 480-Seiten-Buch zusätzlich braucht
 
-Das erhält die versprochenen hundert Modelle, hält den Seitenumfang und
-verhindert, dass hundertmal dieselbe Boxenstruktur den Leser ermüdet — was bei
-hundert gleichförmigen Tiefenkapiteln unvermeidlich wäre.
+Bei diesem Umfang liest niemand mehr linear. Das Buch bekommt deshalb einen
+Navigationsapparat, der bei 190 Seiten überflüssig gewesen wäre:
 
-**Die Alternativen, damit die Entscheidung fair ist:**
+1. **Kategorie-Einführungen auf 1,5 Seiten** statt 0,8. Sie werden zu echten
+   Einstiegspunkten: Was eint diese zehn Modelle, welcher Unternehmertyp
+   gewinnt hier, welche zwei Modelle der Kategorie sollte man lesen, wenn man
+   nur zwei liest.
+2. **Modellmatrix im Anhang, 8 Seiten.** Alle hundert Modelle in einer Tabelle:
+   Nummer, Titel, acht Sternewerte, Note, Zielstufe, Kapitalbedarf. Damit wird
+   das Buch als Nachschlagewerk benutzbar und der Leser findet in zwei Minuten
+   die zwölf Modelle, die zu seiner Situation passen.
+3. **Drei Register:** nach Kapitalbedarf, nach Branche, nach Note.
+4. **Querverweise zwischen verwandten Modellen.** Die vier bewussten
+   Nischen-Paare aus dem Katalog werden gegenseitig verlinkt, ebenso Modelle
+   mit ähnlicher Ökonomie in verschiedenen Kategorien.
+5. **Kolumnentitel mit Modellnummer und Kategorie** auf jeder Seite von Teil II.
 
-| Variante | Umfang | Konsequenz |
-|---|---|---|
-| A: 20 tief + 80 kompakt *(Empfehlung)* | 180–195 S. | Hundert Modelle bleiben, Methode wird an 20 Modellen vollständig gezeigt. |
-| B: 40 Modelle, alle tief | 200–220 S. | Höchste Durchdringung, aber der Titel „100 Geschäftsmodelle" fällt weg. |
-| C: 100 Modelle, alle tief | 420–500 S. | Vollständig wie im Briefing, aber ein anderes Buch: teurer, schwerer, eher Nachschlagewerk als Lesebuch. Wirtschaftlich als Selfpublishing schwierig. |
-| D: 100 kompakt im Buch, 20 tief als Online-Erweiterung | 150–165 S. | Schlankes Buch, Tiefe als Lead-Magnet fürs Coaching. Attraktiv fürs Geschäftsmodell, schwächer als Buch. |
+### Zwei Hinweise zur Produktion
 
-Ich empfehle A. Variante D wäre die geschäftlich cleverste, aber sie nimmt dem
-gedruckten Buch genau das, was es glaubwürdig macht.
+Ich setze das nicht als Frage, sondern als Information für später — es ändert
+an der Arbeit jetzt nichts.
+
+**Herstellung.** 480 Seiten sind im Print-on-Demand problemlos machbar, aber der
+Herstellungspreis steigt deutlich, und das Buch wird mit rund 3 cm Rückenstärke
+und etwa 700 Gramm ein schweres Buch. Ein Ladenpreis im Bereich 39–49 € ist bei
+diesem Umfang üblich und für ein Fachbuch mit dieser Dichte vertretbar. Wenn du
+später lieber zwei Bände möchtest — Teil I plus Kategorien A–E, danach der Rest
+—, ist die Struktur dafür bereits sauber geschnitten. Das muss jetzt nicht
+entschieden werden.
+
+**Aufwand.** Der Rahmen sind 116 Kapitel und Modelle plus Anhänge, jedes durch
+sieben Iterationen. Das ist der Grund, warum die Kalibrierung an den zwanzig
+Leitmodellen vorne steht: Was dort an Bewertungslogik, Preislogik und Tonfall
+festgelegt wird, spart bei den übrigen achtzig jeweils eine Iteration.
 
 ---
 
-## 10. Entscheidungsbedarf vor Phase 2
+## 10. Bearbeitungsreihenfolge
 
-Diese Punkte ändern das Manuskript grundlegend und werden nicht ohne
-Entscheidung des Autors umgesetzt.
+1. **Teil I vollständig.** Hier entsteht die Stimme, an der sich alles Weitere
+   ausrichtet. Ohne fertigen Teil I ist jedes Modellkapitel Blindflug.
+2. **Zwei Leitmodelle als Musterkapitel** — Vorschlag B11 und C21 — zur Abnahme
+   durch dich. Erst wenn diese beiden sitzen, geht es weiter.
+3. **Die restlichen 18 Leitmodelle**, kategorieweise. Danach steht die
+   Kalibrierung der Sterne über alle zehn Kategorien.
+4. **Die 80 übrigen Modelle**, kategorieweise, jeweils direkt anschließend an
+   das Leitmodell derselben Kategorie.
+5. **Teil III.**
+6. **Einleitung, Nachwort, Anhänge** zuletzt — sie können erst geschrieben
+   werden, wenn feststeht, was im Buch steht. Insbesondere die Modellmatrix
+   entsteht automatisch aus den fertigen Kapiteln.
+7. **Phase 3: Gesamtdurchsicht.** Konsistenz der Sterne über alle hundert
+   Modelle, Notenverteilung, Redundanzcheck, Verbotsliste als Textsuche über
+   das Gesamtmanuskript.
 
-1. **Tiefenstruktur.** Variante A, B, C oder D aus Abschnitt 9.
-2. **Titel und Untertitel.** Meine Empfehlung: Titel 1 mit Untertitel 2.
-3. **Zwei Boxen mit umgekehrter Logik.** Bei „Startkapital" und
-   „Wettbewerbsdruck" bedeuten viele Sterne etwas Schlechtes, bei den anderen
-   sechs etwas Gutes. Das verwirrt beim Querlesen zuverlässig. Ich empfehle,
-   sie in **„Kapitalleichtigkeit"** und **„Wettbewerbsposition"** umzubenennen,
-   sodass durchgehend gilt: fünf Sterne sind gut. Der Rohwert steht in Klammern
-   daneben (z. B. „Kapitalleichtigkeit ★★☆☆☆ — Startkapital 60.000–120.000 €").
-   Details in `03-kapitelvorlage-bewertungssystem.md`, Abschnitt 3.
-4. **Ich-Perspektive.** Das Buch funktioniert deutlich besser mit einem
-   sichtbaren Autor. Dafür brauche ich Material: eigene Erfahrungen, Fehler,
-   Kundenprojekte, Meinungen. Der Fragebogen dazu steht in `04-voice-bible.md`.
-   Ohne dieses Material bleibt die Ich-Stimme behauptet statt belegt — und das
-   merkt jeder Leser.
-5. **Recherchetiefe.** Für Marktzahlen, Preise und regulatorische Aussagen
-   schlage ich vor: verifiziert wird pro Kapitel in Iteration 3, mit Quelle und
-   Abrufdatum. Alles Nichtverifizierte wird als „modellhafte Annahme"
-   gekennzeichnet. Siehe `05-recherche-backlog.md`.
-6. **Coaching-Dichte.** Vorschlag: die Überleitung „Und jetzt auf dein
-   Unternehmen übertragen" nur bei den 20 Tiefenanalysen, am Ende von Teil I
-   und am Ende von Teil III. Insgesamt 22 Stellen im Buch. Mehr wirkt wie
-   Verkauf.
+---
+
+## 11. Getroffene Entscheidungen
+
+| # | Punkt | Entscheidung |
+|---|---|---|
+| 1 | Tiefenstruktur | **Variante C** — alle 100 Modelle in voller Tiefe, Umfang ca. 480 Seiten |
+| 2 | Sterne-Skala | **Durchgehend positiv** — fünf Sterne bedeuten in allen acht Dimensionen etwas Gutes. „Startkapital" wird zu **Kapitalleichtigkeit**, „Wettbewerbsdruck" zu **Wettbewerbsposition**, jeweils mit dem Rohwert in Klammern daneben. Umgesetzt in `03-kapitelvorlage-bewertungssystem.md`. |
+
+## 12. Noch offen
+
+1. **Titel und Untertitel.** Meine Empfehlung bleibt Titel 1 mit Untertitel 2 —
+   wobei bei 480 Seiten der Untertitel den Nachschlagecharakter mittransportieren
+   sollte. Alternative Formulierung dafür: *„100 Geschäftsmodelle, vollständig
+   durchgerechnet — von der ersten Dienstleistung bis zum skalierbaren
+   Unternehmen."*
+2. **Autorenmaterial.** Der Fragebogen in `04-voice-bible.md`. Bei 480 Seiten
+   wird das wichtiger, nicht unwichtiger: Über diese Länge trägt eine
+   konstruierte Stimme nicht. Sprachmemos genügen.
+3. **Recherchetiefe.** Vorschlag unverändert: Verifikation pro Kapitel in
+   Iteration 3, mit Quelle und Abrufdatum; alles Übrige als „modellhafte
+   Annahme" gekennzeichnet. Siehe `05-recherche-backlog.md`.
+4. **Coaching-Dichte.** Vorschlag unverändert bei 22 Stellen — die 20
+   Leitmodelle plus Ende Teil I und Ende Teil III. Ausdrücklich **nicht** in
+   allen hundert Kapiteln: bei dieser Buchlänge würde eine Überleitung in jedem
+   Kapitel als Dauerwerbung gelesen.

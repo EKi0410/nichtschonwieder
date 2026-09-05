@@ -2,12 +2,16 @@
 
 ---
 
-## 1. Standardstruktur einer Tiefenanalyse
+## 1. Standardstruktur jedes Modellkapitels
 
-Umfang: ca. 3,5 Seiten, 1.050–1.200 Wörter. Die Reihenfolge ist verbindlich,
-die Länge der einzelnen Teile nicht. Ein Modell, dessen ganze Schwierigkeit im
-Vertrieb liegt, darf dort doppelt so lang sein und beim Startkapital
+Diese Struktur gilt für **alle hundert Modelle**. Kein Modell wird abgekürzt,
+keines bekommt eine reduzierte Fassung. Die Reihenfolge ist verbindlich, die
+Länge der einzelnen Teile nicht: Ein Modell, dessen ganze Schwierigkeit im
+Vertrieb liegt, darf dort doppelt so lang sein und bei der Kapitalfrage
 entsprechend kürzer.
+
+Die Wortangaben unten beziehen sich auf ein Standardkapitel (ca. 3,5 Seiten,
+1.050 Wörter). Für die drei Längenvarianten siehe Abschnitt 2.
 
 **Kopfzeile.** Nummer, Titel, darunter die Sterne-Zeile über alle acht
 Dimensionen als Ein-Blick-Zusammenfassung, rechts das Gesamturteil in x/10.
@@ -52,36 +56,59 @@ warum schwierig, für wen geeignet, für wen nicht, wo der größte Hebel liegt.
 Übertragbare Erkenntnisse, die auch dann gelten, wenn der Leser dieses Modell
 nie anfasst. Keine Zusammenfassung des Kapitels.
 
-**10 — Und jetzt auf dein Unternehmen übertragen** *(optional, ca. 50 Wörter)*
-Nur bei den 20 Tiefenanalysen. Details in Abschnitt 6.
+**10 — Und jetzt auf dein Unternehmen übertragen** *(nur Leitmodelle, ca. 50 Wörter)*
+Nur bei den 20 Leitmodellen. Details in Abschnitt 6.
 
 ---
 
-## 2. Standardstruktur eines Kompaktprofils
+## 2. Die drei Längenvarianten
 
-Umfang: ca. 0,55 Seiten, 160–190 Wörter. Feste Reihenfolge, feste Feldnamen,
-damit hundert Modelle vergleichbar bleiben und das Querlesen funktioniert.
+Alle hundert Kapitel haben dieselben zehn Bestandteile. Sie unterscheiden sich
+nur darin, wie viel Raum die Analyse bekommt. Gleiche Länge für alle hundert
+würde bedeuten, schwache Modelle künstlich aufzublasen — und das erkennt der
+Leser sofort.
+
+| Variante | Anzahl | Umfang | Was anders ist |
+|---|---:|---|---|
+| **Leitmodell** | 20 | ca. 4,5 S. / 1.350 W. | Ausführlichste Boxen, zwei Beispielrechnungen statt einer, vollständiger Startplan mit Wochenraster, Coaching-Überleitung. Werden zuerst geschrieben und kalibrieren alles Weitere. |
+| **Standardkapitel** | 60 | ca. 3,5 S. / 1.050 W. | Der Normalfall. Alle acht Boxen erklärt, eine Beispielrechnung, Startplan in Kurzform. |
+| **Kompaktes Vollkapitel** | 20 | ca. 2,8 S. / 840 W. | Vollständige Struktur, aber ohne Wiederholung: Was in einem Nachbarmodell schon erklärt wurde, wird verlinkt statt ausgeführt. |
+
+### Die Regel gegen Monotonie
+
+Bei hundert gleich aufgebauten Kapiteln ist Ermüdung das größte handwerkliche
+Risiko des Buches — größer als jeder inhaltliche Fehler. Drei Gegenmaßnahmen,
+verbindlich:
+
+1. **Der Einstieg jedes Kapitels wechselt.** Zulässig sind: die direkte
+   Angebotsbeschreibung, eine konkrete Kundensituation, eine Zahl, ein Einwand,
+   die Beschreibung des Ist-Zustands beim Kunden. Nie zweimal hintereinander
+   derselbe Typ.
+2. **Innerhalb einer Kategorie darf sich kein Boxentext strukturell wiederholen.**
+   Wenn drei Modelle einer Kategorie denselben Vertriebsweg haben, wird er
+   einmal ausführlich erklärt und danach mit Verweis abgekürzt — mit dem
+   Unterschied im Fokus, nicht mit der Wiederholung.
+3. **Jedes Kapitel braucht mindestens eine Aussage, die den Leser überrascht.**
+   Ein widerlegter Einwand, eine unerwartete Zahl, eine Einschätzung gegen die
+   Intuition. Wenn ein Kapitel diese Stelle nicht hat, ist es noch nicht fertig.
+
+Diese drei Punkte sind in die Prüfcheckliste in Abschnitt 8 aufgenommen.
+
+### Die Kopfzeile jedes Kapitels
+
+Einheitlich über alle hundert, weil sie das Nachschlagen trägt:
 
 ```
-Nr. TITEL DES MODELLS                                        Urteil 7,4/10
-Monetarisierung ★★★★☆  Vertrieb ★★★☆☆  Upsell ★★★★☆  Recurring ★★★★★
-Skalierbarkeit ★★★☆☆  Kapitalleichtigkeit ★★★★☆  Marge ★★★★☆  Position ★★★☆☆
+C21   KI-TELEFONASSISTENT FÜR HANDWERKSBETRIEBE                   7,8/10
+      5–30 Mitarbeiter · Einstieg Stufe 2 · Ziel Stufe 6 · ab ca. 8.000 €
 
-Kunde        Wer kauft, wer entscheidet, welche Größenordnung.
-Problem      Was es kostet, wenn es ungelöst bleibt.
-Geld         Preisanker und Abrechnungslogik in einem Satz.
-Erster Weg   Der Vertriebskanal, den ich zuerst testen würde.
-Stufen       Einstieg → Ziel, mit einem Satz Begründung.
-Risiko       Die eine Sache, an der es am wahrscheinlichsten scheitert.
-Urteil       Zwei Sätze. Für wen ja, für wen nicht.
+Monetarisierung ★★★★☆   Vertrieb ★★★★☆   Upsell ★★★★☆   Recurring ★★★★★
+Skalierbarkeit ★★★★☆   Kapitalleichtigkeit ★★★★☆   Marge ★★★★☆   Position ★★★☆☆
 ```
 
-Was hier fehlt, fehlt bewusst: kein Startplan, keine Beispielrechnung, keine
-Learnings. Diese Elemente wären auf einer halben Seite Behauptung statt
-Analyse. Wer sie braucht, findet sie an den zwanzig Tiefenanalysen vollständig
-demonstriert und kann sie mit dem Bewertungsbogen aus dem Anhang selbst auf
-jedes Kompaktprofil anwenden. Genau das ist die Übung, die das Buch dem Leser
-beibringen will.
+Diese Kopfzeile wird im Anhang zur Modellmatrix zusammengezogen: hundert Zeilen,
+acht Seiten, und der Leser findet in zwei Minuten die zwölf Modelle, die zu
+seiner Situation passen.
 
 ---
 
@@ -105,20 +132,33 @@ tatsächlich scheitern — nicht an der Idee, nicht an der Umsetzung. Wer das
 anders sieht, kann das Gewicht ändern; die Gewichtung wird im Zwischenstück von
 Teil I offengelegt, damit der Leser sie nachvollziehen und ersetzen kann.
 
-### 3.2 Änderungsvorschlag: zwei Boxen umbenennen
+### 3.2 Fünf Sterne bedeuten immer etwas Gutes
 
-Im Briefing heißen zwei Boxen „Startkapital" und „Wettbewerbsdruck". Bei beiden
-bedeuten viele Sterne etwas Schlechtes, bei den anderen sechs etwas Gutes. Beim
-Querlesen von hundert Sterne-Zeilen führt das zuverlässig zu Fehlschlüssen.
+Entscheidung des Autors, umgesetzt: Die Skala ist über alle acht Dimensionen
+gleichgerichtet. Fünf Sterne sind immer gut, ein Stern ist immer schlecht.
 
-Vorschlag: **„Kapitalleichtigkeit"** und **„Wettbewerbsposition"**, sodass
-durchgehend gilt: fünf Sterne sind gut. Der Rohwert steht in Klammern daneben:
+Zwei Bezeichnungen aus dem ursprünglichen Briefing waren dafür invertiert und
+sind umbenannt:
+
+| vorher | jetzt | fünf Sterne bedeuten |
+|---|---|---|
+| Startkapital | **Kapitalleichtigkeit** | man braucht sehr wenig Geld zum Start |
+| Wettbewerbsdruck | **Wettbewerbsposition** | man kann sich gut behaupten |
+
+Die eigentliche Information geht dabei nicht verloren, sie steht als Rohwert in
+Klammern daneben:
 
 > Kapitalleichtigkeit ★★☆☆☆ *(Startkapital 60.000–120.000 €)*
 > Wettbewerbsposition ★★☆☆☆ *(hoher Preisdruck, viele Anbieter)*
 
-Damit bleibt die Information erhalten und die Skala wird lesbar. **Diese
-Änderung ist nicht umgesetzt und wartet auf die Entscheidung des Autors.**
+Der Rohwert in Klammern ist Pflicht, nicht Kür. Ohne ihn wäre die Umbenennung
+ein Informationsverlust: Zwei Sterne bei der Kapitalleichtigkeit könnten sonst
+80.000 € oder 200.000 € bedeuten, und genau das ist für den Leser der
+Unterschied zwischen machbar und unmöglich.
+
+Bei einem Buch, in dem hundert Sterne-Zeilen quergelesen werden, ist die
+Gleichrichtung der Skala kein kosmetisches Detail. Sie entscheidet darüber, ob
+die Modellmatrix im Anhang funktioniert oder in die Irre führt.
 
 ### 3.3 Was ein Stern bedeutet
 
@@ -224,7 +264,7 @@ müssen.
 ### 4.2 Inhaltliche Anforderung an jede Bewertungsbox
 
 Sterne sind ausschließlich die visuelle Zusammenfassung. Jede Box braucht
-Erklärung. Muster für die Monetarisierungsbox einer Tiefenanalyse:
+Erklärung. Muster für die Monetarisierungsbox:
 
 > **Monetarisierung ★★★★☆**
 >
@@ -265,11 +305,11 @@ passiert bei fünf Prozent monatlichem Churn, und was bleibt am Ende übrig?
 Diese Elemente sind wirkungsvoll und werden deshalb rationiert. Insgesamt im
 gesamten Buch:
 
-- **Denk darüber nach** — maximal 12 Stück
-- **Unternehmerische Frage** — maximal 10 Stück
-- **Perspektivwechsel** — maximal 8 Stück
+- **Denk darüber nach** — maximal 20 Stück
+- **Unternehmerische Frage** — maximal 16 Stück
+- **Perspektivwechsel** — maximal 12 Stück
 
-Nie zwei davon im selben Kapitel. Nie eines in einem Kompaktprofil. Wenn ein
+Nie zwei davon im selben Kapitel. Nie eines in einem kompakten Vollkapitel. Wenn ein
 Kapitel ohne sie funktioniert, bekommt es keines.
 
 ---
@@ -284,7 +324,7 @@ Unternehmen anwendet. Werbung würde diese Wirkung zerstören.
 
 ### Umsetzung
 
-**Die Überleitung.** Am Ende der 20 Tiefenanalysen, am Ende von Teil I und am
+**Die Überleitung.** Am Ende der 20 Leitmodelle, am Ende von Teil I und am
 Ende von Teil III, insgesamt 22 Stellen:
 
 > **Und jetzt auf dein Unternehmen übertragen**
@@ -370,6 +410,11 @@ entsprechende Iteration.
 - [ ] Klingt es wie ein Mensch mit Meinung?
 - [ ] Wiederholt das Kapitel etwas, das schon dreimal im Buch stand?
 - [ ] Ist mindestens eine Passage subjektiv und angreifbar?
+
+**Gegen Monotonie** *(bei 100 Kapiteln das größte handwerkliche Risiko)*
+- [ ] Hat das Kapitel einen anderen Einstiegstyp als das vorhergehende?
+- [ ] Wird ein Boxentext aus einem Nachbarmodell wiederholt statt verwiesen?
+- [ ] Gibt es mindestens eine Stelle, die den Leser überrascht?
 
 **Glaubwürdigkeit**
 - [ ] Wird irgendwo mehr versprochen, als das Modell hergibt?

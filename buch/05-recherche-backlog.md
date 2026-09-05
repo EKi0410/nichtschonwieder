@@ -43,14 +43,14 @@ Statistik, Kammer- und Verbandsstatistiken, Branchenverzeichnisse.
 und Hardware. Preisanker im Buch dürfen von echten Marktpreisen abweichen, aber
 nicht unbemerkt.
 
-**Wettbewerb.** Je Tiefenanalyse mindestens drei existierende Anbieter
+**Wettbewerb.** Je Modell mindestens drei existierende Anbieter
 identifizieren. Wenn sich keine finden lassen, ist das die wichtigste
 Erkenntnis des Kapitels — und meistens ein Warnsignal, kein Vorteil.
 
 ## Praktikerprüfung
 
-Ergänzend zur Recherche: je Kategorie mindestens ein Telefonat mit einem
-Praktiker aus der Branche. Zwei Fragen reichen — „Stimmt das so?" und „Was
+Ergänzend zur Recherche: mindestens ein Telefonat je Kategorie, bei den zwanzig
+Leitmodellen je eines pro Modell. Zwei Fragen reichen — „Stimmt das so?" und „Was
 fehlt?". Das ist der billigste Qualitätsgewinn im ganzen Projekt und der
 Unterschied zwischen plausibel und richtig.
 
