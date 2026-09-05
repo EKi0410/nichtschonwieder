@@ -141,6 +141,10 @@ an den persönlichen Stellen klingen:
 - „und da hab ich dann angefangen zu erkennen" (Einsicht als Prozess, nicht als
   Geistesblitz — sehr guter Erzählmodus für Teil I)
 - Nennt Kunden konkret und unpathetisch: „von diesem Typen"
+- „hier, …" als Einleitung wörtlicher Rede im Kundengespräch
+- „quasi so für sich gesagt" (beschreibt, was im Kunden vorgeht)
+- Beschreibt Verkaufsgespräche als wörtliche Rede, nicht als Zusammenfassung —
+  das sollte das Buch übernehmen
 
 Beobachtung zum Rhythmus: kurze, aneinandergereihte Hauptsätze, oft mit „und"
 verbunden. Erzählt in der Reihenfolge, in der es passiert ist, nicht in der
@@ -177,8 +181,48 @@ ein **Warnsignal**, kein Erfolgssignal.
 erzählt werden. Sie funktioniert nur, wenn der Preis dabei ehrlich als geschätzt
 und wahrscheinlich zu niedrig eingeordnet wird.
 
+**G3 — Die Fünf-Euro-Preiserhöhung**
+Erhöhung des monatlichen Retainers um 5 € bei einem Bestandskunden. Begründung
+gegenüber dem Kunden: „es wird ja generell alles ein bisschen teurer." Als
+Ausgleich zusätzlich ein kostenloses Update der Webseite angeboten — der Kunde
+nahm das direkt zum Anlass, gleich noch Änderungen zu bestellen. Zusätzlich
+hat der Autor von sich aus angeboten, auf die Erhöhung zu verzichten, falls sie
+gerade nicht leistbar sei, und offengelegt, dass er es „momentan bei allen
+Kunden erst mal probiert". Der Kunde stimmte zu.
+
+→ Verwendung: Teil III, Kapitel 4 (Pricing) als Lehrbeispiel mit drei
+benennbaren Fehlern: Begründung über die eigenen Kosten statt über den Nutzen
+des Kunden, Kompensation, die den Aufschlag netto auffrisst, und ein von sich
+aus angebotener Ausstieg. Erzählt aus der Ich-Perspektive und ohne Beschönigung
+ist das eines der stärksten Kapitelstücke des Buches — weil der Leser genau so
+handelt.
+
+**G4 — „Ich habe noch nie einen Auftrag am Preis verloren"**
+Der Autor hat nach eigener Aussage nie einen Auftrag wegen eines zu hohen
+Preises verloren. Seine Einwandbehandlung: „Liegt es jetzt wirklich nur am
+Preis, und die Dienstleistung an sich ist gut?" — meist Zustimmung — „dann
+sollten wir es nicht am Preis scheitern lassen."
+
+→ Verwendung: Teil III, Kapitel 4, als zentrale These des Kapitels. **Nie am
+Preis zu verlieren ist kein Erfolgssignal, sondern der zuverlässigste Hinweis
+darauf, dass der Preis unter der Zahlungsbereitschaft liegt.** Zweiter Punkt:
+Die Frage nach dem Einwand ist gut, das Nachgeben danach macht sie zunichte —
+der Kunde lernt, dass Nachfragen den Preis senkt.
+
+Dieses Paar (G3 und G4) trägt das gesamte Pricing-Kapitel. Es sollte in der
+Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
+Praxis darin wiedererkennt, bevor er die Kritik liest.
+
 ### 5.3 Feste Meinungen des Autors
-*(noch keine)*
+
+- Cashflow schlägt Margenfantasie. Der Ausstieg aus dem E-Commerce erfolgte aus
+  diesem Grund, nicht aus Prinzip.
+- Wiederkehrender Umsatz war von Anfang an das Ziel, nicht eine spätere
+  Erkenntnis. Schon das erste Angebot hatte einen Retainer.
+- Ein Auftrag sollte nicht am Preis scheitern, wenn die Leistung überzeugt.
+  *(Diese Haltung ist im Buch der Ausgangspunkt des Pricing-Kapitels und wird
+  dort vom Autor selbst hinterfragt — sie bleibt als Ausgangshaltung stehen,
+  nicht als Empfehlung.)*
 
 ### 5.4 Wörter, die der Autor nicht benutzt
 *(noch keine)*
