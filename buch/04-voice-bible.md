@@ -13,10 +13,16 @@ Abschnitt 5 gesammelt.
 
 ## 1. Wer spricht
 
-Ein praktisch denkender Unternehmer und Berater. Er hat selbst Kunden gewonnen,
-Angebote geschrieben, Preise zu niedrig angesetzt und Leute eingestellt, die
-nicht gepasst haben. Er ist kein Professor, kein Investor und niemand, der
-Unternehmertum aus Büchern kennt.
+**Ein 24-jähriger IT-Dienstleister**, der selbst Kunden gewonnen, Angebote
+geschrieben, Preise zu niedrig angesetzt und ein Geschäftsmodell wieder beendet
+hat. Er ist kein Professor, kein Investor und niemand, der Unternehmertum aus
+Büchern kennt.
+
+**Was er nicht ist — hier keine Autorität behaupten, die es nicht gibt:** Er hat
+kein Unternehmen verkauft, keine Mitarbeiter geführt, keine Finanzierungsrunde
+gemacht und kein Unternehmen über zehn Mitarbeiter aufgebaut. Wo das Buch
+solche Themen berührt, sagt es das ausdrücklich und stützt sich auf fremde
+Erfahrung, die als solche gekennzeichnet wird.
 
 Seine Grundhaltung gegenüber jedem Geschäftsmodell ist eine einzige Frage:
 **„Kann daraus tatsächlich ein Unternehmen werden?"** Nicht: Ist das spannend?
@@ -858,6 +864,61 @@ und die Zielgruppe hört das sofort.
 Box und nie in einer Bewertung.** Ein hartes Wort wirkt durch Seltenheit; auf
 jeder Seite ist es Dekoration und wird überlesen. Es steht nur dort, wo
 tatsächlich ein Urteil dahintersteht, nie als Stilmittel.
+
+**G27 — Was der Autor heute macht, und wie alt er ist**
+
+**Hauptberuflich:** IT-Beratung beziehungsweise IT-Dienstleistung. Das, was er
+schon in der Ausbildung gelernt hat — „im positiven Sinne hängen geblieben".
+Abwechslungsreich und mit einem guten monatlichen Retainer.
+
+**Coaching:** kein Kurs, kein Mentoring-Programm. Buchbare **Eins-zu-eins-Calls**.
+Man stellt sein Modell vor, oder man erarbeitet es gemeinsam von null. Ziel: eine
+passende Idee entwickeln, die ersten Schritte begleiten und jemanden so weit
+bringen, dass er selbstständig davon leben kann.
+
+**Alter: 24.**
+
+→ **Der wichtigste Befund des gesamten Fragebogens.** Der Autor ist selbst in
+der Zielgruppe. Der Abstand zwischen Autor und Leser ist praktisch null. Er hat
+den Dropshipping-Weg vor wenigen Jahren durchlaufen, nicht vor zwanzig; er kennt
+die Kanäle, die sein Leser konsumiert, weil er sie selbst konsumiert hat. Das
+kann kein erfahrener Unternehmensberater herstellen.
+
+→ **Gehört auf den Klappentext.** Nicht als Koketterie, sondern als Angabe: Hier
+schreibt jemand, der genau da ist, wo du gleich sein willst — ein paar Schritte
+weiter, nicht eine Generation.
+
+**Die Angriffsfläche und ihre Vorwegnahme.** Von außen ist ein 24-Jähriger, der
+ein 480-Seiten-Buch über Unternehmensaufbau schreibt und Coaching anbietet,
+exakt das Muster, das der Autor selbst ablehnt (G25). Der Unterschied ist real,
+aber der Leser muss ihn sehen, bevor die Skepsis einsetzt.
+
+→ **Die Einleitung formuliert den Einwand selbst**, sinngemäß: *Ich bin 24. Ich
+habe kein Unternehmen mit zweihundert Mitarbeitern verkauft. Was ich habe, ist
+eine IT-Dienstleistung mit wiederkehrendem Umsatz, ein gescheiterter
+Dropshipping-Shop und hundert Geschäftsmodelle, die ich durchgerechnet habe.
+Wenn du ein Buch von jemandem willst, der es geschafft hat, leg es weg.*
+Dieselbe Logik wie beim Nicht-Versprechen, angewendet auf die Person.
+
+**Fürs Nachwort.** Eine Seite: IT-Dienstleistung als Hauptgeschäft,
+Eins-zu-eins-Calls als Angebot, für wen sie gedacht sind und für wen nicht.
+**Kein Preis, kein Link mit Aufforderung, kein Kursangebot.** Dass es keinen Kurs
+gibt, ist selbst das stärkste Argument — es unterscheidet ihn von genau der
+Szene, gegen die das Buch positioniert ist.
+
+**Korrektur an Abschnitt 1 dieser Datei.** Dort stand aus dem ersten Entwurf, der
+Autor habe „Leute eingestellt, die nicht gepasst haben". Das war eine Annahme und
+ist entfernt.
+
+**Konsequenz für Teil III, Kapitel 6 („Prozesse, Menschen, Delegation").** Über
+die erste Einstellung kann der Autor nicht aus eigener Erfahrung schreiben. Drei
+Möglichkeiten, Entscheidung offen:
+1. Kapitel kürzen und offen sagen, dass er dort selbst noch nicht war.
+2. Aus Praktikergesprächen speisen und als fremde Erfahrung kennzeichnen.
+3. **Empfehlung:** ersetzen durch „Wie du allein mehr schaffst, bevor du jemanden
+   einstellst" — Prozesse, Vorlagen, Automatisierung, Auslagerung an Freie. Für
+   einen zwanzigjährigen Leser ohnehin die relevantere Frage, und der Autor kann
+   sie aus eigener Praxis beantworten.
 
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
