@@ -40,6 +40,21 @@ Der Weg durch das Framework: Was verkauft man zuerst, was wird daraus, wo ist
 Schluss. Explizite Angabe von Einstiegsstufe, Zielstufe und Stufenabbruch. Wenn
 Software keinen Sinn ergibt, steht hier genau das — mit Begründung.
 
+*Pflichtprüfung vor jeder empfohlenen Stufe 5 (Software).* Software ist nie das
+Geschäftsmodell, sondern die Effizienzstufe eines bestehenden Geschäftsmodells.
+Sie wird nur empfohlen, wenn alle drei Punkte erfüllt sind:
+1. Das Problem wurde in der eigenen Dienstleistung oft genug selbst gelöst.
+2. Der Vertriebsweg existiert bereits — es gibt bestehende Kunden.
+3. **Interne Amortisation:** Die Software entlastet den eigenen Betrieb so
+   stark, dass sie sich auch dann rechnet, wenn kein einziger Fremdkunde sie
+   kauft.
+
+Fehlt einer der drei, steht im Kapitel ausdrücklich, dass die Dienstleistung das
+bessere Geschäft ist. Begründung dafür ist verpflichtend und nennt die beiden
+Kosten, die dabei verwechselt werden: Vibecoding hat die Herstellungskosten
+gegen null gedrückt, an Betrieb, Support, Sicherheit und Vertrieb aber nichts
+geändert.
+
 **6 — Die größten Herausforderungen** *(ca. 100 Wörter)*
 Drei bis sieben nummerierte Punkte, je ein bis zwei Sätze. Ungeschönt.
 

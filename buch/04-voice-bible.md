@@ -570,6 +570,50 @@ und das Netzwerk ist genau die Stichprobe, die nicht repräsentativ ist.
 dass es geht. Der dritte, den du vorher nicht kanntest, beweist, dass es
 wiederholbar ist.* Ab da ist es tatsächlich nur noch Durchführung.
 
+**G19 — Software: warum der Autor sie meistens nicht empfiehlt**
+Kernaussagen des Autors:
+
+- Technisch lässt sich heute alles als Software produktisieren.
+- Der Markt ist durch Vibecoding **massiv überflutet**. Ihn mit Marketing zu
+  durchdringen, kostet Beträge, die ein Einzelner nicht aufbringt.
+- Der Schritt vom Vibecoding-Prototyp zum **stabilen Softwareprodukt** —
+  ordentliche Nutzerverwaltung, greifende Security, getrennte Produktiv- und
+  Entwicklungsumgebungen — ist der Punkt, an dem man echte Entwickler braucht
+  und selbst zum Softwarehersteller wird. Das empfiehlt er generell nicht.
+- Zusätzlich: Das eigene Produkt kann von Unternehmen nachgebaut werden.
+
+→ Verwendung: Teil I, Kapitel 7, als tragende Position. Sie unterscheidet das
+Buch von der Ratgeberliteratur, die Software reflexhaft als Ziel setzt.
+
+**Schärfung für den Buchtext — zwei Kosten trennen.** Vibecoding hat die
+*Herstellungskosten* von Software gegen null gedrückt und die *Betriebs- und
+Vertriebskosten* nicht angefasst: Support, Sicherheit, Datenschutz, Ausfälle,
+Weiterentwicklung, Marketing. Genau deshalb ist der Markt überflutet und
+verdient kaum jemand Geld — alle können bauen, fast niemand kann betreiben und
+verkaufen. Die Aufzählung des Autors ist der Moment, in dem aus einem Prototyp
+ein Unternehmen mit Herstellerpflichten wird.
+
+**Das Nachbau-Argument begründet die Reihenfolge des Frameworks.** Ist Software
+allein nachbaubar, ist sie kein Burggraben. Es bleiben Zugang zur Nische, Daten,
+Prozesse, Kundenbeziehung. Daraus der Leitsatz über Stufe 5: **Software ist nie
+das Geschäftsmodell, sondern die Effizienzstufe eines bestehenden
+Geschäftsmodells.** Wer die Dienstleistung zuerst hat, besitzt Kunden, Daten und
+Zugang; die Software ist dann verteidigbar, weil der Nachbauer die anderen drei
+nicht mitkopiert. Wer mit der Software anfängt, besitzt ausgerechnet den Teil,
+der sich kopieren lässt.
+
+**Das Kriterium — vom Autor freigegeben.** Software lohnt sich, wenn drei Dinge
+zusammenkommen:
+1. Das Problem wurde in der eigenen Dienstleistung oft genug selbst gelöst.
+2. Der Vertriebsweg existiert bereits — es gibt bestehende Kunden.
+3. **Interne Amortisation:** Die Software entlastet den eigenen Betrieb so
+   stark, dass sie sich auch dann rechnet, wenn kein einziger Fremdkunde sie
+   kauft. Dann ist jeder externe Verkauf ein Bonus statt eine
+   Existenzbedingung.
+
+→ Umgesetzt als Pflichtprüfung in `03-kapitelvorlage-bewertungssystem.md`,
+Abschnitt 1, Element 5.
+
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
 Praxis darin wiedererkennt, bevor er die Kritik liest.
@@ -628,6 +672,12 @@ Praxis darin wiedererkennt, bevor er die Kritik liest.
   Durchführungsproblem.
   *(Im Buch auf den dritten fremden Kunden angehoben.)*
 - Lieber zu früh beenden als auf Kante leben.
+- Der Softwaremarkt ist durch Vibecoding überflutet. Sichtbar zu werden kostet
+  mehr, als der Bau je gekostet hat.
+- Wer ein stabiles Softwareprodukt betreiben will, wird Softwarehersteller —
+  mit allem, was daran hängt. Das ist selten der richtige Weg.
+- Software allein ist kein Burggraben, sie ist nachbaubar. Zugang, Daten und
+  Kundenbeziehung sind es.
 
 ### 5.4 Wörter und Formulierungen, die trotz Autorennähe nicht ins Buch gehen
 

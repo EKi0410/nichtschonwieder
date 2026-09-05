@@ -43,7 +43,7 @@ Status:     ARCHITEKTUR
 | Bewertungssystem | fertig, Skala gleichgerichtet |
 | Boxenkonzept | fertig |
 | Coaching-Integration | fertig, 22 Stellen |
-| Autorenstimme | Version 0.1, Material vom Autor fehlt |
+| Autorenstimme | Version 0.2 — Fragebogen läuft, 10 von 18 Fragen beantwortet, 19 Geschichten und 25 feste Meinungen erfasst |
 | Recherche-Backlog | angelegt |
 
 ## Noch offen
