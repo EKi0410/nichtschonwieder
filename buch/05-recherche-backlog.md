@@ -33,6 +33,11 @@ Geltungsbereich geprüft werden — insbesondere:
 - Betreiberpflichten bei Gewerbeimmobilien, Delegation und Haftung *(H71, H74)*
 - Anforderungen an Rückverfolgbarkeit und Auditstandards im
   Lebensmittelbereich *(D36, D40, E49)*
+- **Zulässigkeit von Kaltakquise in Deutschland** — Telefonwerbung gegenüber
+  Verbrauchern und gegenüber Unternehmen, außerdem E-Mail- und
+  LinkedIn-Erstkontakt. Diese Aussage trägt das gesamte Vertriebskapitel in
+  Teil III und die Argumentation in allen hundert Vertriebsboxen, deshalb mit
+  Fundstelle und Stand zu belegen *(Teil III Kapitel 5, G22)*
 
 **Marktzahlen.** Für jede Nische ist die Grundgesamtheit zu ermitteln: Wie viele
 Betriebe dieser Art gibt es im deutschsprachigen Raum? Ohne diese Zahl ist die

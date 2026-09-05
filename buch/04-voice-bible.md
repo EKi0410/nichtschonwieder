@@ -662,6 +662,60 @@ in Kategorie E aufnehmen. Ich würde es allerdings eher als Lehrbeispiel in
 Teil I belassen — dort wirkt es stärker, weil es unbelastet von Boxen und
 Bewertung ist.
 
+**G22 — Vertriebswege nach Einschätzung des Autors**
+
+**B2C:** Paid Ads funktionieren noch gut, insbesondere Meta — aber nur mit sehr
+guten Ad Creatives. **Influencer-Marketing hält er für unterschätzt.**
+
+**B2B:** Fast alles läuft über Netzwerke. Man muss die Leute kennen, in einem
+Kreis drin sein, über Empfehlungen arbeiten — und **Empfehlungen aktiv
+einfordern**, nicht auf sie warten. Wer noch keine Kunden hat, gewinnt die
+ersten über das private Umfeld; sind diese ersten Kunden selbst Unternehmer,
+fordert man sie auf, sich mit ihren Unternehmerkollegen über die Leistung
+auszutauschen.
+
+**Kaltakquise per Telefon:** in Deutschland tot beziehungsweise vernachlässigbar.
+
+→ „Empfehlungen aktiv einfordern" gehört als Standardelement in Teil III,
+Kapitel 5. Die meisten tun es nicht, und es kostet nichts.
+
+**Strukturelles Problem und seine Auflösung — wichtig für 70 Kapitel.**
+Bliebe es bei „B2B geht über Netzwerk", stünde in siebzig der hundert
+Vertriebsboxen derselbe Satz. Das wäre für den Leser wertlos und würde gegen die
+Anti-Monotonie-Regel verstoßen. Schwerer wiegt: Es kollidiert mit dem
+Nischenkonzept. Wer „Managed IT für Steuerkanzleien" starten soll, aber keinen
+Steuerberater kennt, hätte keinen Vertriebsweg.
+
+Auflösung, die die Position des Autors erhält und verallgemeinert: Was er
+beschreibt, ist **Vertrauensvertrieb**. Im deutschen Mittelstand kauft niemand
+vom Fremden, es braucht einen Vertrauensträger. Das private Netzwerk ist einer
+davon, aber nicht der einzige — und die anderen lassen sich aufbauen:
+
+- **Verbände, Innungen, Kammern, Erfa-Gruppen.** Genau die Struktur, über die
+  der Autor bei der Feuerwehr Zugang hat (G10). Wer keine Feuerwehrleute kennt,
+  geht in den Kreisfeuerwehrverband.
+- **Andere Dienstleister derselben Zielgruppe als Empfehlungspartner** —
+  Steuerberater, Systemhaus, Versicherungsmakler: haben Zugang und wollen selbst
+  nicht verkaufen, was man anbietet.
+- **Fachmedien und Fachveranstaltungen der Nische** — klein, unglamourös, aber
+  die Entscheider sind dort.
+- **Der Hersteller, dessen Produkt die Zielgruppe einsetzt** (Katalogmodell J99).
+
+→ **Buchregel:** *Wer kein Netzwerk hat, kauft sich nicht ein — er dockt an
+einem bestehenden Vertrauensträger an.* Wer dieser Träger ist, unterscheidet
+sich je Nische. Damit werden aus siebzig identischen Vertriebsboxen wieder
+siebzig verschiedene, und der Abschnitt „Mein erster Vertriebsweg" benennt in
+jedem Kapitel den konkreten Vertrauensträger dieser Nische.
+
+**Zur Kaltakquise — besseres Argument als „funktioniert nicht mehr".**
+Dass Kaltanrufe bei Verbrauchern in Deutschland ohne Einwilligung unzulässig
+sind und im B2B nur unter engen Voraussetzungen zulässig, ist keine Meinung,
+sondern Rechtslage. Damit wird aus der Einschätzung des Autors eine belastbare
+Aussage — und sie dreht das Vertriebskapitel: **Vertrauensvertrieb ist in
+Deutschland nicht die elegantere Wahl, sondern weitgehend die einzige zulässige.**
+Genauer Rechtsstand ist im Recherche-Backlog vermerkt und vor Drucklegung zu
+prüfen.
+
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
 Praxis darin wiedererkennt, bevor er die Kritik liest.
@@ -732,6 +786,10 @@ Praxis darin wiedererkennt, bevor er die Kritik liest.
   suchen. Das skaliert nicht.
 - Wer langlebige Produkte verkauft, sitzt auf seinem eigenen Markt: dem
   Bestand, den er selbst installiert hat.
+- Im deutschen B2B läuft fast alles über Netzwerk und Empfehlung.
+- Empfehlungen wartet man nicht ab, man fordert sie aktiv ein.
+- Influencer-Marketing im B2C ist unterschätzt.
+- Kaltakquise per Telefon ist in Deutschland tot.
 
 ### 5.4 Wörter und Formulierungen, die trotz Autorennähe nicht ins Buch gehen
 
