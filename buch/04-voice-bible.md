@@ -131,10 +131,51 @@ Beispiele, Meinungen, Erfahrungen, Zahlen aus der eigenen Praxis. Alles, was
 hier steht, hat Vorrang vor Abschnitt 3.*
 
 ### 5.1 Eigene Formulierungen
-*(noch keine)*
+
+Aus den Antworten wörtlich übernommen — so spricht der Autor, so soll das Buch
+an den persönlichen Stellen klingen:
+
+- „im Endeffekt" (als Einleitung der ehrlichen Bilanz)
+- „mehr oder weniger" (zur Kennzeichnung einer Schätzung)
+- „witzigerweise" (bei einem unerwarteten Ausgang)
+- „und da hab ich dann angefangen zu erkennen" (Einsicht als Prozess, nicht als
+  Geistesblitz — sehr guter Erzählmodus für Teil I)
+- Nennt Kunden konkret und unpathetisch: „von diesem Typen"
+
+Beobachtung zum Rhythmus: kurze, aneinandergereihte Hauptsätze, oft mit „und"
+verbunden. Erzählt in der Reihenfolge, in der es passiert ist, nicht in der
+Reihenfolge der Pointe. Keine Selbststilisierung — der Erfolg wird beiläufig
+erwähnt, nicht aufgebaut. Das ist der Ton, den das Buch braucht.
 
 ### 5.2 Eigene Geschichten und Projekte
-*(noch keine)*
+
+**G1 — Der Dropshipping-Shop und der Wechsel zur Dienstleistung**
+Erstes selbst verdientes Geld kam nicht über ein Angebot, sondern über einen
+Shopify-Shop mit Tierzubehör im Dropshipping. Der Ausstieg erfolgte nicht aus
+Überzeugung, sondern aus einem konkreten operativen Grund: **Cashflow war das
+große Problem.** Daraufhin bewusste Entscheidung für eine Dienstleistung.
+
+→ Verwendung: Teil I, Kapitel 4 („Die Dienstleistung als Einstieg"). Das ist das
+authentische Argument für den Einstieg über Dienstleistung — Kapitalbindung
+gegen Kapitalfreisetzung, nicht Ideologie. Auch nutzbar in Kategorie G
+(Handel/E-Commerce) als Warnung.
+
+**G2 — Das erste Angebot: Webseite mit Einrichtungsgebühr und 50-Euro-Retainer**
+Erstes echtes Angebot war eine Webseite. Bereits damals mit der Struktur:
+einmalige Einrichtungsgebühr plus **50 € monatlich** für Hosting und Wartung.
+Der Preis wurde geschätzt, nicht kalkuliert. Der Kunde sagte **sofort zu, ohne
+zu verhandeln**, und gab zusätzlich unaufgefordert eine gute Google-Bewertung.
+Der laufende Aufwand ist bis heute minimal, die 50 € kommen weiter — vermutlich
+so lange, wie es das Unternehmen des Kunden gibt.
+
+→ Verwendung: Teil I, Kapitel 6 („Wiederkehrender Umsatz") als Eröffnungsszene.
+Das Framework in Miniatur, bevor es einen Namen hatte. Zweitverwendung in
+Teil III, Kapitel 4 (Pricing): Die sofortige Zusage ohne Verhandlung ist im Buch
+ein **Warnsignal**, kein Erfolgssignal.
+
+**Wichtig für den Ton:** Diese Geschichte darf nicht als Erfolgsgeschichte
+erzählt werden. Sie funktioniert nur, wenn der Preis dabei ehrlich als geschätzt
+und wahrscheinlich zu niedrig eingeordnet wird.
 
 ### 5.3 Feste Meinungen des Autors
 *(noch keine)*
