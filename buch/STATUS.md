@@ -29,13 +29,13 @@ Status:     ARCHITEKTUR
 | Baustein | Status |
 |---|---|
 | Buchtitel und Untertitel | Vorschläge vorgelegt, Entscheidung offen |
-| Zielgruppe | fertig |
-| Buchversprechen | fertig |
-| Positionierung | fertig |
+| Zielgruppe | neu gefasst: 18–25 Jahre, Entscheidung des Autors |
+| Buchversprechen | neu gefasst: die Suche des Lesers beenden |
+| Positionierung | neu gefasst: Gegenbuch zum Finfluencer-Content |
 | Gesamtstruktur | fertig, auf Variante C angepasst |
 | Inhaltsverzeichnis | fertig |
 | Kategorien | fertig, 10 Stück |
-| 100 Geschäftsmodelle | fertig, vollständig gelistet, Rollen zugeteilt |
+| 100 Geschäftsmodelle | gelistet, Rollen zugeteilt — Startbarkeit für 18–25 offen, siehe Architektur Abschnitt 13 |
 | Reihenfolge | fertig, begründet |
 | Seitenplanung | fertig, ca. 483 Seiten |
 | Navigationsapparat | fertig konzipiert: Modellmatrix, drei Register, Querverweise |
@@ -43,7 +43,7 @@ Status:     ARCHITEKTUR
 | Bewertungssystem | fertig, Skala gleichgerichtet |
 | Boxenkonzept | fertig |
 | Coaching-Integration | fertig, 22 Stellen |
-| Autorenstimme | Version 0.2 — Fragebogen läuft, 10 von 18 Fragen beantwortet, 19 Geschichten und 25 feste Meinungen erfasst |
+| Autorenstimme | Version 0.3 — 14 von 18 Fragen beantwortet, 24 Geschichten erfasst |
 | Recherche-Backlog | angelegt |
 
 ## Noch offen

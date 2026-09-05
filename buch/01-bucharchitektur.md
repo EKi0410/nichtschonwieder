@@ -491,3 +491,61 @@ festgelegt wird, spart bei den übrigen achtzig jeweils eine Iteration.
    Leitmodelle plus Ende Teil I und Ende Teil III. Ausdrücklich **nicht** in
    allen hundert Kapiteln: bei dieser Buchlänge würde eine Überleitung in jedem
    Kapitel als Dauerwerbung gelesen.
+
+---
+
+## 13. Startbarkeit — die Folge der Zielgruppenentscheidung
+
+Die Zielgruppe 18–25 trifft auf einen Katalog, der ursprünglich für erfahrene
+Selbstständige zusammengestellt wurde. Das muss gelöst werden, sonst empfiehlt
+das Buch Modelle, die sein Leser nicht anfassen kann.
+
+**Grobe Einschätzung des Bestands:** Ungefähr 40 der 100 Modelle sind für einen
+Zwanzigjährigen realistisch startbar. Der Rest verlangt eines von vier Dingen,
+die man mit zwanzig in der Regel nicht hat:
+
+| Hürde | Beispiele aus dem Katalog |
+|---|---|
+| **Kapital** | H73, H75, H77, G61–G70, J97, J98 |
+| **Berufsqualifikation oder Zulassung** | A06, große Teile von E, D32 |
+| **Berufserfahrung in der Branche** | A08, A09, D31, D33, D39, D40, J91, J92 |
+| **Bestehende Kunden oder Autorität** | F56, F58, I90, J99, J100 |
+
+### Der Startbarkeits-Marker
+
+Jedes Modellkapitel bekommt in der Kopfzeile eine zusätzliche Angabe, die
+sichtbar macht, was man mitbringen muss:
+
+```
+STARTBAR MIT   unter 2.000 € · ohne Qualifikation · ohne Branchenerfahrung
+```
+
+beziehungsweise, wo das nicht zutrifft:
+
+```
+STARTBAR MIT   ab ca. 60.000 € · Meisterpflicht · 3–5 Jahre Branchenerfahrung
+```
+
+Damit sagt das Buch bei jedem Modell ehrlich, ob es jetzt oder später dran ist —
+und das ist keine Schwäche, sondern Teil der Lehre. Ein Modell, das man mit
+zwanzig nicht starten kann, ist trotzdem gutes Trainingsmaterial: Man lernt
+daran, warum Kapital, Zulassung oder Zugang überhaupt Wettbewerbsvorteile sind.
+
+Zusätzlich bekommt die Modellmatrix im Anhang eine Spalte „jetzt startbar", und
+das Register nach Kapitalbedarf wird um ein Register nach Startbarkeit ergänzt.
+
+### Entscheidungsbedarf: Umbau des Katalogs
+
+Der Marker allein reicht möglicherweise nicht. Drei Varianten stehen zur Wahl,
+Entscheidung des Autors:
+
+| Variante | Vorgehen | Konsequenz |
+|---|---|---|
+| **1 — nur Marker** | Alle 100 Modelle bleiben, jedes bekommt den Startbarkeits-Marker, kapitalarme Kategorien stehen vorn. | Kein Mehraufwand. Aber gut die Hälfte des Buches beschreibt Modelle, die der Leser jetzt nicht starten kann. |
+| **2 — Marker plus Teiltausch** *(Empfehlung)* | Zusätzlich werden die 15 am wenigsten erreichbaren Modelle gegen 15 ersetzt, die mit unter 2.000 € und ohne Qualifikation startbar sind. Ziel: rund 55 von 100 sofort startbar. | Überschaubarer Aufwand, deutlich besseres Verhältnis, Katalogbreite bleibt erhalten. |
+| **3 — Vollumbau** | Der Katalog wird auf die Zielgruppe neu aufgebaut, etwa 50 Modelle werden ersetzt. | Maximale Passgenauigkeit. Verliert einen Teil der wirtschaftlichen Bandbreite, die das Buch anspruchsvoll macht — und kostet den größten Teil der bisherigen Katalogarbeit. |
+
+Bei Variante 2 oder 3 gilt: Die Ersatzmodelle müssen denselben Anspruch
+erfüllen wie die bestehenden. Keine Nebenjob-Ideen, sondern Modelle mit
+benennbarem Kunden, echtem Problem und einem Weg zu wiederkehrendem Umsatz —
+nur eben ohne Kapital- und Qualifikationsschwelle.

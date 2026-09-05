@@ -757,6 +757,46 @@ Kündigungsgründe (G9). Bei 0 % beginnt jeder Monat bei null, bei 80 % ist es e
 anderes Unternehmen — bei identischem Umsatz. Diese Zahl sollte im Buch mehrfach
 wiederkehren und im Bewertungsbogen im Anhang stehen.
 
+**G24 — Für wen das Buch geschrieben ist**
+Wörtlich: „Ehrlich gesagt schreibe ich dieses Buch für mein achtzehnjähriges
+Ich."
+
+Was dieses achtzehnjährige Ich antreibt, in seinen Worten: nicht in einem
+Angestelltenverhältnis landen. Nicht für jemand anderen in dessen Namen dessen
+Traum aufbauen. Lieber etwas weniger verdienen als in einem Konzernjob, aber für
+sich etwas aufbauen — „ich habe Verantwortung übernommen, ich habe mein Ding
+durchgezogen, mein Name steht da drauf" — vielleicht sogar eine Familie, die man
+damit ernährt.
+
+Und die Hoffnung, die das Buch tragen soll: **den ständigen Gedankenkreislauf
+unterbrechen.** „Was ist die nächste Geschäftsidee? Ich muss was finden, was
+passt. Ich weiß aber nicht, ob es passt." Damit man endlich zur Ruhe kommt und
+in die Umsetzung geht.
+
+→ **Der erste Satz der Einleitung**, wörtlich. Kein anderer Autor kann diesen
+Einstieg kopieren.
+
+→ **Ersetzt das Buchversprechen.** Statt „du kannst ein Geschäftsmodell in einer
+Stunde durchdenken" lautet es jetzt: **Dieses Buch soll deine Suche beenden.**
+Der Kreislauf hört nicht auf, weil man die richtige Idee findet, sondern wenn
+man Ideen selbst beurteilen kann. Damit sind die hundert Modelle kein Katalog
+zum Stöbern, sondern Trainingsmaterial — man liest sie, bis man sie nicht mehr
+braucht.
+
+→ **Zielgruppenentscheidung des Autors: 18 bis 25.** Ausdrücklich kein Buch für
+Dreißigjährige. Umgesetzt in `01-bucharchitektur.md`, Abschnitte 3 bis 5 und 13.
+
+**Was daraus für den Ton folgt.** Der Leser hat keine kaufmännische Ausbildung
+und kein Branchenwissen. Jeder Fachbegriff wird beim ersten Auftreten in einem
+Satz erklärt, ohne Belehrungston. Kein Jugendjargon — die Zielgruppe erkennt
+Anbiederung sofort, und sie altert innerhalb eines Jahres.
+
+**Der Vorteil, den das Buch dieser Gruppe nennen muss und den kaum jemand
+nennt:** Ihr größter unternehmerischer Vorteil sind die niedrigen
+Lebenshaltungskosten. Mit zwanzig lebt man ein Jahr von 900 € im Monat und baut
+etwas auf, das lange braucht. Mit vierzig, Haus und Kindern nicht. Ein Argument,
+kein Motivationsspruch.
+
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
 Praxis darin wiedererkennt, bevor er die Kritik liest.
