@@ -151,6 +151,8 @@ an den persönlichen Stellen klingen:
 - „Outcome" — eines der wenigen englischen Wörter, die der Autor benutzt
 - „da steckt ein wahrer Kern dahinter" (positives Urteil)
 - „das Wort ist verbrannt"
+- „auf Kante leben" (für wirtschaftliche Enge)
+- „noch mal eine Schippe drauflegen" (für zusätzliches Risiko)
 - Denkt in Bildern und Vergleichen, wenn er etwas ablehnt — der Topf ohne
   Deckel ist das beste Beispiel. Solche Bilder sind im Buch zu erhalten und
   nicht zu glätten.
@@ -522,6 +524,52 @@ selbst ein Typ — haftungsscheu, regulierungsscheu, sucht Hebel ohne Köpfe. Da
 Kapitel kann ihn als eines von vier Profilen beschreiben, statt Typen zu
 erfinden.
 
+**G17 — Das Ende des Shops: „Ich hätte früher aufhören sollen"**
+Zum Beenden eines Geschäftsmodells: Zahlen im Blick behalten. Wenn es dauerhaft
+zu eng wird und kein Wachstum möglich ist, steht die Entscheidung an — noch
+einmal Risiko nehmen und hoffen, dass es trägt, oder rechtzeitig beenden.
+
+Selbsteinschätzung des Autors zum Dropshipping-Shop (siehe G1): **Er hätte
+früher aufhören sollen.** Er hat mit dem Shop „echt auf Kante gelebt".
+
+Harte Abbruchkriterien lehnt er ab. Er würde sich auf Zahlen *und* Bauchgefühl
+verlassen und im Voraus planen, etwa beim Lagerbestand.
+
+→ Verwendung: Teil III, Kapitel 8, als tragende Geschichte. Damit ist der Satz
+„Das Beenden eines Modells ist eine unternehmerische Leistung" nicht mehr
+wohlfeil, sondern belegt.
+
+**Der Widerspruch, der die Kapitelstelle stark macht.** Der Autor bereut, zu
+spät aufgehört zu haben — und lehnt genau das Instrument ab, das ihn davor
+bewahrt hätte. Ein Abbruchkriterium schreibt man auf, weil man weiß, dass man im
+Moment der Entscheidung nicht mehr nüchtern urteilt. „Auf Kante leben" ist der
+Zustand, in dem das Bauchgefühl systematisch falsch liegt: zu viel investiert,
+um jetzt aufzuhören.
+
+**Kompromissfassung fürs Buch — nimmt seinen Einwand gegen starre Regeln auf:**
+kein Abbruchkriterium, sondern ein **Überprüfungstermin**. Vorher
+aufgeschrieben: „Am 30. Juni setze ich mich mit den Zahlen hin. Wenn ich bis
+dahin nicht X Kunden, Y Deckungsbeitrag und Z Wiederkäufe habe, entscheide ich
+neu." Nicht automatisch Schluss, aber eine bewusste Entscheidung zu einem
+Zeitpunkt, der festgelegt wurde, als man noch klar denken konnte.
+
+**G18 — Konzeptproblem oder Durchführungsproblem**
+Feste Meinung des Autors: *„Sobald man einen ersten Kunden hatte, ist das
+Konzept bewiesen, und dann liegt es nur noch an der Durchführung selbst."*
+
+→ Die Unterscheidung ist wertvoll und gehört ins Buch, Teil III, Kapitel 2. Die
+Schwelle liegt allerdings zu niedrig und muss angehoben werden, sonst
+widerspricht das Kapitel dem Validierungsteil.
+
+Ein Kunde beweist, dass ein Mensch dafür zahlt. Er beweist nicht, ob man den
+zweiten ohne Zufall findet, ob der Preis trägt oder ob die Akquise
+wirtschaftlich ist. Der erste Kunde kommt fast immer aus dem eigenen Netzwerk —
+und das Netzwerk ist genau die Stichprobe, die nicht repräsentativ ist.
+
+**Buchfassung, die den Gedanken erhält und schärft:** *Der erste Kunde beweist,
+dass es geht. Der dritte, den du vorher nicht kanntest, beweist, dass es
+wiederholbar ist.* Ab da ist es tatsächlich nur noch Durchführung.
+
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
 Praxis darin wiedererkennt, bevor er die Kritik liest.
@@ -573,6 +621,13 @@ Praxis darin wiedererkennt, bevor er die Kritik liest.
 - Produkthaftung bei Medizin- und Kinderprodukten: nicht um jede Marge.
 - Umsatzwachstum über zusätzliche Mitarbeiter ist kein Gewinnwachstum,
   solange der Deckungsbeitrag je Kopf die zusätzlichen Fixkosten nicht deckt.
+- Harte Abbruchkriterien lehnt der Autor ab. Entschieden wird aus Zahlen und
+  Bauchgefühl zusammen, mit Vorlauf geplant.
+  *(Im Buch als Überprüfungstermin umgesetzt, nicht als starre Schwelle.)*
+- Wer einen zahlenden Kunden hat, hat kein Konzeptproblem mehr, sondern ein
+  Durchführungsproblem.
+  *(Im Buch auf den dritten fremden Kunden angehoben.)*
+- Lieber zu früh beenden als auf Kante leben.
 
 ### 5.4 Wörter und Formulierungen, die trotz Autorennähe nicht ins Buch gehen
 
