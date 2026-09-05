@@ -534,18 +534,27 @@ daran, warum Kapital, Zulassung oder Zugang überhaupt Wettbewerbsvorteile sind.
 Zusätzlich bekommt die Modellmatrix im Anhang eine Spalte „jetzt startbar", und
 das Register nach Kapitalbedarf wird um ein Register nach Startbarkeit ergänzt.
 
-### Entscheidungsbedarf: Umbau des Katalogs
+### Entscheidung des Autors: nur der Marker
 
-Der Marker allein reicht möglicherweise nicht. Drei Varianten stehen zur Wahl,
-Entscheidung des Autors:
+**Alle hundert Modelle bleiben unverändert.** Es wird kein Modell getauscht und
+keines gestrichen. Jedes Kapitel bekennt in der Kopfzeile, was man mitbringen
+muss — mehr nicht.
 
-| Variante | Vorgehen | Konsequenz |
-|---|---|---|
-| **1 — nur Marker** | Alle 100 Modelle bleiben, jedes bekommt den Startbarkeits-Marker, kapitalarme Kategorien stehen vorn. | Kein Mehraufwand. Aber gut die Hälfte des Buches beschreibt Modelle, die der Leser jetzt nicht starten kann. |
-| **2 — Marker plus Teiltausch** *(Empfehlung)* | Zusätzlich werden die 15 am wenigsten erreichbaren Modelle gegen 15 ersetzt, die mit unter 2.000 € und ohne Qualifikation startbar sind. Ziel: rund 55 von 100 sofort startbar. | Überschaubarer Aufwand, deutlich besseres Verhältnis, Katalogbreite bleibt erhalten. |
-| **3 — Vollumbau** | Der Katalog wird auf die Zielgruppe neu aufgebaut, etwa 50 Modelle werden ersetzt. | Maximale Passgenauigkeit. Verliert einen Teil der wirtschaftlichen Bandbreite, die das Buch anspruchsvoll macht — und kostet den größten Teil der bisherigen Katalogarbeit. |
+Das ist konsistent mit dem Buchversprechen: Wenn die hundert Modelle
+Trainingsmaterial sind und kein Menü zum Auswählen, dann ist ein Modell, das man
+mit zwanzig nicht starten kann, trotzdem lehrreich. Man lernt daran, warum
+Kapital, Zulassung und Branchenzugang überhaupt Wettbewerbsvorteile sind — und
+warum manche Märkte erst später erreichbar werden.
 
-Bei Variante 2 oder 3 gilt: Die Ersatzmodelle müssen denselben Anspruch
-erfüllen wie die bestehenden. Keine Nebenjob-Ideen, sondern Modelle mit
-benennbarem Kunden, echtem Problem und einem Weg zu wiederkehrendem Umsatz —
-nur eben ohne Kapital- und Qualifikationsschwelle.
+**Was daraus für den Text folgt:**
+
+1. Bei einem Modell mit hoher Einstiegshürde steht im Urteilsabsatz ausdrücklich,
+   dass es für die Hauptzielgruppe **heute nicht** infrage kommt — und was man in
+   der Zwischenzeit tun kann, um dorthin zu gelangen. Diese Brücke ersetzt den
+   Modelltausch.
+2. Die Kategorie-Einführungen sagen vorab, wie viele Modelle der Kategorie sofort
+   startbar sind. Der Leser weiß dann, was ihn erwartet, und liest die
+   kapitalintensiven Kapitel bewusst als Lehrmaterial.
+3. Die Modellmatrix im Anhang bekommt die Spalte „jetzt startbar" und ein
+   eigenes Register nach Startbarkeit. Wer nur die sofort startbaren Modelle
+   sucht, findet sie in einer Minute.

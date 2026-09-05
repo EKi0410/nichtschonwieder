@@ -22,6 +22,8 @@ Status:     ARCHITEKTUR
 | # | Punkt | Entscheidung |
 |---|---|---|
 | 1 | Tiefenstruktur | **Variante C** — alle 100 Modelle in voller Kapitelstruktur, Buchumfang ca. 480 Seiten |
+| 3 | Zielgruppe | **18 bis 25 Jahre.** Ausdrücklich kein Buch für Dreißigjährige. Buchversprechen und Positionierung entsprechend neu gefasst |
+| 4 | Katalog | **Keine Modelle tauschen.** Alle 100 bleiben; jedes Kapitel bekommt stattdessen einen Startbarkeits-Marker in der Kopfzeile |
 | 2 | Sterne-Skala | **Durchgehend positiv.** „Startkapital" → **Kapitalleichtigkeit**, „Wettbewerbsdruck" → **Wettbewerbsposition**, Rohwert jeweils in Klammern daneben |
 
 ## Phase 1 — Architektur
@@ -35,7 +37,7 @@ Status:     ARCHITEKTUR
 | Gesamtstruktur | fertig, auf Variante C angepasst |
 | Inhaltsverzeichnis | fertig |
 | Kategorien | fertig, 10 Stück |
-| 100 Geschäftsmodelle | gelistet, Rollen zugeteilt — Startbarkeit für 18–25 offen, siehe Architektur Abschnitt 13 |
+| 100 Geschäftsmodelle | fertig, unverändert. Startbarkeits-Marker je Kapitel statt Katalogumbau |
 | Reihenfolge | fertig, begründet |
 | Seitenplanung | fertig, ca. 483 Seiten |
 | Navigationsapparat | fertig konzipiert: Modellmatrix, drei Register, Querverweise |
