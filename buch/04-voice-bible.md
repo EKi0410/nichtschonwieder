@@ -251,6 +251,57 @@ verteidigt seine fachliche Autorität selbstverständlich und seinen Preis gar
 nicht. Der Autor kann das an sich selbst zeigen, statt es zu behaupten. Diese
 Stelle sollte im Buch ausdrücklich als Selbstbeobachtung stehen.
 
+**G6 — Fensterreinigung im Minijob, produktisiert von Anfang an**
+Bereits bei einer nebenberuflichen Fensterreinigung hat der Autor
+produktisiert: Aufteilung in drei Produkte (Fenster, Rahmenreinigung und
+weitere), ein Drei-Stufen-Angebot mit **Preisanker in der Mitte**, und darüber
+ein **Abomodell auf Credit-Basis**: Eine monatliche Gebühr stockt Credits auf,
+die gegen die einzelnen Pakete abgerufen werden.
+
+→ Verwendung: Teil I, Kapitel 5, als Eröffnung. Belegt den Satz, den das
+Kapitel braucht: **Produktisierung ist keine Frage der Unternehmensgröße,
+sondern eine Denkgewohnheit.** Ein Minijob ist das kleinstmögliche Beispiel und
+deshalb das überzeugendste.
+
+**Das Credit-Abo als übertragbarer Mechanismus.** Es löst das Kernproblem
+lokaler Dienstleistungen: Der Kunde braucht die Leistung nicht monatlich, ein
+Monatsabo wäre unehrlich. Credits machen aus unregelmäßigem Bedarf einen
+regelmäßigen Zahlungsstrom. Übertragbar auf große Teile der Kategorie E.
+
+**Die ehrliche Kehrseite, die ins selbe Kapitel gehört:** Credits sind eine
+Verbindlichkeit. Das Geld ist eingenommen und ausgegeben, die Leistung steht
+aus. Horten die Kunden und rufen im Frühjahr gleichzeitig ab, entsteht ein
+Kapazitätsproblem in genau der Woche mit der höchsten Nachfrage. Und wer
+Credits verfallen sieht, kündigt — nicht wegen schlechter Leistung, sondern
+weil er das Gefühl hat, für nichts gezahlt zu haben.
+
+**G7 — Was die Produktisierung geändert hat**
+Nach Aussage des Autors:
+- **Sonderwünsche verschwanden nicht, sie verschoben sich.** Sie kamen erst
+  nach der Buchung, im laufenden Betrieb — und waren dann preislich leicht
+  durchzusetzen.
+- **Weniger Verkaufsgespräche, höhere Abschlussquote.** Kunden sahen sofort
+  Preis, Umfang und Leistung. Viele sortierten sich dadurch selbst aus, was der
+  Autor ausdrücklich positiv bewertet.
+
+→ Verwendung: Teil I, Kapitel 5, als zentrale These. **Produktisierung
+beseitigt die Individualisierung nicht, sie verlagert sie vom Verkauf in den
+Betrieb — und damit vom Preisrisiko in den Upsell.** Vor der Buchung ist ein
+Sonderwunsch ein Preisrisiko, nach der Buchung ein Zusatzumsatz an einem
+bestehenden Kunden.
+
+→ Zweite These: **Preistransparenz ist Vorqualifizierung.** Weniger Gespräche
+bei höherer Quote ist kein Widerspruch, sondern die Wirkung.
+
+→ Verbindung zu G4: Der Autor verliert deshalb nie im Gespräch am Preis, weil
+die Preisentscheidung vor dem Gespräch fällt. Wer den Preis nicht zahlen will,
+meldet sich gar nicht. Diese Auflösung sollte im Pricing-Kapitel stehen — sie
+relativiert G4, ohne es zu entwerten.
+
+**Offen:** Für „höhere Abschlussquote" fehlen Zahlen. Vor Drucklegung entweder
+eine geschätzte Vorher-/Nachher-Größe vom Autor einholen und als Schätzung
+kennzeichnen, oder die Aussage qualitativ ohne Zahl formulieren.
+
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
 Praxis darin wiedererkennt, bevor er die Kritik liest.
@@ -273,6 +324,13 @@ Praxis darin wiedererkennt, bevor er die Kritik liest.
   wert.
 - Eine Garantie ist ein Verhandlungsinstrument, kein Marketingversprechen: Sie
   gilt für den Standardweg und entfällt beim Sonderweg.
+- Produktisieren, sobald es etwas zu verkaufen gibt — nicht erst ab einer
+  bestimmten Unternehmensgröße.
+- Dass Preistransparenz Interessenten aussortiert, ist ein Vorteil, kein
+  Verlust.
+- Ein Abo muss zum Bedarfsrhythmus des Kunden passen. Wo der Bedarf
+  unregelmäßig ist, zahlt der Kunde auf ein Guthaben ein, statt für eine
+  Leistung zu zahlen, die er nicht braucht.
 
 ### 5.4 Wörter, die der Autor nicht benutzt
 *(noch keine)*
