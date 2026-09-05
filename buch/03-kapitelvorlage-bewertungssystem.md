@@ -210,6 +210,15 @@ Differenzierung · ★★★ Differenzierung möglich, aber angreifbar · ★★
 ernsthafte Wettbewerber in der Nische, spürbare Wechselkosten · ★★★★★ Position
 schwer angreifbar durch Spezialisierung, Daten oder Zulassung
 
+*Zum Wettbewerbsbegriff:* **Der Kunde selbst zählt als Wettbewerber.** Wo er die
+Leistung ohne Qualifikation, Zulassung oder Spezialausrüstung wieder
+selbst übernehmen kann, ist die Position nach oben gedeckelt — unabhängig davon,
+wie gut man arbeitet. Bei solchen Modellen sind mehr als drei Sterne nur
+begründbar, wenn ein Faktor das Insourcing ernsthaft erschwert: Haftung, eine
+Prüfpflicht, Spezialgerät, Termindruck oder schlicht, dass die Arbeit unangenehm
+ist. Betrifft insbesondere große Teile der Kategorie E und alle einfachen
+Dienstleistungen.
+
 ### 3.4 Das Gesamturteil
 
 Rechenweg: gewichteter Durchschnitt der acht Sterne-Werte, mal zwei, ergibt

@@ -328,19 +328,44 @@ eine Wartung funktioniert, desto weniger merkt der Kunde davon.** Kein Ausfall
 fühlt sich an wie keine Leistung — deshalb kündigen Kunden funktionierende
 Verträge. Sichtbare Betreuung ist die Gegenmaßnahme, und sie kostet fast nichts.
 
-**Einschränkung, die im Buch stehen muss.** Die Kundenzahl und die Laufzeit sind
-klein. „Noch keiner gekündigt" ist damit keine belastbare Aussage über die
-Wirksamkeit der Methode. Wird das im Buch als Beleg verkauft, ist es genau das
+**Einschränkung, die im Buch stehen muss.** Kundenzahl und Laufzeit sind klein.
+Die niedrige Kündigungsquote ist deshalb ein Hinweis, kein Beweis für die
+Wirksamkeit der Methode. Im Buch als Beleg verkauft wäre sie genau das
 unbelegte Erfolgsversprechen, das die redaktionellen Leitlinien ausschließen.
 
-**Vorschlag zur Lösung — noch nicht entschieden.** Teil I, Kapitel 6 wird
-umgedreht: Es führt die beiden Bedingungen als Konstruktionsregeln ein, unter
-denen beim Autor bisher niemand gekündigt hat — ausdrücklich als kleine
-Stichprobe und ohne Beweisanspruch. Die Kündigungsfälle, die das Kapitel
-trotzdem braucht, kommen aus den Praktikergesprächen aus
-`05-recherche-backlog.md` und werden als fremde Erfahrung gekennzeichnet. Die
-These „Churn ist ein Produktproblem, kein Vertriebsproblem" bleibt damit
-stehen, stützt sich aber nicht auf eine Erfahrung, die sie nicht tragen kann.
+**G9 — Die drei Kündigungsgründe, die der Autor tatsächlich erlebt hat**
+Ergänzung des Autors zu G8: Es wird sehr wohl gekündigt. Die Gründe zerfallen in
+drei Typen, die im Buch getrennt behandelt werden müssen, weil sie
+unterschiedliche Gegenmaßnahmen verlangen.
+
+**Typ 1 — Nutzenzweifel.** *„Ich brauche keine Webseite mehr"*, *„ich habe nicht
+spürbar mehr Kundenanfragen."* Das ist kein Wertproblem, sondern ein
+**Zurechnungsproblem**: Die Leistung wirkt womöglich, aber der Kunde kann es
+nicht sehen.
+→ Gegenmaßnahme und Regel für das ganze Buch: **Wer wiederkehrend abrechnet,
+muss wiederkehrend berichten.** Ein monatlicher Dreizeiler mit Zahlen —
+Besucher, Anfragen, Ausfallzeit — kostet fast nichts und verwandelt „ich glaube,
+es bringt nichts" in ein überprüfbares Gespräch. Das ergänzt G8: Der Autor
+meldet sich bereits, es fehlen nur die Zahlen darin.
+
+**Typ 2 — Substitution.** Günstigerer Anbieter gefunden, oder aktiv abgeworben.
+→ Differenzierungsproblem. Gegenmaßnahme sind Wechselkosten: Daten, Prozesse,
+Zuständigkeiten, die beim Wechsel verloren gehen.
+
+**Typ 3 — Insourcing.** *„Ich mache es doch lieber wieder selbst, weil ich Geld
+sparen möchte."* Bei der Fensterreinigung der häufigste Fall.
+→ Der wichtigste der drei, weil er sich nicht wegbetreuen lässt. **Bei einfachen
+Dienstleistungen ist der Kunde selbst der stärkste Wettbewerber.** Das ist ein
+Strukturmerkmal des Geschäftsmodells, kein Betreuungsfehler, und es deckelt die
+erreichbare Kundenbindung unabhängig von der Qualität der Arbeit.
+
+→ Verwendung: Teil I, Kapitel 6 bekommt diese Dreiteilung als Gerüst. Damit
+trägt das Kapitel vollständig aus eigener Erfahrung; fremdes Material aus den
+Praktikergesprächen wird dafür nicht mehr benötigt.
+
+→ Konsequenz für das Bewertungssystem: Die Sterne-Dimension
+**Wettbewerbsposition** muss den Kunden selbst als möglichen Wettbewerber
+mitdenken. Umgesetzt in `03-kapitelvorlage-bewertungssystem.md`, Abschnitt 3.3.
 
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
@@ -374,6 +399,10 @@ Praxis darin wiedererkennt, bevor er die Kritik liest.
 - Hinter einem Abo muss ein Gegenwert stehen, den der Kunde benennen kann.
 - Betreuung, die niemand bemerkt, wird gekündigt. Man muss sich von sich aus
   melden, auch wenn es nichts zu melden gibt.
+- Kunden kündigen, wenn sie den Wert nicht mehr erkennen — nicht unbedingt,
+  wenn er nicht mehr da ist. Das ist ein Unterschied.
+- Bei einfachen Dienstleistungen ist der Kunde selbst der gefährlichste
+  Wettbewerber.
 
 ### 5.4 Wörter, die der Autor nicht benutzt
 *(noch keine)*
