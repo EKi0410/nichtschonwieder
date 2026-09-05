@@ -367,6 +367,61 @@ Praktikergesprächen wird dafür nicht mehr benötigt.
 **Wettbewerbsposition** muss den Kunden selbst als möglichen Wettbewerber
 mitdenken. Umgesetzt in `03-kapitelvorlage-bewertungssystem.md`, Abschnitt 3.3.
 
+**G10 — Die Nische aus dem eigenen Umfeld: Feuerwehr**
+Gegen den Ratschlag „such dir eine Nische, wenn du läufst": Die Nische gehört an
+den Anfang, und zwar dort, wo man bereits Berührungspunkte hat — hobbymäßig,
+beruflich, über Leute, die man kennt. Beispiel des Autors: **IT und
+Alarmierungssoftware für Feuerwehren.**
+
+→ Verwendung: Teil I, Kapitel 3, als durchgehendes Beispiel. Die Feuerwehr ist
+ein Musterfall für den Punkt, den das Kapitel machen muss: geschlossene Welt,
+Vertrauensmarkt, Verbandsstruktur. Ein Außenstehender braucht Jahre, ein
+Insider ein Telefonat.
+
+**Redaktioneller Hinweis — wichtig.** Der Autor begründet das mit „was einem
+Spaß macht". Diese Formulierung darf so nicht ins Buch: Sie steht sinngemäß auf
+der Verbotsliste in Abschnitt 4 und ist der Satz, den jeder Gründerratgeber
+schreibt. Die tragfähige Begründung liegt in seinen anderen Worten —
+**Berührungspunkte, man kennt Leute** — und lautet ausformuliert: Die eigene
+Nische ist nicht die, die man mag, sondern die, zu der man **Zugang und
+Glaubwürdigkeit** hat. Man kennt die Entscheider, spricht die Sprache und weiß,
+wo entschieden wird. Spaß ist der angenehme Nebeneffekt, nicht das Kriterium.
+
+**Vorschlag, noch nicht umgesetzt:** „Alarmierungs- und IT-Betreuung für
+Freiwillige Feuerwehren und kommunale Gefahrenabwehr" als eigenes Modell in den
+Katalog aufnehmen — entweder als 101. Modell oder als Ersatz für B20 (IT für
+Kita- und Schulträger), das dieselbe Struktur mit weniger Substanz abbildet. Es
+wäre das einzige Modell im Buch, zu dem der Autor eigenen Marktzugang hat, und
+könnte deshalb mit echten Zahlen statt mit Annahmen arbeiten.
+
+**G11 — Kein Businessplan vorab**
+Der Autor hält einen Businessplan vor dem Start für verzichtbar. Es reiche, sich
+kritisch mit jemandem auseinanderzusetzen, der widerspricht.
+
+→ Verwendung: Teil III, Kapitel 2 (Validierung). Mit einer Ergänzung, ohne die
+die Aussage im Buch nicht trägt: Wenn der Businessplan wegfällt, muss das
+kritische Gespräch etwas Konkretes hervorbringen — **Preis, erster Kanal,
+Abbruchkriterium.** Sonst ist es kein Ersatz, sondern nur weniger Arbeit.
+
+→ Der Autor nennt in diesem Zusammenhang sich selbst als Coach. Das bleibt im
+Buch draußen; siehe `03-kapitelvorlage-bewertungssystem.md`, Abschnitt 6:
+Coaching wirkt implizit oder gar nicht.
+
+**G12 — Als Anfänger über den Preis gehen**
+Feste Meinung des Autors: Ohne Referenzen kann man nicht mit einem hohen Preis
+einsteigen. Man geht über den Preis und steigert ihn danach.
+
+→ Verwendung: Teil III, Kapitel 4, gemeinsam mit G3 und G4. Die drei ergeben
+zusammen die ehrliche Fassung: **Der niedrige Einstiegspreis ist richtig.
+Gefährlich ist, dass er zum Dauerpreis wird.** Der Autor ist dafür der Beleg,
+nicht das Gegenbeispiel — seine Erhöhung um 5 € mit kompensierendem
+Gratis-Update zeigt, wie schwer der Ausstieg aus dem Einstiegspreis fällt.
+
+→ Daraus das Werkzeug des Kapitels: **Den Ausstieg aus dem Einstiegspreis vorher
+festlegen.** Nach einer definierten Zahl von Referenzkunden geht der Preis auf
+einen vorher aufgeschriebenen Wert. Schriftlich, für einen selbst, bevor der
+erste Kunde da ist.
+
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
 Praxis darin wiedererkennt, bevor er die Kritik liest.
@@ -403,9 +458,24 @@ Praxis darin wiedererkennt, bevor er die Kritik liest.
   wenn er nicht mehr da ist. Das ist ein Unterschied.
 - Bei einfachen Dienstleistungen ist der Kunde selbst der gefährlichste
   Wettbewerber.
+- Die Nische gehört an den Anfang, nicht ans Ende. Und sie kommt aus dem
+  eigenen Umfeld: dort, wo man bereits Berührungspunkte und Kontakte hat.
+- Einen Businessplan braucht man vor dem Start nicht. Man braucht jemanden,
+  der einem widerspricht.
+- Ohne Referenzen kommt man mit einem hohen Preis nicht in den Markt. Also
+  geht man über den Preis — und steigert ihn danach.
 
-### 5.4 Wörter, die der Autor nicht benutzt
-*(noch keine)*
+### 5.4 Wörter und Formulierungen, die trotz Autorennähe nicht ins Buch gehen
+
+Der Autor verwendet sie im Gespräch, im Buch würden sie als Floskel gelesen und
+den Glaubwürdigkeitsgewinn der übrigen Passagen aufzehren. Sie werden durch
+seine eigene, stärkere Begründung ersetzt:
+
+- „was einem Spaß macht" als Auswahlkriterium für eine Nische
+  → ersetzt durch: Zugang, Kontakte, Glaubwürdigkeit
+- Selbstnennung als Coach im Fließtext („frag einen Coach, mich zum Beispiel")
+  → das Coaching wirkt implizit oder gar nicht, siehe Abschnitt 6 der
+  Kapitelvorlage
 
 ---
 
