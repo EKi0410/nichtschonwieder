@@ -614,6 +614,54 @@ zusammenkommen:
 → Umgesetzt als Pflichtprüfung in `03-kapitelvorlage-bewertungssystem.md`,
 Abschnitt 1, Element 5.
 
+**G20 — Die erste Frage des Autors**
+Wörtlich: *„Wie möchtest du das vertreiben, und zu welchem Preis, in welchem
+Abrechnungsmodell? Was ist dein Retainer oder Upsell-Produkt?"*
+
+Dahinter die Überzeugung: Ein Unternehmen lässt sich nicht groß aufbauen mit
+Produkten, die sich nur einmal verkaufen und danach einen neuen Kunden
+erfordern.
+
+→ **Entscheidet die Reihenfolge der zwanzig Fragen in Teil I, Kapitel 1.** Der
+Autor fragt zuerst nach Vertrieb und Abrechnung, nicht nach dem Problem. Das
+Problem ist die Eintrittskarte, der Vertrieb ist die Prüfung. Diese Reihenfolge
+ist untypisch für Gründerliteratur und deshalb ein Unterscheidungsmerkmal des
+Buches. Sie deckt sich mit dem Bewertungssystem, in dem Vertrieb mit 20 % das
+höchste Gewicht trägt.
+
+**Ergänzung für den Buchtext.** Die Frage lässt sich plausibel beantworten, ohne
+dass etwas dahintersteckt — „LinkedIn, 500 € im Monat" sagt sich schnell. Die
+Nachfrage, die sie echt macht: **„Wen genau rufst du am Montag an, und woher
+hast du die Liste?"** Einen Kanal zu benennen ist gratis, zehn Namen zu benennen
+nicht. Gehört als Standardnachfrage in Teil I, Kapitel 1 und in Teil III,
+Kapitel 5.
+
+**G21 — Der Poolbauer**
+Beispiel des Autors: Einen Pool kauft man einmal im Leben. Ein Poolbauer muss
+über die gesamte Lebensdauer seiner Firma immer neue Kunden finden. Die Antwort
+darauf: **monatliche Poolwartung im Abo.**
+
+→ Verwendung: Teil I, Kapitel 6, als Eröffnungsbeispiel. Es erklärt das Prinzip
+schneller und anschaulicher als jedes Modell aus dem Katalog — hohes
+Einmalticket, danach ist der Kunde weg, bis man merkt, dass die Wartung das
+eigentliche Geschäft ist.
+
+**Der übertragbare Mechanismus, den das Beispiel sichtbar macht:** Wer etwas
+Langlebiges verkauft, baut sich einen Bestand auf — und **der Bestand ist der
+eigentliche Markt.** Ein Poolbauer hat nach zehn Jahren vierhundert Pools in
+seiner Region gebaut. Das ist eine Kundenliste, an die kein Wettbewerber
+herankommt, jeder dieser Pools braucht jährlich Wartung, und der Vertrieb dafür
+ist längst bezahlt. **Die Installationsbasis ist ein Vertriebskanal, den man
+bereits besitzt und meistens ignoriert.**
+
+→ Als wiederkehrender Mechanismus in den Kategorien E, G und H zu verwenden,
+überall dort, wo ein langlebiges Produkt oder eine Anlage verkauft wird.
+
+**Vorschlag, noch nicht umgesetzt:** „Poolwartung im Abo" zusätzlich als Modell
+in Kategorie E aufnehmen. Ich würde es allerdings eher als Lehrbeispiel in
+Teil I belassen — dort wirkt es stärker, weil es unbelastet von Boxen und
+Bewertung ist.
+
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
 Praxis darin wiedererkennt, bevor er die Kritik liest.
@@ -678,6 +726,12 @@ Praxis darin wiedererkennt, bevor er die Kritik liest.
   mit allem, was daran hängt. Das ist selten der richtige Weg.
 - Software allein ist kein Burggraben, sie ist nachbaubar. Zugang, Daten und
   Kundenbeziehung sind es.
+- Die erste Frage an jede Idee ist die nach Vertrieb, Preis und
+  Abrechnungsmodell — nicht die nach dem Problem.
+- Ein Unternehmen, das nur Einmalverkäufe kennt, muss lebenslang neue Kunden
+  suchen. Das skaliert nicht.
+- Wer langlebige Produkte verkauft, sitzt auf seinem eigenen Markt: dem
+  Bestand, den er selbst installiert hat.
 
 ### 5.4 Wörter und Formulierungen, die trotz Autorennähe nicht ins Buch gehen
 
