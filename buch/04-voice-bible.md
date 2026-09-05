@@ -114,6 +114,10 @@ Zusammenfassend lässt sich sagen · Es ist wichtig zu beachten, dass ·
 Lass uns eintauchen · In diesem Kapitel werden wir betrachten ·
 Doch damit nicht genug · Aber Vorsicht: · nicht nur … sondern auch
 
+**Abgeschwächte Kraftausdrücke**
+Mist · verflixt · Blödsinn · Quatsch mit Soße · Mumpitz — halbherziges Fluchen
+wirkt bei 18–25 wie Anbiederung. Entweder richtig oder gar nicht, siehe G26.
+
 **Strukturelle Verbote**
 - Kein Kapitel beginnt mit der Ankündigung, was im Kapitel steht.
 - Kein Kapitel endet mit einer Zusammenfassung des Kapitels.
@@ -796,6 +800,64 @@ nennt:** Ihr größter unternehmerischer Vorteil sind die niedrigen
 Lebenshaltungskosten. Mit zwanzig lebt man ein Jahr von 900 € im Monat und baut
 etwas auf, das lange braucht. Mit vierzig, Haus und Kindern nicht. Ein Argument,
 kein Motivationsspruch.
+
+**G25 — Vorbilder und Anti-Vorbilder im Ton**
+
+**Gefällt ihm:** Wirtschaftliche Inhalte, insbesondere **Hoss & Hopf** — auch
+und gerade wegen der teils kontroversen Ansichten. Außerdem **Ben Ungeskriptet**,
+vor allem die Podcastfolgen mit Gästen.
+
+**Schaltet sofort ab bei:** Selbstdarstellung. Wörtlich: „man sitzt im Porsche,
+verkauft irgendeinen Kurs oder so was."
+
+→ Das Anti-Vorbild deckt sich exakt mit der Positionierung des Buches als
+Gegenbuch zum Finfluencer-Content. Damit hat die Regel gegen Werbung im Buch
+einen persönlichen statt eines redaktionellen Grundes.
+
+**Harte Regel daraus: kein Statussymbol im ganzen Buch.** Kein Auto, keine
+Umsatzscreenshots, kein „so viel verdiene ich". Die echten Geschichten des Autors
+sind ohnehin das Gegenteil davon — 50 € im Monat für eine Webseite,
+Fensterreinigung im Minijob, ein Shop, der nicht funktioniert hat. Das ist
+glaubwürdiger als jedes Erfolgsfoto und der eigentliche Grund, warum die
+Zielgruppe zuhört.
+
+**Zum Kontroversen:** Der Autor schätzt Positionen, die anecken. Das deckt sich
+mit dem Auftrag, gelegentlich zu provozieren — mit einer Bedingung:
+**Kontrovers funktioniert nur mit Rechnung dahinter.** Eine steile These ohne
+Begründung ist genau der Kursverkäufer-Ton. Eine steile These mit einer
+Kalkulation darunter ist der Unterschied.
+
+**G26 — Sprachregeln des Autors**
+
+**Fachbegriffe.** Dürfen und sollen benutzt werden, aber nicht als
+Floskelgewitter — nicht „nur KPI und ROI und sonst irgendwas". Der Anspruch des
+Autors: Der Leser soll merken, dass hier jemand Ahnung hat, es aber ohne
+BWL-Studium verstehen.
+
+→ Präzisierung der bisherigen Regel, die zu weich war: **Fachbegriffe werden
+benutzt, nicht vermieden — und beim ersten Mal in einem Halbsatz erklärt.** Ein
+Buch, das seiner Zielgruppe die Wörter wegnimmt, behandelt sie wie Kinder. Ein
+Buch, das sie ihr beibringt, macht sie satisfaktionsfähig. Nach der Lektüre soll
+der Leser mit einem Steuerberater über Deckungsbeitrag reden können.
+
+→ Was nicht geht: KPI, ROI und Synergie in einem Absatz, ohne dass je eine Zahl
+auftaucht.
+
+**Anrede.** Duzen, ausdrücklich und durchgehend.
+
+**Kraftausdrücke.** Ausdrücklich erlaubt und erwünscht, weil authentisch — aber
+nur richtig. **Nicht** „Mist" oder Vergleichbares: Das wirkt nach Einschätzung
+des Autors „boomermäßig". Wenn, dann „das ist einfach Kacke", „Scheiße" oder
+schlicht „schlecht".
+
+→ Regel dazu, ergänzt: **Halbherziges Fluchen ist schlimmer als gar keins.**
+Abgeschwächte Kraftausdrücke klingen nach einem Erwachsenen, der cool sein will,
+und die Zielgruppe hört das sofort.
+
+→ Rationierung, damit es wirkt: **rund 20 Stellen im ganzen Buch, nie in einer
+Box und nie in einer Bewertung.** Ein hartes Wort wirkt durch Seltenheit; auf
+jeder Seite ist es Dekoration und wird überlesen. Es steht nur dort, wo
+tatsächlich ein Urteil dahintersteht, nie als Stilmittel.
 
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
