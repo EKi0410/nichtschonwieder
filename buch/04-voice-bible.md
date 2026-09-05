@@ -149,7 +149,12 @@ an den persönlichen Stellen klingen:
 - „Ich verstehe die Anmerkung. Ich kann aber aus meiner Erfahrung sagen …"
   (Standardeinstieg beim Widerspruch: erst anerkennen, dann widersprechen)
 - „Outcome" — eines der wenigen englischen Wörter, die der Autor benutzt
-- Siezt Kunden
+- Siezt Geschäftskunden, duzt kleinere Privatkunden — der Wechsel erfolgt nach
+  Kundentyp, nicht nach Laune
+- „Man hatte halt immer was dahinterstehen an Wert."
+- „Ich kümmer mich um dich. Ich seh, wenn was ist, sag gerne Bescheid."
+- „halt" als Füllwort im gesprochenen Duktus — im Buch nur dort stehen lassen,
+  wo eine Passage bewusst gesprochen klingen soll
 
 Beobachtung zum Rhythmus: kurze, aneinandergereihte Hauptsätze, oft mit „und"
 verbunden. Erzählt in der Reihenfolge, in der es passiert ist, nicht in der
@@ -302,6 +307,41 @@ relativiert G4, ohne es zu entwerten.
 eine geschätzte Vorher-/Nachher-Größe vom Autor einholen und als Schätzung
 kennzeichnen, oder die Aussage qualitativ ohne Zahl formulieren.
 
+**G8 — Bisher keine einzige Kündigung**
+Bei keinem Abomodell des Autors hat bisher jemand gekündigt. Seine eigene
+Erklärung dafür, in zwei Punkten:
+
+1. **Hinter jedem Abo stand ein benennbarer Gegenwert.** Bei der Webseite:
+   Hosting, Support und die angeschlossene E-Mail-Domain. Bei der
+   Fensterreinigung: die zwei bis drei Reinigungen im Zeitraum. „Man hatte halt
+   immer was dahinterstehen an Wert."
+2. **Sichtbare Betreuung.** Sich von sich aus melden: *„Hast du etwas? Ich
+   kümmere mich um dich. Ich sehe, wenn was ist, sag gerne Bescheid."* Damit die
+   Leute wissen, dass es Sinn ergibt, dafür zu zahlen.
+
+→ Verwendung, Teil I, Kapitel 6. Daraus wird der zentrale Test des Kapitels:
+**Kann der Kunde in einem Satz sagen, wofür er jeden Monat zahlt?** Kann er es
+nicht, ist es kein Abo, sondern eine Ratenzahlung mit hübschem Namen.
+
+→ Der zweite Punkt löst ein Paradox, das im Kapitel benannt gehört: **Je besser
+eine Wartung funktioniert, desto weniger merkt der Kunde davon.** Kein Ausfall
+fühlt sich an wie keine Leistung — deshalb kündigen Kunden funktionierende
+Verträge. Sichtbare Betreuung ist die Gegenmaßnahme, und sie kostet fast nichts.
+
+**Einschränkung, die im Buch stehen muss.** Die Kundenzahl und die Laufzeit sind
+klein. „Noch keiner gekündigt" ist damit keine belastbare Aussage über die
+Wirksamkeit der Methode. Wird das im Buch als Beleg verkauft, ist es genau das
+unbelegte Erfolgsversprechen, das die redaktionellen Leitlinien ausschließen.
+
+**Vorschlag zur Lösung — noch nicht entschieden.** Teil I, Kapitel 6 wird
+umgedreht: Es führt die beiden Bedingungen als Konstruktionsregeln ein, unter
+denen beim Autor bisher niemand gekündigt hat — ausdrücklich als kleine
+Stichprobe und ohne Beweisanspruch. Die Kündigungsfälle, die das Kapitel
+trotzdem braucht, kommen aus den Praktikergesprächen aus
+`05-recherche-backlog.md` und werden als fremde Erfahrung gekennzeichnet. Die
+These „Churn ist ein Produktproblem, kein Vertriebsproblem" bleibt damit
+stehen, stützt sich aber nicht auf eine Erfahrung, die sie nicht tragen kann.
+
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
 Praxis darin wiedererkennt, bevor er die Kritik liest.
@@ -331,6 +371,9 @@ Praxis darin wiedererkennt, bevor er die Kritik liest.
 - Ein Abo muss zum Bedarfsrhythmus des Kunden passen. Wo der Bedarf
   unregelmäßig ist, zahlt der Kunde auf ein Guthaben ein, statt für eine
   Leistung zu zahlen, die er nicht braucht.
+- Hinter einem Abo muss ein Gegenwert stehen, den der Kunde benennen kann.
+- Betreuung, die niemand bemerkt, wird gekündigt. Man muss sich von sich aus
+  melden, auch wenn es nichts zu melden gibt.
 
 ### 5.4 Wörter, die der Autor nicht benutzt
 *(noch keine)*
