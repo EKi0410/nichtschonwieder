@@ -46,49 +46,78 @@ deshalb nicht nehmen, obwohl er sich am besten verkaufen würde.
 
 ## 3. Zielgruppe
 
-### Primäre Zielgruppe
+**Entscheidung des Autors: 18 bis 25 Jahre.** Das Buch ist ausdrücklich nicht
+für Dreißigjährige geschrieben.
 
-**Der bereits selbstständige Praktiker, der gemerkt hat, dass er sich selbst
-verkauft hat.** Typischerweise 30–55 Jahre, zwischen 80.000 € und 1,5 Mio. €
-Jahresumsatz, ein bis fünfzehn Mitarbeiter. IT-Dienstleister, Handwerksmeister,
-Berater, Agenturinhaber, Ingenieurbüro, Kanzlei. Er verdient ordentlich, aber
-jeder Euro Umsatz kostet ihn eine Stunde Lebenszeit. Er sucht keine neue Idee.
-Er sucht eine andere Struktur für das, was er ohnehin schon tut.
+### Der Adressat
 
-Das ist die wichtigste Gruppe, weil sie zahlungsfähig ist, das Buch versteht
-und für Coaching der natürliche Anschluss ist.
+Der Autor schreibt es für sein eigenes achtzehnjähriges Ich. Dieser Satz steht
+wörtlich als erster Satz der Einleitung.
+
+Konkret: 18 bis 25, Schüler kurz vor dem Abschluss, Auszubildende, Studenten,
+Berufseinsteiger. Vielleicht ein erstes Kleingewerbe nebenbei. Kein Kapital,
+kein Netzwerk, keine Referenzen — dafür Zeit, Risikotoleranz und keine
+Verpflichtungen.
+
+Was ihn antreibt, in seinen eigenen Worten: nicht in einem Angestelltenverhältnis
+landen. Nicht in fremdem Namen den Traum eines anderen aufbauen. Lieber weniger
+verdienen als im Konzernjob, aber etwas Eigenes, bei dem der eigene Name
+draufsteht und für das man die Verantwortung getragen hat.
+
+Und das Problem, das ihn festhält: **die Ideenschleife.** „Was ist die nächste
+Geschäftsidee? Ich muss was finden, was passt. Ich weiß aber nicht, ob es
+passt." Er sucht seit Monaten oder Jahren und hat noch nie angefangen.
+
+### Der unterschätzte Vorteil dieser Zielgruppe
+
+Er heißt nicht Energie und nicht Digitalaffinität. Er heißt **niedrige
+Lebenshaltungskosten.** Mit zwanzig kann man ein Jahr lang von 900 € im Monat
+leben und ein Modell aufbauen, das lange braucht, bis es trägt. Mit vierzig,
+Haus und zwei Kindern geht das nicht mehr. Das ist der sachliche Grund, warum
+jetzt der richtige Zeitpunkt ist — ein Argument, kein Motivationsspruch. Es
+gehört in die Einleitung.
 
 ### Sekundäre Zielgruppe
 
-**Der ernsthafte Gründungsinteressierte mit Berufserfahrung.** Angestellter
-Fach- oder Führungsverantwortlicher, 28–50, der in seiner Branche seit Jahren
-dieselben Probleme sieht und wissen will, ob daraus ein Geschäft werden kann.
-Er braucht das Buch vor allem als Suchraum und als Bewertungsraster.
-
-### Tertiäre Zielgruppe
-
-**Nachfolger und Käufer kleiner Unternehmen.** Wer einen Betrieb übernimmt,
-steht vor derselben Frage wie ein Gründer, nur mit bestehendem Umsatz. Für ihn
-sind die Kapitel zu Produktisierung und Recurring Revenue direkt anwendbar.
+26 bis 35, in einer Anstellung, die noch immer sucht. Derselbe Zustand, nur
+älter und mit weniger Spielraum. Für sie gilt das Buch unverändert, mit einer
+Einschränkung, die es benennen muss: Ihr Zeitfenster ist kleiner, ihre
+Fixkosten sind höher, und beides verändert die Modellauswahl.
 
 ### Ausdrücklich nicht die Zielgruppe
 
-- Wer einen Nebenverdienst ohne Kundenkontakt sucht.
-- Wer ein Startup mit Wagniskapital und Exit-Fantasie plant. Das Buch beschreibt
-  eigenfinanzierte Unternehmen.
+- Inhaber mit fünfzehn Mitarbeitern und laufendem Betrieb. Für sie ist Teil III
+  wertvoll, das Buch aber nicht geschrieben.
+- Wer ein Startup mit Wagniskapital und Exit-Fantasie plant.
 - Wer Motivation sucht. Es gibt in diesem Buch keine.
+- Wer eine Anleitung sucht, die ohne Kundenkontakt funktioniert.
 
-Diese Abgrenzung gehört in die Einleitung. Sie kostet Leser und gewinnt die
-richtigen.
+### Konsequenzen für das Manuskript
+
+1. **Alles wird erklärt.** EBIT, Deckungsbeitrag, Churn, CAC, Deckungsgrad der
+   Fixkosten — beim ersten Auftreten in einem Satz, ohne Belehrungston. Diese
+   Leser haben keine kaufmännische Ausbildung, und das ist kein Mangel.
+2. **Kein Vorwissen über Branchen wird vorausgesetzt.** Wenn ein Modell sich an
+   Steuerkanzleien richtet, muss das Kapitel erklären, wie eine Kanzlei
+   funktioniert.
+3. **Kapitalarme Modelle nach vorn.** Die Kategorienreihenfolge in Abschnitt 8
+   erfüllt das bereits.
+4. **Startbarkeit muss sichtbar sein.** Siehe Abschnitt 13.
+5. **Duzen, kurze Sätze, konkrete Beispiele.** Keine Anbiederung an Jugendjargon
+   — die Zielgruppe merkt das sofort und es altert innerhalb eines Jahres.
 
 ---
 
 ## 4. Das Buchversprechen
 
-> Nach diesem Buch kannst du ein beliebiges Geschäftsmodell — deines oder ein
-> fremdes — in etwa einer Stunde so durchdenken, dass du weißt, ob und unter
-> welchen Bedingungen daraus ein Unternehmen werden kann. Du bekommst dafür ein
-> Raster, hundert durchgearbeitete Beispiele und die Rechnung dazu.
+> Dieses Buch soll deine Suche beenden.
+
+Der Kreislauf aus „ich muss noch etwas finden, was passt, aber ich weiß nicht,
+ob es passt" hört nicht auf, weil man die richtige Idee findet. Er hört auf,
+wenn man Ideen selbst beurteilen kann. Deshalb stehen hier hundert Modelle
+vollständig durchgerechnet: nicht als Katalog zum Stöbern, sondern als
+Trainingsmaterial. Man liest sie nicht, um Idee Nummer 47 zu finden, sondern so
+lange, bis man sie nicht mehr braucht.
 
 **Was das Buch ausdrücklich nicht verspricht:**
 
@@ -96,6 +125,7 @@ richtigen.
 - keine geprüften Marktdaten für jede Nische, sondern erklärte Annahmen
 - keine Erfolgsbeispiele fremder Unternehmen als Beweis
 - keine Umsatzversprechen
+- keinen Weg, der ohne Verkaufen auskommt
 
 Dieses Nicht-Versprechen steht auf Seite eins der Einleitung. Es ist die
 glaubwürdigste Seite des ganzen Buches.
@@ -104,27 +134,37 @@ glaubwürdigste Seite des ganzen Buches.
 
 ## 5. Positionierung
 
-Das Buch steht zwischen drei existierenden Kategorien und gehört in keine davon.
+Mit der Zielgruppe 18–25 steht das Buch nicht mehr im Regal neben
+Methodenliteratur. Sein tatsächlicher Wettbewerb ist **Video-Content**:
+YouTube, TikTok und Instagram, wo derselben Altersgruppe seit Jahren
+Dropshipping, Amazon FBA, Print-on-Demand und zuletzt KI-Agenturen verkauft
+werden — meist von Leuten, die ihr Geld mit dem Verkauf des Kurses verdienen,
+nicht mit dem Modell.
 
-**Gegenüber Methodenbüchern** (Business Model Generation, Lean Startup und
-Verwandtes): Diese Bücher liefern Werkzeuge ohne Material. Der Leser bekommt
-eine Leinwand und soll sie selbst füllen. Unser Buch liefert das Material —
-hundert gefüllte Leinwände — und leitet die Methode daraus ab.
+**Das ist die Positionierung: das ehrliche Gegenbuch dazu.** Nicht als
+Abrechnung, sondern durch Rechnen. Wo der Kurs „6.000 € im Monat" verspricht,
+rechnet dieses Buch den Deckungsbeitrag aus und benennt, was operativ passieren
+muss, damit hundert Kunden überhaupt betreut werden können.
 
-**Gegenüber Ideenlisten** („100 Geschäftsideen für 2026"): Diese Bücher liefern
-Material ohne Analyse. Wir kippen das Verhältnis: Die Idee ist der kürzeste
-Teil jedes Kapitels, die wirtschaftliche Durchdringung der längste.
+**Die Glaubwürdigkeit dafür liegt in der eigenen Geschichte des Autors.** Er hat
+den Dropshipping-Shop selbst betrieben. Er kann benennen, woran er gescheitert
+ist — gebundenes Kapital, fehlender Cashflow, auf Kante gelebt — statt ihn
+abstrakt schlechtzureden. Das ist der Unterschied zwischen Kritik und Erfahrung,
+und die Zielgruppe hört ihn sofort.
 
-**Gegenüber Gründerratgebern** (Rechtsform, Businessplan, Förderung): Diese
-Bücher behandeln die Verwaltung eines Unternehmens, nicht seine Ökonomie. Wir
-setzen dort an, wo der Ratgeber aufhört.
+Gegenüber den drei klassischen Buchkategorien bleibt die Abgrenzung bestehen:
+**Methodenbücher** liefern Werkzeuge ohne Material, **Ideenlisten** Material
+ohne Analyse, **Gründerratgeber** die Verwaltung eines Unternehmens statt seiner
+Ökonomie. Sie sind für diese Zielgruppe aber ohnehin kaum relevant — kaum
+jemand mit zwanzig kauft Business Model Generation.
 
 Der Satz, den ein Leser nach dem Buch sagen soll, ist nicht „das war
 inspirierend", sondern: **„So habe ich darüber noch nie nachgedacht."**
 
-Die Alleinstellung liegt in drei Dingen: der konsequenten Nischenlogik, dem
-Sieben-Stufen-Framework als durchgehendem roten Faden und der Bereitschaft,
-Modelle schlecht zu bewerten.
+Die Alleinstellung liegt in vier Dingen: der konsequenten Nischenlogik, dem
+Sieben-Stufen-Framework als durchgehendem roten Faden, der Bereitschaft, Modelle
+schlecht zu bewerten — und darin, dass hier jemand schreibt, der noch nah genug
+an der Zielgruppe ist, um ihre Fragen zu kennen.
 
 ---
 
