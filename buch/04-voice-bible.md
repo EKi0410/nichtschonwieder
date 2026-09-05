@@ -474,6 +474,54 @@ ein schlechter Beweis.** Die Prüffrage dazu lautet immer gleich: Wie viele
 andere hatten es, und was haben die stattdessen gemacht? Lautet die Antwort
 „nichts, sie leben damit", ist es kein Markt, sondern ein Ärgernis.
 
+**G16 — Was der Autor nicht anfassen würde**
+Drei Ausschlusskriterien, unabhängig von der Rendite:
+
+1. **Persönliche Haftung aus Regulatorik.** Alles mit viel Regulatorik Richtung
+   Datenschutz, Patientendaten und Ähnlichem, wo eine persönliche Haftung
+   entsteht.
+2. **Produkthaftung im Verkauf.** Medizinprodukte und Kinderprodukte —
+   „Geschichten, wo was verschluckt wird" — sind ihm zu heikel.
+3. **Rein personalgebundene Skalierung.** Handwerk und Beratung skalieren nur
+   mit Mitarbeitern. Wörtlich: *„Man hat dann einfach nur mehr Bürokratie, mehr
+   Abgaben, mehr To-dos, aber hat nicht wirklich mehr Gewinn, auch wenn der
+   Umsatz steigt durch mehr Mitarbeiter."*
+
+→ Verwendung Punkt 3: **Der Eröffnungsgedanke der Einleitung.** Das ist der
+Schmerz der Hauptzielgruppe und die Begründung dafür, dass es das Framework
+überhaupt gibt.
+
+**Notwendige Präzisierung zu Punkt 3 — sonst entwertet das Buch seinen eigenen
+Katalog.** Rund die Hälfte der hundert Modelle sind personalgebundene
+Dienstleistungen. Es gibt sehr profitable Handwerksbetriebe mit vierzig
+Mitarbeitern. Die Aussage darf deshalb nicht absolut stehen. Buchfassung:
+**Mitarbeiter bringen erst dann Gewinn, wenn der Deckungsbeitrag je Kopf über
+den Fixkosten liegt, die jeder zusätzliche Kopf erzeugt.** Bei niedrigen
+Stundensätzen und schlechter Auslastung ist das nicht der Fall — und genau dann
+beschreibt der Satz des Autors die Realität. So bleibt die Wucht erhalten und
+der Katalog trägt weiter.
+
+**Konflikt zwischen Punkt 1 und dem Katalog — und seine Auflösung.**
+Regulatorik ist der meistgenutzte Nachfragetreiber des ganzen Buches: A02, A03,
+A04, A06, A08, A10, B12, B14, D32, D36, D40, E41, E43, E46, E47, E49, F51, F52,
+H71, H74. Ein Autor, der Modelle empfiehlt, die er selbst nie anfassen würde,
+verliert seine Glaubwürdigkeit.
+
+Auflösung über eine sachlich ohnehin richtige Unterscheidung: **Regulierung als
+Nachfragetreiber ist etwas anderes als Regulierung als eigenes Haftungsrisiko.**
+Wer die Dokumentation aufbaut und übergibt, verkauft an einem Pflichtmarkt, ohne
+die Pflicht zu übernehmen. Wer sich zum Datenschutzbeauftragten bestellen lässt,
+haftet persönlich. Derselbe Markt, ein völlig anderes Risiko.
+
+→ Umgesetzt in `03-kapitelvorlage-bewertungssystem.md`, Abschnitt 1: Jedes
+regulierungsgetriebene Modell bekommt eine Pflichtzeile in der
+Herausforderungen-Box.
+
+→ Verwendung außerdem in Teil III, Kapitel 1 (Unternehmertypen): Der Autor ist
+selbst ein Typ — haftungsscheu, regulierungsscheu, sucht Hebel ohne Köpfe. Das
+Kapitel kann ihn als eines von vier Profilen beschreiben, statt Typen zu
+erfinden.
+
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
 Praxis darin wiedererkennt, bevor er die Kritik liest.
@@ -520,6 +568,11 @@ Praxis darin wiedererkennt, bevor er die Kritik liest.
   funktionieren trotzdem — man darf sie nur nicht so nennen.
 - Wer nie selbstständig war, erfindet Probleme und baut die Lösung dazu.
 - Ein selbst erlebtes Problem ist das beste Startsignal für eine Idee.
+- Persönliche Haftung ist ein Ausschlusskriterium, keine Risikoposition, die
+  man einpreist.
+- Produkthaftung bei Medizin- und Kinderprodukten: nicht um jede Marge.
+- Umsatzwachstum über zusätzliche Mitarbeiter ist kein Gewinnwachstum,
+  solange der Deckungsbeitrag je Kopf die zusätzlichen Fixkosten nicht deckt.
 
 ### 5.4 Wörter und Formulierungen, die trotz Autorennähe nicht ins Buch gehen
 

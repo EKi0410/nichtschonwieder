@@ -43,6 +43,15 @@ Software keinen Sinn ergibt, steht hier genau das — mit Begründung.
 **6 — Die größten Herausforderungen** *(ca. 100 Wörter)*
 Drei bis sieben nummerierte Punkte, je ein bis zwei Sätze. Ungeschönt.
 
+*Pflichtzeile bei jedem regulierungsgetriebenen Modell:* **Wer haftet — und
+lässt sich die Haftung wegkonstruieren?** Regulierung als Nachfragetreiber ist
+etwas anderes als Regulierung als eigenes Haftungsrisiko. Wer Dokumentation
+aufbaut und übergibt, verkauft an einem Pflichtmarkt, ohne die Pflicht zu
+übernehmen; wer sich als Beauftragter bestellen lässt, haftet persönlich.
+Derselbe Markt, ein völlig anderes Risiko. Die Zeile nennt die Rolle, das
+Vertragskonstrukt oder die Versicherung, mit der sich das Risiko begrenzen
+lässt — oder sagt ausdrücklich, dass es nicht geht.
+
 **7 — Wenn ich morgen starten müsste** *(ca. 120 Wörter)*
 Konkreter Plan über vier bis sechs Wochen, mit Tages- oder Wochenangaben.
 Danach zwei Zeilen: das wichtigste Bestätigungssignal und das wichtigste
