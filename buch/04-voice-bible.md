@@ -149,6 +149,11 @@ an den persönlichen Stellen klingen:
 - „Ich verstehe die Anmerkung. Ich kann aber aus meiner Erfahrung sagen …"
   (Standardeinstieg beim Widerspruch: erst anerkennen, dann widersprechen)
 - „Outcome" — eines der wenigen englischen Wörter, die der Autor benutzt
+- „da steckt ein wahrer Kern dahinter" (positives Urteil)
+- „das Wort ist verbrannt"
+- Denkt in Bildern und Vergleichen, wenn er etwas ablehnt — der Topf ohne
+  Deckel ist das beste Beispiel. Solche Bilder sind im Buch zu erhalten und
+  nicht zu glätten.
 - Siezt Geschäftskunden, duzt kleinere Privatkunden — der Wechsel erfolgt nach
   Kundentyp, nicht nach Laune
 - „Man hatte halt immer was dahinterstehen an Wert."
@@ -422,6 +427,53 @@ festlegen.** Nach einer definierten Zahl von Referenzkunden geht der Preis auf
 einen vorher aufgeschriebenen Wert. Schriftlich, für einen selbst, bevor der
 erste Kunde da ist.
 
+**G13 — Verbrannte Wörter: „KI-Beratungsagentur"**
+Wenn jemand erzählt, er wolle eine KI-Beratungsagentur gründen, schaltet der
+Autor ab. Beide Wörter — KI und Agentur — hält er für verbrannt. **Wichtig ist
+der zweite Teil seiner Aussage:** Die spezifischen Ideen dahinter seien nach wie
+vor gut und funktionierten auch; er hat selbst welche umgesetzt.
+
+→ Das ist die These des gesamten Buches: **Das Etikett ist nicht das Modell.**
+Genau deshalb existiert Kategorie C. „KI-Agentur" ist wertlos, „KI-Telefon-
+assistent für Handwerksbetriebe mit 5–30 Mitarbeitern, der Anrufe klassifiziert
+und Rückrufaufgaben erzeugt" ist ein Geschäftsmodell.
+
+→ Verwendung: als Leitsatz über der Einführung zu Kategorie C, außerdem in
+Teil I, Kapitel 1 („Eine Idee ist kein Geschäftsmodell").
+
+→ **Vertriebskonsequenz für jede Vertriebsbox im Buch:** Es geht nicht nur
+darum, wie konkret man denkt, sondern was man am Telefon sagt. „Ich mache
+KI-Beratung" heißt aufgelegt. „Ich sorge dafür, dass bei Ihnen kein Anruf mehr
+verloren geht, während die Monteure auf der Baustelle sind" heißt Gespräch. Die
+Kategorie C darf ihre Modelle nirgends als „KI-X" verkaufen — immer über das
+Ergebnis beim Kunden.
+
+**G14 — Das erdachte Problem: der Topf ohne Deckel**
+Bei vielen B2B-Ideen merkt der Autor, dass derjenige nie selbstständig war: Es
+sind erdachte Probleme, zu denen man sich anschließend eine Lösung ausdenkt.
+Sein Bild dafür, **wörtlich ins Buch zu übernehmen**:
+
+> „Man kauft sich extra einen Topf ohne Deckel, um dann den Deckel dazu zu
+> basteln."
+
+→ Verwendung: Teil I, Kapitel 2 („Probleme schlagen Ideen"). Das Bild trägt das
+Kapitel und ist unverwechselbar. Nicht glätten, nicht umformulieren.
+
+**G15 — Das positive Signal**
+Aufmerksam wird der Autor bei dem Satz: *„Das Problem hatte ich selber und
+konnte es so lösen."* Dann stecke ein wahrer Kern dahinter.
+
+→ Verwendung: Teil I, Kapitel 2, als Gegenstück zu G14. **Mit Einschränkung,
+die dazugehört:** Das eigene Problem beweist, dass das Problem existiert — bei
+einem Menschen. Es beweist nicht, dass andere dafür zahlen, und nicht, dass es
+genug andere gibt. Wer sein eigenes Problem löst, unterschätzt systematisch, wie
+speziell er ist.
+
+→ Buchfassung: **Das eigene Problem ist ein hervorragender Ausgangspunkt und
+ein schlechter Beweis.** Die Prüffrage dazu lautet immer gleich: Wie viele
+andere hatten es, und was haben die stattdessen gemacht? Lautet die Antwort
+„nichts, sie leben damit", ist es kein Markt, sondern ein Ärgernis.
+
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
 Praxis darin wiedererkennt, bevor er die Kritik liest.
@@ -464,6 +516,10 @@ Praxis darin wiedererkennt, bevor er die Kritik liest.
   der einem widerspricht.
 - Ohne Referenzen kommt man mit einem hohen Preis nicht in den Markt. Also
   geht man über den Preis — und steigert ihn danach.
+- „KI" und „Agentur" sind als Bezeichnungen verbrannt. Die Modelle dahinter
+  funktionieren trotzdem — man darf sie nur nicht so nennen.
+- Wer nie selbstständig war, erfindet Probleme und baut die Lösung dazu.
+- Ein selbst erlebtes Problem ist das beste Startsignal für eine Idee.
 
 ### 5.4 Wörter und Formulierungen, die trotz Autorennähe nicht ins Buch gehen
 
