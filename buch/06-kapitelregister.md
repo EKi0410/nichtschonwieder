@@ -15,13 +15,13 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 4 von 116 Kapiteln.
+Stand nach 5 von 116 Kapiteln.
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
 | „Denk darüber nach" | 20 | 1 | I.1 |
 | „Unternehmerische Frage" | 16 | 1 | I.2 |
-| „Perspektivwechsel" | 12 | 1 | I.3 |
+| „Perspektivwechsel" | 12 | 2 | I.3, I.5 |
 | Kraftausdrücke | ca. 20 | 2 | I.2, I.4 |
 
 **Notenverteilung Teil II** *(Ziel: 12–18 Modelle bei 8,0–10,0 · 35–45 bei
@@ -45,6 +45,9 @@ Jeder Begriff wird im Buch **einmal** erklärt, danach ohne Erklärung benutzt.
 | Nische als Vertriebsentscheidung | I.3 |
 | Cashflow | I.4 |
 | Anzahlung als Cashflow-Instrument | I.4 |
+| Produktisierung | I.5 |
+| Preisanker | I.5 |
+| Upsell | I.5 |
 
 ---
 
@@ -64,6 +67,9 @@ Kein Beispiel wird zweimal als Hauptbeispiel verwendet.
 | 17 Kunden (40.000 € Gewinn ÷ 200 € Marge) | I.3 | Einstieg |
 | Dropshipping-Rechnung: 30 € Verkauf, 12 € Einkauf, 14 € Werbung, 4 € Gewinn, Zahlungsfluss über drei Wochen | I.4 | Cashflow gegen Gewinn — **modellhaft gerechnet, nicht die echten Zahlen des Autors** |
 | Erste verkaufte Webseite mit Einrichtungsgebühr | I.4 | nur als Gegenbild zum Shop — **der 50-Euro-Retainer gehört zu I.6 und ist dort noch frei** |
+| Glasreinigung „Paket M": bis 40 Flächen, 4 Termine, 890 €/Jahr bzw. 74 €/Monat | I.5 | Einstieg, Muster eines produktisierten Angebots |
+| Fensterreinigung im Minijob: drei Pakete, Preisanker in der Mitte, Fünf-Schritt-Ablauf | I.5 | Hauptbeispiel — **das Credit-Abo aus derselben Geschichte ist für I.6 reserviert** |
+| IT-Bestandsaufnahme 890 €, zwei Tage, Prioritätenliste | I.5 | Diagnose als eigenes Produkt |
 
 ---
 
@@ -222,6 +228,47 @@ erkennen); zurück auf I.2 (Maler) und I.3 (Mai bis Juli)
 **Offene Fäden:** I.6 muss einlösen, warum spürbare Wirkung über Verlängerung
 entscheidet · I.7 muss die Softwarebedingungen liefern · Teil III muss das
 Erstgespräch-Warnzeichen liefern
+
+### I.5 — Produktisierung
+**Umfang:** ca. 1.410 Wörter, ca. 4,7 S. · **Status:** freigegeben (vorbehaltlich
+Autorenabnahme)
+**Einstiegstyp:** direkte Angebotsbeschreibung (Paket M als Kasten)
+
+**Kernthesen**
+1. Produktisierung: Aus „das müsste ich mir ansehen" wird „das kostet X, dauert
+   Y, umfasst Z". Fester Preis, fester Umfang, fester Ablauf — und ein Name.
+2. Ein Produkt kann man weitererzählen. Einen individuellen Auftrag nicht.
+3. Preisanker: Wer nur einen Preis sieht, vergleicht mit dem Wettbewerber. Wer
+   drei sieht, vergleicht innerhalb deines Angebots. Alle drei müssen echt sein.
+4. Drei Hebel: Ergebnis · Weg · Kommunikation. Der dritte ist der unterschätzte,
+   weil die meiste Zeit ins Erklären geht, nicht in die Arbeit.
+5. Ohne definiertes Ergebnis gibt es kein Ende — und kein Ende heißt jeden
+   Auftrag ein bisschen Verlust.
+6. Abweichungen vor Ort ansprechen ergibt einen Upsell, in der Rechnung eine
+   Diskussion.
+7. Die Sonderwünsche verschwinden nicht, sie verschieben sich: vom Verkauf in
+   den Betrieb, vom Preisrisiko in den Zusatzumsatz.
+8. Weniger Verkaufsgespräche und mehr Abschlüsse haben dieselbe Ursache.
+   Preistransparenz ist eine Vorauswahl, die man nicht selbst machen muss.
+9. Der Kunde, der eigene Ideen aufdrängt, passt nicht in ein Produkt. Werkzeug
+   dagegen: Garantie für den Standardweg, keine für den Sonderweg.
+10. Nicht produktisierbar ist, wo die Diagnose die Arbeit ist. Ausweg: Diagnose
+    als eigenes kleines Produkt mit Festpreis.
+11. Nicht zu früh produktisieren — sonst standardisiert man eine Vermutung.
+    Signal: Du tippst dasselbe Angebot zum vierten Mal.
+
+**Autorenmaterial:** G6 (Fensterreinigung, drei Pakete, Preisanker), G7
+(Wirkung der Produktisierung, vollständig), G5 (Frühwarnzeichen und
+Garantie-Hebel, mit wörtlicher Formulierung)
+
+**Sparsame Elemente:** „Perspektivwechsel" (Leistung gegen Ergebnis verkaufen)
+**Kraftausdrücke:** keiner
+
+**Querverweise:** zurück auf I.4 (Skalierungsproblem, zwanzig Aufträge),
+vorwärts auf I.6 als ausdrückliche Brücke am Kapitelende
+**Offene Fäden:** I.6 muss den Credit-Abo-Fall aus derselben
+Fensterreinigungs-Geschichte einlösen · der Garantie-Hebel wird in Teil II in
+vielen Modellen wieder gebraucht
 
 ---
 
