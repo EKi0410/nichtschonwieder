@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 41 von 116 Kapiteln (Teil I vollständig, 30 Modelle, 3 Kategorie-Einführungen). **Kategorien A, B und C vollständig.**
+Stand nach 52 von 116 Kapiteln (Teil I vollständig, 40 Modelle, 4 Kategorie-Einführungen). **Kategorien A, B, C und D vollständig.** Manuskript ca. 86.100 Wörter / ca. 287 Seiten.
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -31,9 +31,28 @@ Stand nach 41 von 116 Kapiteln (Teil I vollständig, 30 Modelle, 3 Kategorie-Ein
 |---|---:|---:|---|
 | 8,0–10,0 | 12–18 | 1 | **B19 (8,0)** — erstes Modell im Spitzenband |
 | *Anmerkung* | | | Korrekturen: 10× abwärts, 1× reine Aufwärtskorrektur (A06, +0,3 für den Verkaufsmoment), 1× zweiseitige Bilanz (A04). Damit ist gezeigt, dass das Instrument in beide Richtungen wirkt. |
-| 6,5–7,9 | 35–45 | 18 | B11 (7,8), A05 (7,6), B18 (7,5), A02 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), A10 (7,2), B14 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), C21 (6,8), C26 (6,8), A03 (6,7), A01 (6,6) |
-| 5,0–6,4 | 25–35 | 10 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), C22 (5,6), C27 (5,4) |
-| unter 5,0 | 10–15 | 1 | **C30 (4,4)** — erstes Modell unter fünf Punkten, mit dem neuen Pflichtabschnitt „Was fehlen müsste". · **Weiterhin knapp: von den restlichen 70 Modellen müssen 9 bis 14 hier landen. Kandidaten in G (Handel), H (kapitalintensiv) und J (Plattformen)** |
+| 6,5–7,9 | 35–45 | 24 | B11 (7,8), A05 (7,6), B18 (7,5), A02 (7,4), D31 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), A10 (7,2), B14 (7,2), D40 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), D32 (6,9), D36 (6,9), C21 (6,8), C26 (6,8), D33 (6,8), A03 (6,7), D35 (6,6), A01 (6,6) |
+| 5,0–6,4 | 25–35 | 12 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), D39 (5,7), C22 (5,6), C27 (5,4), D34 (5,2) |
+| unter 5,0 | 10–15 | 3 | C30 (4,4), D37 (4,8), D38 (4,2) — alle drei mit dem Pflichtabschnitt „Was fehlen müsste" |
+
+**⚠ ZWEI STEUERUNGSPROBLEME NACH 40 MODELLEN — ab Kategorie E gegenzusteuern:**
+
+**1. Das Spitzenband ist fast leer.** Ziel 12–18 Modelle bei 8,0 und darüber,
+vergeben ist **eines** (B19). Von den verbleibenden 60 Modellen müssen 11 bis 17
+dort landen, also etwa jedes vierte. Das ist kein Rundungsproblem mehr. Die
+Kandidaten liegen strukturell in **F (Abo- und Betreuungsmodelle, hohe
+Recurring-Werte)** und in **E (lokale Dienstleistungen mit Wiederholungslogik)**.
+Bei jedem Modell dieser beiden Kategorien ist ausdrücklich zu prüfen, ob die
+Sterne nach unten gezogen wurden, ohne dass es einen benennbaren Grund gab.
+
+**2. Das obere Mittelband ist überfüllt.** 24 von 40 Modellen liegen zwischen 6,5
+und 7,9 — also 60 %, angestrebt sind 40 %. Die Bewertung tendiert zur Mitte, und
+das ist genau der Fehler, gegen den das System gebaut wurde. Ab Kategorie E gilt:
+Ein Modell, das keinen herausragenden Grund für 7,x hat, gehört unter 6,5.
+
+**3. Das untere Band bleibt knapp.** 3 von 40 statt der nötigen 4 bis 6. Von den
+verbleibenden 60 müssen 7 bis 12 unter 5,0 landen. Kandidaten weiterhin in **G
+(Handel)**, **H (kapitalintensiv)** und **J (Plattformen)**.
 
 ---
 
@@ -970,13 +989,16 @@ Fördermittel-Preissatz.
 Notenspanne 5,8 bis 8,0. Zusage der Einführung eingehalten: nur B17 trägt den
 Marker „sofort startbar".
 
-**Softwareantworten im Buch — acht Muster, alle zu erhalten:**
+**Softwareantworten im Buch — zwölf Muster, alle zu erhalten:**
 B11 Bedingung 3 nicht erfüllt → nein · C21 erfüllt → ja · B17 erfüllt, aber
 Werkzeug käuflich → nein · B19 erfüllt und Werkzeug nicht käuflich → ja ·
 **C22 erfüllt, aber die Daten gehören anderen → nein** · **C23 erfüllt und die
 Daten sind die eigenen → ja** · **C24 erfüllt, aber Automatisierung zerstört den
 eigenen Unterschied → nein** · **C25 erfüllt, aber nur als Modul im fremden
-System → ja, nicht allein**.
+System → ja, nicht allein** · **D34 erfüllt, aber kleines Ticket plus mühsamer
+Vertrieb → nein** · **D37 erfüllt, aber das Werkzeug wird sogar verschenkt →
+nein** · **D38 wie D34, verschärft → nein** · **D39 erfüllt, aber der Kunde kann
+selbst entwickeln → nein**.
 
 ### Kategorie-Einführung C — KI mit klarem Prozessbezug
 442 Wörter. Aufnahmekriterium wörtlich genannt: benennbarer Prozess plus eine
@@ -1324,6 +1346,279 @@ Alle drei Zusagen der Einführung eingelöst: C24, C27 und C30 tragen den Marker
 Fachpresse-Erfahrungsbericht (C25), freiberufliche Redakteure (C26),
 FM-Ausschreibungen (C27), Niederlassungsleiter als Person (C28),
 Erfahrungsaustauschkreise (C29), sichtbare Standzeiten (C30).
+
+### Kategorie-Einführung D — Vertikale Software aus operativer Erfahrung
+480 Wörter. **Die skeptischste Einführung des Buches** und die Einlösung der
+Autorenposition aus der Voice Bible (Software ist nicht immer besser; der Weg vom
+schnell Gebauten zum betriebsfähigen Produkt ist länger als der Weg bis dahin).
+**Gewinnertyp:** der Praktiker nach drei Jahren im Betrieb. *„Programmieren können
+viele. Wissen, was gebaut werden muss, können wenige."*
+**Preis der Kategorie:** die Vorleistung — zwei bis vier Jahre zwischen erstem
+Dienstleistungsauftrag und erster Softwarelizenz.
+**Denkfehler:** Entwicklung vor dem ersten zahlenden Kunden.
+**Zwei überprüfbare Zusagen an den Leser, beide eingelöst:**
+1. **Bei vier von zehn Modellen lautet die Softwareantwort nein** — D34, D37, D38,
+   D39. Nachgezählt und bestätigt.
+2. **Sofort startbar: genau zwei** — D38 und D39. Nachgezählt und bestätigt.
+**Leseempfehlung:** D31 gegen D37 als Gegensatzpaar, in der Einführung angekündigt
+und in D37 ausformuliert.
+
+---
+
+### D31 · Tourenplanung und Nachweisführung für Containerdienste — LEITMODELL
+2.208 Wörter · Note **7,4** (rechn. 7,6, **−0,2**: Akzeptanz an der Stelle, an der
+die Daten entstehen — der Fahrer entscheidet nicht durch Widerspruch, sondern durch
+Nichtbenutzung) · Sterne 4/3/4/**5** · 4/3/4/3 · Einstieg 2 → Ziel 6, **Stufe 7
+real erreichbar**.
+**Preise:** 6.500 € Einführung · **69 € je Fahrzeug und Monat** · 14 Fahrzeuge ≈
+1.000 €/Monat · 12 Betriebe ≈ 9.900 €, rund 4.700 € Deckungsbeitrag (50 %).
+**Erster Vertriebsweg:** die **Sachverständigen und Zertifizierer** der Zielkunden
+— sie sehen jährlich 30 bis 80 Betriebe von innen, werden gefragt und **dürfen
+nichts verkaufen**. Ausdrücklich ohne Provisionsmodell.
+**Kernthesen:** *„In diesem Geschäft ist die Unterschrift wertvoller als die
+Fahrt."* · **„Bau für den Fahrer, nicht für den Disponenten."** · Es gibt zwei
+Probleme, und das teurere (gekürzte Rechnungen) wird nicht ausgesprochen.
+**Stufe 7 begründet:** Auftraggeberzugang erzeugt ein Netz — der Bauherr will,
+dass sein nächster Entsorger auch dabei ist. Erstes Modell im Buch mit einer
+nicht ausgedachten Plattformstufe.
+**Learnings (5):** bau für den, bei dem die Daten entstehen · das teurere Problem
+wird nicht ausgesprochen · ein Nachweis ist wertvoller als die Leistung · die
+besten Empfehler dürfen nichts verkaufen · rechne den Kapitalbedarf für den ganzen
+Weg.
+**Recherchestand:** Zu prüfen: Nachweis- und Registerpflichten, Erlaubnispflichten
+für Sammler und Beförderer, Aufbewahrungsfristen, elektronische Signatur im
+Nachweisverfahren.
+**Nicht wiederverwenden:** Sachverständige als Vertriebsweg · der
+Unterschrift-Satz · „bau für den Fahrer" · die 69-€-Rechnung.
+
+---
+
+### D32 · Prüffristenverwaltung für Elektrobetriebe — STANDARD
+2.039 Wörter · Note **6,9** (rechn. 7,1, **−0,2**: **die Softwarekunden sind die
+eigenen Wettbewerber** — eingebaute Bremse, die keine Skala erfasst) · Sterne
+3/**4**/4/**5** · 3/3/3/3 · Einstieg 2 → Ziel 6.
+**Struktureller Sonderfall im Buch:** Erster Kunde (Gewerbebetrieb) und späterer
+Kunde (anderer Elektrobetrieb) sind verschiedene Leute — und der spätere ist heute
+Wettbewerber. *„Man kann nicht gleichzeitig Werkzeuglieferant und Wettbewerber
+sein."*
+**Preise:** Prüfung nach Aufwand (Beispiel 120 Geräte à 4,50 € = 540 €/Tag,
+davon rund 420 € Deckungsbeitrag) · **Prüfabo ab 89 €/Monat je Standort** ·
+Software später ab 129 €/Betrieb.
+**Erster Vertriebsweg:** **die Prüfplakette am Gerät** — sie nennt den Monat der
+nächsten Fälligkeit. **„Du verkaufst nicht an einen Kunden, sondern an ein
+Datum."**
+**Kernthese:** *„Der Umsatz wiederholt sich, weil ein Gesetz es verlangt, nicht
+weil der Kunde zufrieden ist."* Stärkste Recurring-Begründung des Buches.
+**Zweite Lehre:** Ablaufmonate aktiv über das Jahr verteilen — wer es dem Zufall
+überlässt, arbeitet drei Monate statt zwölf.
+**Größtes Risiko:** die Entscheidung in Phase drei; Qualifikationshürde als
+Voraussetzung, nicht als Empfehlung.
+**Recherchestand:** Zu prüfen: Prüffristen nach Gefährdungsbeurteilung,
+Anforderungen an die befähigte Person, Abgrenzung zur Elektrofachkraft.
+**Nicht wiederverwenden:** die Plakette als Vertriebsweg · „verkauf an ein Datum" ·
+der Gesetz-statt-Zufriedenheit-Satz · die Ablaufmonat-Steuerung.
+
+---
+
+### D33 · Schicht- und Tourenplanung für ambulante Pflegedienste — LEITMODELL
+2.033 Wörter · Note **6,8** (rechn. 7,3, **−0,5**: **Der Leidende entscheidet
+nicht.** Die Pflegedienstleitung erlebt das Problem täglich und hat kein Budget) ·
+Sterne 4/3/3/**5** · 4/3/4/**2** · Einstieg 2 → Ziel 6.
+**Preise:** 4.900 € Erstplanung · **9 € je Mitarbeiter und Monat**, min. 250 € ·
+15 Dienste à 50 MA ≈ 6.750 €, rund 2.900 € Deckungsbeitrag (40 %) · trägt ab ca.
+25 Diensten.
+**Erster Vertriebsweg:** Fuhrpark- und Leasingdienstleister — **sie haben die
+Kilometer**, also die Zahl, die das Problem beweist.
+**Kernthesen:** *„Nicht die Planung ist der Engpass. Die Umplanung ist es."* ·
+**„Der teuerste Fehler in einer Tourenplanung ist nicht die Leerfahrt. Es ist die
+Kündigung."** · Wegzeit wird nicht vergütet und ist damit direkt Marge.
+**Softwareregel für besetzte Märkte:** *„Bau nicht die Planung nach. Bau das, was
+nach der Planung passiert."*
+**Größtes Risiko:** besetzter Markt (Position 2 Sterne) und Mitbestimmung bei
+Auswertungen mit Personenbezug.
+**Recherchestand:** Zu prüfen: Vergütungssystematik ambulanter Leistungen,
+Mitbestimmung bei Dienstplanungssystemen, Gesundheitsdaten im Pflegebereich.
+**Nicht wiederverwenden:** Fuhrparkdienstleister als Vertriebsweg · der
+Kündigungs-Satz · „bau das, was nach der Planung passiert".
+
+---
+
+### D34 · Kursverwaltung und Abrechnung für Fahrschulen — KOMPAKT
+1.351 Wörter · Note **5,2** (rechn. 5,2, keine Korrektur) · Sterne **2**/3/**2**/4
+· 3/4/3/**2** · Einstieg 2 → **Ziel nur 5**.
+**Der Buchfall „alles stimmt außer der Größenordnung"** — im Urteil ausdrücklich
+als die schwerer erkennbare Form eines mittelmäßigen Modells benannt.
+**Preise:** 1.900 € Einführung · **59 € je Fahrlehrer und Monat** · 20 Schulen ≈
+5.900 €, rund 3.600 € Deckungsbeitrag — aber zwei bis drei Jahre Vertriebszeit.
+**Erster Vertriebsweg:** angestellte Fahrlehrer, die sich später selbständig
+machen; Zugang über die Pflichtfortbildungen.
+**Kernthese:** *„Der Ausfall entsteht nicht beim Kunden, der nicht zahlen kann,
+sondern bei dem, der nicht mehr kommen muss."*
+**Softwareantwort: nein** — neuer Grund: **kleines Ticket plus mühsamer
+Vertrieb.** *„Bei kleinen Preisen entscheidet nicht die Idee, sondern die Zahl der
+Kunden, die du realistisch erreichst."*
+**Nicht wiederverwenden:** Fahrlehrer als Vertriebsweg · der Ausfall-Satz · die
+Kleines-Ticket-Regel.
+
+---
+
+### D35 · Mängelmanagement für Bauträger und Wohnungsgesellschaften — STANDARD
+1.838 Wörter · Note **6,6** (rechn. 6,6, keine Korrektur — das eingebaute
+Ablaufdatum steht bereits in der Recurring-Box) · Sterne 4/3/3/**3** · 4/4/4/3 ·
+Einstieg 2 → Ziel 6.
+**Preise:** **140 € je Einheit** Abnahmebegleitung · **9 € je Einheit und Monat**
+für die Gewährleistungszeit · Projekt mit 120 Einheiten ≈ 16.800 € plus
+1.080 €/Monat, rund 9.900 € Deckungsbeitrag aus der Abnahmephase.
+**Erster Vertriebsweg:** **die Verwalter, nicht die Bauträger** — sie erben das
+Problem und sprechen mit jedem Bauträger, von dem sie Objekte übernehmen.
+**Kernthese:** *„Wenn die Frist gegenüber dem Handwerker abgelaufen ist und die
+gegenüber dem Käufer noch läuft, zahlt der Bauträger den Mangel selbst."* Der
+Schaden verschwindet in den Baunebenkosten und wird deshalb nie beziffert.
+**Softwarebedingung:** Der Handwerker muss selbst zurückmelden — **derselbe Punkt
+wie beim Fahrer in D31, eine Vertragsebene weiter außen.** Dieser Querbezug ist zu
+erhalten.
+**Größtes Risiko:** eingebautes Ablaufdatum je Projekt; Grenze zur
+Rechtsdienstleistung.
+**Recherchestand:** Zu prüfen: Gewährleistungsfristen im Bauvertragsrecht,
+Abgrenzung zur erlaubnispflichtigen Rechtsdienstleistung.
+**Nicht wiederverwenden:** Verwalter als Vertriebsweg · der Fristen-Satz · die
+140-€-Rechnung.
+
+---
+
+### D36 · Chargenrückverfolgung für handwerkliche Lebensmittelbetriebe — STANDARD
+1.835 Wörter · Note **6,9** (rechn. 7,2, **−0,3**: **fehlende Dringlichkeit** —
+der Nutzen wird erst im Schadensfall sichtbar, Struktur einer Versicherung) ·
+Sterne 4/3/3/4 · 4/3/4/3 · Einstieg 2 → Ziel 6.
+**Preise:** 7.500 € Einführung · **290 €/Monat** · 18 Betriebe ≈ 5.220 €, rund
+1.965 € Deckungsbeitrag (40 %) · Projekte tragen die ersten Jahre.
+**Erster Vertriebsweg:** **Etiketten- und Verpackungslieferanten** — sachliche
+Nähe, weil die Chargennummer auf ihrem Medium landet.
+**Kernthese:** *„Mit sauberer Rückverfolgung ruft man vierhundert Kilo zurück.
+Ohne sie ruft man eine Woche zurück."*
+**Lösung des Dringlichkeitsproblems — Querbezug zu B18, zu erhalten:** Verkauf die
+**Übung**, nicht die Katastrophe. Die jährliche Rückverfolgungsübung ist
+Vertragsbestandteil.
+**Nicht wiederverwenden:** Etikettenlieferanten als Vertriebsweg · die
+Vierhundert-Kilo-Rechnung · „verkauf die Übung statt des Schadens".
+
+---
+
+### D37 · Aufmaß- und Angebots-App für Malerbetriebe — STANDARD
+1.621 Wörter · Note **4,8** (rechn. 4,8, keine Korrektur) · Sterne
+**2**/**2**/**2**/**2** · 4/4/**2**/**2** · Einstieg 2 → **Ziel nur 4**.
+
+**★ ZWEITES MODELL UNTER 5,0 ★** — mit Pflichtabschnitt „Was fehlen müsste"
+(anderer Preis, der nicht verglichen wird · eine Leistung, die kein Hersteller
+verschenken kann · ein Kunde mit mehr Geld).
+
+**Das in der D-Einführung angekündigte Gegenstück zu D31.** Der Vergleich ist im
+Urteil ausformuliert und muss erhalten bleiben — **D31 7,4 gegen D37 4,8 bei
+gleichem Aufbau**, erklärt durch drei Fragen: Wie groß ist der Kunde? Wie tief
+sitzt die Leistung im Betrieb? Gibt es das Werkzeug zu kaufen?
+**Kernthese:** **„Ein echtes Problem plus ein käufliches Werkzeug ergibt kein
+Geschäft, sondern eine Funktion."** Dazu: *„Ein gut erkanntes Problem ist kein
+Vorsprung. Es ist eine Voraussetzung."*
+**Vierte Softwarefrage, hier erstmals als solche benannt** (Vorläufer B17 und
+C26): **Gibt es das Werkzeug zu kaufen?** Hier wird es sogar verschenkt — von
+Herstellern, die damit Farbe verkaufen.
+**Preise:** 1.200 € Vorlagenpaket · **39 € je Nutzer und Monat** · 80 Nutzer ≈
+3.120 €, rund 1.170 € nach Support — nach zwei Jahren Vertrieb.
+**Erster Vertriebsweg:** Außendienst des Farbengroßhandels, mit dem
+ausgesprochenen Haken, dass er kostenlose Herstellerwerkzeuge mitbringt.
+**Querverweis:** C22 (dasselbe Problem als Dienstleistung, 0,8 Punkte besser).
+**Nicht wiederverwenden:** Farbengroßhandel als Vertriebsweg · der
+Funktion-statt-Geschäft-Satz · die drei Vergleichsfragen zu D31.
+
+---
+
+### D38 · Mitglieder- und Beitragsverwaltung für Sportvereine — KOMPAKT
+1.563 Wörter · Note **4,2** (rechn. 4,2, keine Korrektur) · Sterne
+**1**/**2**/**2**/3 · 3/**5**/**2**/**2** · Einstieg 2 → **Ziel nur 4**.
+
+**★ DRITTES MODELL UNTER 5,0 · erster einzelner Stern bei der Monetarisierung ★**
+Startbarkeitsmarker: **sofort startbar** — löst zusammen mit D39 die Zusage der
+D-Einführung ein.
+
+**Ausdrücklich als beliebte Anfängerfalle eingeordnet** und mit hörbarer Vorsicht
+geschrieben, weil Leser genau das vorhaben könnten.
+**Kernthese:** **„Der Verein hat kein Budget, keinen Entscheider und keine Eile.
+Er hat nur ein Problem."** Dazu die vierte Bedingung, die den drei
+überzeugenden fehlt: **„Jemand muss bezahlen wollen und dürfen."**
+**Zweite Lehre:** *„Verluste, die niemandem persönlich wehtun, werden nicht
+bekämpft."*
+**Dritte Lehre, im Buch neu und wichtig:** **„Mach den teuren Fehler billig."**
+Zwei Wochen unentgeltliche Bereinigung im eigenen Verein zeigen, was zwei Jahre
+gekostet hätten. Das ist die konstruktive Verwendung eines schwachen Modells und
+sollte in Teil III wieder aufgegriffen werden.
+**Was fehlen müsste:** ein Zahler, der nicht der Verein ist (Verband, Kommune) ·
+Beteiligung an nachgezogenen Beiträgen statt Fixkosten · ein zahlungskräftigerer
+Vereinstyp (Golf, Reiten, Wassersport).
+**Preise:** 2.900 € Bereinigung · **0,25 € je Mitglied und Monat** · 15 Vereine ≈
+3.750 €, rund 1.500 € Deckungsbeitrag.
+**Erster Vertriebsweg:** Vereine im Umbruch — Fusion, Vorstandswechsel, Förderung.
+*„Der Anlass ist immer ein Wechsel, nie ein Zustand."*
+**Querverweis:** D34 (ein ganzer Punkt Unterschied, allein weil eine Fahrschule ein
+Unternehmen ist und ein Verein nicht).
+**Nicht wiederverwenden:** Vereine im Umbruch als Vertriebsweg · der
+Kein-Budget-Satz · „mach den teuren Fehler billig" · die Beitragsausfallrechnung.
+
+---
+
+### D39 · Gerätebuchung und Verbrauchsabrechnung für Forschungseinrichtungen — KOMPAKT
+1.340 Wörter · Note **5,7** (rechn. 6,1, **−0,4**: Entscheidungswege an
+Haushaltsjahren, Gremien und Vergabegrenzen) · Sterne 3/**2**/3/3 · 4/**5**/3/3 ·
+Einstieg 2 → Ziel 5. **Sofort startbar.**
+**Preise:** 2.400 € Einführung · **19 € je Gerät und Monat** · 12 Einrichtungen à
+15 Geräte ≈ 3.420 €, rund 1.470 € Deckungsbeitrag — trägt erst ab ca. 30
+Einrichtungen.
+**Erster Vertriebsweg — im Buch einmalig:** **die Benutzung selbst.** Ein Gerät,
+eine Arbeitsgruppe, kostenlos; die Nachbargruppe fragt; die Verwaltung muss
+entscheiden. Im Text ausdrücklich als **der einzige Fall im Buch** gekennzeichnet,
+in dem produktgetriebene Verbreitung von unten funktioniert.
+**Kernthese:** **„Öffentliche Einrichtungen kaufen selten, um Geld zu sparen. Sie
+kaufen, wenn ein Nachweis fehlt."**
+**Softwareantwort: nein** — neuer Grund im Buch: **Dein Kunde kann selbst
+entwickeln.**
+**Recherchestand:** Zu prüfen: Anforderungen an Verwendungsnachweise,
+Zulässigkeit von Umlageverfahren, Vergabegrenzen.
+**Nicht wiederverwenden:** die Benutzung als Vertriebsweg · der
+Nachweis-statt-Ersparnis-Satz · „dein Kunde kann selbst entwickeln".
+
+---
+
+### D40 · Auditmanagement für zertifizierte Lebensmittelbetriebe — STANDARD
+1.865 Wörter · Note **7,2** (rechn. 7,0, **+0,2**: **Leidender und Entscheider
+sind dieselbe Person** — die seltenste Konstellation im Buch, von der Vertriebsbox
+mit drei Sternen unterschätzt) · Sterne 4/3/3/4 · 3/4/4/3 · Einstieg 2 → Ziel 6.
+**Preise:** 9.500 € Auditvorbereitung · **1.400 €/Monat Jahresprogramm** · 10
+Betriebe ≈ 14.000 €, rund 4.000 € Deckungsbeitrag (knapp 30 %).
+**Erster Vertriebsweg — im Buch neu:** **als Vertretung hineingehen, nicht als
+Anbieter.** Elternzeit-, Krankheits- oder Kündigungslücken im QM. *„Du wirst für
+das Lernen bezahlt und kennst danach den Betrieb besser als jeder externe
+Anbieter."*
+**Kernthese:** *„Ein schlechtes Auditergebnis kostet nicht Geld. Es kostet
+Kunden."*
+**Margenlehre, im Buch neu:** **„Bei personenintensiven Modellen zählt nicht die
+Marge in Prozent, sondern der Deckungsbeitrag je Kunde."** 30 % bei zehn Kunden
+schlagen 60 % bei zwanzig kleinen (Gegenbeispiel D34).
+**Größtes Risiko:** Personenintensität — ab zwölf Kunden braucht es eine zweite
+fachlich gute Person. Dazu die Unvereinbarkeit von Beratung und Auditierung.
+**Recherchestand:** Zu prüfen: Anforderungen und Bewertungsstufen der
+Handelsstandards, Folgen von Abweichungen, Unvereinbarkeitsregeln.
+**Nicht wiederverwenden:** die Vertretung als Vertriebsweg · der
+Listungs-Satz · die Deckungsbeitrag-statt-Marge-Regel.
+
+---
+
+**Kategorie D abgeschlossen.** 11 Kapitel, 18.173 Wörter, ca. 61 Seiten.
+Notenspanne **4,2 bis 7,4**. Beide Zusagen der Einführung nachgerechnet und
+eingelöst (4 Nein-Antworten zur Software, 2 sofort startbare Modelle).
+
+**Zehn verschiedene erste Vertriebswege:** Sachverständige (D31), Prüfplakette
+(D32), Fuhrparkdienstleister (D33), künftige Selbständige (D34), Verwalter (D35),
+Etikettenlieferanten (D36), Farbengroßhandel (D37), Vereine im Umbruch (D38), die
+Benutzung selbst (D39), die Vertretung (D40).
 
 ---
 

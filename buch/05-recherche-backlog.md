@@ -116,6 +116,59 @@ nicht belegbar, ist die Aussage im Kapitel entsprechend zu entschärfen.
 kontrollierter Umgebung im Vergleich zu allgemein verfügbaren Diensten. Diese
 Differenz trägt in C23 und C25 eine Notenkorrektur und eine Sternebewertung.
 
+### Aus Kategorie D
+
+**D31 · Entsorgung.** Anwendungsbereich der Nachweis- und Registerpflichten,
+Erlaubnis- und Anzeigepflichten für Sammler und Beförderer, Aufbewahrungsfristen
+für Nachweise, Anforderungen an elektronische Signaturen im Nachweisverfahren.
+Zahl der Containerdienste in der Zielgröße.
+
+**D32 · Prüffristen Elektro.** Prüffristen für ortsveränderliche und ortsfeste
+Betriebsmittel und die Rolle der Gefährdungsbeurteilung. Anforderungen an die
+befähigte Person und Abgrenzung zur Elektrofachkraft — **davon hängt der
+Startbarkeits-Marker des Kapitels ab.** Marktübliche Preise je Gerät.
+Kalibrierintervalle und -kosten für Prüfgeräte.
+
+**D33 · Ambulante Pflege.** Vergütungssystematik ambulanter Leistungen und
+Behandlung von Wegezeiten — **das ist die Kernrechnung des Kapitels.**
+Mitbestimmungspflicht bei Dienstplanungs- und Auswertungssystemen.
+Arbeitszeitrechtliche Grenzen, die ein Planungssystem prüfen muss.
+Fluktuationsquoten in der ambulanten Pflege.
+
+**D34 · Fahrschulen.** Aufbewahrungs- und Nachweispflichten in der
+Fahrschulausbildung. Zahl der Fahrschulen in der Zielgröße und übliche
+Software-Ausstattung.
+
+**D35 · Mängelmanagement.** Gewährleistungsfristen im Bauvertragsrecht,
+insbesondere die unterschiedlichen Fristen gegenüber Erwerber und Nachunternehmer
+— **das ist die Kernthese des Kapitels.** Abgrenzung zur erlaubnispflichtigen
+Rechtsdienstleistung bei Fristenüberwachung.
+
+**D36 · Chargenrückverfolgung.** Umfang der Rückverfolgbarkeits- und
+Meldepflichten, Anforderungen an Eigenkontrolle und Dokumentation,
+Verantwortlichkeit des Lebensmittelunternehmers. Realistische Größenordnung von
+Rückrufkosten in Betrieben dieser Größe.
+
+**D37 · Aufmaß Maler.** Aufmaßregeln für Maler- und Lackiererarbeiten
+(Abzugsregeln). Marktpreise und Leistungsumfang vorhandener Aufmaß-Apps sowie die
+Frage, welche Hersteller solche Werkzeuge kostenlos beilegen — **darauf stützt
+sich die Note unter 5,0 und das muss belegt sein.**
+
+**D38 · Sportvereine.** Anforderungen an Lastschriftmandate und deren
+Aufbewahrung. Angebote der Landessportbünde und Verbände an ihre Mitgliedsvereine
+— **auch hier trägt die Aussage die Note.** Typische Fehlerquoten in
+Mitgliederbeständen, falls belegbar; andernfalls ist die Beispielrechnung
+entsprechend zu entschärfen.
+
+**D39 · Forschungseinrichtungen.** Anforderungen an Verwendungsnachweise bei
+Drittmitteln, Zulässigkeit von Umlage- und Nutzungsentgeltverfahren,
+Vergabewertgrenzen für Beschaffungen dieser Größenordnung.
+
+**D40 · Auditmanagement.** Anforderungen und Bewertungsstufen der verbreiteten
+Handelsstandards, Folgen von Abweichungen für Listungen,
+Unvereinbarkeitsregeln zwischen Beratung und Auditierung — **die letzte Frage
+entscheidet über eine der fünf Herausforderungen des Kapitels.**
+
 ## Praktikerprüfung
 
 Ergänzend zur Recherche: mindestens ein Telefonat je Kategorie, bei den zwanzig
