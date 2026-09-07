@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 36 von 116 Kapiteln (Teil I vollständig, 25 Modelle, 3 Kategorie-Einführungen). **Kategorien A und B vollständig, Kategorie C zu 5 von 11.**
+Stand nach 41 von 116 Kapiteln (Teil I vollständig, 30 Modelle, 3 Kategorie-Einführungen). **Kategorien A, B und C vollständig.**
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -31,9 +31,9 @@ Stand nach 36 von 116 Kapiteln (Teil I vollständig, 25 Modelle, 3 Kategorie-Ein
 |---|---:|---:|---|
 | 8,0–10,0 | 12–18 | 1 | **B19 (8,0)** — erstes Modell im Spitzenband |
 | *Anmerkung* | | | Korrekturen: 10× abwärts, 1× reine Aufwärtskorrektur (A06, +0,3 für den Verkaufsmoment), 1× zweiseitige Bilanz (A04). Damit ist gezeigt, dass das Instrument in beide Richtungen wirkt. |
-| 6,5–7,9 | 35–45 | 17 | B11 (7,8), A05 (7,6), B18 (7,5), A02 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), A10 (7,2), B14 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), C21 (6,8), A03 (6,7), A01 (6,6) |
-| 5,0–6,4 | 25–35 | 8 | A09 (6,3), B15 (6,3), A07 (6,2), C24 (6,0), A08 (5,9), B16 (5,8), C22 (5,6) |
-| unter 5,0 | 10–15 | 0 | — · **DRINGEND: nach 25 Modellen noch leer. Von den restlichen 75 muss etwa jedes fünfte hier landen. Erster fest eingeplanter Kandidat: C30 (Content-Produktion Autohäuser). Weitere bewusst in G (Handel), H (kapitalintensiv) und J (Plattformen) suchen** |
+| 6,5–7,9 | 35–45 | 18 | B11 (7,8), A05 (7,6), B18 (7,5), A02 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), A10 (7,2), B14 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), C21 (6,8), C26 (6,8), A03 (6,7), A01 (6,6) |
+| 5,0–6,4 | 25–35 | 10 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), C22 (5,6), C27 (5,4) |
+| unter 5,0 | 10–15 | 1 | **C30 (4,4)** — erstes Modell unter fünf Punkten, mit dem neuen Pflichtabschnitt „Was fehlen müsste". · **Weiterhin knapp: von den restlichen 70 Modellen müssen 9 bis 14 hier landen. Kandidaten in G (Handel), H (kapitalintensiv) und J (Plattformen)** |
 
 ---
 
@@ -1144,6 +1144,186 @@ Vertriebsweg · der Bezifferbarkeits-Satz · die Stuhlstundenrechnung ·
 „eine Eintrittsbarriere kostet und schützt zugleich".
 
 ---
+
+### C26 · Übersetzung und Terminologiepflege für technische Dokumentation — STANDARD
+1.954 Wörter · Note **6,8** (rechn. 6,6, **+0,2**: Der Übersetzungsmarkt ist
+zusammengebrochen, aber **nicht gleichmäßig** — der haftungsrelevante Teil nicht.
+Zwei Sterne für die Position sind für den Gesamtmarkt richtig und für dieses
+Segment zu streng) · Sterne 3/3/4/3 · 4/4/4/**2** · Einstieg 2 → Ziel 5.
+**Preise:** 4.500 € Terminologieaufbau · Übersetzung nach Umfang · **390 €/Monat
+Pflege** · vier Sprachen ≈ 2.190 €/Monat, rund 1.000 € Deckungsbeitrag (45 %).
+**Erster Vertriebsweg:** freiberufliche technische Redakteure als Zuträger — sie
+schreiben den Ausgangstext, arbeiten für 5–15 Firmen und übersetzen selbst nicht.
+Im Text **ausdrücklich nicht über Messemeldungen** (das ist A06).
+**Kernthese:** *„Nicht die Übersetzung ist knapp geworden, sondern die
+Gewissheit."* Verkauft wird **Widerspruchsfreiheit über den gesamten Bestand**.
+**Zweite Kernregel:** *„Wenn du deine Leistung nicht in derselben Einheit
+abrechnest wie dein Wettbewerber, wirst du nicht mit ihm verglichen."*
+**Softwareantwort: nein** — Muster wie B17 (Werkzeug käuflich), hier zum zweiten
+Mal, ausdrücklich als solches benannt.
+**Größtes Risiko:** Preisverfall je Wort, Position nur 2 Sterne.
+**Learnings (5):** such den Teil des Marktes, dessen Preis nicht fällt · nicht in
+der Einheit des Wettbewerbers abrechnen · such die Aufgabe, für die niemand
+zuständig ist · ein gepflegter Bestand bindet, auch wenn er dem Kunden gehört ·
+Freiberufler mit mehreren Auftraggebern sind der unterschätzteste B2B-Zugang.
+**Querverweis:** A06, in beide Richtungen (gleicher Kunde, gleiche Abteilung).
+**Recherchestand:** Zu prüfen: Sprachanforderungen an Betriebsanleitungen im
+europäischen Produktrecht, Verantwortlichkeit bei mangelhafter Übersetzung.
+**Nicht wiederverwenden:** freiberufliche Redakteure als Vertriebsweg · der
+Gewissheits-Satz · die Abrechnungseinheiten-Regel · die Widerspruchsliste als
+Türöffner.
+
+---
+
+### C27 · Auswertung von Wartungsberichten für FM-Dienstleister — KOMPAKT
+1.405 Wörter · Note **5,4** (rechn. 5,6, **−0,2**: **Kundenrisiko statt
+Modellrisiko** — der Kunde steckt selbst in einer Preisschlacht und gibt Vorteile
+nicht an Lieferanten weiter) · Sterne 3/**2**/3/3 · 3/**5**/3/**2** · Ziel 5.
+**Startbarkeitsmarker: sofort startbar** (unter 2.000 €) — zweite der drei Zusagen
+der C-Einführung eingelöst. Bleibt: **C30**.
+**Preise:** 3.900 € Analyseprojekt · **149 € je Objekt und Monat** · 40 Objekte =
+5.960 €, rund 2.400 € Deckungsbeitrag (40 %) · bei 5 Objekten Verlustgeschäft.
+**Erster Vertriebsweg:** laufende Ausschreibungen für FM-Verträge — **„Du
+verkaufst nicht dem Betrieb, sondern seinem Angebot."** Quelle sind dieselben
+Vergabeportale wie A05 und C24, aber **mit umgekehrter Blickrichtung: nicht die
+Vorhaben, sondern die Bieter.** Diese Umkehrung nicht streichen, sie rechtfertigt
+die dritte Verwendung derselben Datenquelle.
+**Kernthese:** *„Du verkaufst kein Berichtswesen. Du verkaufst Geld, das im
+eigenen Haus schon gefunden wurde und liegen geblieben ist."*
+**Softwareantwort: nein** — Muster wie C22 (Daten liegen beim
+CAFM-Softwarehersteller).
+**Größtes Risiko:** Insourcing ist hier nicht Risiko, sondern Ausgangszustand.
+**Learnings (5):** bei Kunden unter Preisdruck gegen Zusatzumsatz verkaufen, nicht
+gegen Zeitersparnis · Eingangsdaten prüfen, bevor man Auswertung verkauft · leicht
+zeigbar heißt leicht übernehmbar · eine Ausschreibung ist auch beim Bieter ein
+Kaufanlass · ein günstiges Einstiegsmodell darf eine schlechte Note haben.
+**Querverweis:** A09 — beide leben von unordentlichen Betriebsdaten, A09 hat einen
+Kaufanlass und steht deshalb fast einen Punkt höher.
+**Recherchestand:** Zu prüfen: Mitbestimmungspflicht bei Auswertungen mit
+Rückschluss auf einzelne Beschäftigte.
+**Nicht wiederverwenden:** FM-Ausschreibungen als Vertriebsweg · der
+Nachtrags-Satz · die 149-€-Rechnung.
+
+---
+
+### C28 · Bewerbervorqualifizierung für Personaldienstleister Pflege — STANDARD
+1.896 Wörter · Note **6,2** (rechn. 6,5, **−0,3**: **das Risiko liegt im Geschäft
+des Kunden, nicht im eigenen** — Zeitarbeit in der Pflege steht politisch unter
+Druck. Erste Korrektur dieser Art im Buch, ausdrücklich so begründet: „Alle acht
+Boxen bewerten dein Modell. Keine bewertet, wie sicher das Geschäft deines Kunden
+ist.") · Sterne 3/3/3/3 · 4/4/4/**2** · Einstieg 2 → Ziel 6.
+**Preise:** 2.900 € Einrichtung je Niederlassung · **590 €/Monat je
+Niederlassung** · 10 Niederlassungen = 5.900 €, rund 4.000 € Deckungsbeitrag
+(**knapp 70 %, beste Margenstruktur der Kategorie**).
+**Erster Vertriebsweg:** der Niederlassungsleiter **als Person, nicht die Firma** —
+hohe Fluktuation in der Rolle. **„Ein Kunde, der die Firma wechselt, ist kein
+Verlust, sondern ein zweiter Kunde."**
+**Leitkennzahl:** Zeit bis zur ersten Rückmeldung — im Text als die Zahl benannt,
+die fast niemand misst.
+**Softwareantwort: ja**, ab ca. 50 Niederlassungen und zwei eigenen
+Systemanbindungen; mit dem ausgesprochenen Haken, dass man damit in den lauten
+Recruiting-Softwaremarkt eintritt.
+**Größtes Risiko:** Der erste Eindruck beim Bewerber ist deiner, der Ruf ist der
+des Kunden.
+**Learnings (5):** such Märkte mit gedrehten Machtverhältnissen · miss die
+Kennzahl, die niemand misst · in Branchen mit hoher Fluktuation an Personen
+verkaufen · Nutzen außerhalb der Arbeitszeit wird selten verhandelt · prüf auch
+das Risiko im Geschäft deines Kunden.
+**Recherchestand:** Zu prüfen: zulässige Fragen im Bewerbungsverfahren,
+Löschfristen für Bewerberdaten, Kennzeichnungspflicht bei automatisierter
+Kommunikation.
+**Nicht wiederverwenden:** der Niederlassungsleiter als Vertriebsweg · der
+Firmenwechsel-Satz · die Achtzehn-Bewerbungen-Rechnung.
+
+---
+
+### C29 · Bestandsaufbereitung und Dokumentation für Versicherungsmakler — STANDARD
+1.849 Wörter · Note **5,9** (rechn. 5,9, **keine Korrektur** — die Schwäche liegt
+vollständig in der Monetarisierung und ist dort mit 2 Sternen abgebildet) ·
+Sterne **2**/3/3/4 · 3/4/3/**2** · Einstieg 2 → **Ziel nur 4**.
+**Preise:** **1,90 € je Vertrag**, min. 2.500 € je Projekt · **119 € je Nutzer und
+Monat** · 4.000 Verträge = 7.600 €, rund 3.000 € (40 %) · 20 Makler ≈ 4.800 €/Monat
+aus Pauschalen.
+**Erster Vertriebsweg:** Erfahrungsaustauschkreise (geschlossene Maklergruppen).
+**„In einen geschlossenen Kreis kommst du nur über ein Mitglied — dafür bekommst
+du dann alle."**
+**Kernthese des Kapitels:** **„Wo der Kunde seine Werkzeuge geschenkt bekommt, ist
+der Preis kein Verhandlungsthema, sondern ein Rechtfertigungsproblem."** Die
+Maklerpools stellen Software kostenlos, quersubventioniert aus Courtagen. Erstes
+Modell im Buch, dessen Hauptwettbewerber der Preis **null** ist.
+**Softwareantwort: nein** — achtes Muster in Kurzform: **„Gegen null verkauft man
+keine Software."**
+**Größtes Risiko:** Kundenstamm mit hohem Durchschnittsalter — Kaufanlass und
+Ablaufdatum in einem.
+**Learnings (5):** prüfen, ob der Kunde Ähnliches bereits kostenlos bekommt ·
+dort verkaufen, wo das kostenlose Angebot aufhört · geschlossene Gruppen sind
+teuer beim ersten und billig bei den nächsten Kunden · alter Kundenstamm ist
+Chance und Ablaufdatum · **nicht jedes Modell muss wachsen**.
+**Querverweis A07 — bewusst überraschend und zu erhalten:** A07 endet auf Stufe 3
+und hat 6,2; C29 hat eine laufende Pflicht und nur 5,9. *„Ein besseres Modell mit
+einem schlechteren Preis verliert gegen ein schwächeres Modell mit einem
+durchsetzbaren."*
+**Recherchestand:** Zu prüfen: Dokumentationspflichten in der
+Versicherungsvermittlung, Zulässigkeit der Auslagerung an Dritte.
+**Nicht wiederverwenden:** ERFA-Kreise als Vertriebsweg · der Geschenkte-Werkzeuge-
+Satz · „gegen null verkauft man keine Software".
+
+---
+
+### C30 · Fahrzeugbeschreibungen und Inserate für Autohäuser — KOMPAKT
+1.532 Wörter · Note **4,4** (rechn. 4,4, **keine Korrektur** — im Text
+ausdrücklich: eine Aufwärtskorrektur für die Startbarkeit wäre eine
+Doppelzählung, sie steht schon als 5 Sterne in der Kapitalleichtigkeit) ·
+Sterne **2**/**2**/**2**/**2** · 3/**5**/**2**/**1** · Ziel nur 4.
+
+**★ DAS ERSTE MODELL UNTER 5,0. ★** Dritte und letzte Zusage der C-Einführung
+(sofort startbar) ebenfalls eingelöst.
+
+**Erster einzelner Stern im Buch** (Wettbewerbsposition) — keine Qualifikation,
+kein Vertrauensverhältnis, keine Regulierung, keine Datenhürde. Insourcing ist
+nicht Risiko, sondern **Ausgangszustand**.
+**Preise:** **9 € je Fahrzeug**, ab 100 Stück 7 €, Bildbearbeitung +3 € · 300
+Fahrzeuge = 2.100 €, rund 700 € Deckungsbeitrag · für einen Lebensunterhalt
+6–8 solcher Kunden = ca. 200 Arbeitsstunden im Monat.
+**Erster Vertriebsweg:** freie Händler mit sichtbarem Standzeitproblem. **„Der
+Vertriebsweg steht im Schaufenster deines Kunden."**
+**Kernthese:** **„Du verkaufst eine Arbeit, die dein Kunde für unwichtig hält und
+selbst erledigen kann. Das ist die Definition eines schlechten Geschäfts."**
+
+**NEUES STRUKTURELEMENT — nur bei Modellen unter 5,0: „Was fehlen müsste, damit
+daraus ein Geschäft wird".** Drei konkrete Bedingungen (andere Abrechnungseinheit
+· anderer Kunde: Gruppe oder Hersteller · eine Leistung, die im Haus nicht
+vorhanden ist), plus die ehrliche Schlussfolgerung, dass man damit ein anderes
+Modell hat. **Dieses Element ist ab hier für jedes Modell unter 5,0 verbindlich.**
+
+**Zwei Sätze, die im ganzen Buch gebraucht werden:**
+1. *„Eine Note unter fünf heißt nicht, dass man damit kein Geld verdienen kann.
+   Sie heißt, dass dieselbe Arbeit in einem anderen Modell mehr wert wäre."*
+2. **„Startbarkeit und Qualität sind zwei verschiedene Dinge, und sie hängen eher
+   negativ zusammen."** — begründet an C30 selbst: sofort startbar **und**
+   schlechteste Note. Diese Kalibrierung ist wichtig für Teil III und für die
+   Startbarkeits-Register im Anhang.
+
+**Learnings (5):** eine Leistung, die der Kunde selbst kann und für unwichtig
+hält, hat keinen Preis · Startbarkeit ist kein Qualitätsmerkmal · prüf, ob dein
+Nutzen dir zurechenbar ist · wiederkehrende Aufträge sind kein wiederkehrender
+Umsatz · frag bei jedem schwachen Modell, was fehlen müsste.
+**Querverweis:** vorwärts auf die G-Kategorie (Handel) — gleiche Grundschwäche.
+**Nicht wiederverwenden:** das Schaufenster als Vertriebsweg · der
+Definitions-Satz · die Startbarkeits-Regel · die 9-€-Rechnung.
+
+---
+
+**Kategorie C abgeschlossen.** 11 Kapitel, 20.355 Wörter, ca. 68 Seiten.
+Notenspanne **4,4 bis 7,3** — die breiteste Spanne der bisherigen Kategorien.
+Alle drei Zusagen der Einführung eingelöst: C24, C27 und C30 tragen den Marker
+„sofort startbar", kein anderes Modell der Kategorie.
+
+**Zehn verschiedene erste Vertriebswege in einer Kategorie** — Pilot mit Zettel
+(C21), Nachfolgegeneration (C22), Stellenanzeigen (C23), Handelsvertreter (C24),
+Fachpresse-Erfahrungsbericht (C25), freiberufliche Redakteure (C26),
+FM-Ausschreibungen (C27), Niederlassungsleiter als Person (C28),
+Erfahrungsaustauschkreise (C29), sichtbare Standzeiten (C30).
 
 ---
 

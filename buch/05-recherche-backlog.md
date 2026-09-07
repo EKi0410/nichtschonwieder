@@ -82,6 +82,36 @@ verbreiteten Termin- und Praxisverwaltungssysteme — **davon hängt die
 Softwareantwort des Kapitels ab**. Realistische Ertragswerte je Behandlungsstunde
 und Ausfallquoten in Zahnmedizin und Physiotherapie.
 
+**C26 · Technische Übersetzung.** Sprachanforderungen an Betriebsanleitungen und
+Sicherheitshinweise im europäischen Produktrecht. Verantwortlichkeit bei
+mangelhafter Übersetzung sicherheitsrelevanter Angaben. Marktübliche Wortpreise
+und deren Entwicklung der letzten Jahre — **die Aussage vom Preisverfall trägt
+die Notenkorrektur des Kapitels und muss belegt sein.**
+
+**C27 · Wartungsberichte FM.** Mitbestimmungspflicht bei Auswertungen, die
+Rückschlüsse auf einzelne Beschäftigte zulassen. Übliche Nachtragsquoten in
+FM-Verträgen. Struktur und Fundstellen der Vergabeportale für FM-Ausschreibungen.
+
+**C28 · Bewerbervorqualifizierung.** Zulässige Fragen im Bewerbungsverfahren
+(Benachteiligungsverbot). Löschfristen für Bewerberdaten. Kennzeichnungspflicht
+bei automatisierter Kommunikation gegenüber Bewerbern. Aktueller Stand der
+politischen Diskussion um Zeitarbeit in der Pflege — **diese Aussage trägt die
+Notenkorrektur und darf nicht veralten.** Verbreitete Bewerbermanagementsysteme
+und deren Schnittstellen.
+
+**C29 · Versicherungsmakler.** Umfang und Form der Dokumentationspflichten in der
+Versicherungsvermittlung. Zulässigkeit der Auslagerung dieser Dokumentation an
+Dritte. Anforderungen an die Verarbeitung von Vertrags- und Gesundheitsdaten.
+**Leistungsumfang der kostenlosen Poolangebote — die zentrale These des Kapitels
+steht und fällt damit.** Altersstruktur der Maklerschaft und Zahl der
+anstehenden Bestandsübertragungen.
+
+**C30 · Autohaus-Inserate.** Übliche Vergütungen für Inseratserstellung.
+Automatische Textgenerierung durch die Verkaufsportale und die Herstellersysteme
+— **das ist das Hauptargument für die Wettbewerbsposition mit einem Stern.**
+Zusammenhang zwischen Inseratsqualität und Standzeit, sofern belegbar; wenn
+nicht belegbar, ist die Aussage im Kapitel entsprechend zu entschärfen.
+
 **Kategorieweit.** Nutzungskosten für Sprach- und Textverarbeitung in
 kontrollierter Umgebung im Vergleich zu allgemein verfügbaren Diensten. Diese
 Differenz trägt in C23 und C25 eine Notenkorrektur und eine Sternebewertung.
