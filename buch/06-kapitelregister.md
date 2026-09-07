@@ -15,12 +15,12 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 5 von 116 Kapiteln.
+Stand nach 6 von 116 Kapiteln.
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
 | „Denk darüber nach" | 20 | 1 | I.1 |
-| „Unternehmerische Frage" | 16 | 1 | I.2 |
+| „Unternehmerische Frage" | 16 | 2 | I.2, I.6 |
 | „Perspektivwechsel" | 12 | 2 | I.3, I.5 |
 | Kraftausdrücke | ca. 20 | 2 | I.2, I.4 |
 
@@ -48,6 +48,10 @@ Jeder Begriff wird im Buch **einmal** erklärt, danach ohne Erklärung benutzt.
 | Produktisierung | I.5 |
 | Preisanker | I.5 |
 | Upsell | I.5 |
+| Retainer | I.6 |
+| Deckungsgrad der Fixkosten (Leitkennzahl) | I.6 |
+| Churn | I.6 |
+| Guthaben als Verbindlichkeit | I.6 |
 
 ---
 
@@ -70,6 +74,11 @@ Kein Beispiel wird zweimal als Hauptbeispiel verwendet.
 | Glasreinigung „Paket M": bis 40 Flächen, 4 Termine, 890 €/Jahr bzw. 74 €/Monat | I.5 | Einstieg, Muster eines produktisierten Angebots |
 | Fensterreinigung im Minijob: drei Pakete, Preisanker in der Mitte, Fünf-Schritt-Ablauf | I.5 | Hauptbeispiel — **das Credit-Abo aus derselben Geschichte ist für I.6 reserviert** |
 | IT-Bestandsaufnahme 890 €, zwei Tage, Prioritätenliste | I.5 | Diagnose als eigenes Produkt |
+| Poolbauer: 40.000 € Einmalauftrag, 400 Pools nach zehn Jahren | I.6 | Einstieg, Bestand als Markt |
+| 50-Euro-Retainer für die erste Webseite | I.6 | Hauptbeispiel — **verbraucht, in Teil III nur noch als Rückverweis** |
+| Deckungsgrad-Rechnung: 2.500 € Fixkosten, 1.000 € wiederkehrend = 40 % | I.6 | Leitkennzahl — **diese Zahlen in Teil III Kapitel 8 wieder aufgreifen, nicht neu erfinden** |
+| Webseite 3.600 € als „150 € × 24 Monate" | I.6 | Beispiel für ein Abo, das lügt |
+| Credit-Abo Fensterreinigung | I.6 | Guthaben bei unregelmäßigem Bedarf, samt Kehrseite |
 
 ---
 
@@ -269,6 +278,52 @@ vorwärts auf I.6 als ausdrückliche Brücke am Kapitelende
 **Offene Fäden:** I.6 muss den Credit-Abo-Fall aus derselben
 Fensterreinigungs-Geschichte einlösen · der Garantie-Hebel wird in Teil II in
 vielen Modellen wieder gebraucht
+
+### I.6 — Wiederkehrender Umsatz
+**Umfang:** ca. 1.435 Wörter, ca. 4,8 S. · **Status:** freigegeben (vorbehaltlich
+Autorenabnahme)
+**Einstiegstyp:** konkrete Kundensituation (Poolbauer)
+
+**Kernthesen**
+1. Wer etwas Langlebiges verkauft, sitzt auf seinem eigenen Markt. Die selbst
+   installierte Basis ist ein Vertriebskanal, den man besitzt und ignoriert.
+2. Retainer definiert: laufender Betrag für Bereitschaft und Betreuung.
+3. **Leitkennzahl des Buches:** Deckungsgrad der Fixkosten durch wiederkehrenden
+   Umsatz. Zwei Unternehmen mit identischem Umsatz können 0 und 90 Prozent haben
+   und sind völlig verschiedene Unternehmen.
+4. Der Abo-Test: Kann der Kunde in einem Satz sagen, wofür er jeden Monat zahlt?
+5. Wenn nicht, ist es eine Ratenzahlung mit hübschem Namen — mit eingebauter
+   Kündigung zum Ende der Laufzeit. Das ist kein Churn, das war nie ein Abo.
+6. Bei unregelmäßigem Bedarf: Guthabenmodell. Aber ein Guthaben ist eine Schuld —
+   Kapazitätsspitze beim Abruf, Churn bei Verfall. Drei Gegenmaßnahmen.
+7. Drei Kündigungstypen mit drei verschiedenen Antworten: Nutzenzweifel
+   (Zurechnungsproblem → wer wiederkehrend abrechnet, muss wiederkehrend
+   berichten) · Substitution (→ Wechselkosten) · Insourcing (→ nicht heilbar,
+   Modellmerkmal).
+8. Bei einfachen Dienstleistungen ist der Kunde selbst der stärkste Wettbewerber.
+9. Paradox: Je besser das Wartungsabo funktioniert, desto unsichtbarer wird es.
+   Gegenmaßnahme ist sichtbare Betreuung, auch wenn es nichts zu melden gibt.
+10. Churn ist kein Vertriebsproblem, sondern die Rückmeldung des Produkts. Wer
+    darauf mit Werbung reagiert, füllt einen Eimer mit Loch.
+
+**Enthält ausdrücklich** die Einschränkung, dass die niedrige Kündigungsquote des
+Autors kein Beweis ist — zu wenige Kunden über zu wenige Jahre, nur ein Hinweis.
+
+**Autorenmaterial:** G21 (Poolbauer), G2 (50-Euro-Retainer, inkl. der
+Fehldeutung der sofortigen Zusage), G6 (Credit-Abo mit Kehrseite), G8 (beide
+Bedingungen, Paradox, wörtliche Betreuungsansprache), G9 (alle drei
+Kündigungstypen), Kennzahl 6
+
+**Sparsame Elemente:** „Unternehmerische Frage" (1.000 € einmalig — welcher Teil
+monatlich, und wofür)
+**Kraftausdrücke:** keiner
+
+**Querverweise:** zurück auf I.5 (produktisiertes Angebot), vorwärts auf Teil III
+Kapitel 4 (warum die sofortige Zusage ein Warnsignal ist) und Teil III Kapitel 8
+(Deckungsgrad), sowie auf die Insourcing-Frage in allen Modellen von Teil II
+**Offene Fäden:** Teil III Kapitel 4 muss die sofortige Zusage einlösen · Teil III
+Kapitel 8 muss die Deckungsgrad-Zahlen aus diesem Kapitel wieder aufgreifen ·
+Teil II braucht in jedem Modell die Insourcing-Frage
 
 ---
 
