@@ -15,14 +15,14 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 3 von 116 Kapiteln.
+Stand nach 4 von 116 Kapiteln.
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
 | „Denk darüber nach" | 20 | 1 | I.1 |
 | „Unternehmerische Frage" | 16 | 1 | I.2 |
 | „Perspektivwechsel" | 12 | 1 | I.3 |
-| Kraftausdrücke | ca. 20 | 1 | I.2 |
+| Kraftausdrücke | ca. 20 | 2 | I.2, I.4 |
 
 **Notenverteilung Teil II** *(Ziel: 12–18 Modelle bei 8,0–10,0 · 35–45 bei
 6,5–7,9 · 25–35 bei 5,0–6,4 · 10–15 unter 5,0)*
@@ -43,6 +43,8 @@ Jeder Begriff wird im Buch **einmal** erklärt, danach ohne Erklärung benutzt.
 | Marge | I.3 |
 | Deckungsbeitrag | I.3 |
 | Nische als Vertriebsentscheidung | I.3 |
+| Cashflow | I.4 |
+| Anzahlung als Cashflow-Instrument | I.4 |
 
 ---
 
@@ -60,6 +62,8 @@ Kein Beispiel wird zweimal als Hauptbeispiel verwendet.
 | Tennisverein, Turnieranmeldung, Sportwart | I.3 | Zugang und Glaubwürdigkeit; wird in I.7 für die Stufenlogik wieder aufgegriffen |
 | Managed IT Arztpraxis (nur als Gegenstück) | I.3 | Nischenpaar — **Modelle B11/B12 in Teil II** |
 | 17 Kunden (40.000 € Gewinn ÷ 200 € Marge) | I.3 | Einstieg |
+| Dropshipping-Rechnung: 30 € Verkauf, 12 € Einkauf, 14 € Werbung, 4 € Gewinn, Zahlungsfluss über drei Wochen | I.4 | Cashflow gegen Gewinn — **modellhaft gerechnet, nicht die echten Zahlen des Autors** |
+| Erste verkaufte Webseite mit Einrichtungsgebühr | I.4 | nur als Gegenbild zum Shop — **der 50-Euro-Retainer gehört zu I.6 und ist dort noch frei** |
 
 ---
 
@@ -176,6 +180,48 @@ Nischenpaare in Teil II
 muss die Kaltakquise-Rechtslage liefern · die Nischenpaare B11/B12 und C21/C25
 müssen in Teil II ausdrücklich aufeinander verweisen · die Preisanker für
 Managed IT Kanzlei sind ab jetzt gesetzt
+
+### I.4 — Die Dienstleistung als Einstieg
+**Umfang:** ca. 1.385 Wörter, ca. 4,6 S. · **Status:** freigegeben (vorbehaltlich
+Autorenabnahme)
+**Einstiegstyp:** ein Einwand („Dienstleistung skaliert nicht")
+
+**Kernthesen**
+1. Der Einwand stimmt, ist am Anfang aber die falsche Frage.
+2. Gewinn kann man ausrechnen, Cashflow ist der Kontostand. Ein Geschäft kann
+   rechnerisch verdienen und daran sterben, dass das Geld immer schon ausgegeben
+   ist, bevor es ankommt.
+3. Der Unterschied zwischen Shop und Dienstleistung ist nicht die Marge, sondern
+   wann das Geld kommt.
+4. Zwei Regeln: Anzahlung nehmen · nichts kaufen, bevor jemand bezahlt hat.
+5. Drei Bedingungen an die erste Dienstleistung: allein lieferbar · in einer
+   Woche lieferbar · der Kunde merkt hinterher, ob es gewirkt hat.
+6. Die ersten zwanzig Aufträge sind bezahlte Ausbildung. Fünf Dinge lernt man
+   dort und nirgends sonst; das Wichtigste ist, was jedes Mal gleich ist — der
+   Rohstoff für Produktisierung.
+7. Der Vorsprung liegt nicht in dem, was du gebaut hast, sondern in dem, was du
+   gesehen hast. Produkte sind kopierbar, zwanzig Aufträge nicht.
+8. Ohne die Dienstleistungsphase baut man die Funktionen, die man sich vorstellen
+   kann — nicht die, auf die man beim vierzehnten Auftrag stößt.
+9. Ehrlicher Preis: Verkaufte Zeit skaliert nicht von selbst, und mehr Köpfe sind
+   erst dann Gewinn, wenn der Deckungsbeitrag je Kopf die Kosten je Kopf
+   übersteigt.
+
+**Autorenmaterial:** G1 (Shop und Wechsel wegen Cashflow), G17 (auf Kante gelebt,
+hätte früher aufhören sollen), G19 (Nachbaubarkeit), G16 (Präzisierung zur
+personalgebundenen Skalierung), G2 (nur angerissen)
+
+**Sparsame Elemente:** keines — bewusst. Nach drei Kapiteln mit
+Schlusselement wäre ein viertes ein Muster. Das Kapitel endet auf einer
+Behauptung.
+**Kraftausdrücke:** 1 — in der Shop-Passage
+
+**Querverweise:** vorwärts auf I.6 (warum der Kunde die Wirkung merken muss),
+I.7 (Grenze der Skalierung, Softwarebedingungen), Teil III (schlechte Kunden
+erkennen); zurück auf I.2 (Maler) und I.3 (Mai bis Juli)
+**Offene Fäden:** I.6 muss einlösen, warum spürbare Wirkung über Verlängerung
+entscheidet · I.7 muss die Softwarebedingungen liefern · Teil III muss das
+Erstgespräch-Warnzeichen liefern
 
 ---
 
