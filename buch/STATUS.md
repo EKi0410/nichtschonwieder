@@ -4,8 +4,8 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     1 / 116 Kapitel und Modelle final
-Teil I:     1 / 7 Kapitel + 0 / 1 Zwischenstück
+Gesamt:     2 / 116 Kapitel und Modelle final
+Teil I:     2 / 7 Kapitel + 0 / 1 Zwischenstück
 Teil II:    0 / 100 Modelle, alle in voller Tiefe
             0 / 20 Leitmodelle (4,5 S.)
             0 / 60 Standardkapitel (3,5 S.)
@@ -81,6 +81,7 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Kapitel | Wörter | Seiten | Status |
 |---|---:|---:|---|
 | Teil I, 1 — Eine Idee ist kein Geschäftsmodell | 1.390 | ca. 4,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil I, 2 — Probleme schlagen Ideen | 1.395 | ca. 4,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 
 ## Änderungsprotokoll
 
