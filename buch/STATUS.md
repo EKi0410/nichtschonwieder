@@ -4,11 +4,12 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     16 / 116 Kapitel und Modelle final
+Gesamt:     21 / 116 Kapitel und Modelle final
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
-Teil II:    7 / 100 Modelle, alle in voller Tiefe
+Teil II:    12 / 100 Modelle — Kategorie A vollständig
             4 / 20 Leitmodelle
-            4 / 60 Standardkapitel
+            5 / 60 Standardkapitel
+            3 / 20 kompakte Vollkapitel
             1 / 10 Kategorie-Einführungen
             0 / 60 Standardkapitel (3,5 S.)
             0 / 20 kompakte Vollkapitel (2,8 S.)
@@ -100,6 +101,12 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Teil II, A03 — Lieferketten-Nachweise Industriezulieferer | 1.857 | ca. 6,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, A04 — Arbeitszeiterfassung Gastronomie | 2.054 | ca. 6,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, A05 — Vergabe-Monitoring Handwerk | 2.470 | ca. 8,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, A06 — Technische Dokumentation Maschinenbau | 1.724 | ca. 5,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, A07 — Mandanten-Onboarding Steuerkanzleien | 1.067 | ca. 3,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, A08 — Nachhaltigkeitsdaten Zulieferer | 1.383 | ca. 4,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, A09 — Stammdatenbereinigung Instandhaltung | 981 | ca. 3,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, A10 — Personaldokumenten-Service Pflege | 1.116 | ca. 3,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| **Kategorie A, Summe** | **17.405** | **ca. 58** | **vollständig, 11 Kapitel** |
 
 ## Änderungsprotokoll
 

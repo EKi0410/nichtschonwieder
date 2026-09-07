@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 16 von 116 Kapiteln (Teil I vollständig, 7 Modelle, 1 Kategorie-Einführung).
+Stand nach 21 von 116 Kapiteln (Teil I vollständig, 12 Modelle, 1 Kategorie-Einführung). **Kategorie A vollständig.**
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -29,11 +29,11 @@ Stand nach 16 von 116 Kapiteln (Teil I vollständig, 7 Modelle, 1 Kategorie-Einf
 
 | Band | Ziel | vergeben | Modelle |
 |---|---:|---:|---|
-| 8,0–10,0 | 12–18 | 0 | — |
-| *Anmerkung* | | | **Alle sieben Notenkorrekturen bisher gingen nach unten, eine davon in einer Bilanz mit einer Aufwärtskorrektur (A04). Bei künftigen Modellen ist bewusst zu prüfen, wo eine Aufwärtskorrektur ehrlich wäre — sonst wirkt das Instrument als Einbahnstraße.** |
-| 6,5–7,9 | 35–45 | 7 | B11 (7,8), A05 (7,6), A02 (7,4), A04 (7,1), C21 (6,8), A03 (6,7), A01 (6,6) |
-| 5,0–6,4 | 25–35 | 0 | — |
-| unter 5,0 | 10–15 | 0 | — |
+| 8,0–10,0 | 12–18 | 0 | — · **nach 12 Modellen noch leer, im Blick behalten** |
+| *Anmerkung* | | | Korrekturen: 10× abwärts, 1× reine Aufwärtskorrektur (A06, +0,3 für den Verkaufsmoment), 1× zweiseitige Bilanz (A04). Damit ist gezeigt, dass das Instrument in beide Richtungen wirkt. |
+| 6,5–7,9 | 35–45 | 9 | B11 (7,8), A05 (7,6), A02 (7,4), A06 (7,3), A10 (7,2), A04 (7,1), C21 (6,8), A03 (6,7), A01 (6,6) |
+| 5,0–6,4 | 25–35 | 3 | A09 (6,3), A07 (6,2), A08 (5,9) |
+| unter 5,0 | 10–15 | 0 | — · **noch leer; 10–15 Modelle müssen hier landen, sonst ist das Buch gefällig** |
 
 ---
 
@@ -696,6 +696,86 @@ Haftungsbegrenzung, typische Streitfälle.
 **Nicht wiederverwenden:** Vergabeergebnisse als Vertriebsweg · „ausgeschlossen
 wird nicht das schlechte Angebot, sondern das unvollständige" · die
 Zuschlagsquoten-Rechnung · „öffentliche Daten sind Vertriebslisten".
+
+---
+
+### A06 · Technische Dokumentation für Maschinenbauer — STANDARD
+1.724 Wörter · Note **7,3** (rechn. 7,0, **+0,3 — erste reine
+Aufwärtskorrektur:** die Sterne bilden nicht ab, dass bei blockierter
+Schlusszahlung die Zahlungsbereitschaft praktisch unbegrenzt ist) · Sterne
+4/3/4/3 · 3/4/4/4 · Ziel 4, Stufe 6 nein · ab 3.000 €, technische Qualifikation.
+**Preise:** 2.500–8.000 € je Maschine, Pflegevertrag 200–500 €/Monat · Marge
+beim 1. Projekt fast null, beim 4. zwei Drittel.
+**Erster Vertriebsweg:** über öffentlich angekündigte neue Baureihen
+(Messemeldungen) — neue Maschine heißt zwingend neue Dokumentation.
+**Kernsatz:** „Die Maschine ist fertig. Das Geld kommt nicht, weil ein Ordner
+fehlt."
+**Nicht wiederverwenden:** Messemeldungen als Vertriebsweg · der Ordner-Satz ·
+„Wiederkaufrate ist nicht Recurring Revenue".
+
+---
+
+### A07 · Mandanten-Onboarding für Steuerkanzleien — KOMPAKT
+1.067 Wörter · Note **6,2** (rechn. 6,5, −0,3: zwei Sterne bei Recurring
+beschönigen noch) · Sterne 3/3/3/2 · 4/5/4/3 · **Ziel Stufe 3 — bleibt dort
+stehen, und das ist der Befund des Kapitels** · **sofort startbar**.
+**Preise:** 180–400 € je Mandant · 20 Anbindungen/Monat ≈ 5.600 €.
+**Erster Vertriebsweg:** Kanzleien nach einer Kanzleiübernahme (Migration von
+hunderten Mandanten, mit Frist und Budget).
+**Wichtig:** Kunde und Entscheider identisch mit B11 — dort beschrieben, hier
+ausdrücklich nicht wiederholt. Weg von A07 zu B11 im Text angelegt.
+**Nicht wiederverwenden:** Kanzleiübernahme als Vertriebsweg · „wiederkehrende
+Aufträge sind kein wiederkehrender Umsatz".
+
+---
+
+### A08 · Nachhaltigkeitsdaten für Zulieferer — STANDARD
+1.383 Wörter *(kürzer als das Standardmaß — das Modell gibt nicht mehr her, und
+das ist regelkonform)* · Note **5,9** (rechn. 6,5, **−0,6, größter Abzug
+bisher:** die Kernarbeit wird gerade automatisiert; zwei Sterne bei der Position
+bedeuten hier „zeitlich begrenzt", nicht „schwierig") · Sterne 3/3/3/4 ·
+4/4/3/2 · Ziel 4, Stufe 6 nein.
+**Abgrenzung zu A03 — im Text ausdrücklich:** derselbe Auslöser, andere Arbeit.
+A03 verlangt Eingriffe in die Produktion, A08 ist Datensammlung. Leichter zu
+liefern, leichter zu verdrängen.
+**Erster Vertriebsweg:** über Energieberater und ihre Bestandskunden.
+**Besonderheit:** Erstes Modell im Buch, von dem der Autor ausdrücklich abrät,
+wenn jemand nichts anderes vorhat.
+**Nicht wiederverwenden:** Energieberater als Vertriebsweg · „was leicht zu
+liefern ist, ist leicht zu verdrängen" · „ein Geschäft mit Ablaufdatum".
+
+---
+
+### A09 · Stammdatenbereinigung Instandhaltung — KOMPAKT
+981 Wörter · Note **6,3** (rechn. 6,8, −0,5: zwei Sterne beim Vertrieb gewichten
+zu schwach, dass der Kaufanlass alle acht Jahre eintritt) · Sterne 4/2/3/3 ·
+4/4/4/4 · Ziel 4, Stufe 5 besonders wichtig, Stufe 6 nein.
+**Preise:** Projekt 8.000–40.000 €, Pflege 400–1.200 €/Monat.
+**Erster Vertriebsweg:** ERP-Beratungshäuser und Systemintegratoren; die
+Systemmigration ist der einzige Kaufanlass.
+**Kernsatz:** Ein vermiedener Stillstandstag bezahlt das ganze Projekt.
+**Nicht wiederverwenden:** ERP-Partnerlisten als Vertriebsweg · „ein Modell ohne
+Kaufanlass ist kein Modell" · die Stillstandskostenrechnung.
+
+---
+
+### A10 · Personaldokumenten-Service Pflegedienste — KOMPAKT
+1.116 Wörter · Note **7,2** (rechn. 7,5, −0,3: abgerechnet wird je Mitarbeiter,
+gearbeitet wird je Wechsel) · Sterne 3/3/4/5 · 4/5/4/3 · **Ziel Stufe 5,
+Automatisierung zwingend** · **sofort startbar**.
+**Preise:** Aufarbeitung 1.500–4.000 €, 4–9 €/Mitarbeiter/Monat · 15 Dienste ×
+60 MA ≈ 5.400 €/Monat · Deckungsbeitrag ca. 4.880 €.
+**Erster Vertriebsweg:** Abrechnungsdienstleister der Pflegedienste — sie sehen
+Vergütungskürzungen als Erste.
+**Stärkstes Recurring-Profil der Kategorie A** (5 Sterne).
+**Nicht wiederverwenden:** Abrechnungsdienstleister als Vertriebsweg · die
+Lückenliste als Verkaufsmittel · „rechne ab, wie du arbeitest".
+
+---
+
+**Kategorie A abgeschlossen.** 11 Kapitel, 17.405 Wörter, ca. 58 Seiten.
+Notenspanne 5,9 bis 7,6. Sofort startbar wie in der Einführung angekündigt:
+A02, A04, A07, A10 — Zusage eingehalten.
 
 ---
 
