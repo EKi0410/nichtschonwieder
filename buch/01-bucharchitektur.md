@@ -333,9 +333,13 @@ Ein Kanal statt fünf. Die Zahlen, die man ab Kunde eins mitschreibt.
 Wann man den ersten Vertriebsmitarbeiter einstellt und warum es fast immer zu
 früh passiert.
 
-**6. Prozesse, Menschen, Delegation.**
-Wie aus dem, was man tut, etwas wird, das jemand anders tun kann. Die erste
-Einstellung. Warum die meisten Inhaber die falsche Rolle abgeben.
+**6. Wie du allein mehr schaffst, bevor du jemanden einstellst.**
+Prozesse, Vorlagen, Automatisierung, und was man an Freie auslagert statt
+einzustellen. Wie aus dem, was du tust, etwas wird, das nicht mehr in deinem
+Kopf steckt. Wann die erste Einstellung wirklich dran ist — und warum sie fast
+immer zu früh kommt, weil ein voller Kalender wie Wachstum aussieht und meistens
+schlechte Organisation ist. Zur eigentlichen Personalführung sagt dieses Kapitel
+bewusst wenig: Da war ich selbst noch nicht.
 
 **7. Automatisierung, die Softwarefrage, Skalierung.**
 Der Entscheidungsbaum vor jeder Softwareentwicklung. Make or buy. Was

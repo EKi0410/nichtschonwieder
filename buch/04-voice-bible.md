@@ -387,16 +387,14 @@ Praktikergesprächen wird dafür nicht mehr benötigt.
 **Wettbewerbsposition** muss den Kunden selbst als möglichen Wettbewerber
 mitdenken. Umgesetzt in `03-kapitelvorlage-bewertungssystem.md`, Abschnitt 3.3.
 
-**G10 — Die Nische aus dem eigenen Umfeld: Feuerwehr**
+**G10 — Die Nische kommt aus dem eigenen Umfeld**
 Gegen den Ratschlag „such dir eine Nische, wenn du läufst": Die Nische gehört an
 den Anfang, und zwar dort, wo man bereits Berührungspunkte hat — hobbymäßig,
-beruflich, über Leute, die man kennt. Beispiel des Autors: **IT und
-Alarmierungssoftware für Feuerwehren.**
+beruflich, über Leute, die man kennt.
 
-→ Verwendung: Teil I, Kapitel 3, als durchgehendes Beispiel. Die Feuerwehr ist
-ein Musterfall für den Punkt, den das Kapitel machen muss: geschlossene Welt,
-Vertrauensmarkt, Verbandsstruktur. Ein Außenstehender braucht Jahre, ein
-Insider ein Telefonat.
+→ Verwendung: Teil I, Kapitel 3. Der Punkt, den das Kapitel machen muss:
+Geschlossene Welten mit Vereins- oder Verbandsstruktur sind Vertrauensmärkte.
+Ein Außenstehender braucht dort Jahre, ein Insider ein Telefonat.
 
 **Redaktioneller Hinweis — wichtig.** Der Autor begründet das mit „was einem
 Spaß macht". Diese Formulierung darf so nicht ins Buch: Sie steht sinngemäß auf
@@ -407,12 +405,16 @@ Nische ist nicht die, die man mag, sondern die, zu der man **Zugang und
 Glaubwürdigkeit** hat. Man kennt die Entscheider, spricht die Sprache und weiß,
 wo entschieden wird. Spaß ist der angenehme Nebeneffekt, nicht das Kriterium.
 
-**Vorschlag, noch nicht umgesetzt:** „Alarmierungs- und IT-Betreuung für
-Freiwillige Feuerwehren und kommunale Gefahrenabwehr" als eigenes Modell in den
-Katalog aufnehmen — entweder als 101. Modell oder als Ersatz für B20 (IT für
-Kita- und Schulträger), das dieselbe Struktur mit weniger Substanz abbildet. Es
-wäre das einzige Modell im Buch, zu dem der Autor eigenen Marktzugang hat, und
-könnte deshalb mit echten Zahlen statt mit Annahmen arbeiten.
+**Offen: das Beispiel fehlt.** Der Autor hatte hier ursprünglich seinen eigenen
+Zugang zur Feuerwehr genannt. **Auf seine Entscheidung hin bleibt Feuerwehr
+vollständig aus dem Buch** — weder als Beispiel in Teil I noch als Modell im
+Katalog. Damit fehlt dem Kapitel sein stärkstes Argument: ein Zugang, den der
+Autor tatsächlich hat.
+
+→ **Benötigt:** eine andere geschlossene Welt, zu der der Autor echten Zugang
+hat — Verein, Sportart, Szene, Ausbildungsumfeld, Hobby. Ohne eigenes Beispiel
+muss das Kapitel mit einem fremden arbeiten, und genau daran erkennt der Leser
+den Unterschied zwischen erlebt und recherchiert.
 
 **G11 — Kein Businessplan vorab**
 Der Autor hält einen Businessplan vor dem Start für verzichtbar. Es reiche, sich
