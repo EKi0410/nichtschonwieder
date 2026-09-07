@@ -15,11 +15,11 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 6 von 116 Kapiteln.
+Stand nach 7 von 116 Kapiteln.
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
-| „Denk darüber nach" | 20 | 1 | I.1 |
+| „Denk darüber nach" | 20 | 2 | I.1, I.7 |
 | „Unternehmerische Frage" | 16 | 2 | I.2, I.6 |
 | „Perspektivwechsel" | 12 | 2 | I.3, I.5 |
 | Kraftausdrücke | ca. 20 | 2 | I.2, I.4 |
@@ -52,6 +52,9 @@ Jeder Begriff wird im Buch **einmal** erklärt, danach ohne Erklärung benutzt.
 | Deckungsgrad der Fixkosten (Leitkennzahl) | I.6 |
 | Churn | I.6 |
 | Guthaben als Verbindlichkeit | I.6 |
+| Automatisierung als Investition mit Amortisationszeit | I.7 |
+| Die sieben Stufen als Landkarte, nicht als Treppe | I.7 |
+| Plattform (Stufe 7) | I.7 |
 
 ---
 
@@ -79,6 +82,9 @@ Kein Beispiel wird zweimal als Hauptbeispiel verwendet.
 | Deckungsgrad-Rechnung: 2.500 € Fixkosten, 1.000 € wiederkehrend = 40 % | I.6 | Leitkennzahl — **diese Zahlen in Teil III Kapitel 8 wieder aufgreifen, nicht neu erfinden** |
 | Webseite 3.600 € als „150 € × 24 Monate" | I.6 | Beispiel für ein Abo, das lügt |
 | Credit-Abo Fensterreinigung | I.6 | Guthaben bei unregelmäßigem Bedarf, samt Kehrseite |
+| Automatisierungsrechnung: 2 h je Kunde, 3 Kunden/Monat, 8 h Bauzeit, Amortisation in 6 Wochen | I.7 | Einstieg |
+| Gegenbeispiel: 5 Minuten zweimal im Jahr, Wochenende Bauzeit, 29 €/Monat Werkzeug | I.7 | Amortisation, die nicht eintritt |
+| Tennisverein durchgerechnet: 3 Vereine × 300 €/Jahr = 900 € | I.7 | Einlösung des Versprechens aus I.3 |
 
 ---
 
@@ -324,6 +330,52 @@ Kapitel 4 (warum die sofortige Zusage ein Warnsignal ist) und Teil III Kapitel 8
 **Offene Fäden:** Teil III Kapitel 4 muss die sofortige Zusage einlösen · Teil III
 Kapitel 8 muss die Deckungsgrad-Zahlen aus diesem Kapitel wieder aufgreifen ·
 Teil II braucht in jedem Modell die Insourcing-Frage
+
+### I.7 — Automatisierung, Software und die Grenzen der Skalierung
+**Umfang:** ca. 1.430 Wörter, ca. 4,8 S. · **Status:** freigegeben (vorbehaltlich
+Autorenabnahme)
+**Einstiegstyp:** eine Zahl (zwei Stunden je Kunde)
+
+**Kernthesen**
+1. Automatisierung ist eine Investition mit Amortisationszeit. Ausrechnen, nicht
+   empfehlen.
+2. Drei Bedingungen: häufig · immer gleich · keine Entscheidung darin.
+3. Automatisierung ohne Produktisierung ist Chaos mit Kabel.
+4. Jede Automatisierung ist ein Gerät, das dir gehört und kaputtgehen kann.
+   Komplexität ist eine Kostenart, die nicht in der Buchhaltung steht.
+5. **Die sieben Stufen sind eine Landkarte, keine Treppe.** Bei etwa einem
+   Drittel der Modelle liegt das Optimum bei Stufe 3 oder 4.
+6. Stufe 7 (Plattform): wirtschaftlich am attraktivsten, höchste
+   Ausfallwahrscheinlichkeit, verlangt fast immer, dass man das Geschäft vorher
+   selbst betrieben hat.
+7. Die Herstellungskosten von Software sind gefallen, die Betriebs- und
+   Vertriebskosten nicht. Deshalb ist der Markt voll und verdient kaum jemand.
+8. Wer den Schritt geht, wird Softwarehersteller — ein anderer Beruf.
+9. Software allein ist kein Burggraben. Zugang, Daten, Abläufe und
+   Kundenbeziehungen sind es.
+10. **Leitsatz: Software ist nie das Geschäftsmodell, sondern die Effizienzstufe
+    eines bestehenden Geschäftsmodells.**
+11. Drei Bedingungen vor jeder Software, alle drei müssen erfüllt sein: selbst
+    gelöst · Vertriebsweg existiert · interne Amortisation.
+12. Personalgebundenes Wachstum funktioniert, wenn der Deckungsbeitrag je Kopf
+    die Kosten je Kopf übersteigt. Bei niedrigen Preisen nie.
+13. Das skalierbarste Modell ist immer das, das am wenigsten mit dir zu tun hat.
+    Für manche Freiheit, für andere der Grund, mit vierzig unglücklich zu sein.
+
+**Autorenmaterial:** G19 vollständig (Vibecoding, Nachbaubarkeit, die drei
+Bedingungen mit interner Amortisation), G16 Punkt 3 mit Präzisierung, G30
+(Tennisverein zu Ende gerechnet)
+
+**Sparsame Elemente:** „Denk darüber nach" (welche Aufgabe mehr als viermal im
+Monat, und wie viele Stunden zur Abschaffung)
+**Kraftausdrücke:** keiner
+
+**Querverweise:** löst das Versprechen aus I.3 ein (Tennisverein), zurück auf
+I.5 (erst produktisieren) und I.4 (Deckungsbeitrag je Kopf), vorwärts auf
+Teil III Kapitel 1 (Passung Mensch und Modell)
+**Offene Fäden:** Teil III Kapitel 1 muss die Passungsfrage einlösen · in Teil II
+muss die dreiteilige Softwareprüfung bei jedem Modell mit empfohlener Stufe 5
+erkennbar angewendet werden
 
 ---
 

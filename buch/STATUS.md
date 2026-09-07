@@ -4,8 +4,8 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     6 / 116 Kapitel und Modelle final
-Teil I:     6 / 7 Kapitel + 0 / 1 Zwischenstück
+Gesamt:     7 / 116 Kapitel und Modelle final
+Teil I:     7 / 7 Kapitel + 0 / 1 Zwischenstück
 Teil II:    0 / 100 Modelle, alle in voller Tiefe
             0 / 20 Leitmodelle (4,5 S.)
             0 / 60 Standardkapitel (3,5 S.)
@@ -86,6 +86,8 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Teil I, 4 — Die Dienstleistung als Einstieg | 1.385 | ca. 4,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil I, 5 — Produktisierung | 1.410 | ca. 4,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil I, 6 — Wiederkehrender Umsatz | 1.435 | ca. 4,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil I, 7 — Automatisierung, Software, Grenzen der Skalierung | 1.430 | ca. 4,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| **Teil I, Summe** | **9.845** | **ca. 32,8** | 7 von 7 Kapiteln, Zwischenstück offen |
 
 ## Änderungsprotokoll
 
