@@ -254,10 +254,10 @@ werden, sonst liest sich das Buch als verkappte Software-Werbung.
 VORSPANN
   Einleitung: Warum dieses Buch anders rechnet           (7 S.)
 
-TEIL I — DIE DENKWEISE                                   (40 S.)
+TEIL I — DIE DENKWEISE                                   (38 S.)
   7 Kapitel + Zwischenstück „Der Bewertungsrahmen"
 
-TEIL II — DIE GESCHÄFTSMODELLE                          (371 S.)
+TEIL II — DIE GESCHÄFTSMODELLE                          (619 S.)
   10 Kategorien, 100 Modelle, jedes in voller Tiefe
 
 TEIL III — VOM MODELL ZUM UNTERNEHMEN                    (32 S.)
@@ -268,7 +268,7 @@ NACHSPANN
   Modelle, Register, Quellen                             (27 S.)
 ```
 
-Gesamtumfang: **rund 480 Seiten**, etwa 138.000 Wörter.
+Gesamtumfang: **rund 730 Seiten**, etwa 212.000 Wörter, in einem Band.
 
 Damit ist das Buch kein Lesebuch mehr, sondern ein Lese- und Nachschlagewerk.
 Das ist eine bewusste Entscheidung und verändert drei Dinge, die weiter unten
@@ -410,91 +410,57 @@ ist und keine Niederlage.
 
 ## 9. Seitenplanung
 
-Entscheidung des Autors: **Variante C** — alle hundert Modelle in voller Tiefe.
-Das Buch darf entsprechend länger werden.
+Entscheidung des Autors: **Variante C, alle hundert Modelle in voller Tiefe, in
+einem Band.**
 
-Annahme für die Kalkulation: Buchformat 15,5 × 23,5 cm, Satzspiegel mit
-ca. 300 Wörtern pro Seite bei 11 pt Schrift. Boxen sind flächenbereinigt
-eingerechnet.
+Die erste Fassung dieser Planung hat den Umfang eines vollständigen
+Modellkapitels unterschätzt. Sie rechnete mit 1.350 Wörtern; die beiden fertigen
+Leitmodelle B11 und C21 brauchen jeweils rund 2.260 Wörter. Der Grund liegt in
+den acht Boxen: Mit je 60 Wörtern kalkuliert, brauchen sie tatsächlich etwa 120,
+wenn sie Zahl, Logik, Grenze und Sternebegründung wirklich liefern. Ohne das
+wären sie Behauptungen mit Symbolen, und genau das schließt der Bewertungsrahmen
+aus.
 
-| Baustein | Anzahl | Seiten je Einheit | Seiten gesamt | Wörter |
+Nach Vorlage der beiden Leitmodelle hat der Autor entschieden: Der Umfang bleibt,
+das Buch wird länger, und es bleibt **ein Band**.
+
+Annahme für die Kalkulation: Buchformat 15,5 × 23,5 cm, ca. 300 Wörter pro Seite
+bei 11 pt. Boxen sind flächenbereinigt eingerechnet.
+
+| Baustein | Anzahl | Wörter je Einheit | Seiten gesamt | Wörter |
 |---|---:|---:|---:|---:|
-| Titelei, Inhaltsverzeichnis (100 Kapitel) | — | — | 6 | — |
-| Einleitung | 1 | 7 | 7 | 2.100 |
-| Teil I, Kapitel | 7 | 5 | 35 | 10.500 |
-| Teil I, Zwischenstück Bewertungsrahmen | 1 | 5 | 5 | 1.500 |
-| Teil II, Kategorie-Einführungen | 10 | 1,5 | 15 | 4.500 |
-| Teil II, Leitmodelle | 20 | 4,5 | 90 | 27.000 |
-| Teil II, Standardkapitel | 60 | 3,5 | 210 | 63.000 |
-| Teil II, kompakte Vollkapitel | 20 | 2,8 | 56 | 16.800 |
-| Teil III, Kapitel | 8 | 4 | 32 | 9.600 |
-| Nachwort | 1 | 3 | 3 | 900 |
+| Titelei, Inhaltsverzeichnis (116 Einträge) | — | — | 8 | — |
+| Einleitung | 1 | 2.100 | 7 | 2.100 |
+| Teil I, Kapitel *(fertig)* | 7 | ca. 1.400 | 32,8 | 9.845 |
+| Teil I, Zwischenstück *(fertig)* | 1 | 1.450 | 5,0 | 1.450 |
+| Teil II, Kategorie-Einführungen | 10 | 450 | 15 | 4.500 |
+| Teil II, Leitmodelle | 20 | 2.260 | 150 | 45.200 |
+| Teil II, Standardkapitel | 60 | 1.800 | 360 | 108.000 |
+| Teil II, kompakte Vollkapitel | 20 | 1.400 | 94 | 28.000 |
+| Teil III, Kapitel | 8 | 1.200 | 32 | 9.600 |
+| Nachwort | 1 | 900 | 3 | 900 |
 | Anhang: Bewertungsbogen | — | — | 4 | — |
-| Anhang: Modellmatrix (alle 100 auf einen Blick) | — | — | 8 | — |
+| Anhang: Modellmatrix (100 Zeilen) | — | — | 8 | — |
 | Anhang: Register und Quellen | — | — | 12 | 2.000 |
-| **Summe** | | | **483** | **ca. 138.000** |
+| **Summe** | | | **ca. 731** | **ca. 212.000** |
 
-### Alle hundert in voller Tiefe — aber nicht alle gleich lang
+### Was ein Band mit 730 Seiten bedeutet
 
-Volle Tiefe heißt: **jedes** der hundert Kapitel bekommt die komplette Struktur
-aus `03-kapitelvorlage-bewertungssystem.md` — alle acht Boxen mit Erklärung,
-Stufenmodell, Beispielrechnung, Herausforderungen, Startplan, Urteil,
-Learnings. Kein Modell wird abgekürzt.
+Zwei Hinweise, damit später niemand überrascht ist. Es ändert an der Arbeit jetzt
+nichts.
 
-Die *Länge* variiert trotzdem, in drei Stufen:
+**Herstellung.** Ein Paperback mit 730 Seiten ist im Print-on-Demand herstellbar;
+die üblichen Anbieter liegen bei etwa 800 Seiten Obergrenze. Rückenstärke rund
+4 cm, Gewicht etwa 1,1 kg, Herstellungskosten entsprechend hoch. Ein Ladenpreis
+im Bereich 45–55 € ist bei diesem Umfang üblich. Bei einem Buch für 18- bis
+25-Jährige ist das der schwierigste Punkt am ganzen Projekt — ein E-Book zum
+kleinen Preis neben der Druckausgabe würde diese Lücke schließen, ohne den Band
+anzutasten.
 
-- **20 Leitmodelle**, ca. 4,5 Seiten. Sie tragen die Methode, bekommen die
-  ausführlichsten Beispielrechnungen und die Coaching-Überleitung. Sie werden
-  zuerst geschrieben und dienen als Kalibrierung für alle anderen. Welche das
-  sind, steht in `02-modellkatalog.md`.
-- **60 Standardkapitel**, ca. 3,5 Seiten. Vollständige Struktur, normale
-  Ausführlichkeit.
-- **20 kompakte Vollkapitel**, ca. 2,8 Seiten. Modelle, deren Ökonomie einfach
-  ist oder die sich stark an ein Nachbarmodell anlehnen. Vollständige Struktur,
-  aber ohne Wiederholung dessen, was zwei Kapitel vorher schon erklärt wurde.
-
-Gleiche Länge für alle hundert wäre der falsche Ehrgeiz. Sie würde bedeuten,
-schwache Modelle künstlich aufzublasen — und genau das erkennt der Leser sofort.
-Ein Kapitel ist so lang, wie das Modell hergibt.
-
-### Was ein 480-Seiten-Buch zusätzlich braucht
-
-Bei diesem Umfang liest niemand mehr linear. Das Buch bekommt deshalb einen
-Navigationsapparat, der bei 190 Seiten überflüssig gewesen wäre:
-
-1. **Kategorie-Einführungen auf 1,5 Seiten** statt 0,8. Sie werden zu echten
-   Einstiegspunkten: Was eint diese zehn Modelle, welcher Unternehmertyp
-   gewinnt hier, welche zwei Modelle der Kategorie sollte man lesen, wenn man
-   nur zwei liest.
-2. **Modellmatrix im Anhang, 8 Seiten.** Alle hundert Modelle in einer Tabelle:
-   Nummer, Titel, acht Sternewerte, Note, Zielstufe, Kapitalbedarf. Damit wird
-   das Buch als Nachschlagewerk benutzbar und der Leser findet in zwei Minuten
-   die zwölf Modelle, die zu seiner Situation passen.
-3. **Drei Register:** nach Kapitalbedarf, nach Branche, nach Note.
-4. **Querverweise zwischen verwandten Modellen.** Die vier bewussten
-   Nischen-Paare aus dem Katalog werden gegenseitig verlinkt, ebenso Modelle
-   mit ähnlicher Ökonomie in verschiedenen Kategorien.
-5. **Kolumnentitel mit Modellnummer und Kategorie** auf jeder Seite von Teil II.
-
-### Zwei Hinweise zur Produktion
-
-Ich setze das nicht als Frage, sondern als Information für später — es ändert
-an der Arbeit jetzt nichts.
-
-**Herstellung.** 480 Seiten sind im Print-on-Demand problemlos machbar, aber der
-Herstellungspreis steigt deutlich, und das Buch wird mit rund 3 cm Rückenstärke
-und etwa 700 Gramm ein schweres Buch. Ein Ladenpreis im Bereich 39–49 € ist bei
-diesem Umfang üblich und für ein Fachbuch mit dieser Dichte vertretbar. Wenn du
-später lieber zwei Bände möchtest — Teil I plus Kategorien A–E, danach der Rest
-—, ist die Struktur dafür bereits sauber geschnitten. Das muss jetzt nicht
-entschieden werden.
-
-**Aufwand.** Der Rahmen sind 116 Kapitel und Modelle plus Anhänge, jedes durch
-sieben Iterationen. Das ist der Grund, warum die Kalibrierung an den zwanzig
-Leitmodellen vorne steht: Was dort an Bewertungslogik, Preislogik und Tonfall
-festgelegt wird, spart bei den übrigen achtzig jeweils eine Iteration.
-
----
+**Aufwand.** Rund 212.000 Wörter, davon etwa 186.000 in Teil II. Das sind bei
+zwei fertigen Modellkapiteln pro Arbeitseinheit rund fünfzig weitere
+Arbeitseinheiten. Das Kapitelregister in `06-kapitelregister.md` ist die
+Voraussetzung dafür, dass das über diese Strecke konsistent bleibt.
 
 ## 10. Bearbeitungsreihenfolge
 

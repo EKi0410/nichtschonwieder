@@ -4,16 +4,16 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     9 / 116 Kapitel und Modelle final
+Gesamt:     10 / 116 Kapitel und Modelle final
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
-Teil II:    1 / 100 Modelle, alle in voller Tiefe
-            1 / 20 Leitmodelle
+Teil II:    2 / 100 Modelle, alle in voller Tiefe
+            2 / 20 Leitmodelle
             0 / 60 Standardkapitel (3,5 S.)
             0 / 20 kompakte Vollkapitel (2,8 S.)
             0 / 10 Kategorie-Einführungen
 Teil III:   0 / 8 Kapitel
 Rahmen:     0 / 1 Einleitung, 0 / 1 Nachwort, 0 / 4 Anhänge
-Zielumfang: ca. 483 Seiten / 138.000 Wörter
+Zielumfang: ca. 730 Seiten / 212.000 Wörter, ein Band
 Status:     KAPITELENTWICKLUNG, Teil I
 ```
 
@@ -30,6 +30,7 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | 9 | Beispiel Teil I Kap. 3 | **Tennisverein** (Turnieranmeldung) statt Feuerwehr |
 | 11 | Titel | **100 Geschäftsideen**, Untertitel **Und warum deine ständige Suche danach das Problem ist**. Der Begriff Geschäftsideen ist bewusst gewählt (Suchvolumen) und wird auf Seite eins der Einleitung selbst aufgelöst |
 | 10 | Neurodivergenz | **Freigegeben** — ein Absatz in der Einleitung, Ich-Form, ohne Ferndiagnose und ohne Kausalbehauptung. Regeln in `04-voice-bible.md`, G29 |
+| 12 | Umfang | **Rund 730 Seiten in einem Band.** Ein vollständiges Modellkapitel braucht ca. 2.260 statt 1.350 Wörter; der Autor hat entschieden, den Umfang zu behalten und das Buch länger zu machen statt die Vorlage zu straffen |
 | 4 | Katalog | **Keine Modelle tauschen.** Alle 100 bleiben; jedes Kapitel bekommt stattdessen einen Startbarkeits-Marker in der Kopfzeile |
 | 2 | Sterne-Skala | **Durchgehend positiv.** „Startkapital" → **Kapitalleichtigkeit**, „Wettbewerbsdruck" → **Wettbewerbsposition**, Rohwert jeweils in Klammern daneben |
 
@@ -54,14 +55,6 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Coaching-Integration | fertig, 22 Stellen |
 | Autorenstimme | **Version 1.0 — Fragebogen vollständig beantwortet.** 28 Geschichten, ca. 35 feste Meinungen, Sprachregeln festgelegt |
 | Recherche-Backlog | angelegt |
-
-## Offener Befund: Seitenplanung Teil II
-
-Das erste vollständige Modellkapitel braucht **2.249 Wörter statt der geplanten
-1.350** — die Kapitelvorlage mit zehn Abschnitten und acht erklärten Boxen ist
-umfangreicher, als die Seitenplanung angenommen hat. Hochgerechnet ergibt das für
-Teil II rund 590 statt 371 Seiten und für das Gesamtbuch etwa 700 statt 483.
-Entscheidung des Autors erforderlich; drei Wege stehen in der Antwort dazu.
 
 ## Noch offen
 
@@ -98,6 +91,7 @@ Entscheidung des Autors erforderlich; drei Wege stehen in der Antwort dazu.
 | Teil I, Zwischenstück — Der Bewertungsrahmen | 1.450 | ca. 5,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | **Teil I, Summe** | **11.295** | **ca. 37,8** | **vollständig** (Plan: 40 S.) |
 | Teil II, B11 — Managed IT für Steuerkanzleien | 2.249 | ca. 7,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, C21 — KI-Telefonassistent für Handwerksbetriebe | 2.275 | ca. 7,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 
 ## Änderungsprotokoll
 

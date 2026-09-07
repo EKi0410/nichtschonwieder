@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 9 von 116 Kapiteln (Teil I vollständig, 1 Modell).
+Stand nach 10 von 116 Kapiteln (Teil I vollständig, 2 Modelle).
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -30,7 +30,7 @@ Stand nach 9 von 116 Kapiteln (Teil I vollständig, 1 Modell).
 | Band | Ziel | vergeben | Modelle |
 |---|---:|---:|---|
 | 8,0–10,0 | 12–18 | 0 | — |
-| 6,5–7,9 | 35–45 | 1 | B11 (7,8) |
+| 6,5–7,9 | 35–45 | 2 | B11 (7,8), C21 (6,8) |
 | 5,0–6,4 | 25–35 | 0 | — |
 | unter 5,0 | 10–15 | 0 | — |
 
@@ -73,7 +73,7 @@ Kein Beispiel wird zweimal als Hauptbeispiel verwendet.
 | Beispiel | Kapitel | Rolle |
 |---|---|---|
 | Notizen-App-Liste des Lesers | I.1 | Einstieg |
-| KI-Telefonassistent Handwerk (1.500 € + 199 €/Monat) | I.1 | Etikett gegen Modell — **auch Modell C21 in Teil II, dort ausführlich** |
+| KI-Telefonassistent Handwerk (1.500 € + 199 €/Monat) | I.1 | Etikett gegen Modell — ausführlich als **C21**, Preise deckungsgleich |
 | Malerbetrieb, elf offene Angebote, 4.000 € und 11.000 € verloren | I.2 | Einstieg, Maßstab für ein echtes Problem |
 | WG-Putzplan-App | I.2 | Gegenprobe, scheitert an 4 von 5 Fragen |
 | Managed IT für Steuerkanzleien: 12 Arbeitsplätze × 65 € = 780 €/Monat, 40 % Marge = 310 €, 11 Kanzleien für 3.300 € | I.3 | Untergrenzen-Rechnung — **Achtung: Modell B11 in Teil II muss dieselben Preisanker verwenden** |
@@ -476,6 +476,54 @@ Zielgröße.
 **Nicht wiederverwenden:** die Zahlen oben · der Verbandsvortrag als erster
 Vertriebsweg (in B12 muss ein anderer stehen) · die Formulierung „Du verkaufst
 Nichtereignisse".
+
+### C21 · KI-Telefonassistent für Handwerksbetriebe — LEITMODELL
+**Umfang:** 2.275 Wörter, ca. 7,6 S. · **Status:** freigegeben (vorbehaltlich
+Autorenabnahme)
+
+```
+Sterne:  Mon ★★★★☆ · Vtr ★★★☆☆ · Ups ★★★★☆ · Rec ★★★★☆
+         Ska ★★★★☆ · Kap ★★★★☆ · Mar ★★★★☆ · Pos ★★☆☆☆
+Note:    6,8  (rechnerisch 7,2, minus 0,4 weil die Wettbewerbsposition mit
+         10 % Gewicht in einem überfluteten Markt zu freundlich gewichtet ist)
+Stufen:  Einstieg 2 → Ziel 6 · Stufe 7 denkbar, aber anderes Unternehmen
+Startbar: 3.000–8.000 € · technische Kenntnisse nötig · Handwerkszugang wichtig
+```
+
+**Preisanker — deckungsgleich mit I.1**
+Einrichtung 1.500 € · 199 €/Monat bis 300 Anrufe · größere Betriebe 299–499 € ·
+Deckungsbeitrag rund 124 € (62 %) · operative Marge 25–40 % nach
+Standardisierung · 50 Betriebe ≈ 6.200 € Deckungsbeitrag im Monat.
+
+**Erster Vertriebsweg:** ein kostenloser Pilotbetrieb aus dem eigenen Umfeld,
+vier Wochen, im Tausch gegen die Zahlen — dann mit diesem Zettel zum nächsten
+Betrieb im selben Gewerk. **Ausdrücklich kein Verbandsvortrag** (das ist B11).
+
+**Größtes Risiko:** Nachbaubarkeit und ein überfluteter Markt. Zweitens die
+Akzeptanz der Bürokraft.
+
+**Learnings (5):** ein unsichtbares Problem muss erst messbar werden · die
+Bezeichnung ist Teil des Produkts · nicht der Entscheider bringt dich um,
+sondern der Nutzer · niedrige Herstellungskosten sind ein Warnsignal · der
+Vorsprung steckt im Detail des Gewerks.
+
+**Coaching-Überleitung:** ja (Leitmodell) — Frage nach unbemerkten Verlusten des
+Kunden, die man für ihn messen könnte.
+
+**Querverweis:** ausdrücklich auf C25 als Nischenpaar. Außerdem ausdrücklicher
+Kontrast zu B11 bei Stufe 6: dort scheitert die Softwarefrage an der internen
+Amortisation, hier ist sie ab etwa vierzig Betrieben erfüllt. **Dieser Kontrast
+ist die wichtigste Kalibrierung im ganzen Buch und muss erhalten bleiben.**
+
+**Recherchestand:** Preise, Nutzungskosten und Verlustrechnung als modellhafte
+Annahme bzw. Beispielrechnung gekennzeichnet. Zu prüfen: aktuelle Nutzungspreise
+für Sprachdienste, Rechtslage zur Ansage bei Gesprächsaufzeichnung,
+Haftungsgestaltung bei Notrufweiterleitung, Anzahl Betriebe je Gewerk in der
+Zielgröße.
+
+**Nicht wiederverwenden:** die Zahlen oben · der Pilot-mit-Zettel als erster
+Vertriebsweg · die Formulierung „das Problem ist unsichtbar, obwohl es messbar
+ist" · die Zehn-verlorene-Anrufe-Rechnung.
 
 ---
 
