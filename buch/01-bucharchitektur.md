@@ -5,7 +5,45 @@ Zweck: belastbares Fundament für das gesamte Manuskript. Noch kein Kapitel.
 
 ---
 
-## 1. Titelvorschläge
+## 1. Titel — entschieden
+
+> # 100 Geschäftsideen
+> ### Und warum deine ständige Suche danach das Problem ist
+
+**Titel:** 100 Geschäftsideen
+**Untertitel:** Und warum deine ständige Suche danach das Problem ist
+**Zusammengezogen für Metadaten und Handel:** *100 Geschäftsideen: Und warum
+deine ständige Suche danach das Problem ist*
+
+**Warum diese Fassung trägt.** Der Titel benutzt bewusst den Begriff, nach dem
+die Zielgruppe tatsächlich sucht — „Geschäftsideen" hat ein deutlich höheres
+Suchvolumen als „Geschäftsmodelle". Der Untertitel nimmt ihn im nächsten
+Halbsatz zurück. Der Leser kommt wegen der Liste und erfährt in derselben Zeile,
+dass das Suchen nach Listen sein Problem ist. Das ist genau die Bewegung, die das
+ganze Buch macht.
+
+**Pflichtfolge daraus.** Das Buch enthält Geschäfts*modelle*, und Kapitel 1
+heißt „Eine Idee ist kein Geschäftsmodell". Der Widerspruch zum Cover muss auf
+Seite eins der Einleitung selbst angesprochen werden, sonst ist er der eine
+schludrige Punkt in einem sonst konsequenten Buch. Vorgesehene Fassung:
+
+> Auf dem Cover steht „Geschäftsideen". Das ist Absicht, denn danach hast du
+> gesucht. In diesem Buch stehen aber keine Ideen, sondern Geschäftsmodelle —
+> und der Unterschied zwischen beidem ist der Grund, warum du noch nicht
+> angefangen hast.
+
+Damit wird aus dem Widerspruch die erste Lektion des Buches.
+
+**Nicht auf dem Cover:** „durchgerechnet". Es fällt aus dem Untertitel heraus,
+damit dieser kurz bleibt, und wird stattdessen vom Klappentext getragen.
+
+---
+
+## 1a. Verworfene Titelvorschläge
+
+*Dokumentiert, weil einige davon als Kapitelüberschriften oder für Marketing
+weiterverwendbar sind. Die erste Liste entstand vor der
+Zielgruppenentscheidung 18–25.*
 
 | # | Titel | Wirkung | Risiko |
 |---|---|---|---|
@@ -28,7 +66,7 @@ Selfpublishing-Setup, das mit Polarisierung umgehen kann.
 
 ---
 
-## 2. Untertitelvorschläge
+## 2. Verworfene Untertitelvorschläge
 
 1. **100 konkrete Geschäftsmodelle — analysiert, wie ein Unternehmer sie analysieren würde**
 2. **Wie aus einer Dienstleistung ein skalierbares Unternehmen wird. Mit 100 durchgerechneten Geschäftsmodellen**

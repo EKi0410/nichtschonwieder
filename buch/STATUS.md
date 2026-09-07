@@ -28,6 +28,7 @@ Status:     ARCHITEKTUR
 | 7 | Letzter Satz | **Festgelegt:** „Die tausendste Idee fühlt sich genauso gut an wie die erste. Genau das ist das Problem." |
 | 8 | Buchversprechen | **Präzisiert:** Nicht die Ideen sollen aufhören, sondern das Warten darauf, dass sich eine sicher anfühlt |
 | 9 | Beispiel Teil I Kap. 3 | **Tennisverein** (Turnieranmeldung) statt Feuerwehr |
+| 11 | Titel | **100 Geschäftsideen**, Untertitel **Und warum deine ständige Suche danach das Problem ist**. Der Begriff Geschäftsideen ist bewusst gewählt (Suchvolumen) und wird auf Seite eins der Einleitung selbst aufgelöst |
 | 10 | Neurodivergenz | **Freigegeben** — ein Absatz in der Einleitung, Ich-Form, ohne Ferndiagnose und ohne Kausalbehauptung. Regeln in `04-voice-bible.md`, G29 |
 | 4 | Katalog | **Keine Modelle tauschen.** Alle 100 bleiben; jedes Kapitel bekommt stattdessen einen Startbarkeits-Marker in der Kopfzeile |
 | 2 | Sterne-Skala | **Durchgehend positiv.** „Startkapital" → **Kapitalleichtigkeit**, „Wettbewerbsdruck" → **Wettbewerbsposition**, Rohwert jeweils in Klammern daneben |
@@ -36,7 +37,7 @@ Status:     ARCHITEKTUR
 
 | Baustein | Status |
 |---|---|
-| Buchtitel und Untertitel | Vorschläge vorgelegt, Entscheidung offen |
+| Buchtitel und Untertitel | **entschieden** — siehe Architektur Abschnitt 1 |
 | Zielgruppe | neu gefasst: 18–25 Jahre, Entscheidung des Autors |
 | Buchversprechen | neu gefasst: die Suche des Lesers beenden |
 | Positionierung | neu gefasst: Gegenbuch zum Finfluencer-Content |
@@ -56,8 +57,7 @@ Status:     ARCHITEKTUR
 
 ## Noch offen
 
-1. Titel und Untertitel
-2. Rücklauf des Autorenfragebogens aus `04-voice-bible.md` — bei 480 Seiten
+1. Rücklauf des Autorenfragebogens aus `04-voice-bible.md` — bei 480 Seiten
    wichtiger als vorher
 3. Recherchetiefe je Kapitel (Vorschlag steht)
 4. Coaching-Dichte (Vorschlag: 22 Stellen)
