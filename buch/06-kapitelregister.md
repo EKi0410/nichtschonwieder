@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 13 von 116 Kapiteln (Teil I vollständig, 4 Modelle, 1 Kategorie-Einführung).
+Stand nach 16 von 116 Kapiteln (Teil I vollständig, 7 Modelle, 1 Kategorie-Einführung).
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -30,7 +30,8 @@ Stand nach 13 von 116 Kapiteln (Teil I vollständig, 4 Modelle, 1 Kategorie-Einf
 | Band | Ziel | vergeben | Modelle |
 |---|---:|---:|---|
 | 8,0–10,0 | 12–18 | 0 | — |
-| 6,5–7,9 | 35–45 | 4 | B11 (7,8), C21 (6,8), A02 (7,4), A01 (6,6) |
+| *Anmerkung* | | | **Alle sieben Notenkorrekturen bisher gingen nach unten, eine davon in einer Bilanz mit einer Aufwärtskorrektur (A04). Bei künftigen Modellen ist bewusst zu prüfen, wo eine Aufwärtskorrektur ehrlich wäre — sonst wirkt das Instrument als Einbahnstraße.** |
+| 6,5–7,9 | 35–45 | 7 | B11 (7,8), A05 (7,6), A02 (7,4), A04 (7,1), C21 (6,8), A03 (6,7), A01 (6,6) |
 | 5,0–6,4 | 25–35 | 0 | — |
 | unter 5,0 | 10–15 | 0 | — |
 
@@ -632,6 +633,69 @@ Dienstleister.**
 Formulierung „Sie haben etwas, das gegen Sie verwendbar ist" · der
 39-Euro-Portalvergleich · „verkaufe den Nachweis, nicht das Wissen" (steht bereits
 in der Kategorie-Einführung, dort in anderer Formulierung).
+
+---
+
+### A03 · Lieferketten-Nachweise für Industriezulieferer — STANDARD
+1.857 Wörter · Note **6,7** (rechn. 7,1, −0,4: regulatorische Unsicherheit plus
+Beratungshäuser, die in das Feld drängen) · Sterne 4/3/4/4 · 3/4/4/3 ·
+Einstieg 2 → Ziel 4, Stufe 6 nein · startbar ab 5.000 €, Sicherheitskenntnisse
+und Branchenerfahrung nötig.
+**Preise:** Assessment 6.000–15.000 €, Überwachung 500–1.500 €/Monat · Marge
+20 % beim ersten, 60 % beim vierten Betrieb derselben Branche.
+**Erster Vertriebsweg:** über das Lieferantenmanagement des Großkunden, nicht
+über den Zulieferer.
+**Besonderheit:** Das Abo hängt am Verhalten eines Dritten — solange der Konzern
+jährlich fragt, kündigt niemand.
+**Recherche:** NIS2-Umsetzungsstand, betroffener Kreis, Fristen. Das Kapitel ist
+bewusst so gebaut, dass es ohne das Kürzel trägt.
+**Nicht wiederverwenden:** Lieferantenmanagement als Vertriebsweg · „die Erlaubnis,
+weiter zu liefern" · „binde dein Angebot nie an ein Gesetzeskürzel".
+
+---
+
+### A04 · Arbeitszeiterfassung für Gastronomiebetriebe — STANDARD
+2.054 Wörter · Note **7,1** · Sterne 3/3/4/4 · 4/5/4/3 · Einstieg 2 → Ziel 4,
+Stufe 6 nein · **sofort startbar**, unter 2.000 €, keine Qualifikation, keine
+Branchenerfahrung.
+**Preise:** Einführung 900 €/Standort (min. 1.800 €), 39–79 €/Standort/Monat ·
+15 Betriebe × 4 Standorte ≈ 3.540 €/Monat.
+**Erster Vertriebsweg:** Händler von Kassensystemen, zweitrangig
+Gastro-Fachgroßhandel.
+**Die Notenkorrektur ist hier zweiseitig und im Buch ausdrücklich als Bilanz
+dargestellt:** +0,3 für den Mehrstandort-Multiplikator (ein Verkaufsgespräch,
+mehrere Abrechnungseinheiten), −0,4 für die hohe Betriebssterblichkeit der
+Branche. **Das ist bisher die einzige Aufwärtskorrektur im Buch.**
+**Querverweis:** J99 (Implementierungspartner) als alternativer Weg.
+**Recherche:** Rechtsstand der Arbeitszeiterfassung und der
+branchenspezifischen Aufzeichnungspflichten.
+**Nicht wiederverwenden:** Kassenhändler als Vertriebsweg · „wo Aufzeichnungen
+fehlen, schätzt der Prüfer" · „zähle nicht Kunden, zähle Abrechnungseinheiten".
+
+---
+
+### A05 · Vergabe-Monitoring für Handwerksbetriebe — LEITMODELL
+2.470 Wörter · Note **7,6** (rechn. 8,1, −0,5: Messung an einem Ergebnis, das
+der Kunde durch seinen Preis selbst bestimmt) · Sterne 4/4/4/4 · 4/5/4/4 ·
+Einstieg 2 → Ziel 4, Stufe 5 Endpunkt mit Absicht · startbar unter 3.000 €,
+Vergabe- und Baukenntnisse nötig.
+**Preise:** Monitoring 250–500 €/Monat, 400–900 € je erstelltem Angebot ·
+ein Kunde ≈ 15.000 €/Jahr · 8 Kunden ≈ 120.000 €/Jahr, davon 33.600 €
+wiederkehrend · operative Marge 35–50 % im Alleinbetrieb.
+**Erster Vertriebsweg:** rückwärts über veröffentlichte Vergabeergebnisse — wer
+im Gewerk nie geboten hat, ist der Kunde, und sein Problem ist belegt.
+**Die zentrale Lehre — Gegenstück zu A01, nicht streichen:** Beide Modelle
+könnten erfolgsabhängig vergüten. Bei A01 funktioniert es, bei A05 nicht. Der
+Unterschied ist nicht die Höhe des Erfolgs, sondern **Häufigkeit und
+Zurechenbarkeit.** Ein Zuschuss wird bewilligt, weil der Antrag gut war; ein
+Zuschlag, weil der Preis der niedrigste war.
+**Coaching-Überleitung:** ja (Leitmodell) — Frage nach Märkten, die man wegen
+unbequemen Zugangs liegen lässt.
+**Recherche:** Zulässigkeit von Erfolgshonoraren im Vergabeumfeld,
+Haftungsbegrenzung, typische Streitfälle.
+**Nicht wiederverwenden:** Vergabeergebnisse als Vertriebsweg · „ausgeschlossen
+wird nicht das schlechte Angebot, sondern das unvollständige" · die
+Zuschlagsquoten-Rechnung · „öffentliche Daten sind Vertriebslisten".
 
 ---
 

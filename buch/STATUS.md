@@ -4,11 +4,11 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     13 / 116 Kapitel und Modelle final
+Gesamt:     16 / 116 Kapitel und Modelle final
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
-Teil II:    4 / 100 Modelle, alle in voller Tiefe
-            3 / 20 Leitmodelle
-            1 / 60 Standardkapitel
+Teil II:    7 / 100 Modelle, alle in voller Tiefe
+            4 / 20 Leitmodelle
+            4 / 60 Standardkapitel
             1 / 10 Kategorie-Einführungen
             0 / 60 Standardkapitel (3,5 S.)
             0 / 20 kompakte Vollkapitel (2,8 S.)
@@ -97,6 +97,9 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Teil II, Einführung Kategorie A | 453 | ca. 1,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, A01 — Fördermittel-Screening | 1.960 | ca. 6,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, A02 — Datenschutz für Arztpraxen | 2.335 | ca. 7,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, A03 — Lieferketten-Nachweise Industriezulieferer | 1.857 | ca. 6,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, A04 — Arbeitszeiterfassung Gastronomie | 2.054 | ca. 6,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, A05 — Vergabe-Monitoring Handwerk | 2.470 | ca. 8,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 
 ## Änderungsprotokoll
 

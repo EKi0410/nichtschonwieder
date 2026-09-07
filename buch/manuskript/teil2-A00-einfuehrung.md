@@ -51,7 +51,8 @@ fünftes (A01) ist es mit Einschränkung. Die übrigen fünf brauchen eine
 Qualifikation oder Jahre in der Branche — sie stehen trotzdem hier, weil man an
 ihnen sieht, wie Zugang und Zulassung zu Wettbewerbsvorteilen werden.
 
-**Wenn du nur zwei liest:** A02 zeigt, wie aus einer Pflicht ein Jahresabo wird,
-und wie man dabei die Haftung außen hält. A05 zeigt das Gegenteil — ein Modell,
-das über Erfolgsbeteiligung verdient und deshalb ganz anders kalkuliert werden
-muss.
+**Wenn du nur zwei liest:** A02 zeigt, wie aus einer Pflicht ein Jahresabo wird
+und wie man dabei die Haftung außen hält. A05 zeigt, wovon eine
+Erfolgsbeteiligung tatsächlich abhängt — nicht von der Höhe des Erfolgs, sondern
+davon, wie oft er eintritt und ob er dir zuzurechnen ist. Zusammen mit A01 ergibt
+das die vollständige Antwort auf eine Frage, die viele falsch beantworten.
