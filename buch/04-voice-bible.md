@@ -1002,16 +1002,25 @@ Ideengenerator, den es gibt.** Damit ist die Ideenschleife kein Charakterfehler,
 sondern ein Weg, der an der falschen Stelle beginnt. Diese Wendung gehört in die
 Einleitung und ins Schlusskapitel.
 
-**Neurodivergenz — NICHT FÜR DIE VERÖFFENTLICHUNG FREIGEGEBEN.**
-Der Autor hat dies im Gespräch erwähnt. Es steht hier ausschließlich als
-Hintergrund für das Verständnis seiner Denkweise und erscheint **nirgends im
-Manuskript**, solange er es nicht ausdrücklich freigibt.
+**Neurodivergenz — vom Autor zur Aufnahme freigegeben.**
+Der Autor beschreibt sich als neurodivergent und führt darauf zurück, dass er
+ständig Ideen hat — auch im laufenden Geschäft, wo sie sogar besser werden.
 
-*Falls er es freigibt:* Es würde tragen. Ein erheblicher Teil der Zielgruppe
-steckt aus demselben Grund in der Ideenschleife, und niemand schreibt für sie
-über Geschäftsmodelle. Dann aber als ein Absatz in der Ich-Form — kein Kapitel,
-keine Ferndiagnose an den Leser, kein Ratgeberton. Sinngemäß: „Bei mir ist das
-so, vielleicht kennst du das."
+**Wie es im Buch erscheint — verbindlich:**
+- **Ein Absatz**, in der Einleitung, direkt nach „ich suche bis heute". Kein
+  eigenes Kapitel, kein wiederkehrendes Motiv.
+- **Ich-Form, beschreibend, ohne Erklärung.** Der Autor sagt, wie es bei ihm
+  ist. Er erklärt dem Leser nicht, was Neurodivergenz bedeutet, und er stellt
+  keine Ferndiagnose — kein „vielleicht bist du ja auch", kein Test, keine
+  Merkmalsliste.
+- **Kein Ratgeberton, keine Bewältigungstipps, kein Kapitel über Fokus.**
+- **Keine Kausalbehauptung.** Nicht: „deshalb bin ich Unternehmer geworden"
+  oder „Neurodivergente sind die besseren Gründer". Beides wäre unbelegt und
+  würde in die Motivationssprache kippen, die auf der Verbotsliste steht.
+- Der Sinn ist ausschließlich der Wiedererkennungseffekt: Ein erheblicher Teil
+  der Zielgruppe steckt aus demselben Grund in der Ideenschleife, und für sie
+  schreibt sonst niemand über Geschäftsmodelle. Sinngemäß: *„Bei mir ist das so.
+  Vielleicht kennst du das."* Mehr nicht — genau darin liegt die Wirkung.
 
 **G30 — Ersatzbeispiel für Teil I, Kapitel 3: der Tennisverein**
 Vom Autor als Ersatz für das gestrichene Feuerwehrbeispiel vorgeschlagen, mit

@@ -28,6 +28,7 @@ Status:     ARCHITEKTUR
 | 7 | Letzter Satz | **Festgelegt:** „Die tausendste Idee fühlt sich genauso gut an wie die erste. Genau das ist das Problem." |
 | 8 | Buchversprechen | **Präzisiert:** Nicht die Ideen sollen aufhören, sondern das Warten darauf, dass sich eine sicher anfühlt |
 | 9 | Beispiel Teil I Kap. 3 | **Tennisverein** (Turnieranmeldung) statt Feuerwehr |
+| 10 | Neurodivergenz | **Freigegeben** — ein Absatz in der Einleitung, Ich-Form, ohne Ferndiagnose und ohne Kausalbehauptung. Regeln in `04-voice-bible.md`, G29 |
 | 4 | Katalog | **Keine Modelle tauschen.** Alle 100 bleiben; jedes Kapitel bekommt stattdessen einen Startbarkeits-Marker in der Kopfzeile |
 | 2 | Sterne-Skala | **Durchgehend positiv.** „Startkapital" → **Kapitalleichtigkeit**, „Wettbewerbsdruck" → **Wettbewerbsposition**, Rohwert jeweils in Klammern daneben |
 
