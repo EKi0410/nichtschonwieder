@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 10 von 116 Kapiteln (Teil I vollständig, 2 Modelle).
+Stand nach 13 von 116 Kapiteln (Teil I vollständig, 4 Modelle, 1 Kategorie-Einführung).
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -30,7 +30,7 @@ Stand nach 10 von 116 Kapiteln (Teil I vollständig, 2 Modelle).
 | Band | Ziel | vergeben | Modelle |
 |---|---:|---:|---|
 | 8,0–10,0 | 12–18 | 0 | — |
-| 6,5–7,9 | 35–45 | 2 | B11 (7,8), C21 (6,8) |
+| 6,5–7,9 | 35–45 | 4 | B11 (7,8), C21 (6,8), A02 (7,4), A01 (6,6) |
 | 5,0–6,4 | 25–35 | 0 | — |
 | unter 5,0 | 10–15 | 0 | — |
 
@@ -524,6 +524,114 @@ Zielgröße.
 **Nicht wiederverwenden:** die Zahlen oben · der Pilot-mit-Zettel als erster
 Vertriebsweg · die Formulierung „das Problem ist unsichtbar, obwohl es messbar
 ist" · die Zehn-verlorene-Anrufe-Rechnung.
+
+---
+
+### Kategorie-Einführung A — Produktisierte Fachdienstleistungen
+**Umfang:** 453 Wörter, ca. 1,5 S. · **Status:** freigegeben
+
+Enthält: gemeinsames Muster (Pflicht, die nicht weggeht) · Unternehmertyp
+Systematiker · Denkfehler „das Wissen ist das Produkt", richtig ist der Nachweis ·
+Pflichten ändern sich in beide Richtungen · die Unterscheidung Nachfragetreiber
+gegen eigenes Haftungsrisiko · **4 von 10 sofort startbar (A02, A04, A07, A10),
+A01 mit Einschränkung** · Leseempfehlung A02 und A05.
+
+---
+
+### A01 · Fördermittel-Screening für produzierende Betriebe — STANDARD
+**Umfang:** 1.960 Wörter, ca. 6,5 S. · **Status:** freigegeben
+
+```
+Sterne:  Mon ★★★★☆ · Vtr ★★★☆☆ · Ups ★★★★☆ · Rec ★★★☆☆
+         Ska ★★★☆☆ · Kap ★★★★★ · Mar ★★★★☆ · Pos ★★★☆☆
+Note:    6,6  (rechnerisch 6,9, minus 0,3 für politische Abhängigkeit,
+         die in keiner der acht Dimensionen auftaucht)
+Stufen:  Einstieg 2 → Ziel 4 · Stufe 5 ja · Stufe 6 nein (Förderdatenbanken
+         existieren käuflich)
+Startbar: unter 2.000 € · keine Qualifikation · Branchenerfahrung hilfreich
+```
+
+**Preisanker:** 300–600 €/Monat Screening, typisch 450 € · 5–10 %
+Erfolgshonorar · 20 Kunden ≈ 9.000 €/Monat · operative Marge 30–45 %.
+
+**Erster Vertriebsweg:** Steuerberater und Firmenkundenbetreuer der Hausbank —
+sie erfahren Monate vorher von Investitionen. Türöffner: kostenlose Prüfung für
+einen Mandanten, Ergebnis schriftlich mit dem Namen des Empfehlers.
+
+**Größtes Risiko:** Abhängigkeit von Förderpolitik. Zweitens stoßweise Einnahmen.
+
+**Learnings (5):** Erfolgsbeteiligung ist ein Vertrauensinstrument, kein
+Preismodell · wer vom Zeitpunkt lebt, muss laufend da sein · manche Kunden kennen
+dein Angebot schon, und zwar schlecht · ein Abo mit unregelmäßigem Nutzen braucht
+regelmäßige Berichte · politische Nachfrage ist geliehene Nachfrage.
+
+**Coaching-Überleitung:** nein (Standardkapitel).
+
+**Recherchestand:** Preise als modellhafte Annahme. **Zu prüfen: Zulässigkeit
+und übliche Sätze von Erfolgshonoraren in der Fördermittelberatung**, typische
+Haftungsfälle.
+
+**Nicht wiederverwenden:** Steuerberater und Hausbank als erster Vertriebsweg ·
+die Formulierung „Deine Ausgangslage ist nicht Unwissen, sondern Misstrauen" ·
+„politische Nachfrage ist geliehene Nachfrage".
+
+---
+
+### A02 · Datenschutz-Betriebsführung für Arztpraxen und MVZ — LEITMODELL
+**Umfang:** 2.335 Wörter, ca. 7,8 S. · **Status:** freigegeben
+
+```
+Sterne:  Mon ★★★★☆ · Vtr ★★★☆☆ · Ups ★★★★☆ · Rec ★★★★★
+         Ska ★★★★☆ · Kap ★★★★★ · Mar ★★★★☆ · Pos ★★★☆☆
+Note:    7,4  (rechnerisch 7,8, minus 0,4 für dauerhaften Preisdruck durch
+         39-Euro-Portalanbieter)
+Stufen:  Einstieg 2 → Ziel 4/5 · Stufe 6 erst ab ca. 80 Praxen und nur als
+         Werkzeug für eigene Kunden
+Startbar: unter 2.000 € · keine Qualifikation · keine Branchenerfahrung
+```
+
+**Preisanker:** Ersteinrichtung 1.200–2.500 €, typisch 1.800 € · 149 €/Monat ·
+20 Praxen ≈ 2.980 €/Monat wiederkehrend · Deckungsbeitrag über 80 % · operative
+Marge 30–45 %.
+
+**Erster Vertriebsweg:** Praxisgründungen und Übernahmen statt Bestandspraxen.
+Zugang über Niederlassungsberatung, Praxisvermittler, Steuerberater für
+Heilberufe, Depots, Banken mit Heilberufe-Abteilung. Türöffner: Checkliste
+„Datenschutz bei der Niederlassung, zwölf Punkte" mit Platz für den Namen des
+Empfehlers.
+
+**Größtes Risiko:** Preisdruck von unten. Zweitens die Akzeptanz der
+Praxismanagerin.
+
+**Die zentrale Lehre dieses Kapitels — nicht streichen:** Es gibt zwei Versionen
+dieses Geschäfts. Bestellter Datenschutzbeauftragter mit gesetzlicher Rolle und
+persönlicher Exponierung, oder Betriebsführung mit Übergabe. Derselbe Kunde,
+derselbe Preis, völlig anderes Risiko. Der Autor wählt die zweite und lehnt die
+Bestellung ausdrücklich ab. **Dieses Muster ist auf viele Pflichtmodelle in
+Kategorie A und F übertragbar und dort jeweils zu prüfen.**
+
+**Learnings (5):** schlecht gepflegte Dokumentation ist schlechter als keine ·
+verkaufe den Nachweis, nicht das Wissen · ähnliche Kunden sind mehr wert als
+viele Kunden · es gibt zwei Versionen fast jedes Pflichtgeschäfts · der Nutzer
+entscheidet über die Verlängerung, nicht der Unterschreiber.
+
+**Coaching-Überleitung:** ja (Leitmodell) — Frage nach einer Pflicht, die man
+für sich selbst schon erfüllt, samt Haftungsfrage.
+
+**Querverweis:** offener Weg zu B12 (IT-Sicherheit als Anschlussverkauf).
+Verwandt mit F52 (Datenschutzbeauftragter für Bau- und Handwerksbetriebe) —
+**dort muss der Unterschied begründet werden, sonst ist es dasselbe Kapitel
+zweimal.**
+
+**Recherchestand:** Preise als modellhafte Annahme. **Zu prüfen:
+Bestellpflicht für Datenschutzbeauftragte bei Praxen (Personenzahl und Art der
+Verarbeitung), Haftungsverteilung zwischen bestellter Rolle und externem
+Dienstleister.**
+
+**Nicht wiederverwenden:** Praxisgründung als erster Vertriebsweg · die
+Formulierung „Sie haben etwas, das gegen Sie verwendbar ist" · der
+39-Euro-Portalvergleich · „verkaufe den Nachweis, nicht das Wissen" (steht bereits
+in der Kategorie-Einführung, dort in anderer Formulierung).
 
 ---
 

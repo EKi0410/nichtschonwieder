@@ -4,10 +4,12 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     10 / 116 Kapitel und Modelle final
+Gesamt:     13 / 116 Kapitel und Modelle final
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
-Teil II:    2 / 100 Modelle, alle in voller Tiefe
-            2 / 20 Leitmodelle
+Teil II:    4 / 100 Modelle, alle in voller Tiefe
+            3 / 20 Leitmodelle
+            1 / 60 Standardkapitel
+            1 / 10 Kategorie-Einführungen
             0 / 60 Standardkapitel (3,5 S.)
             0 / 20 kompakte Vollkapitel (2,8 S.)
             0 / 10 Kategorie-Einführungen
@@ -92,6 +94,9 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | **Teil I, Summe** | **11.295** | **ca. 37,8** | **vollständig** (Plan: 40 S.) |
 | Teil II, B11 — Managed IT für Steuerkanzleien | 2.249 | ca. 7,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, C21 — KI-Telefonassistent für Handwerksbetriebe | 2.275 | ca. 7,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, Einführung Kategorie A | 453 | ca. 1,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, A01 — Fördermittel-Screening | 1.960 | ca. 6,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, A02 — Datenschutz für Arztpraxen | 2.335 | ca. 7,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 
 ## Änderungsprotokoll
 
