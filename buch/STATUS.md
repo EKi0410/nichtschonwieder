@@ -4,12 +4,12 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     25 / 116 Kapitel und Modelle final
+Gesamt:     28 / 116 Kapitel und Modelle final
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
-Teil II:    15 / 100 Modelle — Kategorie A vollständig, B begonnen
+Teil II:    18 / 100 Modelle — Kategorie A vollständig, B zu 2/3
             4 / 20 Leitmodelle
-            8 / 60 Standardkapitel
-            4 / 20 kompakte Vollkapitel
+            11 / 60 Standardkapitel
+            5 / 20 kompakte Vollkapitel
             2 / 10 Kategorie-Einführungen
             1 / 10 Kategorie-Einführungen
             0 / 60 Standardkapitel (3,5 S.)
@@ -112,6 +112,9 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Teil II, B12 — Managed IT Arztpraxen | 1.876 | ca. 6,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, B13 — Netztrennung Lohnfertiger | 1.802 | ca. 6,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, B14 — Backup Notariate | 1.219 | ca. 4,1 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, B15 — Managed WLAN Hotels | 1.738 | ca. 5,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, B16 — Managed Print Pflegeheime | 1.130 | ca. 3,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, B17 — Microsoft-365-Hygiene Ingenieurbüros | 1.984 | ca. 6,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 
 ## Änderungsprotokoll
 

@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 25 von 116 Kapiteln (Teil I vollständig, 15 Modelle, 2 Kategorie-Einführungen). **Kategorie A vollständig, B begonnen.**
+Stand nach 28 von 116 Kapiteln (Teil I vollständig, 18 Modelle, 2 Kategorie-Einführungen). **Kategorie A vollständig, B zu zwei Dritteln.**
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -31,8 +31,8 @@ Stand nach 25 von 116 Kapiteln (Teil I vollständig, 15 Modelle, 2 Kategorie-Ein
 |---|---:|---:|---|
 | 8,0–10,0 | 12–18 | 0 | — · **nach 12 Modellen noch leer, im Blick behalten** |
 | *Anmerkung* | | | Korrekturen: 10× abwärts, 1× reine Aufwärtskorrektur (A06, +0,3 für den Verkaufsmoment), 1× zweiseitige Bilanz (A04). Damit ist gezeigt, dass das Instrument in beide Richtungen wirkt. |
-| 6,5–7,9 | 35–45 | 12 | B11 (7,8), A05 (7,6), A02 (7,4), A06 (7,3), B13 (7,3), A10 (7,2), B14 (7,2), A04 (7,1), B12 (7,1), C21 (6,8), A03 (6,7), A01 (6,6) |
-| 5,0–6,4 | 25–35 | 3 | A09 (6,3), A07 (6,2), A08 (5,9) |
+| 6,5–7,9 | 35–45 | 13 | B11 (7,8), A05 (7,6), A02 (7,4), A06 (7,3), B13 (7,3), A10 (7,2), B14 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C21 (6,8), A03 (6,7), A01 (6,6) |
+| 5,0–6,4 | 25–35 | 5 | A09 (6,3), B15 (6,3), A07 (6,2), A08 (5,9), B16 (5,8) |
 | unter 5,0 | 10–15 | 0 | — · **noch leer; 10–15 Modelle müssen hier landen, sonst ist das Buch gefällig** |
 
 ---
@@ -840,6 +840,67 @@ führt danach über den Bestand.
 **Nicht wiederverwenden:** weiße Leistung über IT-Einzelkämpfer als
 Vertriebsweg · „ein Backup, das nie zurückgespielt wurde, ist eine Hoffnung" ·
 „Marktgröße steht in keinem Bewertungsraster".
+
+---
+
+### B15 · Managed WLAN für Hotels — STANDARD
+1.738 Wörter · Note **6,3** (rechn. 6,7, −0,4: Kapitalleichtigkeit mit 5 %
+Gewicht erfasst nicht, dass die halbe Auftragssumme vorfinanziertes Material ist;
+dazu Saisonalität) · Sterne 3/4/4/4 · 3/**2**/3/3 · Ziel 4 · startbar
+15.000–40.000 €.
+**Preise:** Projekt 8.000–40.000 €, Betrieb 6–15 €/Zimmer/Monat · 80 Zimmer
+≈ 800 €/Monat. **Projektmarge nur 12 %, Vertragsmarge über 50 %** — im Text als
+Kernbefund: das Projekt bringt den Kunden, der Vertrag bringt das Geld.
+**Erster Vertriebsweg:** die kostenlose Messung — zwei Stunden vor Ort, eine
+Seite Ergebnis mit Grundriss.
+**Besonderheit:** Der Schaden ist öffentlich und dauerhaft (Bewertung), nicht
+einmalig. Ausdrücklich mit dem Hinweis, dass die Wirkung auf Buchungen nicht
+seriös bezifferbar ist und im Verkauf nicht behauptet werden darf.
+**Nicht wiederverwenden:** die kostenlose Messung als Vertriebsweg · „der Schaden
+entsteht in der Bewertung, und er bleibt" · „das Projekt bringt den Kunden, der
+Vertrag bringt das Geld".
+
+---
+
+### B16 · Dokumentenlenkung und Managed Print für Pflegeheime — KOMPAKT
+1.130 Wörter · Note **5,8** (rechn. 6,3, −0,5: **Vorbedingung
+Herstellerpartnerschaft**, die keine Sterne-Dimension abbildet) · Sterne 3/3/3/5
+· 3/2/3/**2** · Ziel 4.
+**Preise:** Vollabo 400–1.200 €/Monat, davon 50–60 % an den Partner ·
+Deckungsbeitrag nur 90–120 € je Einrichtung · operative Marge 12–20 %.
+**Erster Vertriebsweg:** der Gerätehersteller oder Fachhändler selbst — du
+lieferst die Hälfte, die ihm im Angebot fehlt. *(Verwandt mit dem Partnerweg in
+B14, aber umgekehrt — im Text ausdrücklich vermerkt.)*
+**Zweites Modell im Buch, von dem der Autor als Einstieg abrät.**
+**Nicht wiederverwenden:** Fachhändler als Vertriebsweg · „der Ausdruck im
+Ausgabefach ist ein dokumentierter Datenschutzverstoß mit Zeitstempel" · „prüfe
+bei jedem Modell, ob es eine Vorbedingung hat".
+
+---
+
+### B17 · Microsoft-365-Hygiene für Ingenieurbüros — STANDARD
+1.984 Wörter · Note **7,1** (rechn. 7,6, −0,5: die Marktlücke besteht nur aus
+Desinteresse etablierter Anbieter) · Sterne 3/3/4/4 · **5/5/5**/2 · Ziel 5 ·
+**das einzige sofort startbare Modell der Kategorie B, unter 2.000 €**.
+**Preise:** Erstaufräumung 1.200–2.800 €, 149–390 € **je Quartal** · 30 Büros
+≈ 2.500 €/Monat, Deckungsbeitrag über 80 %.
+**Das zentrale Verkaufsargument — nicht streichen:** Ein Büro mit 40 Mitarbeitern
+zahlt für 48 Lizenzen, rund 160 €/Monat für nichts. Die Erstaufräumung
+finanziert sich im ersten Jahr daraus. **„Du verkaufst dich aus der Ersparnis."**
+**Erster Vertriebsweg:** ein Kunde aus dem eigenen Umfeld, danach konsequent über
+dessen Projektgemeinschaften — der einzige Weg im Buch, der ohne Kapital, ohne
+Referenzliste und ohne Kaltakquise funktioniert.
+**Dritte Variante der Softwareantwort:** Die drei Bedingungen sind **erfüllt**,
+und die Antwort ist trotzdem nein, weil es die Werkzeuge zu kaufen gibt. Damit
+gibt es im Buch jetzt drei Muster: B11 (Bedingung 3 nicht erfüllt), C21 (erfüllt,
+Antwort ja), B17 (erfüllt, Antwort trotzdem nein). **Diese Dreiteilung ist zu
+erhalten.**
+**Empfehlung im Text:** für einen Zwanzigjährigen mit IT-Neigung das Modell der
+Kategorie B, das der Autor vor allen anderen empfehlen würde. Zugleich ehrlich als
+kleines Geschäft eingeordnet: 30 Kunden ≈ 2.200 €, dorthin zwei Jahre.
+**Nicht wiederverwenden:** Projektgemeinschaften als Vertriebsweg · „du verkaufst
+dich aus der Ersparnis" · die Lizenzrechnung 40/48 · „eine Marktlücke aus
+Desinteresse".
 
 ---
 
