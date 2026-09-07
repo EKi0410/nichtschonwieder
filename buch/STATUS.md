@@ -1,11 +1,11 @@
 # BUCHSTATUS
 
 **Stand:** Architektur 1.1 — Tiefenvariante und Sterne-Skala entschieden
-**Phase:** 1 — ARCHITEKTUR (abgeschlossen bis auf Titelwahl und Autorenmaterial)
+**Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     0 / 116 Kapitel und Modelle final
-Teil I:     0 / 7 Kapitel + 0 / 1 Zwischenstück
+Gesamt:     1 / 116 Kapitel und Modelle final
+Teil I:     1 / 7 Kapitel + 0 / 1 Zwischenstück
 Teil II:    0 / 100 Modelle, alle in voller Tiefe
             0 / 20 Leitmodelle (4,5 S.)
             0 / 60 Standardkapitel (3,5 S.)
@@ -14,7 +14,7 @@ Teil II:    0 / 100 Modelle, alle in voller Tiefe
 Teil III:   0 / 8 Kapitel
 Rahmen:     0 / 1 Einleitung, 0 / 1 Nachwort, 0 / 4 Anhänge
 Zielumfang: ca. 483 Seiten / 138.000 Wörter
-Status:     ARCHITEKTUR
+Status:     KAPITELENTWICKLUNG, Teil I
 ```
 
 ## Getroffene Entscheidungen
@@ -75,6 +75,12 @@ Status:     ARCHITEKTUR
    fertigen Kapiteln.
 7. Phase 3: Gesamtdurchsicht — Sterne-Konsistenz über alle 100, Notenverteilung,
    Redundanzcheck, Verbotsliste als Textsuche.
+
+## Manuskript
+
+| Kapitel | Wörter | Seiten | Status |
+|---|---:|---:|---|
+| Teil I, 1 — Eine Idee ist kein Geschäftsmodell | 1.390 | ca. 4,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 
 ## Änderungsprotokoll
 
