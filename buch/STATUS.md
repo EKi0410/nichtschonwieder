@@ -4,12 +4,13 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     21 / 116 Kapitel und Modelle final
+Gesamt:     25 / 116 Kapitel und Modelle final
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
-Teil II:    12 / 100 Modelle — Kategorie A vollständig
+Teil II:    15 / 100 Modelle — Kategorie A vollständig, B begonnen
             4 / 20 Leitmodelle
-            5 / 60 Standardkapitel
-            3 / 20 kompakte Vollkapitel
+            8 / 60 Standardkapitel
+            4 / 20 kompakte Vollkapitel
+            2 / 10 Kategorie-Einführungen
             1 / 10 Kategorie-Einführungen
             0 / 60 Standardkapitel (3,5 S.)
             0 / 20 kompakte Vollkapitel (2,8 S.)
@@ -107,6 +108,10 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Teil II, A09 — Stammdatenbereinigung Instandhaltung | 981 | ca. 3,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, A10 — Personaldokumenten-Service Pflege | 1.116 | ca. 3,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | **Kategorie A, Summe** | **17.405** | **ca. 58** | **vollständig, 11 Kapitel** |
+| Teil II, Einführung Kategorie B | 413 | ca. 1,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, B12 — Managed IT Arztpraxen | 1.876 | ca. 6,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, B13 — Netztrennung Lohnfertiger | 1.802 | ca. 6,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, B14 — Backup Notariate | 1.219 | ca. 4,1 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 
 ## Änderungsprotokoll
 

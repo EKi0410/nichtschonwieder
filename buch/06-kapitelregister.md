@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 21 von 116 Kapiteln (Teil I vollständig, 12 Modelle, 1 Kategorie-Einführung). **Kategorie A vollständig.**
+Stand nach 25 von 116 Kapiteln (Teil I vollständig, 15 Modelle, 2 Kategorie-Einführungen). **Kategorie A vollständig, B begonnen.**
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -31,7 +31,7 @@ Stand nach 21 von 116 Kapiteln (Teil I vollständig, 12 Modelle, 1 Kategorie-Ein
 |---|---:|---:|---|
 | 8,0–10,0 | 12–18 | 0 | — · **nach 12 Modellen noch leer, im Blick behalten** |
 | *Anmerkung* | | | Korrekturen: 10× abwärts, 1× reine Aufwärtskorrektur (A06, +0,3 für den Verkaufsmoment), 1× zweiseitige Bilanz (A04). Damit ist gezeigt, dass das Instrument in beide Richtungen wirkt. |
-| 6,5–7,9 | 35–45 | 9 | B11 (7,8), A05 (7,6), A02 (7,4), A06 (7,3), A10 (7,2), A04 (7,1), C21 (6,8), A03 (6,7), A01 (6,6) |
+| 6,5–7,9 | 35–45 | 12 | B11 (7,8), A05 (7,6), A02 (7,4), A06 (7,3), B13 (7,3), A10 (7,2), B14 (7,2), A04 (7,1), B12 (7,1), C21 (6,8), A03 (6,7), A01 (6,6) |
 | 5,0–6,4 | 25–35 | 3 | A09 (6,3), A07 (6,2), A08 (5,9) |
 | unter 5,0 | 10–15 | 0 | — · **noch leer; 10–15 Modelle müssen hier landen, sonst ist das Buch gefällig** |
 
@@ -776,6 +776,70 @@ Lückenliste als Verkaufsmittel · „rechne ab, wie du arbeitest".
 **Kategorie A abgeschlossen.** 11 Kapitel, 17.405 Wörter, ca. 58 Seiten.
 Notenspanne 5,9 bis 7,6. Sofort startbar wie in der Einführung angekündigt:
 A02, A04, A07, A10 — Zusage eingehalten.
+
+---
+
+### Kategorie-Einführung B — Managed IT und Security, vertikal
+413 Wörter · freigegeben. Enthält: „IT für KMU" als das am schlechtesten
+verdienende Modell · der Preis dieser Kategorie ist die Bereitschaft · Denkfehler
+„zu viele Branchen gleichzeitig" mit der Rechnung (zweiter Kunde in derselben
+Nische kostet die Hälfte, in einer neuen das Doppelte) · **nur 1 von 10 sofort
+startbar (B17), höchste Eintrittsbarriere im Buch, mit Begründung** ·
+Leseempfehlung B11 und B18.
+
+---
+
+### B12 · Managed IT für Arztpraxen und MVZ — STANDARD
+1.876 Wörter · Note **7,1** (rechn. 7,5, −0,4: Morgengipfel als harte
+Kapazitätsgrenze plus regulatorische Nacharbeit) · Sterne 4/3/4/5 · 3/3/4/4 ·
+Ziel 5, Stufe 6 nein · startbar 8.000–20.000 €.
+**Preise — bewusst andere Logik als B11:** Pauschale **je Praxis** 450–1.200 €/
+Monat statt je Arbeitsplatz, Einrichtung 3.000–8.000 €. **Kernsatz: Der Preis
+folgt dem Schadensrisiko, nicht der Gerätezahl.**
+**Erster Vertriebsweg:** Händler und Betreuer der Praxisverwaltungssysteme.
+**Das Nischenpaar-Kapitel:** B11 7,8 gegen B12 7,1 — dieselbe Arbeit, 0,7 Punkte
+Unterschied, und der Grund ist der Alltag: Kanzleien haben Fristen, Praxen haben
+Wartezimmer. **Dieser Vergleich steht im Urteil und ist die klarste Demonstration
+der Nischenlogik im Buch. Nicht streichen.**
+**Nicht wiederverwenden:** PVS-Händler als Vertriebsweg · „Umsatzstillstand mit
+zwölf Zeugen im Wartezimmer" · der Morgengipfel · „der Preis folgt dem
+Schadensrisiko".
+
+---
+
+### B13 · Managed IT und Netztrennung für Lohnfertiger — STANDARD
+1.802 Wörter · Note **7,3** (rechn. 7,6, −0,3: dauerhafte Nacht- und
+Wochenendarbeit plus das höchste bezifferbare Schadenspotenzial der Kategorie) ·
+Sterne 4/4/4/5 · **2**/3/4/4 · Ziel 4 · startbar 10.000–25.000 €.
+**Preise:** 900–2.500 €/Monat je Standort, Trennungsprojekt 8.000–35.000 € ·
+10 Betriebe ≈ 7.500 € Deckungsbeitrag/Monat.
+**Erster Vertriebsweg:** Maschinen- und Steuerungsservice — die Techniker sehen
+die Netze und werden gefragt.
+**Abgrenzung zu A03 im Text:** dieselbe Handbewegung, zwei Kaufanlässe
+(Vertragsverlust gegen Produktionsausfall). Wichtiges Muster.
+**Niedrigste Skalierbarkeit der Kategorie (2 Sterne):** 10–15 Kunden sind hier
+ein sehr gutes Unternehmen, mehr scheitert am Personal.
+**Nicht wiederverwenden:** Steuerungsservice als Vertriebsweg · „die Maschine
+könnte laufen, es weiß nur keiner mehr, was sie machen soll" · „wo dein Fehler
+bezifferbar teuer ist, verkaufst du zuerst den Rückfallplan".
+
+---
+
+### B14 · Managed Backup und Wiederanlauf für Notariate — KOMPAKT
+1.219 Wörter · Note **7,2** (rechn. 7,6, −0,4: **Marktgröße** — es gibt keine
+Sterne-Dimension dafür, und Notariate sind wenige; das Urteil verweist auf die
+Zehn-Prozent-Regel aus Kapitel 3 und schlägt die Öffnung auf kleine Kanzleien
+allgemein vor) · Sterne 4/3/3/5 · 4/4/4/3 · Ziel 4.
+**Preise:** Einrichtung 1.500–3.500 €, 149–390 €/Monat, Jahrestestat 800 € ·
+20 Kanzleien ≈ 4.980 €/Monat, Deckungsbeitrag ca. 75 %.
+**Erster Vertriebsweg:** weiße Leistung für IT-Einzelkämpfer, die diese
+Kanzleien betreuen — mit vertraglichem Kundenschutz.
+**Kernidee:** Ein schmales Produkt kommt leichter in eine schwierige Nische als
+ein breites. B14 ist der billigste Einstieg in die Kanzleinische, der Weg zu B11
+führt danach über den Bestand.
+**Nicht wiederverwenden:** weiße Leistung über IT-Einzelkämpfer als
+Vertriebsweg · „ein Backup, das nie zurückgespielt wurde, ist eine Hoffnung" ·
+„Marktgröße steht in keinem Bewertungsraster".
 
 ---
 
