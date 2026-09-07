@@ -4,17 +4,13 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     31 / 116 Kapitel und Modelle final
+Gesamt:     36 / 116 Kapitel und Modelle final
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
-Teil II:    21 / 100 Modelle — Kategorien A und B vollständig
-            5 / 20 Leitmodelle
-            13 / 60 Standardkapitel
+Teil II:    25 / 100 Modelle — Kategorien A und B vollständig, C zu 5 von 10
+            6 / 20 Leitmodelle
+            16 / 60 Standardkapitel
             6 / 20 kompakte Vollkapitel
-            2 / 10 Kategorie-Einführungen
-            1 / 10 Kategorie-Einführungen
-            0 / 60 Standardkapitel (3,5 S.)
-            0 / 20 kompakte Vollkapitel (2,8 S.)
-            0 / 10 Kategorie-Einführungen
+            3 / 10 Kategorie-Einführungen
 Teil III:   0 / 8 Kapitel
 Rahmen:     0 / 1 Einleitung, 0 / 1 Nachwort, 0 / 4 Anhänge
 Zielumfang: ca. 730 Seiten / 212.000 Wörter, ein Band
@@ -119,10 +115,17 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Teil II, B19 — Fernzugriff Maschinenbauer | 1.938 | ca. 6,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, B20 — IT für Kita- und Schulträger | 1.046 | ca. 3,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | **Kategorie B, Summe** | **17.658** | **ca. 59** | **vollständig, 11 Kapitel** |
+| Teil II, Einführung Kategorie C | 442 | ca. 1,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, C22 — Angebotserstellung SHK-Betriebe | 2.121 | ca. 7,1 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, C23 — Aktenaufbereitung Fachanwaltskanzleien | 2.052 | ca. 6,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, C24 — Bauvorhaben-Screening Zulieferer | 2.001 | ca. 6,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, C25 — Telefon- und Terminannahme Praxen *(Leitmodell)* | 2.685 | ca. 8,9 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| **Kategorie C, Zwischenstand** | **11.576** | **ca. 38,5** | **5 von 11 Kapiteln (mit C21)** |
 
 ## Änderungsprotokoll
 
 | Version | Änderung |
 |---|---|
 | 1.0 | Erstfassung: Struktur, 100 Modelle, Bewertungssystem, Voice Bible 0.1 |
+| 1.2 | Kategorie C begonnen: Einführung, C22, C23, C24, C25. Vier neue Softwareantwort-Muster (C22 fremde Daten → nein, C23 eigene Daten → ja, C24 Automatisierung zerstört den Unterschied → nein, C25 nur als Modul im fremden System → ja). Erste ausdrücklich geprüfte und verworfene Abwärtskorrektur (C22). Erstes Kapitel ohne Korrektur mit Begründung gegen Doppelbestrafung (C25). Nischenpaar C21/C25 abgeschlossen. Offen und im Register vermerkt: Notenband unter 5,0 nach 25 Modellen weiterhin leer, erster fest eingeplanter Kandidat C30. |
 | 1.1 | Variante C entschieden: alle 100 Modelle in voller Tiefe, ca. 483 statt 190 Seiten. Kapitelstruktur in drei Längenvarianten (20/60/20). Sterne-Skala gleichgerichtet, zwei Boxen umbenannt. Navigationsapparat für den größeren Umfang ergänzt: Modellmatrix, Register, Querverweise, längere Kategorie-Einführungen. Regel gegen Monotonie und drei zusätzliche Prüfpunkte in der Checkliste. |

@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 31 von 116 Kapiteln (Teil I vollständig, 21 Modelle, 2 Kategorie-Einführungen). **Kategorien A und B vollständig.**
+Stand nach 36 von 116 Kapiteln (Teil I vollständig, 25 Modelle, 3 Kategorie-Einführungen). **Kategorien A und B vollständig, Kategorie C zu 5 von 11.**
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -31,9 +31,9 @@ Stand nach 31 von 116 Kapiteln (Teil I vollständig, 21 Modelle, 2 Kategorie-Ein
 |---|---:|---:|---|
 | 8,0–10,0 | 12–18 | 1 | **B19 (8,0)** — erstes Modell im Spitzenband |
 | *Anmerkung* | | | Korrekturen: 10× abwärts, 1× reine Aufwärtskorrektur (A06, +0,3 für den Verkaufsmoment), 1× zweiseitige Bilanz (A04). Damit ist gezeigt, dass das Instrument in beide Richtungen wirkt. |
-| 6,5–7,9 | 35–45 | 15 | B11 (7,8), A05 (7,6), B18 (7,5), A02 (7,4), A06 (7,3), B13 (7,3), A10 (7,2), B14 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), B20 (6,9), C21 (6,8), A03 (6,7), A01 (6,6) |
-| 5,0–6,4 | 25–35 | 5 | A09 (6,3), B15 (6,3), A07 (6,2), A08 (5,9), B16 (5,8) |
-| unter 5,0 | 10–15 | 0 | — · **DRINGEND: nach 21 Modellen noch leer. Von den restlichen 79 muss etwa jedes siebte hier landen. Kandidaten bewusst in G (Handel), H (kapitalintensiv) und J (Plattformen) suchen** |
+| 6,5–7,9 | 35–45 | 17 | B11 (7,8), A05 (7,6), B18 (7,5), A02 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), A10 (7,2), B14 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), C21 (6,8), A03 (6,7), A01 (6,6) |
+| 5,0–6,4 | 25–35 | 8 | A09 (6,3), B15 (6,3), A07 (6,2), C24 (6,0), A08 (5,9), B16 (5,8), C22 (5,6) |
+| unter 5,0 | 10–15 | 0 | — · **DRINGEND: nach 25 Modellen noch leer. Von den restlichen 75 muss etwa jedes fünfte hier landen. Erster fest eingeplanter Kandidat: C30 (Content-Produktion Autohäuser). Weitere bewusst in G (Handel), H (kapitalintensiv) und J (Plattformen) suchen** |
 
 ---
 
@@ -970,9 +970,180 @@ Fördermittel-Preissatz.
 Notenspanne 5,8 bis 8,0. Zusage der Einführung eingehalten: nur B17 trägt den
 Marker „sofort startbar".
 
-**Softwareantworten im Buch — vier Muster, alle zu erhalten:**
+**Softwareantworten im Buch — acht Muster, alle zu erhalten:**
 B11 Bedingung 3 nicht erfüllt → nein · C21 erfüllt → ja · B17 erfüllt, aber
-Werkzeug käuflich → nein · B19 erfüllt und Werkzeug nicht käuflich → ja.
+Werkzeug käuflich → nein · B19 erfüllt und Werkzeug nicht käuflich → ja ·
+**C22 erfüllt, aber die Daten gehören anderen → nein** · **C23 erfüllt und die
+Daten sind die eigenen → ja** · **C24 erfüllt, aber Automatisierung zerstört den
+eigenen Unterschied → nein** · **C25 erfüllt, aber nur als Modul im fremden
+System → ja, nicht allein**.
+
+### Kategorie-Einführung C — KI mit klarem Prozessbezug
+442 Wörter. Aufnahmekriterium wörtlich genannt: benennbarer Prozess plus eine
+Zahl, die sich ändert. **„KI-Agentur" ist als Bezeichnung verbrannt** — unabhängig
+davon, ob dahinter etwas Gutes steckt (deckungsgleich mit der Autorenaussage aus
+der Voice Bible und mit I.1).
+**Gewinnertyp:** der Übersetzer — versteht einen Betriebsablauf so gut, dass er
+ihn ohne ein einziges technisches Fachwort beschreiben kann.
+**Preis der Kategorie:** die Halbwertszeit. Die Technik veraltet schneller als
+der Vertrag. Konsequenz im Text: früh verdienen, Kundenbeziehung so bauen, dass
+sie den Wegfall der Technik überlebt.
+**Denkfehler:** das Modell verkaufen statt das Ergebnis. Daraus die Folgerung,
+die für die ganze Kategorie gilt: **Die Beschreibung des Angebots ist Teil des
+Produkts, nicht Marketing.**
+**Zusage an den Leser:** genau drei von zehn sofort startbar — **C24, C27, C30**.
+Begründung im Text: Auswertungs- und Aufbereitungsmodelle, bei denen man den
+Prozess von Hand beherrscht. **Diese Zusage muss in C27 und C30 eingelöst werden.**
+**Leseempfehlung:** C21 und C25 als Paar.
+
+---
+
+### C22 · Angebotserstellung für Heizungs- und Sanitärbetriebe — STANDARD
+2.121 Wörter · Note **5,6** (rechn. 5,2, **+0,4** aufwärts: die Auftragsgröße
+beim Kunden setzt eine hohe theoretische Preisobergrenze, die keine der acht
+Skalen abbildet) · Sterne 3/**2**/3/3 · **2**/4/3/**2** · Einstieg 2 → Ziel 5.
+**Ausdrücklich geprüfte und verworfene Abwärtskorrektur** für die Haftung, mit
+Begründung im Urteil: *„Ein Risiko, das man durch einen Satz im Vertrag begrenzen
+kann, ist kein Modellfehler."* Erster Fall dieser Art im Buch — beibehalten.
+**Preise:** 3.500 € Einrichtung · **39 € je Angebot bei 249 € Mindestumsatz** —
+neues Abrechnungsmodell im Buch (Stückpreis mit Untergrenze), passend zu
+schwankendem Bedarf · 30 Angebote/Monat = 1.170 € · rund 300 € Deckungsbeitrag
+(25 %) · Tragfähigkeit erst ab ca. 15 Betrieben.
+**Erster Vertriebsweg:** die Nachfolgegeneration — Junioren- und
+Nachfolgekreise, Nachfolgebörsen, Meisterschulen. Ausdrücklich **kein**
+Verbandsvortrag (B11) und im Text ausdrücklich **abgegrenzt gegen A07**:
+Kaufanlass (A07) gegen Haltung (C22). Diese Abgrenzung nicht streichen.
+**Kernthese:** *„Das Angebot dauert nicht drei Tage, weil das Rechnen drei Tage
+dauert. Es dauert drei Tage, weil niemand entschieden hat, was drin stehen soll."*
+Daraus: der Engpass liegt in der Übergabe Baustelle → Büro, nicht im Rechnen.
+**Fünftes Softwaremuster:** Alle drei Bedingungen erfüllt — trotzdem nein, weil
+**die Daten jemand anderem gehören** (Großhandel, Softwarehersteller). Neu und zu
+erhalten.
+**Größtes Risiko:** die Hersteller der Handwerkersoftware bauen die Funktion ein.
+**Learnings (5):** prüfe, wo die Zeit wirklich vergeht · fehlende Zurechenbarkeit
+ist eine Preisgrenze · Mindestumsatz plus Stückpreis bei schwankendem Bedarf ·
+mehr Umsatz ist kein Argument bei überlastetem Kunden · wer die Daten nicht
+besitzt, baut keine Software darauf.
+**Recherchestand:** Preise und Rechnungen als modellhafte Annahme bzw.
+Beispielrechnung. Zu prüfen: Wirksamkeit von Haftungsbegrenzungen in AGB
+gegenüber Unternehmern.
+**Nicht wiederverwenden:** die Zahlen oben · die Nachfolgegeneration als
+Vertriebsweg · der Drei-Tage-Satz · die Aufnahmevorlage mit zwölf Feldern.
+
+---
+
+### C23 · Aktenaufbereitung für Fachanwaltskanzleien — STANDARD
+2.052 Wörter · Note **7,0** (rechn. 7,3, **−0,3**: der Datenweg. Kontrollierte
+Verarbeitungsumgebung kostet **dauerhaft** mehr — im Urteil ausdrücklich
+begründet mit *„Ein einmaliger Aufwand rechtfertigt keine Korrektur. Ein
+dauerhafter schon."*) · Sterne 4/3/3/4 · 4/4/4/3 · Einstieg 2 → Ziel 6.
+**Preise:** 1.900 € Einrichtung je Kanzlei · **290 € je Anwalt und Monat**, min.
+3 Anwälte · sechs Anwälte = 1.740 €/Monat · Deckungsbeitrag erst positiv, wenn
+die Prüfzeit von 12 auf 4 Minuten je Akte sinkt (dann ca. 50 %).
+**Erster Vertriebsweg:** **Stellenanzeigen** als Nachfragesignal — *„Eine
+Stellenanzeige ist ein Kapazitätsproblem mit Adresse."* Zweiter Weg: Fortbildungs-
+pflicht der Fachanwälte.
+**Kernthese der Kategorie und des Buches:** *„In fast jedem Beratungsberuf ist
+gesparte Zeit verlorener Umsatz. Hier ist sie Gewinn."* Begründet die Auswahl
+Verkehrs-/Arbeitsrecht (gesetzliche Gebühren) **gegen** Wirtschaftskanzleien
+(Stundenhonorar). Zentrale Auswahlregel, nicht streichen.
+**Softwareantwort: ja** — dritter Ja-Fall. Ausdrücklicher Kontrast zu C22: hier
+gehören dir die Daten (drei Jahre eigene Auszüge).
+**Größtes Risiko:** ein einzelner falscher Auszug in einem wichtigen Mandat.
+**Leitkennzahl:** Minuten Prüfung je Akte — im Text als die eine Zahl benannt,
+an der die Marge hängt.
+**Learnings (5):** such Kunden, bei denen gesparte Zeit Gewinn ist · Stellenanzeige
+als Kapazitätssignal · nimm dem Kunden nicht den Teil weg, mit dem er verdient ·
+eine Kennzahl wöchentlich messen · Regulierung schützt auch vor Nachahmern.
+**Recherchestand:** Zu prüfen: Anwendungsbereich der gesetzlichen Gebühren,
+Zulässigkeit abweichender Vereinbarungen, Einbeziehung mitwirkender Personen in
+die Verschwiegenheitspflicht, berufsrechtliche Zulässigkeit externer
+Aktenverarbeitung.
+**Nicht wiederverwenden:** Stellenanzeigen als Vertriebsweg · der
+Gebührenlogik-Satz · „Kapazitätsproblem mit Adresse" · die Minuten-je-Akte-Rechnung.
+
+---
+
+### C24 · Bauvorhaben-Screening für Zulieferer und Ausbaugewerke — STANDARD
+2.001 Wörter · Note **6,0** (rechn. 6,3, **−0,3**: die Zurechnung läuft nur in
+eine Richtung — Erfolge gehören dem Vertrieb des Kunden, Misserfolge deiner
+Liste) · Sterne 3/3/3/3 · 4/**5**/3/**2** · Einstieg 2 → Ziel 5.
+**Startbarkeitsmarker: sofort startbar** (unter 2.000 €, keine Qualifikation,
+ohne Branchenerfahrung) — löst die erste der drei Zusagen der C-Einführung ein.
+**Preise:** **890 €/Monat je Vertriebsgebiet, 6 Monate Mindestlaufzeit, bewusst
+ohne Einrichtungsgebühr** (Begründung im Text: Vergleichsanker ist ein monatlich
+kündbarer Informationsdienst) · vier Kunden = Verlustgeschäft, ab 8–10 Kunden je
+Recherchegebiet 30–40 % Deckungsbeitrag.
+**Erster Vertriebsweg:** **Handelsvertreter** als Multiplikatoren — *„Ein
+Vertreter, der für fünf Hersteller arbeitet, spricht fünfmal für dich."*
+**Kernthese:** *„Du verkaufst keine Liste. Listen gibt es. Du verkaufst den
+Anruf, der stattgefunden hat."* Daraus: ungenutztes Abo des Kunden ist ein
+stärkeres Verkaufsargument als ein fehlendes.
+**Softwareantwort: nein** — sechstes Muster, neuer Grund: *„Automatisiere nie den
+Teil, für den du bezahlt wirst."* Wer hier automatisiert, wird zum
+Informationsdienst mit schlechteren Daten.
+**Größtes Risiko:** Wettbewerbsposition 2 Sterne (etablierte Bauinformations-
+dienste, Insourcing beim Kunden) plus Konjunkturabhängigkeit.
+**Ausdrücklich als Lernmodell eingeordnet**, nicht als Lebenswerk — im Urteil mit
+Adressierung an achtzehn- bis zwanzigjährige Leser ohne Branche.
+**Learnings (5):** bearbeitete Information ist ein Produkt, öffentliche nicht ·
+prüfen, ob der Kunde seine vorhandene Lösung überhaupt nutzt · Zurechnung kann
+gegen dich laufen · automatisiere nie deinen Unterschied · kapitalleichtes Modell
+mit schwacher Position ist ein Einstieg, kein Ziel.
+**Querverweis:** A05 (gleiche Datengrundlage, andere Note) — Unterschied im Text
+begründet: Teilnahmefähigkeit gegen Vorsprung.
+**Recherchestand:** Zu prüfen: Zulässigkeit telefonischer Erstansprache im
+geschäftlichen Verkehr, Weiterverwendungsrechte der Datenquellen.
+**Nicht wiederverwenden:** Handelsvertreter als Vertriebsweg · der Listen-Satz ·
+die 890-€-Rechnung · „automatisiere nie den Teil, für den du bezahlt wirst".
+
+---
+
+### C25 · Telefon- und Terminannahme für Zahnarzt- und Physiotherapiepraxen — LEITMODELL
+2.685 Wörter (über dem Leitmodell-Richtwert von ca. 2.300; zweimal gekürzt, der
+Rest trägt das Nischenpaar) · Note **7,3** · Sterne 4/3/4/4 · 4/**3**/4/3 ·
+Einstieg 2 → Ziel 6, Stufe 7 denkbar.
+**Keine Notenkorrektur** — im Urteil ausdrücklich begründet: Eine
+Abwärtskorrektur für die regulatorische Last würde **doppelt zählen**, weil sie
+bereits als Abzug in der Kapitalleichtigkeit und als Zuschlag in der
+Wettbewerbsposition steht. Diese Begründung ist die Kalibrierung gegen
+Doppelbestrafung und muss erhalten bleiben.
+**Preise:** 2.400 € Einrichtung je Standort · **349 €/Monat je Standort**,
+volumenunabhängig (bewusst anders als C21: der Kunde kennt seine Standorte, nicht
+seine Anrufzahlen) · 20 Praxen = 6.980 €, rund 3.680 € Deckungsbeitrag (ca. 50 %)
+· Stuhlstunde 180 €, drei Leerstunden/Woche ≈ 2.100 €/Monat.
+**Erster Vertriebsweg:** **ein veröffentlichter Erfahrungsbericht in der
+Fachpresse, vom Kunden mitunterschrieben** — im Text ausdrücklich als *erster
+Vertriebsweg im Buch, bei dem nicht der Gründer spricht, sondern ein Text*.
+Zweiter Weg: Abrechnungs- und Factoringgesellschaften der Heilberufe.
+**Das Nischenpaar-Kapitel:** C21 6,8 gegen C25 7,3. Dieselbe Technik, ein halber
+Punkt Unterschied, und der Grund ist **eine Zahl**: *„Der Handwerker kann seinen
+Verlust nicht beziffern. Der Praxisinhaber kann es, und er tut es jeden Monat
+sowieso."* Daraus die Leitregel: **„Verkauf lieber an jemanden, der seinen
+Schaden schon kennt, als an jemanden, dem du ihn erst beweisen musst."**
+Zweitthese des Vergleichs: die bessere Note gehört zum teureren Einstieg — Anlass
+für die Begründung, warum Kapitalleichtigkeit nur 5 % Gewicht hat.
+**Siebtes Softwaremuster:** ja — **aber als Modul im System des
+Terminsoftware-Herstellers, nicht gegen ihn.** *„Ja, bau es — aber nicht allein."*
+Anschluss an B16 (Herstellerpartnerschaft als Vorbedingung).
+**Größtes Risiko:** die Praxismanagerin als Vetogeber; danach die
+Softwarehersteller.
+**Coaching-Überleitung:** ja (Leitmodell) — Frage, ob der eigene Zielkunde den
+Preis seines Problems kennt oder ob man ihn erst ausrechnen müsste.
+**Learnings (5):** verkauf an den, der seinen Schaden beziffern kann · Entscheider
+und Vetogeber sind selten dieselbe Person · eine Eintrittsbarriere kostet und
+schützt zugleich · wenn dein Nutzen normal wird, verschwindet er — der
+Monatsbericht ist Vertragsbestandteil · verkauf die Zuständigkeit, nicht den
+bequemen Teilschritt.
+**Recherchestand:** Preise, Stuhlstundenwert und Ausfallquoten als modellhafte
+Annahme bzw. Beispielrechnung. Zu prüfen: Anforderungen an Auftragsverarbeitung
+im Heilberufsbereich, Einbeziehung mitwirkender Personen, Hinweispflicht bei
+Gesprächsaufzeichnung, Verfügbarkeit der Schnittstellen der Terminsysteme.
+**Nicht wiederverwenden:** die Zahlen oben · der Erfahrungsbericht als
+Vertriebsweg · der Bezifferbarkeits-Satz · die Stuhlstundenrechnung ·
+„eine Eintrittsbarriere kostet und schützt zugleich".
+
+---
 
 ---
 

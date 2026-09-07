@@ -52,6 +52,40 @@ nicht unbemerkt.
 identifizieren. Wenn sich keine finden lassen, ist das die wichtigste
 Erkenntnis des Kapitels — und meistens ein Warnsignal, kein Vorteil.
 
+### Aus Kategorie C (Stand: C21–C25 geschrieben)
+
+**C22 · Angebotserstellung SHK.** Wirksamkeit von Haftungsbegrenzungen in
+Allgemeinen Geschäftsbedingungen gegenüber Unternehmern. Verfügbarkeit und
+Nutzungsbedingungen der Großhandels-Artikeldaten (Datenformate der Branche).
+Stand der Kalkulationsfunktionen in verbreiteter Handwerkersoftware — davon hängt
+die Aussage zur Halbwertszeit des Modells ab.
+
+**C23 · Aktenaufbereitung Kanzleien.** Anwendungsbereich der gesetzlichen
+Anwaltsgebühren und Zulässigkeit abweichender Vereinbarungen — **das ist die
+Kernaussage des Kapitels und muss belegt sein**. Anforderungen an die Einbeziehung
+mitwirkender Personen in die anwaltliche Verschwiegenheitspflicht.
+Berufsrechtliche Zulässigkeit externer Aktenverarbeitung. Durchschnittliche
+Aktenzahl je Anwalt in den genannten Rechtsgebieten.
+
+**C24 · Bauvorhaben-Screening.** Zulässigkeit telefonischer Erstansprache im
+geschäftlichen Verkehr (mutmaßliche Einwilligung) — hängt mit der bereits
+notierten Kaltakquise-Frage zusammen und sollte gemeinsam geklärt werden.
+Weiterverwendungsrechte an Vergabeportal-, Bauantrags- und
+Ratsinformationsdaten. Preise und Leistungsumfang der etablierten
+Bauinformationsdienste.
+
+**C25 · Telefon- und Terminannahme Praxen.** Anforderungen an die
+Auftragsverarbeitung im Heilberufsbereich. Einbeziehung mitwirkender Personen in
+die ärztliche Schweigepflicht. Hinweispflicht bei Gesprächsaufzeichnung und
+automatisierter Gesprächsannahme. Verfügbarkeit offener Schnittstellen der
+verbreiteten Termin- und Praxisverwaltungssysteme — **davon hängt die
+Softwareantwort des Kapitels ab**. Realistische Ertragswerte je Behandlungsstunde
+und Ausfallquoten in Zahnmedizin und Physiotherapie.
+
+**Kategorieweit.** Nutzungskosten für Sprach- und Textverarbeitung in
+kontrollierter Umgebung im Vergleich zu allgemein verfügbaren Diensten. Diese
+Differenz trägt in C23 und C25 eine Notenkorrektur und eine Sternebewertung.
+
 ## Praktikerprüfung
 
 Ergänzend zur Recherche: mindestens ein Telefonat je Kategorie, bei den zwanzig
