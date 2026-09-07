@@ -15,13 +15,13 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 2 von 116 Kapiteln.
+Stand nach 3 von 116 Kapiteln.
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
 | „Denk darüber nach" | 20 | 1 | I.1 |
 | „Unternehmerische Frage" | 16 | 1 | I.2 |
-| „Perspektivwechsel" | 12 | 0 | — |
+| „Perspektivwechsel" | 12 | 1 | I.3 |
 | Kraftausdrücke | ca. 20 | 1 | I.2 |
 
 **Notenverteilung Teil II** *(Ziel: 12–18 Modelle bei 8,0–10,0 · 35–45 bei
@@ -40,6 +40,9 @@ Jeder Begriff wird im Buch **einmal** erklärt, danach ohne Erklärung benutzt.
 | Fixkosten | I.1, Frage 18 |
 | Ärgernis (Gegenbegriff zum Problem) | I.2 |
 | Behelfslösung als Wettbewerber | I.2 |
+| Marge | I.3 |
+| Deckungsbeitrag | I.3 |
+| Nische als Vertriebsentscheidung | I.3 |
 
 ---
 
@@ -53,6 +56,10 @@ Kein Beispiel wird zweimal als Hauptbeispiel verwendet.
 | KI-Telefonassistent Handwerk (1.500 € + 199 €/Monat) | I.1 | Etikett gegen Modell — **auch Modell C21 in Teil II, dort ausführlich** |
 | Malerbetrieb, elf offene Angebote, 4.000 € und 11.000 € verloren | I.2 | Einstieg, Maßstab für ein echtes Problem |
 | WG-Putzplan-App | I.2 | Gegenprobe, scheitert an 4 von 5 Fragen |
+| Managed IT für Steuerkanzleien: 12 Arbeitsplätze × 65 € = 780 €/Monat, 40 % Marge = 310 €, 11 Kanzleien für 3.300 € | I.3 | Untergrenzen-Rechnung — **Achtung: Modell B11 in Teil II muss dieselben Preisanker verwenden** |
+| Tennisverein, Turnieranmeldung, Sportwart | I.3 | Zugang und Glaubwürdigkeit; wird in I.7 für die Stufenlogik wieder aufgegriffen |
+| Managed IT Arztpraxis (nur als Gegenstück) | I.3 | Nischenpaar — **Modelle B11/B12 in Teil II** |
+| 17 Kunden (40.000 € Gewinn ÷ 200 € Marge) | I.3 | Einstieg |
 
 ---
 
@@ -128,6 +135,47 @@ deinem Arbeitsplatz kommt jede Woche, und wer würde dafür zahlen)
 **Offene Fäden:** Die fünf Fragen müssen in Teil II in der Box „Das Problem
 hinter dem Problem" wiedererkennbar angewendet werden · „Folge der Rechnung"
 wird in Teil III, Kapitel 4 (Preise) und Kapitel 5 (Vertrieb) wieder gebraucht
+
+---
+
+### I.3 — Die Nische ist keine Verkleinerung
+**Umfang:** ca. 1.390 Wörter, ca. 4,6 S. · **Status:** freigegeben (vorbehaltlich
+Autorenabnahme)
+**Einstiegstyp:** eine Zahl
+
+**Kernthesen**
+1. Siebzehn Kunden können ein ganzes Unternehmen sein. Eine Nische ist fast nie
+   zu klein, weil man weniger Kunden braucht, als man denkt.
+2. Eine Nische ist keine Verkleinerung des Marktes, sondern die Entscheidung,
+   wie du verkaufst.
+3. Zwei Rechnungen: Untergrenze (wie viele Kunden brauchst du) und Obergrenze
+   (wie viele gibt es in deiner Reichweite).
+4. Faustregel, ausdrücklich als Erfahrungswert gekennzeichnet: Musst du mehr als
+   zehn Prozent der erreichbaren Nische gewinnen, ist sie zu klein.
+5. Drei Tests für eine echte Nische: Kannst du sie zählen · Reden sie miteinander
+   · Haben sie ein Wort für sich selbst. Wer nicht zählen kann, hat ein Adjektiv.
+6. In einer Nische arbeitet die Empfehlung für dich — und genauso schnell gegen
+   dich. Man kann sich keinen unzufriedenen Kunden leisten.
+7. Zugang schlägt Sympathie. Nimm die Nische, in der man dich anhört.
+8. Wer keinen Zugang hat, dockt an einem Vertrauensträger an: Verbände ·
+   andere Dienstleister derselben Zielgruppe · Fachmedien · der Hersteller.
+9. Dieselbe Leistung in zwei Nischen sind zwei Unternehmen. Beides gleichzeitig
+   geht nicht.
+
+**Autorenmaterial:** G10 (Zugang und Glaubwürdigkeit statt „Spaß"), G30
+(Tennisverein, vollständig ausgeformt), G22 (die vier Vertrauensträger)
+
+**Sparsame Elemente:** „Perspektivwechsel" (Schluss: in welcher Branche würde man
+mich anhören, wenn ich morgen anrufe)
+**Kraftausdrücke:** keiner
+
+**Querverweise:** verweist vorwärts auf I.7 (warum Anmeldeformular statt
+Turniersoftware), auf Teil III Kapitel 5 (Kaltakquise-Rechtslage) und auf die
+Nischenpaare in Teil II
+**Offene Fäden:** I.7 muss die Tennis-Stufenlogik einlösen · Teil III, Kapitel 5
+muss die Kaltakquise-Rechtslage liefern · die Nischenpaare B11/B12 und C21/C25
+müssen in Teil II ausdrücklich aufeinander verweisen · die Preisanker für
+Managed IT Kanzlei sind ab jetzt gesetzt
 
 ---
 
