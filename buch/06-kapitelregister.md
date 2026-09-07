@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 7 von 116 Kapiteln.
+Stand nach 8 von 116 Kapiteln (Teil I vollständig).
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -55,6 +55,8 @@ Jeder Begriff wird im Buch **einmal** erklärt, danach ohne Erklärung benutzt.
 | Automatisierung als Investition mit Amortisationszeit | I.7 |
 | Die sieben Stufen als Landkarte, nicht als Treppe | I.7 |
 | Plattform (Stufe 7) | I.7 |
+| Kapitalleichtigkeit / Wettbewerbsposition (umbenannte Skalen) | Zwischenstück |
+| recherchiert / modellhafte Annahme / Beispielrechnung | Zwischenstück |
 
 ---
 
@@ -376,6 +378,48 @@ Teil III Kapitel 1 (Passung Mensch und Modell)
 **Offene Fäden:** Teil III Kapitel 1 muss die Passungsfrage einlösen · in Teil II
 muss die dreiteilige Softwareprüfung bei jedem Modell mit empfohlener Stufe 5
 erkennbar angewendet werden
+
+### Zwischenstück — Der Bewertungsrahmen
+**Umfang:** ca. 1.450 Wörter, ca. 5 S. · **Status:** freigegeben (vorbehaltlich
+Autorenabnahme)
+**Einstiegstyp:** ein Einwand („Sternebewertungen sind meistens Unsinn")
+
+**Enthält** — dies ist das Referenzstück, auf das sich alle hundert Modellkapitel
+stützen:
+1. Die Sterne sind die Zusammenfassung einer Begründung, nie ihr Ersatz. Jede
+   Box nennt eine Zahl, erklärt die Logik, benennt die Grenze und begründet die
+   Sternezahl.
+2. Fünf Sterne bedeuten immer etwas Gutes. Kapitalleichtigkeit und
+   Wettbewerbsposition mit Rohwert in Klammern.
+3. Die acht Dimensionen mit offengelegter Gewichtung, Vertrieb 20 % samt
+   Begründung.
+4. Alle acht Sterne-Anker vollständig. **Satzhinweis: Im gedruckten Buch wird
+   dieser Block eine zweiseitige Tabelle.**
+5. Der Kunde selbst gilt als Wettbewerber; Deckelung bei drei Sternen, sofern
+   nichts das Insourcing erschwert.
+6. Gesamturteil: gewichteter Durchschnitt × 2, plus Autorenkorrektur um bis zu
+   einem Punkt, die mit der Rechenzahl begründet werden muss.
+7. Die Note bewertet das Modell, nicht die Passung. Startbarkeits-Marker in der
+   Kopfzeile, rund 40 von 100 sofort startbar.
+8. Offengelegte Notenverteilung inkl. 10–15 Modelle unter 5,0.
+9. Drei Zahlenkennzeichnungen und die Regel, dass keine Zahl unkommentiert
+   bleibt.
+10. Drei Lesewege für Teil II: von vorne, nach Kategorie, über die Modellmatrix.
+11. Zusage an den Leser: Die zwanzig Fragen aus I.1 werden in jedem Kapitel
+    beantwortet. Fehlt eine, ist es ein Fehler.
+
+**Sparsame Elemente:** keines — bewusst, es ist ein Referenzstück
+**Kraftausdrücke:** keiner
+
+**Bindende Vorgaben für Teil II, die hier versprochen werden**
+- jede Box mit Zahl, Logik, Grenze, Sternebegründung
+- Rohwert in Klammern bei Kapitalleichtigkeit und Wettbewerbsposition
+- Startbarkeits-Marker in jeder Kopfzeile
+- Insourcing-Deckelung bei der Wettbewerbsposition
+- Notenkorrektur nur mit genannter Rechenzahl
+- alle zwanzig Fragen aus I.1 je Kapitel beantwortet
+- Kategorie-Einführungen nennen die Zahl der sofort startbaren Modelle
+- jede Zahl gekennzeichnet und interpretiert
 
 ---
 
