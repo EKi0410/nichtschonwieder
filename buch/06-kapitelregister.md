@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 28 von 116 Kapiteln (Teil I vollständig, 18 Modelle, 2 Kategorie-Einführungen). **Kategorie A vollständig, B zu zwei Dritteln.**
+Stand nach 31 von 116 Kapiteln (Teil I vollständig, 21 Modelle, 2 Kategorie-Einführungen). **Kategorien A und B vollständig.**
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -29,11 +29,11 @@ Stand nach 28 von 116 Kapiteln (Teil I vollständig, 18 Modelle, 2 Kategorie-Ein
 
 | Band | Ziel | vergeben | Modelle |
 |---|---:|---:|---|
-| 8,0–10,0 | 12–18 | 0 | — · **nach 12 Modellen noch leer, im Blick behalten** |
+| 8,0–10,0 | 12–18 | 1 | **B19 (8,0)** — erstes Modell im Spitzenband |
 | *Anmerkung* | | | Korrekturen: 10× abwärts, 1× reine Aufwärtskorrektur (A06, +0,3 für den Verkaufsmoment), 1× zweiseitige Bilanz (A04). Damit ist gezeigt, dass das Instrument in beide Richtungen wirkt. |
-| 6,5–7,9 | 35–45 | 13 | B11 (7,8), A05 (7,6), A02 (7,4), A06 (7,3), B13 (7,3), A10 (7,2), B14 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C21 (6,8), A03 (6,7), A01 (6,6) |
+| 6,5–7,9 | 35–45 | 15 | B11 (7,8), A05 (7,6), B18 (7,5), A02 (7,4), A06 (7,3), B13 (7,3), A10 (7,2), B14 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), B20 (6,9), C21 (6,8), A03 (6,7), A01 (6,6) |
 | 5,0–6,4 | 25–35 | 5 | A09 (6,3), B15 (6,3), A07 (6,2), A08 (5,9), B16 (5,8) |
-| unter 5,0 | 10–15 | 0 | — · **noch leer; 10–15 Modelle müssen hier landen, sonst ist das Buch gefällig** |
+| unter 5,0 | 10–15 | 0 | — · **DRINGEND: nach 21 Modellen noch leer. Von den restlichen 79 muss etwa jedes siebte hier landen. Kandidaten bewusst in G (Handel), H (kapitalintensiv) und J (Plattformen) suchen** |
 
 ---
 
@@ -901,6 +901,78 @@ kleines Geschäft eingeordnet: 30 Kunden ≈ 2.200 €, dorthin zwei Jahre.
 **Nicht wiederverwenden:** Projektgemeinschaften als Vertriebsweg · „du verkaufst
 dich aus der Ersparnis" · die Lizenzrechnung 40/48 · „eine Marktlücke aus
 Desinteresse".
+
+---
+
+### B18 · IT-Notfall-Retainer — LEITMODELL
+2.263 Wörter · Note **7,5** (rechn. 7,9, −0,4: **Korrelation** — die Sterne
+bewerten Kunden als unabhängig, aber Angriffswellen treffen viele gleichzeitig;
+dann ist die Zahl paralleler Einsätze die Grenze, nicht der Vertrieb) ·
+Sterne 4/3/4/4 · 4/4/**5**/4 · Ziel 4 · startbar 6.000–15.000 €.
+**Preise:** Notfallplan 2.500–6.000 €, Bereitschaft 250–600 €/Monat, Jahresübung
+1.200 €, Einsatzsatz 180–250 €/h · 30 Retainer ≈ 12.000 €/Monat,
+Deckungsbeitrag ca. 11.000 € bei einem Fünftel Auslastung.
+**Erster Vertriebsweg:** Versicherungsmakler mit Gewerbekundengeschäft.
+**Löst das Versprechen der Kategorie-Einführung ein:** Bereitschaft verkaufen,
+ohne eine Leistung zu erbringen. **Die Jahresübung ist das Produkt**, nicht
+Beiwerk — ohne sie ist der Vertrag im dritten Jahr weg.
+**Wichtigste Warnung:** Korrelationsrisiko, mit drei konkreten Gegenmaßnahmen
+(gestaffelte Zusagen, Obergrenze paralleler Einsätze im Vertrag,
+Partnerschaft ab 20 Retainern). Dazu der ausdrückliche Satz, dass eine
+Bereitschaft, die man nicht halten kann, ein Schaden mit Rechnung ist.
+**Nicht wiederverwenden:** Versicherungsmakler als Vertriebsweg · „die ersten
+zwölf Stunden entscheiden, und in diesen zwölf Stunden telefoniert der Betrieb
+herum" · das Korrelationsargument · „prüfe, ob die Risiken deiner Kunden
+zusammenhängen".
+
+---
+
+### B19 · Sicherer Fernzugriff für Maschinenbauer — STANDARD
+1.938 Wörter · Note **8,0** — **erstes Modell im Spitzenband** (rechn. 8,4,
+−0,4: Klumpenrisiko, ein Kunde bringt so viel wie zwanzig in anderen Modellen) ·
+Sterne 4/4/**5**/**5** · 4/4/4/4 · Ziel 5, **Stufe 6 ausdrücklich denkbar ab
+ca. 5 Kunden mit über 1.000 Maschinen, Stufe 7 in Sicht**.
+**Preise:** Aufbau 6.000–20.000 €, 15–40 € je verbundener Maschine/Monat ·
+200 Maschinen ≈ 5.000 €/Monat von einem Kunden · Deckungsbeitrag ca. 60 %.
+**Erster Vertriebsweg:** die Anreisestatistik — eine Frage im Erstgespräch, und
+der Serviceleiter stellt die Rechnung selbst auf.
+**Die zentrale Besonderheit:** Der eigentliche Entscheider ist die IT-Abteilung
+des Endkunden — sie kauft nichts, zahlt nichts und entscheidet alles. Das
+Freigabedokument ist das Produkt, nicht die Technik.
+**Höchste Wechselhürde im Buch**, weil sie bei den Kunden des Kunden liegt.
+**Vierte Variante der Softwareantwort:** Bedingungen erfüllt **und** das Werkzeug
+gibt es in dieser Form nicht zu kaufen → ja. Ergänzt die Dreiteilung aus B11,
+C21 und B17.
+**Nicht wiederverwenden:** Anreisestatistik als Vertriebsweg · „jeder abgelehnte
+Fernzugang kostet eine Anreise" · „manchmal entscheidet jemand über deinen
+Auftrag, der nichts bezahlt" · das Klumpenrisiko-Learning (auch in B20 verwendet,
+dort bewusst als Wiederaufnahme mit anderem Fokus).
+
+---
+
+### B20 · IT-Betrieb für Kita- und Schulträger — KOMPAKT
+1.046 Wörter · Note **6,9** (rechn. 7,4, −0,5: Klumpenrisiko, ein Träger kann
+das ganze Unternehmen sein) · Sterne 4/**2**/4/5 · 4/3/4/4 · Ziel 5.
+**Preise:** 250–600 € je Einrichtung/Monat · 20 Einrichtungen ≈ 8.000 €/Monat von
+einem Vertragspartner · operative Marge 25–40 %.
+**Erster Vertriebsweg:** Verbände der freien Träger und ihre Fachtagungen —
+zwölf bis vierundzwanzig Monate Zyklus, im Text ausdrücklich mit dem Hinweis,
+dass man in dieser Zeit ein zweites Einkommen braucht.
+**Die Besonderheit dieses Modells:** die Finanzierungsseite. **„Wo Fördermittel
+zahlen, verhandelt niemand den Preis. Es wird nur der Antrag geprüft."**
+Querverweis auf A01 (Fördermittel) und A05 (Vergabe).
+**Nicht wiederverwenden:** Trägerverbände als Vertriebsweg · der
+Fördermittel-Preissatz.
+
+---
+
+**Kategorie B abgeschlossen.** 11 Kapitel, 17.658 Wörter, ca. 59 Seiten.
+Notenspanne 5,8 bis 8,0. Zusage der Einführung eingehalten: nur B17 trägt den
+Marker „sofort startbar".
+
+**Softwareantworten im Buch — vier Muster, alle zu erhalten:**
+B11 Bedingung 3 nicht erfüllt → nein · C21 erfüllt → ja · B17 erfüllt, aber
+Werkzeug käuflich → nein · B19 erfüllt und Werkzeug nicht käuflich → ja.
 
 ---
 
