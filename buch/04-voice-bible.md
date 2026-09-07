@@ -1,9 +1,12 @@
-# VOICE BIBLE — Version 0.1
+# VOICE BIBLE — Version 1.0
 
-Diese Datei ist bewusst als Version 0.1 gekennzeichnet. Sie enthält bisher eine
-aus dem Briefing abgeleitete Stimme. Eine echte Autorenstimme entsteht erst mit
-Material vom Autor. Der Fragebogen in Abschnitt 6 ist deshalb der wichtigste
-Teil dieses Dokuments.
+Der Fragebogen aus Abschnitt 6 ist vollständig beantwortet. Diese Datei enthält
+damit keine abgeleitete, sondern eine belegte Autorenstimme: 28 Geschichten und
+Positionen, rund 35 feste Meinungen und die wörtlichen Formulierungen des
+Autors.
+
+Sie wird während der Kapitelarbeit fortgeschrieben — jede neue Aussage des
+Autors kommt in Abschnitt 5 dazu.
 
 **Regel Nummer eins:** Formulierungen, Geschichten, Meinungen und Erfahrungen
 des Autors haben immer Vorrang vor allem, was hier steht. Sie werden in
@@ -919,6 +922,52 @@ Möglichkeiten, Entscheidung offen:
    einstellst" — Prozesse, Vorlagen, Automatisierung, Auslagerung an Freie. Für
    einen zwanzigjährigen Leser ohnehin die relevantere Frage, und der Autor kann
    sie aus eigener Praxis beantworten.
+
+**G28 — Was der Leser nach dem Buch anders macht**
+
+Nach Vorstellung des Autors: Der Leser **fängt ernsthaft an**. Er hat eine Idee
+gefunden, die er durch die detaillierte Beschreibung für realistisch hält — und
+er kennt zugleich die ersten Herausforderungen, die genau diese Idee mit sich
+bringt. Und er **hört auf, ständig über neue Ideen zu grübeln und immer neue zu
+entwickeln.**
+
+**Der wichtigste Halbsatz der gesamten Befragung:** *„dieses kurzzeitige Gefühl
+von Erfolg, wenn du eine Idee erdacht hast."*
+
+→ Das ist die Diagnose des ganzen Buches. Eine Idee zu haben kostet nichts,
+dauert zehn Minuten und **kann nicht scheitern** — und fühlt sich trotzdem an wie
+Fortschritt. Deshalb bleibt der Leser in der Schleife: Es ist die einzige Form
+von Erfolg, die risikofrei ist. Er ist nicht faul, er ist an ein billiges Gefühl
+gewöhnt.
+
+→ Gehört in die Einleitung **und** ins Schlusskapitel. Es ist die Begründung
+dafür, dass das Buchversprechen („die Suche beenden") überhaupt einlösbar ist:
+Man löst die Sucht nicht mit einer besseren Idee, sondern indem man den Reiz
+entwertet.
+
+**Der letzte Satz des Buches — Kandidaten.** Der Autor gibt die Richtung vor:
+Hör auf zu grübeln und dir tausend Geschäftsideen zu visualisieren; das
+kurzzeitige Erfolgsgefühl bringt nichts ohne Umsetzung; nur Umsetzung,
+Durchhalten und Konsistenz zählen.
+
+*Redaktionelle Anmerkung:* Seine eigene Formulierung endet auf „wahrer Erfolg".
+Das steht sinngemäß auf der Verbotsliste in Abschnitt 4 — es ist das Vokabular
+genau der Szene, gegen die das Buch positioniert ist (G25). Die Aussage bleibt,
+das Wort geht.
+
+1. „Die tausendste Idee fühlt sich genauso gut an wie die erste. Genau das ist
+   das Problem."
+2. „Eine Idee zu haben kostet nichts und kann nicht scheitern. Deshalb machst du
+   es immer wieder. Hör auf damit."
+3. „Du kommst nicht durch die bessere Idee weiter, sondern dadurch, dass du eine
+   davon lange genug durchziehst."
+4. „Ich habe dieses Buch für mein achtzehnjähriges Ich geschrieben. Der hat
+   danach noch [X] Jahre weitergesucht. Du musst das nicht."
+
+**Empfehlung: Nummer 4**, weil sie den Kreis zum ersten Satz des Buches schließt
+(G24). Dafür fehlt noch die tatsächliche Zahl — wie lange der Autor nach seinem
+achtzehnten Lebensjahr weitergesucht hat, bevor er angefangen hat. Je unbequemer
+die Zahl, desto besser wirkt der Satz.
 
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene
