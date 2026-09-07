@@ -966,10 +966,74 @@ das Wort geht.
 4. „Ich habe dieses Buch für mein achtzehnjähriges Ich geschrieben. Der hat
    danach noch [X] Jahre weitergesucht. Du musst das nicht."
 
-**Empfehlung: Nummer 4**, weil sie den Kreis zum ersten Satz des Buches schließt
-(G24). Dafür fehlt noch die tatsächliche Zahl — wie lange der Autor nach seinem
-achtzehnten Lebensjahr weitergesucht hat, bevor er angefangen hat. Je unbequemer
-die Zahl, desto besser wirkt der Satz.
+**Entscheidung des Autors: Kandidat 1.**
+
+> Die tausendste Idee fühlt sich genauso gut an wie die erste. Genau das ist das
+> Problem.
+
+**G29 — „Ich suche bis heute"**
+Auf die Frage, wie lange er nach seinem achtzehnten Geburtstag noch gesucht hat,
+bevor er angefangen hat: *„Ich suche bis heute, sonst würde ich auch nicht
+dieses Buch schreiben."* Man bekomme das nie aus dem Kopf. Als neurodivergenter
+Mensch habe man immer Ideen — **auch im laufenden Geschäft, und gerade dann
+kämen sogar noch bessere.**
+
+→ **Das korrigiert das Buchversprechen, und zwar zum Besseren.** „Dieses Buch
+soll deine Suche beenden" hätte ein Autor geschrieben, bei dem die Suche
+aufgehört hat. Bei diesem Autor hat sie das nicht. Verschwiegen wäre das die
+eine unehrliche Stelle in einem Buch, das von seiner Ehrlichkeit lebt.
+
+**Genauere Fassung:** Was aufhören soll, sind nicht die Ideen — die hören nie
+auf. Was aufhören soll, ist das **Warten darauf, dass sich eine Idee sicher
+genug anfühlt, um anzufangen.** Suchen als Ersatzhandlung fürs Anfangen.
+
+**Der Satz dafür, aus seinen eigenen Worten gebaut:** *„Ich suche bis heute. Ich
+habe nur aufgehört, darauf zu warten, dass sich eine Idee sicher anfühlt."*
+Gehört in die Einleitung, direkt nach dem ersten Satz (G24).
+
+**Der Nebensatz ist das eigentliche Argument des Buches.** Dass im laufenden
+Geschäft bessere Ideen kommen, ist kein Zufall: Im Betrieb sieht man echte
+Probleme, im Kopf erfindet man welche. Derselbe Punkt wie beim Topf ohne Deckel
+(G14), beim eigenen Problem als Startsignal (G15) und beim Software-Kriterium
+(G19).
+
+→ **Anfangen ist nicht das Gegenteil vom Ideenhaben, sondern der beste
+Ideengenerator, den es gibt.** Damit ist die Ideenschleife kein Charakterfehler,
+sondern ein Weg, der an der falschen Stelle beginnt. Diese Wendung gehört in die
+Einleitung und ins Schlusskapitel.
+
+**Neurodivergenz — NICHT FÜR DIE VERÖFFENTLICHUNG FREIGEGEBEN.**
+Der Autor hat dies im Gespräch erwähnt. Es steht hier ausschließlich als
+Hintergrund für das Verständnis seiner Denkweise und erscheint **nirgends im
+Manuskript**, solange er es nicht ausdrücklich freigibt.
+
+*Falls er es freigibt:* Es würde tragen. Ein erheblicher Teil der Zielgruppe
+steckt aus demselben Grund in der Ideenschleife, und niemand schreibt für sie
+über Geschäftsmodelle. Dann aber als ein Absatz in der Ich-Form — kein Kapitel,
+keine Ferndiagnose an den Leser, kein Ratgeberton. Sinngemäß: „Bei mir ist das
+so, vielleicht kennst du das."
+
+**G30 — Ersatzbeispiel für Teil I, Kapitel 3: der Tennisverein**
+Vom Autor als Ersatz für das gestrichene Feuerwehrbeispiel vorgeschlagen, mit
+dem Hinweis, dass es sich mit jedem beliebigen Hobby austauschen lässt: Wer im
+Tennisverein ist, weiß, dass der Verein für öffentliche Turniere eine Lösung für
+die Anmeldung braucht.
+
+**Ausformung für das Kapitel:**
+- **Der Zugang:** Man kennt den Sportwart, weiß, wann das Turnier ist, und kann
+  an einem Abend drei Vereine im Kreis fragen. Ein Außenstehender bekäme dieses
+  Gespräch nicht.
+- **Das Problem:** Turnieranmeldungen laufen über Aushang, WhatsApp und eine
+  Excel-Datei; das Startgeld wird bar kassiert und niemand weiß, wer bezahlt hat.
+- **Die richtige erste Stufe:** eine Webseite mit Online-Anmeldung und
+  Zahlungsabwicklung — **nicht** die große Turniersoftware.
+
+→ Der Autor weist selbst auf den Widerspruch hin, dass er Vibecoding kritisch
+sieht (G19). Genau darin liegt der Wert des Beispiels: Es zeigt am konkreten
+Fall, warum man auf Stufe 2 anfängt und nicht auf Stufe 5. Ein Anmeldeformular,
+das ein Verein wirklich benutzt, ist mehr wert als eine Turniersoftware, die
+niemand kauft. Das Beispiel trägt damit zwei Kapitel: die Nischenlogik in
+Kapitel 3 und die Stufenlogik in Kapitel 7.
 
 Das Paar G3 und G4 trägt das gesamte Pricing-Kapitel. Es sollte in der
 Ich-Form stehen, mit der Einordnung erst am Ende, damit der Leser die eigene

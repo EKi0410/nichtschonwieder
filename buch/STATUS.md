@@ -25,7 +25,9 @@ Status:     ARCHITEKTUR
 | 3 | Zielgruppe | **18 bis 25 Jahre.** Ausdrücklich kein Buch für Dreißigjährige. Buchversprechen und Positionierung entsprechend neu gefasst |
 | 5 | Teil III, Kapitel 6 | **Ersetzt** durch „Wie du allein mehr schaffst, bevor du jemanden einstellst" — Personalführung fällt weg, weil der Autor dort keine eigene Erfahrung hat |
 | 6 | Feuerwehr | **Vollständig raus** — weder als Katalogmodell noch als Beispiel in Teil I. Ersatzbeispiel für Teil I Kapitel 3 wird vom Autor nachgeliefert |
-| 7 | Letzter Satz | Einer der vier Kandidaten aus `04-voice-bible.md`, G28. Auswahl und die fehlende Jahreszahl offen |
+| 7 | Letzter Satz | **Festgelegt:** „Die tausendste Idee fühlt sich genauso gut an wie die erste. Genau das ist das Problem." |
+| 8 | Buchversprechen | **Präzisiert:** Nicht die Ideen sollen aufhören, sondern das Warten darauf, dass sich eine sicher anfühlt |
+| 9 | Beispiel Teil I Kap. 3 | **Tennisverein** (Turnieranmeldung) statt Feuerwehr |
 | 4 | Katalog | **Keine Modelle tauschen.** Alle 100 bleiben; jedes Kapitel bekommt stattdessen einen Startbarkeits-Marker in der Kopfzeile |
 | 2 | Sterne-Skala | **Durchgehend positiv.** „Startkapital" → **Kapitalleichtigkeit**, „Wettbewerbsdruck" → **Wettbewerbsposition**, Rohwert jeweils in Klammern daneben |
 

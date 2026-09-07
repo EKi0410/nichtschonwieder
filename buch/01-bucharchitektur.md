@@ -110,7 +110,9 @@ Fixkosten sind höher, und beides verändert die Modellauswahl.
 
 ## 4. Das Buchversprechen
 
-> Dieses Buch soll deine Suche beenden.
+> Dieses Buch soll deine Suche beenden. Nicht deine Ideen — die hören nie auf,
+> und in einem laufenden Geschäft werden sie sogar besser. Aufhören soll das
+> Warten darauf, dass sich eine Idee sicher genug anfühlt, um anzufangen.
 
 Der Kreislauf aus „ich muss noch etwas finden, was passt, aber ich weiß nicht,
 ob es passt" hört nicht auf, weil man die richtige Idee findet. Er hört auf,
@@ -118,6 +120,11 @@ wenn man Ideen selbst beurteilen kann. Deshalb stehen hier hundert Modelle
 vollständig durchgerechnet: nicht als Katalog zum Stöbern, sondern als
 Trainingsmaterial. Man liest sie nicht, um Idee Nummer 47 zu finden, sondern so
 lange, bis man sie nicht mehr braucht.
+
+Und weil es sonst gelogen wäre: Der Autor sucht selbst bis heute. Er hat nur
+aufgehört, darauf zu warten, dass sich eine Idee sicher anfühlt. **Anfangen ist
+nicht das Gegenteil vom Ideenhaben — es ist der beste Ideengenerator, den es
+gibt.** Im Betrieb sieht man echte Probleme; im Kopf erfindet man welche.
 
 **Was das Buch ausdrücklich nicht verspricht:**
 
