@@ -4,10 +4,10 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     8 / 116 Kapitel und Modelle final
+Gesamt:     9 / 116 Kapitel und Modelle final
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
-Teil II:    0 / 100 Modelle, alle in voller Tiefe
-            0 / 20 Leitmodelle (4,5 S.)
+Teil II:    1 / 100 Modelle, alle in voller Tiefe
+            1 / 20 Leitmodelle
             0 / 60 Standardkapitel (3,5 S.)
             0 / 20 kompakte Vollkapitel (2,8 S.)
             0 / 10 Kategorie-Einführungen
@@ -55,6 +55,14 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Autorenstimme | **Version 1.0 — Fragebogen vollständig beantwortet.** 28 Geschichten, ca. 35 feste Meinungen, Sprachregeln festgelegt |
 | Recherche-Backlog | angelegt |
 
+## Offener Befund: Seitenplanung Teil II
+
+Das erste vollständige Modellkapitel braucht **2.249 Wörter statt der geplanten
+1.350** — die Kapitelvorlage mit zehn Abschnitten und acht erklärten Boxen ist
+umfangreicher, als die Seitenplanung angenommen hat. Hochgerechnet ergibt das für
+Teil II rund 590 statt 371 Seiten und für das Gesamtbuch etwa 700 statt 483.
+Entscheidung des Autors erforderlich; drei Wege stehen in der Antwort dazu.
+
 ## Noch offen
 
 1. Rücklauf des Autorenfragebogens aus `04-voice-bible.md` — bei 480 Seiten
@@ -89,6 +97,7 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Teil I, 7 — Automatisierung, Software, Grenzen der Skalierung | 1.430 | ca. 4,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil I, Zwischenstück — Der Bewertungsrahmen | 1.450 | ca. 5,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | **Teil I, Summe** | **11.295** | **ca. 37,8** | **vollständig** (Plan: 40 S.) |
+| Teil II, B11 — Managed IT für Steuerkanzleien | 2.249 | ca. 7,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 
 ## Änderungsprotokoll
 

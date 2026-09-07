@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 8 von 116 Kapiteln (Teil I vollständig).
+Stand nach 9 von 116 Kapiteln (Teil I vollständig, 1 Modell).
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -26,7 +26,13 @@ Stand nach 8 von 116 Kapiteln (Teil I vollständig).
 
 **Notenverteilung Teil II** *(Ziel: 12–18 Modelle bei 8,0–10,0 · 35–45 bei
 6,5–7,9 · 25–35 bei 5,0–6,4 · 10–15 unter 5,0)*
-Noch keine Modelle bewertet.
+
+| Band | Ziel | vergeben | Modelle |
+|---|---:|---:|---|
+| 8,0–10,0 | 12–18 | 0 | — |
+| 6,5–7,9 | 35–45 | 1 | B11 (7,8) |
+| 5,0–6,4 | 25–35 | 0 | — |
+| unter 5,0 | 10–15 | 0 | — |
 
 ---
 
@@ -425,7 +431,55 @@ stützen:
 
 ## Teil II
 
-*Noch keine Modelle geschrieben. Registerfelder je Modell:*
+### B11 · Managed IT für Steuerkanzleien — LEITMODELL
+**Umfang:** 2.249 Wörter, ca. 7,5 S. *(Plan sah 4,5 S. vor — siehe Anmerkung
+unten)* · **Status:** freigegeben (vorbehaltlich Autorenabnahme)
+
+```
+Sterne:  Mon ★★★★☆ · Vtr ★★★★☆ · Ups ★★★★★ · Rec ★★★★★
+         Ska ★★★☆☆ · Kap ★★★★☆ · Mar ★★★★☆ · Pos ★★★★☆
+Note:    7,8  (rechnerisch 8,1, minus 0,3 für die Notrufbereitschaft)
+Stufen:  Einstieg 2 → Ziel 5 · Stufenabbruch bei 6 (Software), begründet
+Startbar: 5.000–12.000 € · IT-Kenntnisse zwingend · Branchenerfahrung hilfreich
+```
+
+**Preisanker — ab jetzt für das ganze Buch gesetzt**
+55–85 € je Arbeitsplatz und Monat, typisch 65 € · Einrichtung 2.500–6.000 € ·
+Kanzlei mit 12 Arbeitsplätzen = 780 €/Monat · Deckungsbeitrag rund 420 € ·
+operative Marge 20–35 % · 11 Kanzleien ≈ 3.400 €/Monat.
+**Deckungsgleich mit der Rechnung in I.3.** B12 muss davon abweichen und die
+Abweichung begründen.
+
+**Erster Vertriebsweg:** Vortrag beim regionalen Steuerberaterverband, Thema
+Nachweispflichten der Cyberversicherung. Vertrauensträger: Verband,
+Kanzleiberater, Anbieter von Kanzleisoftware.
+
+**Größtes Risiko:** Notrufbereitschaft — der Grund, aus dem Leute dieses Modell
+nach drei Jahren aufgeben.
+
+**Learnings (5):** Nichtereignisse sind verkäuflich, aber unsichtbar · der
+Kalender des Kunden ist ein Preisargument · wachsende Kunden sind der billigste
+Upsell · eine Nische mit Verzeichnis ist eine Nische mit Vertriebsplan · Stufe 5
+kann der Endpunkt sein.
+
+**Coaching-Überleitung:** ja (Leitmodell) — Frage nach Leistungen, deren Nutzen
+erst beim Ausfall sichtbar wird.
+
+**Querverweis:** ausdrücklich auf B12 als Nischenpaar.
+
+**Recherchestand:** Preise und Startkapital als modellhafte Annahme
+gekennzeichnet. Zu prüfen: berufsrechtliche Anforderungen an externe
+IT-Dienstleister bei Berufsgeheimnisträgern, Nachweispflichten von
+Cyberversicherungen, Struktur der Berufsverzeichnisse, Zahl der Kanzleien in der
+Zielgröße.
+
+**Nicht wiederverwenden:** die Zahlen oben · der Verbandsvortrag als erster
+Vertriebsweg (in B12 muss ein anderer stehen) · die Formulierung „Du verkaufst
+Nichtereignisse".
+
+---
+
+*Registerfelder je Modell:*
 
 ```
 Nr. · Titel · Rolle (Leitmodell/Standard/kompakt) · Wörter
