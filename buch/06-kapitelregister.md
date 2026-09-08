@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 52 von 116 Kapiteln (Teil I vollständig, 40 Modelle, 4 Kategorie-Einführungen). **Kategorien A, B, C und D vollständig.** Manuskript ca. 86.100 Wörter / ca. 287 Seiten.
+Stand nach 63 von 116 Kapiteln (Teil I vollständig, 50 Modelle, 5 Kategorie-Einführungen). **Kategorien A, B, C, D und E vollständig — Teil II zur Hälfte fertig.** Manuskript ca. 104.100 Wörter / ca. 347 Seiten.
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -29,11 +29,35 @@ Stand nach 52 von 116 Kapiteln (Teil I vollständig, 40 Modelle, 4 Kategorie-Ein
 
 | Band | Ziel | vergeben | Modelle |
 |---|---:|---:|---|
-| 8,0–10,0 | 12–18 | 1 | **B19 (8,0)** — erstes Modell im Spitzenband |
+| 8,0–10,0 | 12–18 | 3 | **E47 (8,2)**, **B19 (8,0)**, **E41 (8,0)** — Spitzenband nach 50 Modellen. Von den restlichen 50 müssen 9 bis 15 hier landen. |
 | *Anmerkung* | | | Korrekturen: 10× abwärts, 1× reine Aufwärtskorrektur (A06, +0,3 für den Verkaufsmoment), 1× zweiseitige Bilanz (A04). Damit ist gezeigt, dass das Instrument in beide Richtungen wirkt. |
-| 6,5–7,9 | 35–45 | 24 | B11 (7,8), A05 (7,6), B18 (7,5), A02 (7,4), D31 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), A10 (7,2), B14 (7,2), D40 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), D32 (6,9), D36 (6,9), C21 (6,8), C26 (6,8), D33 (6,8), A03 (6,7), D35 (6,6), A01 (6,6) |
-| 5,0–6,4 | 25–35 | 12 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), D39 (5,7), C22 (5,6), C27 (5,4), D34 (5,2) |
+| 6,5–7,9 | 35–45 | 27 | B11 (7,8), A05 (7,6), E49 (7,6), B18 (7,5), A02 (7,4), D31 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), E43 (7,3), A10 (7,2), B14 (7,2), D40 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), D32 (6,9), D36 (6,9), C21 (6,8), C26 (6,8), D33 (6,8), E45 (6,7), A03 (6,7), D35 (6,6), A01 (6,6) |
+| 5,0–6,4 | 25–35 | 17 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), E42 (6,0), E44 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), E46 (5,8), D39 (5,7), C22 (5,6), E48 (5,6), C27 (5,4), D34 (5,2), E50 (5,2) |
 | unter 5,0 | 10–15 | 3 | C30 (4,4), D37 (4,8), D38 (4,2) — alle drei mit dem Pflichtabschnitt „Was fehlen müsste" |
+
+**Stand der Gegensteuerung nach 50 Modellen (Halbzeit von Teil II):**
+
+| | nach 40 | nach 50 | Anteil in E | Ziel-Anteil |
+|---|---:|---:|---:|---:|
+| ab 8,0 | 1 | **3** | 2 von 10 | 12–18 % |
+| 6,5–7,9 | 24 | 27 | **3 von 10** | 40 % |
+| 5,0–6,4 | 12 | 17 | 5 von 10 | 30 % |
+| unter 5,0 | 3 | 3 | 0 von 10 | 12 % |
+
+Kategorie E hat die Verteilung deutlich korrigiert: nur drei von zehn Modellen im
+oberen Mittelband, zwei im Spitzenband. **Der Anteil des oberen Mittelbands ist
+von 60 % auf 54 % gesunken** und muss weiter fallen.
+
+**Offen und ab Kategorie F durchzuhalten:**
+1. **Spitzenband:** 9 bis 15 der letzten 50 Modelle müssen 8,0 oder mehr tragen.
+   Strukturelle Kandidaten in **F (Abo- und Betreuungsmodelle)** — dort steht
+   Recurring bauartbedingt hoch. Die in E41 und E47 gefundene Struktur ist der
+   Prüfmaßstab: **viele Einheiten je Vertriebsgespräch.**
+2. **Unteres Band:** 7 bis 12 der letzten 50 Modelle müssen unter 5,0. In
+   Kategorie E ist keines dazugekommen, was richtig war (die Kategorie ist
+   strukturell stark) — damit steigt der Druck auf **G (Handel)**, **H
+   (kapitalintensiv)** und **J (Plattformen)** entsprechend.
+3. **Mittelband:** Ein Modell ohne benennbaren Grund für 7,x gehört unter 6,5.
 
 **⚠ ZWEI STEUERUNGSPROBLEME NACH 40 MODELLEN — ab Kategorie E gegenzusteuern:**
 
@@ -1619,6 +1643,290 @@ eingelöst (4 Nein-Antworten zur Software, 2 sofort startbare Modelle).
 (D32), Fuhrparkdienstleister (D33), künftige Selbständige (D34), Verwalter (D35),
 Etikettenlieferanten (D36), Farbengroßhandel (D37), Vereine im Umbruch (D38), die
 Benutzung selbst (D39), die Vertretung (D40).
+
+### Kategorie-Einführung E — Lokale Dienstleistungen mit Wiederholungslogik
+407 Wörter. **Gemeinsamer Nenner:** eine Pflicht oder ein Verschleiß in festen
+Abständen. *„Das Intervall steht nicht in deinem Angebot. Es steht in einer
+Verordnung, in einer Betriebsanleitung oder in der Physik."* Damit fällt die
+schwierigste Frage jedes Geschäftsmodells weg — warum jemand noch einmal kauft.
+**Gewinnertyp:** der Organisierte.
+**Preis der Kategorie:** das Personal. Alle zehn Modelle wachsen über Menschen.
+**Denkfehler (zwei, verbunden):** Personalproblem unterschätzen und Route falsch
+planen. **Kernregel der Kategorie:** *„Bei jedem Modell dieser Kategorie
+entscheidet nicht der Preis über die Marge, sondern die Dichte."*
+**Zusage:** genau eines von zehn sofort startbar — **E50**, und E50 hat
+gleichzeitig die schlechteste Note. Der Zusammenhang wird in der Einführung
+benannt und in E50 ausformuliert. Eingelöst und nachgezählt.
+**Leseempfehlung:** E41 (ein Entscheider, hundert Objekte) und E47 (vierzig
+Prüfungen an einer Adresse).
+
+---
+
+### E41 · Trinkwasserprüfung und Dokumentation für Hausverwaltungen — LEITMODELL
+2.297 Wörter · Note **8,0** (rechn. 8,0, **keine Korrektur** — ausdrücklich
+geprüft, ob das lange Prüfintervall einen Abzug verdient, und **gegenteilig
+entschieden**) · Sterne 4/**4**/4/**5** · 4/3/4/3 · Einstieg 2 → Ziel 6, Stufe 7
+denkbar.
+
+**★ ZWEITES MODELL IM SPITZENBAND ★** und das erste, dessen Note auf einer
+**übertragbaren Struktur** beruht statt auf einer Besonderheit.
+
+**Die Struktur, die im ganzen Buch gesucht werden soll:** **„Ein Entscheider,
+hundert Objekte."** Dazu die zweite Eigenschaft: **„Der Entscheider trägt die
+Kosten nicht selbst, aber das Risiko schon."** Beide Sätze sind zu erhalten.
+**Preise:** 180 € je Objekt Erstaufnahme · **55 € je Probenahmestelle** plus
+Labor · **290 €/Monat je Verwaltung** Nachweisführung · eine Verwaltung mit 100
+Objekten ≈ 7.300 €/Jahr · 8 Verwaltungen ≈ 58.000 €, operativ 35–50 %.
+**Erster Vertriebsweg:** **die Beiräte der Eigentümergemeinschaften.** Der Beirat
+erzeugt die Frage, du lieferst dem Verwalter die Antwort — im Text ausdrücklich
+mit dem Hinweis, dass beides zusammengehört, weil man sich sonst den Kunden zum
+Gegner macht.
+**Dritte Kernthese:** *„Ein langes Intervall ist bei einem großen Bestand kein
+Nachteil, sondern eine Glättung."* Eine der wenigen Stellen im Buch, an denen aus
+einer scheinbaren Schwäche rechnerisch eine Stärke wird.
+**Vierte:** *„Der eigentliche Wert ist nicht die Probenahme, sondern die
+Objektliste."*
+**Größtes Risiko:** Zugang zu bewohnten Wohnungen (20 % zweite Anläufe
+einkalkulieren) und Preisdruck durch Laborketten.
+**Recherchestand:** Zu prüfen: Anwendungsbereich und Intervalle der
+Trinkwasserverordnung, Anforderungen an Probenehmer, Anzeigepflichten bei
+Überschreitung, Akkreditierungsanforderungen.
+**Nicht wiederverwenden:** die Beiräte als Vertriebsweg · „ein Entscheider,
+hundert Objekte" · der Risiko-ohne-Kosten-Satz · die Glättungs-Regel · die
+55-€-Rechnung.
+
+---
+
+### E42 · Fettabscheiderwartung und Entsorgungsnachweis für Gastronomie — KOMPAKT
+1.345 Wörter · Note **6,0** (rechn. 6,3, **−0,2**: Kapitalfalle. Im Urteil
+ausdrücklich begründet: *„Ein Gewicht, das für neunzig Modelle passt, passt für
+dieses nicht — und dafür ist die Korrektur da."*) · Sterne 3/3/**2**/**5** ·
+3/**1**/3/3 · Ziel 5.
+**Erster einzelner Stern bei der Kapitalleichtigkeit.** Ab 3.000 € als
+Vermittler, ab ca. 120.000 € mit eigenem Saug- und Spülfahrzeug.
+**Kernthese:** **„Unangenehme Arbeit hat wenig Wettbewerb."** Im Buch neu und
+mehrfach anschlussfähig.
+**Zweite:** *„In kostenintensiven Geschäften ist der billigste Anbieter der, der
+zuerst aufhört."*
+**Preise:** 280–650 € je Entleerung, im Turnus 12 % günstiger · 240 €
+Jahresnachweispaket · ein Fahrzeug ≈ 2.520 €/Tag bei sechs Abscheidern, rund
+800 € Deckungsbeitrag · als Vermittler 40–80 € je Auftrag.
+**Erster Vertriebsweg:** **Brauereien und Getränkefachgroßhändler** — ihr
+Außendienst kommt bei fast jedem gastronomischen Betrieb ins Haus.
+**Tragfähigkeitsschwelle im Text genannt:** ab ca. 80 Turnusverträgen im Umkreis
+von 30 km rechnet sich ein eigenes Fahrzeug.
+**Recherchestand:** Zu prüfen: Entleerungsintervalle und Nachweispflichten,
+Erlaubnis- und Anzeigepflichten für Sammler und Beförderer, kommunale
+Entwässerungssatzungen.
+**Nicht wiederverwenden:** Brauereien als Vertriebsweg · „unangenehme Arbeit hat
+wenig Wettbewerb" · der Billigster-hört-zuerst-auf-Satz.
+
+---
+
+### E43 · Prüfservice für Sicherheitstechnik im Filialeinzelhandel — STANDARD
+1.913 Wörter · Note **7,3** (rechn. 7,6, **−0,3**: **„Du kannst den Auftrag nicht
+annehmen, den du gewinnen willst."** Im Buch neu, betrifft die ganze Kategorie E
+und ist der Grund, warum darin so viele Betriebe bei zwei Mitarbeitern stehen
+bleiben) · Sterne 4/3/4/**5** · 4/3/4/3 · Einstieg 2 → Ziel 6.
+**Kernthese:** **„Die Pflicht ist dezentral, die Haftung ist zentral."** Der
+Kunde kauft die Möglichkeit, eine Frage zu beantworten: *Wie ist der Stand in
+allen hundertzwanzig Filialen, heute?*
+**Zweite:** *„Ein Angebot, das aus bereits ausgegebenem Geld bezahlt wird,
+verhandelt sich anders."* In der Bestandsaufnahme zuerst nach doppelten Verträgen
+suchen.
+**Preise:** 240 € je Filiale Bestandsaufnahme · **Jahrespauschale 900–2.400 € je
+Filiale** · 40 Filialen ≈ 56.000 €/Jahr bei 35–40 Arbeitstagen, operativ 30–40 %.
+**Erster Vertriebsweg:** **Ladenbauer und Generalunternehmer für
+Filialumbauten.**
+**Empfohlene Einstiegsgröße:** 20–40 Filialen, regional konzentriert — nicht die
+große Kette.
+**Nicht wiederverwenden:** Ladenbauer als Vertriebsweg · „die Pflicht ist
+dezentral, die Haftung ist zentral" · der Auftrag-nicht-annehmen-Satz · der
+Zwei-Filialen-Hebel.
+
+---
+
+### E44 · Wartung von Ladeinfrastruktur für Autohäuser und Gewerbeparks — STANDARD
+1.759 Wörter · Note **6,0** (rechn. 6,3, **−0,3**: Unreife des Marktes.
+**Ausdrücklich als Einschätzung und nicht als Tatsache gekennzeichnet**, mit dem
+Hinweis, dass es auch anders kommen kann — diese Offenheit ist zu erhalten) ·
+Sterne 3/3/3/4 · 3/3/3/3 · Einstieg 2 → Ziel 5.
+**Kernthese:** **„Wer Förderung genommen hat, hat eine Betriebspflicht
+gekauft."** Daraus: **„Eine Auflage ist ein besserer Kaufanlass als ein
+Nutzen."**
+**Preise:** 190 € je Ladepunkt Erstprüfung · **29 €/Monat je Ladepunkt**, mit
+Fernüberwachung 39 € · 20 Betreiber à 12 Punkte ≈ 8.160 €, rund 2.860 € (35 %).
+**Erster Vertriebsweg:** **veröffentlichte Listen der Förderempfänger** —
+Kundenliste mit eingebauter Verpflichtung. *„Der Anlass ist nicht der Defekt,
+sondern der Bescheid."*
+**Softwareantwort: nein** — Muster wie B17/C26 (Werkzeug käuflich), plus: der
+Backend-Zugang gehört anderen (wie C22).
+**Querverweis B20:** Dort finanziert Förderung die Anschaffung, hier verpflichtet
+sie zum Betrieb — für ein Wartungsmodell die wertvollere Variante.
+**Recherchestand:** Zu prüfen: Prüfpflichten für Ladeinfrastruktur, **Auflagen
+typischer Förderprogramme und Nachweisanforderungen — davon hängt die zentrale
+These ab.**
+**Nicht wiederverwenden:** Förderlisten als Vertriebsweg · der
+Betriebspflicht-Satz · „eine Auflage ist ein besserer Kaufanlass als ein Nutzen".
+
+---
+
+### E45 · Außenanlagenpflege mit Winterdienst für Logistikimmobilien — STANDARD
+1.854 Wörter · Note **6,7** (rechn. 6,9, **−0,2**: Wetterrisiko. Umsatz **und**
+Kosten hängen an etwas, das niemand steuert; Deckungsbeitrag schwankt zwischen
+20 % und über 50 %, ohne dass jemand einen Fehler macht) · Sterne 4/3/4/**5** ·
+3/**2**/3/3 · Einstieg 2 → Ziel 5.
+**Kernthese:** **„Der Kunde kauft keine geräumte Fläche. Er kauft ein Protokoll,
+das im Streitfall standhält."**
+**Zweite, im Buch wichtig:** *„Wenn es nicht schneit, hast du trotzdem
+geliefert."* Bereitschaft als eigene Position, nie mitverhandeln.
+**Preise:** Grünpflege 0,80–1,40 €/m²/Jahr · **Winterbereitschaft
+1.200–3.500 €/Monat je Objekt** · ein Objekt mit 12.000 m² ≈ 29.000 €/Jahr.
+**Erster Vertriebsweg:** **über die Mieter, nicht über den Eigentümer** — sie
+stehen morgens um halb fünf auf dem Hof und haben eine Leitung zum
+Objektmanagement.
+**Zeitpunkt im Text betont:** Winterdienstverträge werden im Sommer vergeben.
+**Querverweis B18 — ausdrücklich und zu erhalten:** gleichzeitiger Bedarf aller
+Kunden, dort Angriffswellen, hier Schnee. Harte Kapazitätsgrenze.
+**Nicht wiederverwenden:** Mieter als Vertriebsweg · der Protokoll-Satz · die
+Wetterrisiko-Margenspanne.
+
+---
+
+### E46 · Hygiene von Lüftungstechnik für Praxen und OP-Zentren — KOMPAKT
+1.299 Wörter · Note **5,8** (rechn. 6,1, **−0,3**: **Marktgröße**, dieselbe
+Korrektur wie in B14) · Sterne 4/**2**/3/3 · **2**/3/4/**4** · Ziel nur 4.
+**Der seltenste Befund im Buch, im Text benannt:** **„Ein gutes Modell mit einem
+zu kleinen Markt."** Beste Wettbewerbsposition der Kategorie (4 Sterne) in einem
+Markt, der zu klein ist, um sie auszunutzen.
+**Kernregel:** **„Zähl deine möglichen Kunden, bevor du irgendetwas anderes
+prüfst."** Wenn es im Umkreis von 100 km weniger als 15 Einrichtungen mit
+tatsächlicher RLT-Anlage gibt, ist es kein Hauptgeschäft.
+**Preise:** 1.800–4.500 € Erstinspektion · **ab 190 €/Monat Turnusvertrag** · eine
+Erstinspektion 2.800 € bei 1,5 Tagen Aufwand und 300 € Labor.
+**Erster Vertriebsweg:** Hygienebeauftragte und externe Hygienefachkräfte.
+**Richtige Verwendung:** zweites Standbein neben einem Modell mit ähnlicher
+Ausrüstung und ähnlichem Kundenkreis, nicht Einstieg.
+**Nicht wiederverwenden:** Hygienefachkräfte als Vertriebsweg · „ein gutes Modell
+mit einem zu kleinen Markt" · „zähl deine möglichen Kunden zuerst".
+
+---
+
+### E47 · Fahrzeug- und Ladungssicherungsprüfung vor Ort für Flotten — LEITMODELL
+2.200 Wörter · Note **8,2** (rechn. 8,0, **+0,2**: **Routendichte innerhalb eines
+Tages** — in jedem anderen Vor-Ort-Modell des Buches gehen 30–50 % der Arbeitszeit
+ins Auto, hier keine einzige Zwischenfahrt) · Sterne 4/**4**/**5**/**5** ·
+3/3/4/**4** · Einstieg 2 → Ziel 6, Stufe 7 denkbar.
+
+**★ BESTE NOTE DES BUCHES BIS HIERHIN · erster Fünf-Sterne-Upsell ★**
+
+**Die Kernrechnung:** **„Vierzig Prüfungen an einem Tag an einer einzigen
+Adresse."** Dazu die Verkaufsrechnung: Werkstattfahrt kostet den Betrieb rund
+180 € Ausfallzeit je Fahrzeug, bei 40 Fahrzeugen 7.200 €/Jahr — deine Prüfung
+kostet 89 €.
+**Zweite Ebene:** *„Im Unfallfall entscheidet nicht, ob das Fahrzeug in Ordnung
+war, sondern ob es geprüft wurde."*
+**Upsell-Regel, im Buch neu:** **„Wer schon da ist, verkauft billiger als jeder,
+der noch kommen muss."** Grund für die einzigen fünf Sterne beim Upsell.
+**Preise:** **89 € je Fahrzeug**, Aufbauten je 140 € · **4 € je Fahrzeug und
+Monat** für Prüfakte · ein Einsatz mit 40 Fahrzeugen ≈ 4.680 € in 1,5 Tagen,
+Kosten unter 400 €, operativ 40–45 %.
+**Erster Vertriebsweg:** **überbetriebliche Dienste für Arbeitssicherheit** —
+sie müssen ohnehin in den Betrieb, sehen den Fuhrpark und dürfen empfehlen.
+**Größte praktische Hürde:** Die Fahrzeuge müssen am Prüftag alle da sein —
+Samstag, Brückentag oder Betriebsruhe, verbindlich vorher vereinbart.
+**Coaching-Überleitung:** ja (Leitmodell) — implizit über die Frage nach Kunden
+mit vielen Einheiten an einer Adresse.
+**Recherchestand:** Zu prüfen: Prüfumfang und Intervalle nach den Vorschriften
+der Unfallversicherungsträger und der Betriebssicherheitsverordnung,
+Anforderungen an die befähigte Person, welche Prüfteile mobil leistbar sind.
+**Nicht wiederverwenden:** Arbeitssicherheitsdienste als Vertriebsweg · „vierzig
+Einheiten an einer Adresse" · „wer schon da ist, verkauft billiger" · die
+Ausfallzeitrechnung.
+
+---
+
+### E48 · Berufskleidungskreislauf für Bäckereien und Metzgereien — STANDARD
+1.714 Wörter · Note **5,6** (rechn. 5,9, **−0,3**: Routendichte der etablierten
+Anbieter — ein Kostenvorteil aus Volumen, den zwei Sterne nur unvollständig
+beschreiben) · Sterne 3/3/3/**5** · 3/**1**/**2**/**2** · Ziel 5.
+**Zweiter einzelner Stern bei der Kapitalleichtigkeit** (ab 6.000 € als
+Vermittler, ab ca. 250.000 € mit eigener Wäscherei).
+**Kernthese und wichtigste Warnung des Kapitels:** **„Fünf Sterne beim
+wiederkehrenden Umsatz machen noch kein gutes Modell."** Ein Kunde, der nicht
+aufhören kann, ist nur etwas wert, wenn an ihm verdient wird.
+**Zweite:** *„Ein Kostenvorteil aus Volumen lässt sich nicht durch Qualität
+ausgleichen."* Dritte: *„Prüf, warum die Großen deinen Wunschkunden nicht
+bedienen."*
+**Preise:** 180–320 € je Mitarbeiter Erstausstattung · **6,50 € je Mitarbeiter
+und Woche** · 300 Mitarbeiter ≈ 8.450 €/Monat, davon 75–80 % an die Wäscherei,
+bleiben rund 1.200 €.
+**Erster Vertriebsweg:** **Fachschulen und Lehrwerkstätten** des Bäcker- und
+Fleischerhandwerks — über die Ausstattung, nicht über Vorträge.
+**Nicht wiederverwenden:** Lehrwerkstätten als Vertriebsweg · der
+Fünf-Sterne-Recurring-Satz · „Kostenvorteil aus Volumen".
+
+---
+
+### E49 · Schädlingsmonitoring mit digitaler Dokumentation — STANDARD
+1.887 Wörter · Note **7,6** (rechn. 7,6, keine Korrektur) · Sterne 4/3/4/**5** ·
+4/3/4/3 · Einstieg 2 → Ziel 6.
+**Kernthese — im Buch weit über das Kapitel hinaus verwendbar:** **„Wenn eine
+Branche gut arbeitet und schlecht dokumentiert, ist die Dokumentation das
+Geschäft."** Vorgelagert: *„Die Bekämpfung ist gelöst. Die Dokumentation ist es
+nicht."*
+**Zweite:** *„In gebundenen Märkten ist das Laufzeitende der Kaufanlass."* Liste
+mit Daten statt Liste mit Argumenten.
+**Preise:** 900–2.400 € Erstinstallation je Objekt · **ab 220 €/Monat
+Turnusvertrag** · 20 Objekte ≈ 5.200 €, rund 2.500 € Deckungsbeitrag (50 %).
+**Erster Vertriebsweg:** **die Auditberichte der Kunden** — Monitoring steht dort
+auffällig oft als Hinweis. Zugang über die QM-Berater aus D40.
+**Sensorik-Regel:** **„Kauf sie, bau sie nicht."**
+**Querverweis D40 — der billigste Umsatz im Buch:** gleicher Kunde, gleicher
+Anlass, gleicher Entscheider; zweiter Auftrag ohne zweites Verkaufsgespräch.
+**Recherchestand:** Zu prüfen: Anforderungen an Monitoring, Sachkunde und Umgang
+mit Biozidprodukten.
+**Nicht wiederverwenden:** Auditberichte als Vertriebsweg · der
+Dokumentations-Satz · „kauf sie, bau sie nicht" · das Laufzeitende als
+Kaufanlass.
+
+---
+
+### E50 · Sanitär- und Hygieneservice für Fitnessstudios — KOMPAKT
+1.355 Wörter · Note **5,2** (rechn. 5,5, **−0,3**: das Personalproblem — in
+diesem Modell nicht Risiko, sondern Geschäftsgrundlage) · Sterne
+**2**/3/**2**/4 · 3/4/**2**/**2** · Ziel nur 4. **Sofort startbar.**
+
+**★ Das einzige sofort startbare Modell der Kategorie — und ihre schlechteste
+Note.** Trotz 5,2 (also über der Fünf) mit dem Pflichtabschnitt „Was fehlen
+müsste" (Ergebnis statt Stunden verkaufen · Kunde
+mit mehreren Standorten · Zusatzleistung mit echter Hürde).
+
+**Die Kalibrierung, auf die die ganze Kategorie zuläuft:** **„Die Hürde, die dich
+am Anfang aufhält, ist dieselbe, die dich später ernährt."** Direkter Vergleich
+im Urteil: **E47 8,2 gegen E50 5,2, und der einzige strukturelle Unterschied ist
+eine Qualifikation.** Dieser Vergleich ist für Teil III und für das
+Startbarkeits-Register im Anhang zentral und darf nicht gestrichen werden.
+**Zweite Kernzahl:** **„Zwölf Prozent ist die Wirklichkeit der
+Gebäudereinigung."**
+**Preise:** 1.400–3.200 € Grundreinigung · **ab 2.400 €/Monat je Studio** · ein
+Studio verlangt ca. 100 Arbeitsstunden, bleiben rund 300 € (12 %).
+**Erster Vertriebsweg:** **die öffentlichen Bewertungen des Studios**, sortiert
+nach Nennungen zu Duschen, Umkleiden, Geräten.
+**Nicht wiederverwenden:** Bewertungen als Vertriebsweg · die Hürden-Regel · die
+Zwölf-Prozent-Zahl · die Kündigungsquotenrechnung.
+
+---
+
+**Kategorie E abgeschlossen.** 11 Kapitel, 18.030 Wörter, ca. 60 Seiten.
+Notenspanne **5,2 bis 8,2** — und **zwei Modelle im Spitzenband** (E41, E47).
+Damit ist die im Register nach 40 Modellen festgelegte Gegensteuerung
+angelaufen: nur 3 von 10 Modellen dieser Kategorie liegen im oberen Mittelband.
+
+**Zehn verschiedene erste Vertriebswege:** Beiräte (E41), Brauereien (E42),
+Ladenbauer (E43), Förderempfängerlisten (E44), Mieter statt Eigentümer (E45),
+Hygienefachkräfte (E46), Arbeitssicherheitsdienste (E47), Lehrwerkstätten (E48),
+Auditberichte (E49), öffentliche Bewertungen (E50).
 
 ---
 

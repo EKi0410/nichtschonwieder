@@ -169,6 +169,63 @@ Handelsstandards, Folgen von Abweichungen für Listungen,
 Unvereinbarkeitsregeln zwischen Beratung und Auditierung — **die letzte Frage
 entscheidet über eine der fünf Herausforderungen des Kapitels.**
 
+### Aus Kategorie E
+
+**E41 · Trinkwasserprüfung.** Anwendungsbereich und Intervalle der
+Trinkwasserverordnung für Großanlagen, Anforderungen an Probenehmer und
+Akkreditierung, Anzeige- und Handlungspflichten bei Überschreitung, Abgrenzung
+zwischen Unternehmer und sonstigem Inhaber. **Die Note 8,0 hängt an der
+Prüfpflicht — sie muss belegt sein.** Dazu: übliche Laborpreise und Zahl der
+Hausverwaltungen in der Zielgröße.
+
+**E42 · Fettabscheider.** Entleerungsintervalle und Wartungsanforderungen,
+kommunale Entwässerungssatzungen, Erlaubnis- und Anzeigepflichten für Sammler und
+Beförderer, Nachweisführung bei nicht gefährlichen Abfällen. Marktpreise je
+Entleerung und realistische Anschaffungskosten eines Saug- und Spülfahrzeugs.
+
+**E43 · Sicherheitstechnik Filialen.** Zuordnung und Delegierbarkeit von
+Betreiberpflichten, Anforderungen an eine wirksame Pflichtenübertragung,
+Prüfintervalle für Sicherheitsbeleuchtung, Brandschutztechnik und Regale.
+Anforderungen an die befähigte Person je Prüfbereich.
+
+**E44 · Ladeinfrastruktur.** Prüfpflichten für Ladeinfrastruktur. **Auflagen
+typischer Förderprogramme zu Mindestbetriebsdauer und Verfügbarkeit sowie die
+Frage, ob und wo Zuwendungsempfänger veröffentlicht werden — davon hängt der
+zentrale Vertriebsweg und die Kernthese des Kapitels ab.** Dazu: Zugänglichkeit
+der Backend-Systeme verbreiteter Hersteller.
+
+**E45 · Winterdienst.** Umfang und Übertragbarkeit der Verkehrssicherungspflicht,
+Anforderungen an eine wirksame Übertragung auf einen Dienstleister, Anforderungen
+an die Einsatzdokumentation im Streitfall. Marktübliche Preise für Grünpflege je
+Quadratmeter und für Winterbereitschaft je Objekt.
+
+**E46 · Lüftungshygiene.** Prüfumfang und Intervalle für raumlufttechnische
+Anlagen in medizinischen Bereichen, Anforderungen an prüfende Personen.
+**Vorrangig zu klären: die tatsächliche Zahl der Einrichtungen mit prüfpflichtiger
+Anlage — die Note hängt an der Marktgröße.**
+
+**E47 · Fahrzeugprüfung.** Prüfumfang und Intervalle nach den Vorschriften der
+Unfallversicherungsträger und der Betriebssicherheitsverordnung für Fahrzeuge,
+Ladekrane, Hebebühnen und Ladungssicherungseinrichtungen. Anforderungen an die
+befähigte Person. **Wichtig für die Glaubwürdigkeit des Kapitels: welche
+Prüfteile mobil leistbar sind und welche eine Werkstatteinrichtung verlangen.**
+Dazu die Ausfallzeitrechnung an einem echten Betrieb gegenrechnen.
+
+**E48 · Berufskleidung.** Anforderungen an Arbeitskleidung in
+Lebensmittelbetrieben und an deren Aufbereitung, Nachweisanforderungen in den
+Handelsstandards. Marktpreise der etablierten Textildienstleister je Mitarbeiter
+und Woche — **die Note hängt an diesem Vergleichspreis.**
+
+**E49 · Schädlingsmonitoring.** Anforderungen an Monitoring und Bekämpfung in
+Lebensmittelbetrieben, Sachkundenachweis, Umgang mit und Dokumentation von
+Biozidprodukten. Übliche Vertragslaufzeiten im Gewerbe.
+
+**E50 · Sanitärservice Sportstätten.** Anforderungen an Hygiene in Sport- und
+Badestätten, Prüfpflichten bei Becken und Sauna. Übliche Quadratmeter- und
+Stundenpreise in der Gebäudereinigung — **die Zwölf-Prozent-Marge ist die
+zentrale Zahl des Kapitels und gehört belegt.** Dazu, falls verfügbar: Erhebungen
+zu Kündigungsgründen in Fitnessstudios.
+
 ## Praktikerprüfung
 
 Ergänzend zur Recherche: mindestens ein Telefonat je Kategorie, bei den zwanzig

@@ -4,14 +4,14 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     52 / 116 Kapitel und Modelle final
+Gesamt:     63 / 116 Kapitel und Modelle final
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
-Teil II:    40 / 100 Modelle — Kategorien A, B, C und D VOLLSTÄNDIG
-            8 / 20 Leitmodelle
-            24 / 60 Standardkapitel
-            12 / 20 kompakte Vollkapitel
-            4 / 10 Kategorie-Einführungen
-Umfang:     ca. 86.100 Wörter / ca. 287 Seiten geschrieben
+Teil II:    50 / 100 Modelle — A, B, C, D und E VOLLSTÄNDIG (Halbzeit)
+            10 / 20 Leitmodelle
+            30 / 60 Standardkapitel
+            15 / 20 kompakte Vollkapitel
+            5 / 10 Kategorie-Einführungen
+Umfang:     ca. 104.100 Wörter / ca. 347 Seiten geschrieben
 Teil III:   0 / 8 Kapitel
 Rahmen:     0 / 1 Einleitung, 0 / 1 Nachwort, 0 / 4 Anhänge
 Zielumfang: ca. 730 Seiten / 212.000 Wörter, ein Band
@@ -139,12 +139,25 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Teil II, D39 — Gerätebuchung Forschungseinrichtungen | 1.340 | ca. 4,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, D40 — Auditmanagement Lebensmittelbetriebe | 1.865 | ca. 6,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | **Kategorie D, Summe** | **18.173** | **ca. 61** | **vollständig, 11 Kapitel** |
+| Teil II, Einführung Kategorie E | 407 | ca. 1,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, E41 — Trinkwasserprüfung Hausverwaltungen *(Leitmodell)* | 2.297 | ca. 7,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, E42 — Fettabscheiderwartung Gastronomie | 1.345 | ca. 4,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, E43 — Sicherheitstechnik Filialeinzelhandel | 1.913 | ca. 6,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, E44 — Wartung Ladeinfrastruktur | 1.759 | ca. 5,9 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, E45 — Außenanlagen und Winterdienst Logistik | 1.854 | ca. 6,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, E46 — Lüftungshygiene Praxen und OP-Zentren | 1.299 | ca. 4,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, E47 — Fahrzeugprüfung Flotten *(Leitmodell)* | 2.200 | ca. 7,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, E48 — Berufskleidungskreislauf Lebensmittelhandwerk | 1.714 | ca. 5,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, E49 — Schädlingsmonitoring Lebensmittelbetriebe | 1.887 | ca. 6,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, E50 — Sanitärservice Fitnessstudios | 1.355 | ca. 4,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| **Kategorie E, Summe** | **18.030** | **ca. 60** | **vollständig, 11 Kapitel** |
 
 ## Änderungsprotokoll
 
 | Version | Änderung |
 |---|---|
 | 1.0 | Erstfassung: Struktur, 100 Modelle, Bewertungssystem, Voice Bible 0.1 |
+| 1.5 | Kategorie E vollstaendig (11 Kapitel, 18.030 Woerter). **Halbzeit von Teil II: 50 von 100 Modellen.** Zwei neue Modelle im Spitzenband: E47 (8,2, beste Note des Buches) und E41 (8,0). Die im Register nach 40 Modellen festgelegte Gegensteuerung greift - nur drei von zehn E-Modellen liegen im oberen Mittelband, der Anteil sank von 60 auf 54 Prozent. Zusage der Kategorie-Einfuehrung eingeloest: genau ein sofort startbares Modell (E50), und es traegt die schlechteste Note der Kategorie. Der Vergleich E47 gegen E50 liefert die zentrale Kalibrierung fuer Teil III und das Startbarkeits-Register: Die Huerde, die am Anfang aufhaelt, ist dieselbe, die spaeter ernaehrt. E48 wurde nach der ersten Fassung von Kurzform auf das volle Standardformat erweitert, um die Tiefenstufen des Katalogs einzuhalten. |
 | 1.4 | Kategorie D vollstaendig (11 Kapitel, 18.173 Woerter). Beide Zusagen der Kategorie-Einfuehrung nachgerechnet und eingeloest: vier Nein-Antworten zur Softwarefrage (D34, D37, D38, D39) und genau zwei sofort startbare Modelle (D38, D39). Zwei weitere Modelle unter 5,0 (D37 4,8, D38 4,2), damit drei insgesamt. Vier neue Softwaremuster. **Im Register neu vermerkt: zwei Steuerungsprobleme nach 40 Modellen — das Spitzenband ab 8,0 hat erst ein Modell von noetigen 12 bis 18, und das obere Mittelband ist mit 60 Prozent statt 40 Prozent ueberfuellt. Gegensteuerung ab Kategorie E ist im Register festgelegt.** |
 | 1.3 | Kategorie C vollstaendig: C26 bis C30. **Erstes Modell unter 5,0 (C30, 4,4)** und damit ein neues, ab jetzt verbindliches Strukturelement fuer alle Modelle unter fuenf Punkten: „Was fehlen muesste, damit daraus ein Geschaeft wird". Erster einzelner Stern im Buch (C30, Wettbewerbsposition). Erste Notenkorrektur wegen eines Risikos im Geschaeft des Kunden statt im eigenen Modell (C28). Alle drei Startbarkeits-Zusagen der C-Einfuehrung eingeloest (C24, C27, C30). Zehn verschiedene erste Vertriebswege in einer Kategorie. |
 | 1.2 | Kategorie C begonnen: Einführung, C22, C23, C24, C25. Vier neue Softwareantwort-Muster (C22 fremde Daten → nein, C23 eigene Daten → ja, C24 Automatisierung zerstört den Unterschied → nein, C25 nur als Modul im fremden System → ja). Erste ausdrücklich geprüfte und verworfene Abwärtskorrektur (C22). Erstes Kapitel ohne Korrektur mit Begründung gegen Doppelbestrafung (C25). Nischenpaar C21/C25 abgeschlossen. Offen und im Register vermerkt: Notenband unter 5,0 nach 25 Modellen weiterhin leer, erster fest eingeplanter Kandidat C30. |
