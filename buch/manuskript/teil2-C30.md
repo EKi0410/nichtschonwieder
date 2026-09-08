@@ -158,6 +158,23 @@ Wer alle drei Änderungen umsetzt, hat kein verbessertes C30 mehr, sondern ein
 anderes Modell. Das ist die ehrlichste Antwort auf die Frage, ob man dieses hier
 retten kann.
 
+#### Wenn ich morgen starten müsste
+
+**Woche 1:** In den Verkaufsportalen alle freien Händler im Umkreis nach
+Standzeit filtern und die zehn mit den meisten Fahrzeugen über neunzig Tagen
+anrufen.
+
+**Woche 2:** Bei zwei Händlern je zehn Fahrzeuge kostenlos neu beschreiben und
+bebildern, mit festgehaltenem Umstellungsdatum.
+
+**Woche 3–4:** Aufrufe und Anfragen vorher gegen nachher stellen. Das ist das
+einzige Argument, das dieses Modell besitzt — und die Entscheidung darüber, ob
+es weitergeht. Ohne belegbaren Unterschied rettet es kein Preis.
+
+**Bestätigungssignal:** Ein Händler fragt nach dem Preis für den gesamten
+Bestand. **Warnsignal:** Er sagt, das mache seine Auszubildende. Dann steht dir
+kein Wettbewerber gegenüber, sondern ein Nulltarif.
+
 #### Mein Urteil
 
 **4,4/10**

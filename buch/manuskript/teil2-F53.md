@@ -238,6 +238,25 @@ es nicht.
 Auffällig: Zwei von drei Antworten führen zu C25. **Wenn die Verbesserungen eines
 Modells alle auf ein anderes Modell zeigen, ist das andere Modell die Antwort.**
 
+#### Wenn ich morgen starten müsste
+
+**Woche 1:** Über Praxisbörsen, Vermittler und Niederlassungsberatungen eine
+Liste der Übernahmen der letzten sechs Monate im Umkreis aufbauen.
+
+**Woche 2:** Zehn Übernehmer anschreiben, jeweils mit einem konkreten Befund zu
+ihrer eigenen Sichtbarkeit — Karteneintrag, Öffnungszeiten, Name des
+Vorgängers.
+
+**Woche 3–4:** Zwei Praxen als Erstmandat, fester Preis, drei Monate Laufzeit,
+monatlicher Bericht mit Anrufen und Terminanfragen.
+
+**Woche 5–6:** Aus der Arbeit an beiden ein Standardpaket ableiten und
+veröffentlichen.
+
+**Bestätigungssignal:** Der Karteneintrag trägt noch den Namen des Vorgängers.
+**Warnsignal:** Die Praxis hat schon eine Agentur und will nur billiger. Dieser
+Kunde kündigt bei der ersten Rechnung.
+
 #### Mein Urteil
 
 **5,7/10**

@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 74 von 116 Kapiteln (Teil I vollständig, 60 Modelle, 6 Kategorie-Einführungen). **Kategorien A bis F vollständig.** Manuskript ca. 124.900 Wörter / ca. 416 Seiten.
+Stand nach 85 von 116 Kapiteln (Teil I vollständig, 70 Modelle, 7 Kategorie-Einführungen). **Kategorien A bis G vollständig.** Manuskript ca. 146.400 Wörter / ca. 488 Seiten.
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -29,35 +29,39 @@ Stand nach 74 von 116 Kapiteln (Teil I vollständig, 60 Modelle, 6 Kategorie-Ein
 
 | Band | Ziel | vergeben | Modelle |
 |---|---:|---:|---|
-| 8,0–10,0 | 12–18 | 6 | **E47 (8,2)**, **F51 (8,1)**, **B19 (8,0)**, **E41 (8,0)**, **F55 (8,0)**, **F57 (8,0)** |
+| 8,0–10,0 | 12–18 | 7 | **E47 (8,2)**, **F51 (8,1)**, **G61 (8,1)**, **B19 (8,0)**, **E41 (8,0)**, **F55 (8,0)**, **F57 (8,0)** |
 | *Anmerkung* | | | Korrekturen: 10× abwärts, 1× reine Aufwärtskorrektur (A06, +0,3 für den Verkaufsmoment), 1× zweiseitige Bilanz (A04). Damit ist gezeigt, dass das Instrument in beide Richtungen wirkt. |
-| 6,5–7,9 | 35–45 | 31 | B11 (7,8), A05 (7,6), E49 (7,6), B18 (7,5), A02 (7,4), D31 (7,4), F56 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), E43 (7,3), A10 (7,2), B14 (7,2), D40 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), D32 (6,9), D36 (6,9), C21 (6,8), C26 (6,8), D33 (6,8), F52 (6,8), E45 (6,7), A03 (6,7), D35 (6,6), A01 (6,6), F54 (6,6), F58 (6,6) |
-| 5,0–6,4 | 25–35 | 19 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), E42 (6,0), E44 (6,0), F59 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), E46 (5,8), D39 (5,7), F53 (5,7), C22 (5,6), E48 (5,6), C27 (5,4), D34 (5,2), E50 (5,2) |
-| unter 5,0 | 10–15 | 4 | F60 (4,9), D37 (4,8), C30 (4,4), D38 (4,2) — alle mit dem Pflichtabschnitt „Was fehlen müsste" |
+| 6,5–7,9 | 35–45 | 35 | B11 (7,8), A05 (7,6), E49 (7,6), B18 (7,5), A02 (7,4), D31 (7,4), F56 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), E43 (7,3), A10 (7,2), B14 (7,2), D40 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), D32 (6,9), D36 (6,9), C21 (6,8), C26 (6,8), D33 (6,8), F52 (6,8), E45 (6,7), A03 (6,7), D35 (6,6), A01 (6,6), F54 (6,6), F58 (6,6), G70 (7,6), G63 (7,0), G65 (6,7), G64 (6,5) |
+| 5,0–6,4 | 25–35 | 23 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), E42 (6,0), E44 (6,0), F59 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), E46 (5,8), D39 (5,7), F53 (5,7), C22 (5,6), E48 (5,6), C27 (5,4), D34 (5,2), E50 (5,2), G69 (6,1), G67 (5,7), G66 (5,6), G68 (5,1) |
+| unter 5,0 | 10–15 | 5 | F60 (4,9), D37 (4,8), **G62 (4,8)**, C30 (4,4), D38 (4,2) — alle mit dem Pflichtabschnitt „Was fehlen müsste" |
 
-**Stand der Gegensteuerung nach 60 Modellen:**
+**Stand der Gegensteuerung nach 70 Modellen:**
 
-| | nach 40 | nach 50 | nach 60 | Anteil in F | Ziel-Anteil |
-|---|---:|---:|---:|---:|---:|
-| ab 8,0 | 1 | 3 | **6** | **3 von 10** | 12–18 % |
-| 6,5–7,9 | 24 | 27 | 31 | 4 von 10 | 40 % |
-| 5,0–6,4 | 12 | 17 | 19 | 2 von 10 | 30 % |
-| unter 5,0 | 3 | 3 | 4 | 1 von 10 | 12 % |
+| | nach 40 | nach 50 | nach 60 | nach 70 | Anteil in G | Ziel-Anteil |
+|---|---:|---:|---:|---:|---:|---:|
+| ab 8,0 | 1 | 3 | 6 | **7** | 1 von 10 | 12–18 % |
+| 6,5–7,9 | 24 | 27 | 31 | **35** | 4 von 10 | 40 % |
+| 5,0–6,4 | 12 | 17 | 19 | **23** | 4 von 10 | 30 % |
+| unter 5,0 | 3 | 3 | 4 | **5** | 1 von 10 | 12 % |
 
-Kategorie F hat die Erwartung erfüllt: **drei Modelle im Spitzenband**, damit 6
-von 60 (10 %) — das Ziel von 12–18 % ist erreichbar. Der Anteil des oberen
-Mittelbands ist von 60 % über 54 % auf **52 %** gefallen.
+Kategorie G hat das untere Band bedient, aber nicht stark genug: ein Modell
+unter 5,0 statt der geplanten zwei. Der Anteil des oberen Mittelbands liegt bei
+**50 %** und damit erstmals auf dem Zielwert — allerdings, weil das Band mit 35
+Modellen bereits an seiner absoluten Untergrenze für hundert Modelle angekommen
+ist. **Der Engpass hat sich verschoben: nicht mehr das Spitzenband, sondern das
+Mittelband ist das Problem.** Die Rechnung dazu steht unter Punkt 5 der Befunde
+nach 70 Modellen.
 
 **Offen und ab Kategorie G durchzuhalten:**
-1. **Spitzenband:** 6 bis 12 der letzten 40 Modelle müssen 8,0 oder mehr tragen.
+1. **Spitzenband:** 5 bis 11 der letzten 30 Modelle müssen 8,0 oder mehr tragen.
    Der Prüfmaßstab bleibt die in E41, E47, F55 und F57 gefundene Struktur:
    **viele Einheiten je Vertriebsgespräch, ein Kunde ohne Ausweg, ein
    Wettbewerber ohne Interesse.** In **G, H und I** ist damit sparsamer zu
    rechnen — dort sind eher mittlere und schwache Modelle zu erwarten, was der
    Verteilung hilft.
-2. **Unteres Band:** 6 bis 11 der letzten 40 Modelle müssen unter 5,0. Der Druck
-   liegt jetzt vollständig auf **G (Handel)**, **H (kapitalintensiv)** und
-   **J (Plattformen)**.
+2. **Unteres Band:** 5 bis 10 der letzten 30 Modelle müssen unter 5,0. Der Druck
+   liegt jetzt auf **H (kapitalintensiv)** und **J (Plattformen, die an
+   fehlender Marktliquidität scheitern)**.
 3. **Mittelband:** Ein Modell ohne benennbaren Grund für 7,x gehört unter 6,5.
 
 ---
@@ -1038,7 +1042,7 @@ Fördermittel-Preissatz.
 Notenspanne 5,8 bis 8,0. Zusage der Einführung eingehalten: nur B17 trägt den
 Marker „sofort startbar".
 
-**Softwareantworten im Buch — siebzehn Muster, alle zu erhalten:**
+**Softwareantworten im Buch — achtzehn Muster, alle zu erhalten:**
 B11 Bedingung 3 nicht erfüllt → nein · C21 erfüllt → ja · B17 erfüllt, aber
 Werkzeug käuflich → nein · B19 erfüllt und Werkzeug nicht käuflich → ja ·
 **C22 erfüllt, aber die Daten gehören anderen → nein** · **C23 erfüllt und die
@@ -1052,7 +1056,8 @@ selbst entwickeln → nein** · **E44 wie B17 plus fremder Backend-Zugang → ne
 kaputt macht → nein** · **F55 erfüllt, vorhandene Werkzeuge sind Vorprodukt statt
 Wettbewerber → ja** · **F57 erfüllt, Werkzeug für den eigenen Betrieb, Markt
 zweitrangig → ja** · **F58 erfüllt, aber der Wert liegt im Raum und nicht im
-Datensatz → nein**.
+Datensatz → nein** · **G70 erfüllt, aber nur für einen Teil: Portal gekauft,
+prüffähiges Protokoll selbst gebaut → ja, geteilt**.
 
 ### Kategorie-Einführung C — KI mit klarem Prozessbezug
 442 Wörter. Aufnahmekriterium wörtlich genannt: benennbarer Prozess plus eine
@@ -2305,6 +2310,336 @@ Präqualifizierung (F52), Praxisübernahme (F53), Entlassmanagement (F54),
 Steuerkanzleien (F55), Firmenkundenbetreuer der Banken (F56), sichtbarer
 Versionsstand (F57), Erstunterstützer im Kreis (F58), Büroeinrichter (F59),
 Fahrerbeschaffung (F60).
+
+---
+
+### G00 · Kategorie-Einführung Handel, physische Produkte, E-Commerce
+508 Wörter. **Persönlichstes Kapitel des Buches:** der eigene
+Tierbedarf-Dropshipping-Shop und seine Cashflow-Rechnung (30 € Verkauf, 12 €
+Einkauf, 14 € Werbung, 4 € Gewinn auf dem Papier — Werbung sofort bezahlt,
+Auszahlung nach drei Wochen).
+**Aufnahmekriterium der Kategorie, gilt als Prüfmaßstab weiter:** drei
+Verteidigungsmerkmale — 1. Nischenkenntnis · 2. exklusive oder schwierige
+Beschaffung · 3. ein Service, den ein Händler nicht liefert. `Mein Shop hatte
+keines davon.`
+**Denkfehler:** Lagerbestand mit Umsatz verwechseln. Entscheidend ist, **wie oft
+die Ware im Jahr durch das Lager geht** — zweimal ist ein Problem, achtmal ein
+Geschäft.
+**Sofort startbar: keines von zehn** — einzige Kategorie ohne ein einziges
+sofort startbares Modell, und es liegt am Geld, nicht an Qualifikationen.
+**Eingelöst und im Text korrigiert:** die Einführung sprach von fünf Modellen
+mit Kapitalleichtigkeit von zwei Sternen oder darunter; nachgezählt sind es
+**neun von zehn** — nur G70 liegt bei drei. In G00 geändert. **→ Korrektur in G00 nötig:
+„fünf" auf „neun" ändern.**
+**Nicht wiederverwenden:** die Dropshipping-Geschichte · die drei
+Verteidigungsmerkmale als Aufzählung · der Lagerumschlagssatz.
+
+### G61 · Ersatzteilhandel für abgekündigte Industriemaschinen einer Nische — LEITMODELL
+2.454 Wörter · Note **8,1** (rechn. 8,1, **keine Korrektur** — eine
+Obsoleszenz-Abwertung geprüft und verworfen, weil sie die Kapitalleichtigkeit
+doppelt bestraft hätte) · Sterne **5**/4/4/4 · 3/**2**/**5**/4 · Stufe 2 → 7
+(Stufe 7 real: Beschaffungsplattform über Nummernlogik). **Bestes
+Handelsmodell des Buches.**
+**Kernthese:** **„Wenn ein Teil für achtzig Euro einen Stillstand für
+dreitausend Euro pro Stunde beendet, wird über den Preis des Teils nicht
+gesprochen."** Daraus das übertragbare Prinzip: **„Der Wert deines Produkts wird
+nicht durch sein Produkt bestimmt, sondern durch das, was ohne es
+stillsteht."**
+**Preise:** 80–4.000 € je Teil, Aufschläge 120–400 % · Eilzuschlag ·
+Bevorratungsvertrag.
+**Erster Vertriebsweg:** die Auflösung von Betrieben — Beschaffung und
+Vertriebszugang in einer Bewegung (Industrieauktionen, Maschinenverwerter).
+**Recherchestand:** Zu prüfen: Rechtslage bei Nachbau abgekündigter Teile,
+Marken- und Ersatzteilrecht.
+**Nicht wiederverwenden:** die Stillstandskosten-Rechnung · Auktionen als
+Beschaffungs- und Vertriebsweg zugleich · der Nummernlogik-Plattformgedanke.
+
+### G62 · B2B-Shop für Praxisbedarf mit automatischer Nachbestellung
+2.018 Wörter · Note **4,8** (rechn. 5,4, **−0,6**: **dein Service ist
+verschenkt und deine Ware ist vergleichbar**) · Sterne **2**/3/3/4 ·
+3/**2**/**2**/**2** · Ziel nur 5.
+
+**★ FÜNFTES MODELL UNTER 5,0 ★** Mit Pflichtabschnitt „Was fehlen müsste".
+
+**Bewusst direkt hinter G61 platziert:** 8,1 gegen 4,8 — **3,3 Punkte
+Unterschied, und der ganze Abstand ist ein Verteidigungsmerkmal.**
+**Erster Vertriebsweg:** Praxen im Umbau oder Umzug (über Praxiseinrichter, die
+Monate vorher wissen, wer umbaut) — der einzige Moment, in dem eine
+Sortimentsumstellung nicht als Zusatzarbeit erscheint.
+**Bitterer Gegenbefund im Text:** Praxisumbauten werden häufig von Dentaldepots
+begleitet, also von deinem Wettbewerber.
+**Nicht wiederverwenden:** Praxen im Umbau als Vertriebsweg · „Service
+verschenkt, Ware vergleichbar" · die Elf-Packungen-im-Schrank-Beobachtung.
+
+### G63 · Konfigurierbare Werkstattwagen-Ausstattung für Handwerksbetriebe — LEITMODELL
+2.057 Wörter · Note **7,0** (rechn. 6,8, **+0,2** für das Konfigurationswissen,
+das der Kunde nicht selbst aufbaut) · Sterne 4/4/4/4 · 3/**2**/3/**2** ·
+Stufe 2 → 5.
+**Kernthese:** **„Du verkaufst nicht Regale, sondern die Entscheidung, was in
+den Wagen gehört."**
+**Erster Vertriebsweg:** Nutzfahrzeughändler und Leasinggeber — vier bis zwölf
+Wochen vor Auslieferung wird über den Innenausbau entschieden.
+**Nicht wiederverwenden:** der Zugang über den Fahrzeughändler *vor* der
+Auslieferung · der Regale-gegen-Entscheidung-Satz.
+
+### G64 · Eigenmarken-Reinigungschemie für Gebäudedienstleister
+2.023 Wörter · Note **6,5** (rechn. 6,8, **−0,3**: Haftung als Inverkehrbringer
+von Gemischen ist eine Dauerpflicht, keine Anfangshürde) · Sterne 3/3/3/**5** ·
+3/**2**/4/3 · Stufe 2 → 5.
+**Kernthese:** **„Wer die Geräte stellt, bestimmt die Gebinde."**
+**Erster Vertriebsweg:** die **Objektverluste** — die Verlierer von
+Reinigungsausschreibungen, nicht die Gewinner. Ausdrücklich anders als A05 und
+C24, die auf Vergabeergebnisse schauen.
+**Wer haftet:** Inverkehrbringer von Gemischen — Einstufung, Kennzeichnung,
+Sicherheitsdatenblätter.
+**Recherchestand:** Zu prüfen: Pflichten bei Inverkehrbringen von
+Reinigungsgemischen, Kennzeichnungs- und Sicherheitsdatenblattpflichten.
+**Nicht wiederverwenden:** die Objektverluste als Vertriebsweg · der
+Geräte-bestimmen-Gebinde-Satz.
+
+### G65 · Nachrüstsätze für ältere CNC-Maschinen
+2.195 Wörter · Note **6,7** (rechn. 6,7, keine Korrektur) · Sterne 4/3/3/3 ·
+3/**2**/4/4 · Stufe 2 → 5.
+**Kernthese:** **„Der Kunde kauft keine neue Steuerung. Er kauft Aufträge, die
+er sonst ablehnen müsste."**
+**Erster Vertriebsweg:** die Anfragen, die der Kunde ablehnen musste — nicht
+über Maschinen, sondern über verlorene Aufträge.
+**Wer haftet:** wesentliche Veränderung → Herstellerpflichten. **„Wer in
+Sicherheitstechnik eingreift, wird zum Hersteller."**
+**Recherchestand:** Zu prüfen: Abgrenzung wesentliche Veränderung einer
+Maschine, daraus folgende Herstellerpflichten und Konformitätsbewertung.
+**Nicht wiederverwenden:** abgelehnte Anfragen als Vertriebsweg · der
+Eingriff-macht-zum-Hersteller-Satz.
+
+### G66 · Spezialverpackung für Kühlversand kleiner Manufakturen — KOMPAKT
+1.569 Wörter · Note **5,6** (rechn. 6,0, **−0,4**: Saisonalität als
+Kapitalfrage — zwei Monate machen die Hälfte des Jahresumsatzes, und die Ware
+dafür ist im Sommer bezahlt) · Sterne 3/3/3/4 · 3/**2**/3/**2** · Stufe 2 → 5.
+**Erster Vertriebsweg:** die öffentlich stehenden Reklamationen — Bewertungen
+mit **Datum**, also mit Jahreszeit. Ausdrücklich anders als E50, wo Bewertungen
+nur das Problem zeigen.
+**Kernthese:** **„Ein misslungener Kühlversand kostet nicht die Sendung,
+sondern den Kundenwert."**
+**Dritte Nennung des Musters:** „den Handelsteil weglassen" (nach F60 und
+G62) — **ab hier nicht mehr als Erkenntnis verkaufen, sondern nur noch
+verweisen.**
+**Recherchestand:** Zu prüfen: Kühlkettenanforderungen beim Versand,
+Verantwortlichkeit des Lebensmittelunternehmers, Verpackung mit
+Lebensmittelkontakt.
+**Nicht wiederverwenden:** das Datum in der Bewertung als Zusatzinformation ·
+der Überverpackungs-Gedanke.
+
+### G67 · Aufbereitung von Praxis- und Laborgeräten
+2.093 Wörter · Note **5,7** (rechn. 6,3, **−0,6**: drei Lasten übereinander —
+Kapitalbindung, Aufbereitungspflichten, Produkthaftung) · Sterne 4/4/4/**2** ·
+**2**/**1**/4/3 · Stufe 2 → 5.
+**Das Kapitel, in dem G16 der Voice Bible konkret wird.** Eigene Vorbemerkung am
+Anfang, und am Ende: **„Ich würde dieses Modell nicht machen."** Wirtschaftlich
+gut, persönlich abgelehnt — und die Ablehnung ist begründet, nicht behauptet.
+**Kernthese:** **„Der Kunde kauft nicht ein günstigeres Gerät. Er kauft die
+Erlaubnis, ein günstigeres Gerät zu kaufen, ohne dafür verantwortlich zu
+sein."**
+**Erster Vertriebsweg:** Praxisauflösungen — in beide Richtungen (Ware im
+Einkauf, Nachfolger als Kunde).
+**Wer haftet:** Aufbereiter eines Medizinprodukts wird zum Inverkehrbringer.
+**Recherchestand:** Zu prüfen: Pflichten bei Aufbereitung von Medizinprodukten,
+Rolle des Inverkehrbringers, Nachweispflichten.
+**Nicht wiederverwenden:** „drei Lasten übereinander sind mehr als ihre Summe" ·
+der Erlaubnis-statt-Gerät-Satz · Praxisauflösungen in beide Richtungen.
+
+### G68 · Ladenbaumodule für Franchise- und Systemgastronomie
+1.878 Wörter · Note **5,1** (rechn. 5,7, **−0,6**: die Kapazitätsschere) ·
+Sterne 4/**2**/3/3 · 3/**1**/3/3 · Stufe 2 → 5.
+**Kernthese:** **„Du brauchst Fertigungskapazität, um den Auftrag zu bekommen,
+und den Auftrag, um die Fertigungskapazität zu bezahlen."** Querverweis E43:
+dieselbe Schere, dort mit einer Einstellung gelöst statt mit einer Halle — **das
+ist der Abstand zwischen 7,3 und 5,1.**
+**Erster Vertriebsweg:** die Franchisenehmer, nicht die Zentrale — er zahlt den
+Ladenbau selbst und ist ein einzelner Unternehmer, kein Gremium.
+**Nicht wiederverwenden:** die Kapazitätsschere als Formulierung · der Zugang
+über Nehmer statt Zentrale (**in G70 bewusst umgekehrt verwendet**).
+
+### G69 · Fahrzeugbeschriftung im Abo für Flottenbetreiber — KOMPAKT
+1.665 Wörter · Note **6,1** (rechn. 6,1, **keine Korrektur** — zweiter Fall in
+diesem Buch, und im Urteil ausdrücklich als solcher benannt: guter
+Vertriebsweg und gute Wiederkehr auf einem Handwerk ohne Skalierung und ohne
+Schutz, beides zieht gegeneinander) · Sterne 3/4/3/4 · **2**/**2**/3/**2** ·
+Stufe 2 → 5.
+**Kernthese:** **„Suche die Kostenposition ohne Besitzer."** Die Entklebung bei
+Leasingrückgabe (400–900 € je Fahrzeug) wird von niemandem verantwortet und
+deshalb von niemandem verglichen.
+**Zweite These:** dieselbe Leistung ist im Werbebudget zu teuer und im
+Fahrzeugbudget normal. **Die Zuordnung entscheidet über den Preis.**
+**Erster Vertriebsweg:** die Karosserie- und Lackierbetriebe — jeder
+Blechschaden an einem beschrifteten Fahrzeug erzeugt eine Teilbeklebung, die
+die Versicherung zahlt. Ausdrücklich anders als G63: dort der Zugang *vor* der
+Auslieferung, hier der Schadensfall im Bestand, der sich wiederholt.
+**Preise:** Einzelbeklebung 900–2.400 € · Abo 25–45 € je Fahrzeug und Monat.
+**Ehrliche Margenrechnung:** bei sechzig Abofahrzeugen **minus 410 €**, wenn
+eine Kraft bezahlt wird. Daraus die **Sprungzone** zwischen sechzig und
+hundertzwanzig Fahrzeugen — „ein Bereich, den man durchlaufen und nicht bewohnen
+kann".
+**Wer haftet:** Folie über Radarsensoren, Kameras, beheizten Scheiben und
+zulassungsrelevanten Teilen.
+**Recherchestand:** Zu prüfen: Anforderungen an Sichtfeld und Beleuchtung bei
+Folierung, Herstellervorgaben zu Assistenzsystemflächen, Zulässigkeit von
+Folierung in Leasingverträgen.
+**Nicht wiederverwenden:** die Entklebungskosten · „Kostenposition ohne
+Besitzer" · die Budgetzuordnung als Preisargument · die Sprungzone.
+
+### G70 · Sensorik-Nachrüstsets für Kühlketten in Gastronomie und Apotheken
+2.171 Wörter · Note **7,6** (rechn. 7,9, **−0,3** — und der Abzugsgrund steht
+ausdrücklich **in keiner der acht Boxen**: **„Du verkaufst Sicherheit und wirst
+für Sicherheit verantwortlich gemacht, auch wenn im Vertrag etwas anderes
+steht."**) · Sterne 4/4/3/**5** · 4/3/4/3 · Stufe 2 → 6.
+**Bestes Kapitalleichtigkeitsergebnis der Kategorie (3) — und gleichzeitig das
+Modell mit dem geringsten Handelsanteil.** Das ist der Schlusssatz der
+Kategorie.
+**Einstiegstyp:** der Einwand. **„Das gibt es doch schon. Stimmt — und trotzdem
+hängt in den meisten Apotheken dieses Landes ein Klemmbrett am Kühlschrank."**
+**Kernthesen:** **„Nicht der Ausfall vernichtet den Bestand, sondern die
+fehlende Aufzeichnung."** · **„Ein nicht getesteter Alarm ist kein Alarm,
+sondern eine Beruhigung."**
+**Erster Vertriebsweg:** die Impfstoffvorbestellung — im Frühsommer wandert der
+höchste Warenwert des Jahres in einen einzigen Kühlschrank, Monate bevor er
+dort steht. **Zeitfenster-Vertriebsweg wie D32 (Prüfdatum) und G66 (Datum in
+der Bewertung), aber in der Zukunft statt in der Vergangenheit.**
+*Ursprünglich waren Versicherungsmakler als erster Weg geplant — Kollision mit
+B18, deshalb verschoben auf Platz zwei.* Dritter Weg über Verbundgruppen —
+**bewusst die Zentrale, anders als in G68.**
+**Preise:** Set und Installation 1.200–4.500 € · 12–25 € je Messstelle und
+Monat. **Beispielrechnung:** 260 Messstellen, Umsatz 10.160 €, Ergebnis
+1.050 € — **ohne die Abozeile minus 3.100 €.**
+**Stufe 6 — ja, aber nur ein Teil:** Sensorik und Portal gekauft,
+eigenentwickelt nur das prüffähige Protokoll. Dreifachtest bestanden.
+**Wer haftet:** niemals als Verantwortlicher für Kühlkette oder Hygiene
+benennen lassen.
+**Recherchestand:** Zu prüfen: Dokumentationspflichten für Arzneimittellagerung
+in Apotheken, Eigenkontrollpflichten im Lebensmittelbereich,
+Kalibrieranforderungen an Messmittel, Bestellzyklen für Saisonimpfstoffe.
+**Nicht wiederverwenden:** die Impfstoffvorbestellung als Vertriebsweg · der
+Testalarm als Verkaufsmoment · „Das gibt es doch schon" als Einstieg · die
+Aufzeichnung-statt-Ausfall-These.
+
+---
+
+**Kategorie G abgeschlossen.** 11 Kapitel, 20.631 Wörter, ca. 69 Seiten.
+Notenspanne **4,8 bis 8,1**, Kategorieschnitt **6,32** — der zweitniedrigste
+nach C und D, und das mit Absicht.
+
+**Zehn verschiedene erste Vertriebswege:** Betriebsauflösungen (G61), Praxen im
+Umbau (G62), Nutzfahrzeughändler vor Auslieferung (G63), Objektverluste (G64),
+abgelehnte Anfragen (G65), datierte Reklamationen (G66), Praxisauflösungen in
+beide Richtungen (G67), Franchisenehmer statt Zentrale (G68),
+Karosseriebetriebe (G69), Impfstoffvorbestellung (G70).
+
+**Kategorie-Eigenheiten, die nicht wiederkehren dürfen:** die
+Verteidigungsmerkmal-Prüfung als Kategorielogik · die Kapitalbindung als
+durchgehendes Leitmotiv · der Satz „den Handelsteil weglassen" (dreimal
+verbraucht).
+
+---
+
+## Befunde der Qualitätsprüfung nach 70 Modellen
+
+**1. Der Messfehler bei der Satzlänge — betrifft das gesamte Manuskript.**
+Das eigene Prüfskript hat `.**` (Punkt vor einer Fettauszeichnung) nicht als
+Satzende erkannt und deshalb je Absatz mehrere Sätze zu einem
+zusammengerechnet. Gemessene Werte waren dadurch systematisch zu hoch.
+
+Korrekt gemessen (Fettmarkierungen entfernt, Trennung an `.!?`):
+
+| Kategorie | A | B | C | D | E | F | G | Gesamt |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Ø Satzlänge | 11,0 | 11,2 | 11,5 | 11,4 | 11,4 | 11,8 | 12,6 | **11,6** |
+
+Der Zielkorridor in `03-kapitelvorlage` lautet **12,5–14,5 Wörter**. Das
+Manuskript liegt also **unter** dem eigenen Ziel, nicht darüber — und die
+Straffungsdurchgänge in A bis F haben teilweise das Gegenteil des Nötigen
+getan.
+
+**Entscheidung des Autors erforderlich (§25 — nicht eigenmächtig geändert):**
+- **Variante 1:** Zielkorridor auf **11,0–13,0** anpassen, weil die knappe
+  Satzführung zur Stimme des Buches gehört und in G ohnehin schon nach oben
+  wandert. Kein Eingriff in fertige Kapitel.
+- **Variante 2:** Korridor beibehalten und in Phase 3 in A bis E gezielt
+  **lockern** — je Kapitel drei bis fünf zusammengezogene Sätze. Aufwand: rund
+  60 Kapitel, rein additiv.
+- **Variante 3:** Korridor beibehalten, ab H einhalten, A bis F so lassen und
+  den Unterschied als Entwicklung des Buches akzeptieren.
+
+Bis zur Entscheidung: **keine weiteren Straffungsdurchgänge.** Ab H wird auf
+12,5–14,0 geschrieben.
+
+**2. Fehlender Pflichtabschnitt 7 — behoben.**
+Neun Kapitel hatten „Wenn ich morgen starten müsste" nicht: C30, D37, E50, F53,
+F60, G62, G66, G67, G68. Die Vorlage schreibt in Abschnitt 2 ausdrücklich, dass
+**alle hundert Kapitel dieselben zehn Bestandteile haben** — auch die
+kompakten. Alle neun wurden nachgeschrieben (je 94–111 Wörter, mit
+Bestätigungs- und Warnsignal). **Geprüft: alle 70 Modellkapitel haben den
+Abschnitt jetzt.** Zwei davon mit eigener Färbung: G67 beginnt mit „Ich würde
+dieses Modell nicht starten, und der Grund steht im Urteil", C30 endet mit einer
+Abbruchbedingung statt eines Startsignals.
+
+**3. Kollision der ersten Vertriebswege — vor der Festschreibung erkannt.**
+G70 war mit **Versicherungsmaklern** geplant; B18 hat diesen Weg bereits. Nach
+Prüfung ersetzt durch die Impfstoffvorbestellung; das Versicherungsargument
+bleibt als zweiter Weg im Kapitel, weil es die Zahlungsbereitschaft erklärt.
+**Prüfung damit bei allen 70 Modellen bestanden: 70 verschiedene erste
+Vertriebswege.** Die Prüfung gehört ab jetzt vor das Schreiben der
+Vertriebsbox, nicht danach.
+
+**4. Umfangskontrolle nach 70 Modellen.**
+
+| Ebene | Anzahl | Ø Wörter | Ziel | Abweichung |
+|---|---:|---:|---:|---:|
+| Leitmodelle | 14 | 2.326 | 2.260 | +3 % |
+| Standardkapitel | 38 | 1.940 | 1.800 | +8 % |
+| Kompakte Vollkapitel | 18 | 1.336 | 1.400 | −5 % |
+
+Netto rund **+5.100 Wörter** auf 70 Kapitel, hochgerechnet **+7.300 Wörter ≈ 24
+Seiten** auf ein Buch von 731 Seiten (3,3 %) — innerhalb der Toleranz, aber die
+Standardkapitel sind die Ursache und wachsen weiter. Zwei Kapitel überschreiten
+die Regel „Standardkapitel ≤ 1.900": G65 (2.195) und G70 (2.171). Begründung
+für G70: einzige Stufe-6-Ja-Entscheidung der Kategorie plus Kategorieabschluss.
+Für G65 keine Begründung — **das war Nachlässigkeit.**
+
+**Verbindlich ab H:** Standardkapitel **1.750–1.850 Wörter**, kompakte
+**1.350–1.450**, Leitmodelle **2.200–2.350**. Überschreitung nur mit Begründung
+in diesem Register, und höchstens bei einem Kapitel je Kategorie.
+
+**5. Notenverteilung nach 70 Modellen.**
+
+| Band | Ziel (100) | Ist (70) | Rest 30 muss liefern |
+|---|---:|---:|---|
+| 8,0–10,0 | 12–18 | **7** | 5 bis 11 |
+| 6,5–7,9 | 35–45 | **35** | 0 bis 10 — **Obergrenze fast erreicht** |
+| 5,0–6,4 | 25–35 | **23** | 2 bis 12 |
+| unter 5,0 | 10–15 | **5** | **5 bis 10** |
+
+Spitzenband: E47 8,2 · F51 8,1 · G61 8,1 · B19 8,0 · E41 8,0 · F55 8,0 ·
+F57 8,0.
+Unter 5,0: D38 4,2 · C30 4,4 · D37 4,8 · G62 4,8 · F60 4,9.
+
+**Zielaufteilung für H, I und J:** etwa **8 im Spitzenband, 8 im Mittelband, 7
+im unteren Mittelband, 7 unter 5,0.** Das Mittelband ist der Engpass — ein
+Modell, für das sich kein *benennbarer* Grund für 7,x findet, gehört unter 6,5,
+und diese Regel wird ab H strenger angewandt als bisher.
+**J (Plattform, Vermittlung, Beteiligung) trägt beide Enden:** dort liegen die
+skalierbarsten Modelle des Buches und gleichzeitig die Modelle, die an
+fehlender Marktliquidität scheitern.
+
+**6. Achtzehntes Softwareantwort-Muster.**
+`Stufe 6 ja, aber nur der Nachweisteil — Portal gekauft, Protokoll gebaut`
+(G70). Damit sind es achtzehn unterscheidbare Muster; die Liste oben ist
+ergänzt.
+
+**7. Zahlenfehler in G00 — behoben.**
+Die Einführung sagt „bei fünf der zehn Modelle steht die Kapitalleichtigkeit bei
+zwei Sternen oder darunter". Nachgezählt sind es **neun von zehn**; nur G70 liegt
+bei drei. Im Text korrigiert. Lehre für H bis J: Aussagen einer
+Kategorie-Einführung über ihre zehn Kapitel erst nach dem zehnten Kapitel
+festschreiben — G00 macht drei solcher Zusagen, zwei waren richtig.
 
 ---
 

@@ -4,20 +4,24 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     74 / 116 Kapitel und Modelle final
+Gesamt:     85 / 116 Kapitel und Modelle final
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
-Teil II:    60 / 100 Modelle — A, B, C, D, E und F VOLLSTÄNDIG
-            12 / 20 Leitmodelle
-            32 / 60 Standardkapitel
-            16 / 20 kompakte Vollkapitel
-            6 / 10 Kategorie-Einführungen
-Umfang:     ca. 124.900 Wörter / ca. 416 Seiten geschrieben
+Teil II:    70 / 100 Modelle — A bis G VOLLSTÄNDIG
+            14 / 20 Leitmodelle
+            38 / 60 Standardkapitel
+            18 / 20 kompakte Vollkapitel
+            7 / 10 Kategorie-Einführungen
+Umfang:     ca. 146.000 Wörter / ca. 486 Seiten geschrieben
 Prognose:   Teil II hochgerechnet ca. 193.000 Wörter (Plan 185.700),
             also ca. 24 Seiten über Plan — 3,3 %, innerhalb der Toleranz
 Teil III:   0 / 8 Kapitel
 Rahmen:     0 / 1 Einleitung, 0 / 1 Nachwort, 0 / 4 Anhänge
 Zielumfang: ca. 730 Seiten / 212.000 Wörter, ein Band
-Status:     KAPITELENTWICKLUNG, Teil I
+Status:     KAPITELENTWICKLUNG, Teil II — Kategorie H als nächste
+Offen zur   Zielkorridor Satzlänge: korrekt gemessen liegt das Manuskript
+Entschei-   bei Ø 11,6 Wörtern, der Korridor in 03-kapitelvorlage bei
+dung:       12,5–14,5. Drei Varianten stehen im Register (Befunde nach
+            70 Modellen, Punkt 1) — nicht eigenmächtig geändert.
 ```
 
 ## Getroffene Entscheidungen
@@ -127,7 +131,7 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Teil II, C27 — Wartungsberichte Facility Management | 1.405 | ca. 4,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, C28 — Bewerbervorqualifizierung Pflege | 1.896 | ca. 6,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, C29 — Bestandsaufbereitung Versicherungsmakler | 1.849 | ca. 6,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
-| Teil II, C30 — Fahrzeugbeschreibungen Autohäuser | 1.531 | ca. 5,1 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, C30 — Fahrzeugbeschreibungen Autohäuser | 1.637 | ca. 5,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | **Kategorie C, Summe** | **20.355** | **ca. 68** | **vollständig, 11 Kapitel** |
 | Teil II, Einführung Kategorie D | 480 | ca. 1,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, D31 — Tourenplanung Containerdienste *(Leitmodell)* | 2.208 | ca. 7,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
@@ -136,7 +140,7 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Teil II, D34 — Kursverwaltung Fahrschulen | 1.351 | ca. 4,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, D35 — Mängelmanagement Bauträger | 1.838 | ca. 6,1 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, D36 — Chargenrückverfolgung Lebensmittel | 1.835 | ca. 6,1 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
-| Teil II, D37 — Aufmaß-App Malerbetriebe | 1.621 | ca. 5,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, D37 — Aufmaß-App Malerbetriebe | 1.727 | ca. 5,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, D38 — Beitragsverwaltung Sportvereine | 1.563 | ca. 5,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, D39 — Gerätebuchung Forschungseinrichtungen | 1.340 | ca. 4,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, D40 — Auditmanagement Lebensmittelbetriebe | 1.865 | ca. 6,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
@@ -151,26 +155,39 @@ Status:     KAPITELENTWICKLUNG, Teil I
 | Teil II, E47 — Fahrzeugprüfung Flotten *(Leitmodell)* | 2.200 | ca. 7,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, E48 — Berufskleidungskreislauf Lebensmittelhandwerk | 1.714 | ca. 5,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, E49 — Schädlingsmonitoring Lebensmittelbetriebe | 1.887 | ca. 6,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
-| Teil II, E50 — Sanitärservice Fitnessstudios | 1.355 | ca. 4,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, E50 — Sanitärservice Fitnessstudios | 1.449 | ca. 4,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | **Kategorie E, Summe** | **18.030** | **ca. 60** | **vollständig, 11 Kapitel** |
 | Teil II, Einführung Kategorie F | 513 | ca. 1,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, F51 — Arbeitssicherheits-Betreuung *(Leitmodell)* | 2.298 | ca. 7,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, F52 — Externer Datenschutzbeauftragter Bau | 2.104 | ca. 7,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
-| Teil II, F53 — Lokale Sichtbarkeit Zahnarztpraxen | 1.948 | ca. 6,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, F53 — Lokale Sichtbarkeit Zahnarztpraxen | 2.048 | ca. 6,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, F54 — Recruiting-Abo ambulante Pflege | 2.016 | ca. 6,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, F55 — Buchhaltungs-Vorerfassung Onlinehändler | 2.217 | ca. 7,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, F56 — Kaufmännische Leitung auf Zeit | 2.087 | ca. 7,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, F57 — Wartungs-Abo Onlineshops *(Leitmodell)* | 2.405 | ca. 8,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, F58 — Unternehmerkreis Handwerksinhaber | 2.185 | ca. 7,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, F59 — Serviceabo Kaffeevollautomaten | 1.488 | ca. 5,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
-| Teil II, F60 — Ausstattungsabo Fahrerflotten | 1.481 | ca. 4,9 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, F60 — Ausstattungsabo Fahrerflotten | 1.583 | ca. 5,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | **Kategorie F, Summe** | **20.742** | **ca. 69** | **vollständig, 11 Kapitel** |
+| Teil II, Einführung Kategorie G | 508 | ca. 1,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, G61 — Ersatzteilhandel abgekündigte Maschinen *(Leitmodell)* | 2.454 | ca. 8,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, G62 — B2B-Shop Praxisbedarf | 2.018 | ca. 6,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, G63 — Werkstattwagen-Ausstattung *(Leitmodell)* | 2.057 | ca. 6,9 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, G64 — Eigenmarken-Reinigungschemie | 2.023 | ca. 6,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, G65 — Nachrüstsätze ältere CNC-Maschinen | 2.195 | ca. 7,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, G66 — Spezialverpackung Kühlversand | 1.569 | ca. 5,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, G67 — Aufbereitung Praxis- und Laborgeräte | 2.093 | ca. 7,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, G68 — Ladenbaumodule Franchise | 1.878 | ca. 6,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, G69 — Fahrzeugbeschriftung im Abo | 1.665 | ca. 5,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, G70 — Sensorik-Nachrüstsets Kühlketten | 2.171 | ca. 7,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| **Kategorie G, Summe** | **20.631** | **ca. 69** | **vollständig, 11 Kapitel** |
 
 ## Änderungsprotokoll
 
 | Version | Änderung |
 |---|---|
 | 1.0 | Erstfassung: Struktur, 100 Modelle, Bewertungssystem, Voice Bible 0.1 |
+| 1.7 | Kategorie G vollstaendig (11 Kapitel, 20.631 Woerter). G61 (8,1) ist das beste Handelsmodell des Buches und das siebte im Spitzenband, G62 (4,8) das fuenfte unter 5,0 - bewusst direkt dahinter platziert, weil die 3,3 Punkte Abstand vollstaendig aus einem Verteidigungsmerkmal bestehen. G67 ist das Kapitel, in dem der Autor ein wirtschaftlich gutes Modell aus persoenlicher Grenze ablehnt und die Ablehnung begruendet. G70 (7,6) ist die erste geteilte Softwareantwort des Buches: Portal gekauft, prueffaehiges Protokoll selbst gebaut. **Drei Befunde der Qualitaetspruefung, alle im Register unter „Befunde nach 70 Modellen" dokumentiert:** (1) Das eigene Pruefskript hat Satzlaengen systematisch zu hoch gemessen, weil ein Punkt vor einer Fettauszeichnung nicht als Satzende erkannt wurde - korrekt gemessen liegt das Manuskript bei Oe 11,6 Woertern und damit unter dem eigenen Zielkorridor von 12,5 bis 14,5. Drei Varianten zur Entscheidung des Autors vorgelegt, nichts eigenmaechtig geaendert, keine weiteren Straffungsdurchgaenge bis dahin. (2) Neun Kapitel hatten den Pflichtabschnitt „Wenn ich morgen starten muesste" nicht (C30, D37, E50, F53, F60, G62, G66, G67, G68) - alle nachgeschrieben, jetzt haben alle 70 Modellkapitel alle zehn Bestandteile. (3) G70 war mit Versicherungsmaklern als erstem Vertriebsweg geplant und kollidierte mit B18; ersetzt durch die Impfstoffvorbestellung. Damit 70 verschiedene erste Vertriebswege. **Neue Engpassdiagnose:** das Mittelband 6,5 bis 7,9 ist mit 35 Modellen an seiner Untergrenze fuer hundert Modelle angekommen - die letzten 30 Modelle muessen 5 bis 11 im Spitzenband und 5 bis 10 unter 5,0 liefern. Umfangsregel verschaerft: Standardkapitel 1.750 bis 1.850 Woerter, hoechstens eine begruendete Ueberschreitung je Kategorie. |
 | 1.6 | Kategorie F vollstaendig (11 Kapitel, 20.742 Woerter). **Drei neue Modelle im Spitzenband** - F51 (8,1, erste Aufwaertskorrektur wegen Marktgroesse), F55 (8,0, keine Schwachstelle unter drei Sternen, kapitalleichtestes Spitzenbandmodell) und F57 (8,0, bestes Abo-Modell des Buches). Damit 6 von 60 Modellen ab 8,0. Der Anteil des oberen Mittelbands ist von 60 ueber 54 auf 52 Prozent gefallen. F60 ist das vierte Modell unter 5,0. F56 ist das erste Kapitel mit fuenf Sternen bei Monetarisierung und Marge gleichzeitig und das einzige, in dem der Autor ausdruecklich schreibt, dass er es selbst nicht starten koennte - mit der Reihenfolge F55 heute, F56 in acht Jahren. **Neu im Register: eine Umfangskontrolle gegen die Seitenplanung.** Teil II laeuft hochgerechnet 24 Seiten ueber Plan (3,3 Prozent); als Regel fuer G bis J gilt, Standardkapitel bei hoechstens 1.900 Woertern zu halten und Ueberschreitungen zu begruenden. |
 | 1.5 | Kategorie E vollstaendig (11 Kapitel, 18.030 Woerter). **Halbzeit von Teil II: 50 von 100 Modellen.** Zwei neue Modelle im Spitzenband: E47 (8,2, beste Note des Buches) und E41 (8,0). Die im Register nach 40 Modellen festgelegte Gegensteuerung greift - nur drei von zehn E-Modellen liegen im oberen Mittelband, der Anteil sank von 60 auf 54 Prozent. Zusage der Kategorie-Einfuehrung eingeloest: genau ein sofort startbares Modell (E50), und es traegt die schlechteste Note der Kategorie. Der Vergleich E47 gegen E50 liefert die zentrale Kalibrierung fuer Teil III und das Startbarkeits-Register: Die Huerde, die am Anfang aufhaelt, ist dieselbe, die spaeter ernaehrt. E48 wurde nach der ersten Fassung von Kurzform auf das volle Standardformat erweitert, um die Tiefenstufen des Katalogs einzuhalten. |
 | 1.4 | Kategorie D vollstaendig (11 Kapitel, 18.173 Woerter). Beide Zusagen der Kategorie-Einfuehrung nachgerechnet und eingeloest: vier Nein-Antworten zur Softwarefrage (D34, D37, D38, D39) und genau zwei sofort startbare Modelle (D38, D39). Zwei weitere Modelle unter 5,0 (D37 4,8, D38 4,2), damit drei insgesamt. Vier neue Softwaremuster. **Im Register neu vermerkt: zwei Steuerungsprobleme nach 40 Modellen — das Spitzenband ab 8,0 hat erst ein Modell von noetigen 12 bis 18, und das obere Mittelband ist mit 60 Prozent statt 40 Prozent ueberfuellt. Gegensteuerung ab Kategorie E ist im Register festgelegt.** |

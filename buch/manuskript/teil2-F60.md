@@ -149,6 +149,25 @@ Damit ist dieses Kapitel eines der klarsten Beispiele für ein Muster, das im
 ganzen Buch wiederkehrt. **Zwei von drei Verbesserungen bestehen darin, den
 Handelsteil wegzulassen.**
 
+#### Wenn ich morgen starten müsste
+
+**Woche 1:** Fahrerstellenanzeigen im Umkreis erfassen und je Spedition auf die
+Zahl der Erstausstattungen im Jahr schließen.
+
+**Woche 2:** Fünf Fuhrparkleitern diese Zahl vorrechnen, mit ihren eigenen
+Anzeigen als Grundlage.
+
+**Woche 3:** Bei einem einzigen Kunden zwanzig Erstausstattungen abwickeln —
+ohne eigenes Lager, im Streckengeschäft über einen Arbeitsschutzhändler.
+
+**Woche 4:** Nachrechnen, was von der Marge übrig bleibt. Unter fünfzehn
+Prozent gehört der Handelsteil abgegeben und nur die Verwaltung behalten.
+
+**Bestätigungssignal:** Der Fuhrparkleiter kennt die Zahl seiner
+Beschaffungsvorgänge nicht. **Warnsignal:** Er hat einen Rahmenvertrag mit
+einem Arbeitsschutzhändler. Dann verkaufst du gegen einen Einkaufspreis, den du
+nicht kennst.
+
 #### Mein Urteil
 
 **4,9/10**

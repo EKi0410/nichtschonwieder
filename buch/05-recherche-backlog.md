@@ -289,6 +289,67 @@ Dokumentation persönlicher Schutzausrüstung. Katalogpreise des
 Arbeitsschutzgroßhandels und übliche Handelsmargen — **die Note unter 5,0 hängt
 an diesem Vergleich.** Fluktuationsquoten im Fahrerbereich.
 
+## Kategorie G — Handel, physische Produkte, E-Commerce
+
+**Grundsätzlich für die ganze Kategorie.** Bei jedem Handelsmodell sind zwei
+Zahlen entscheidend und beide bisher **modellhafte Annahme**: der übliche
+Handelsaufschlag der Nische und die **Lagerumschlagshäufigkeit**. Ohne beide
+ist keine Margenrechnung dieser Kategorie belastbar.
+
+**G61 · Ersatzteilhandel abgekündigte Maschinen.** Rechtslage beim Nachbau
+abgekündigter Teile: Marken-, Design- und Patentrecht, Grenzen der
+Ersatzteilfreiheit. Übliche Aufschläge im industriellen Ersatzteilhandel.
+Stillstandskosten je Stunde in Zerspanung, Verpackung und Druck — **die
+zentrale Zahl des Kapitels.**
+
+**G62 · B2B-Shop Praxisbedarf.** Marktanteile und Serviceangebot der
+Dentaldepots, insbesondere ob automatische Nachbestellung dort kostenlos
+enthalten ist — **davon hängt die Note ab.** Übliche Einkaufskonditionen bei
+Praxisverbrauchsmaterial.
+
+**G63 · Werkstattwagen-Ausstattung.** Preise der Systemanbieter für
+Fahrzeugeinrichtungen, übliche Händlermargen, Vorlaufzeiten zwischen
+Fahrzeugbestellung und Auslieferung im Nutzfahrzeugbereich.
+
+**G64 · Eigenmarken-Reinigungschemie.** Pflichten des Inverkehrbringers von
+Gemischen: Einstufung, Kennzeichnung, Sicherheitsdatenblätter,
+Registrierungspflichten. Mindestabnahmemengen bei Lohnabfüllern.
+
+**G65 · Nachrüstsätze CNC.** Abgrenzung der wesentlichen Veränderung einer
+Maschine und die daraus folgenden Herstellerpflichten inklusive
+Konformitätsbewertung — **der haftungsentscheidende Punkt.** Preise für
+Steuerungsretrofits.
+
+**G66 · Kühlversandverpackung.** Anforderungen an die Kühlkette beim Versand,
+Verantwortlichkeit des Lebensmittelunternehmers, Anforderungen an
+Verpackungsmaterial mit Lebensmittelkontakt. Lagerkosten je Palettenstellplatz
+für Sperrgut.
+
+**G67 · Aufbereitung Praxis- und Laborgeräte.** Pflichten bei der Aufbereitung
+von Medizinprodukten, Rolle und Haftung des Inverkehrbringers,
+Nachweispflichten. **Zusätzlich zu klären: ob und zu welchen Bedingungen
+Produkthaftung für aufbereitete Medizinprodukte versicherbar ist** — im Kapitel
+steht das als Warnsignal, und die Antwort trägt die Ablehnung des Modells.
+
+**G68 · Ladenbaumodule.** Übliche Zahlungsbedingungen im Ladenbau,
+Vorfinanzierungsanteil je Standort, Verzugsfolgen bei verschobenen Eröffnungen.
+Ob Franchisezentralen Ladenbauer verbindlich vorschreiben — **das entscheidet
+über den Vertriebsweg des Kapitels.**
+
+**G69 · Fahrzeugbeschriftung im Abo.** Anforderungen an Sichtfeld und
+Beleuchtung bei Folierung. Herstellervorgaben zu Flächen über Radarsensoren,
+Kameras und beheizten Scheiben. Zulässigkeit von Folierung in
+Leasingverträgen und **die tatsächlichen Entklebungskosten bei Rückgabe** —
+darauf beruht die Kernthese des Kapitels. Folienlebensdauer im Außeneinsatz.
+
+**G70 · Sensorik-Nachrüstsets Kühlketten.** Dokumentationspflichten für die
+Lagerung von Arzneimitteln in Apotheken. Eigenkontrollpflichten im
+Lebensmittelbereich. Kalibrieranforderungen an Messmittel, die für Nachweise
+verwendet werden. **Bestellzyklen und Bestellfenster für Saisonimpfstoffe** —
+der erste Vertriebsweg des Kapitels hängt daran. Bedingungen von
+Warenverderb- und Kühlgutversicherungen, insbesondere Nachweispflichten im
+Schadensfall.
+
 ## Praktikerprüfung
 
 Ergänzend zur Recherche: mindestens ein Telefonat je Kategorie, bei den zwanzig

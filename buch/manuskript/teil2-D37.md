@@ -185,6 +185,23 @@ Wer alle drei Änderungen umsetzt, hat kein verbessertes D37 mehr. Er hat ein
 Dienstleistungsmodell mit einem Werkzeug im Hintergrund — also genau das, was
 diese ganze Kategorie empfiehlt.
 
+#### Wenn ich morgen starten müsste
+
+**Woche 1:** Drei Außendienstler des Farbengroßhandels einen Tag lang
+begleiten, ohne etwas zu verkaufen.
+
+**Woche 2:** Bei zwei Malerbetrieben selbst aufmessen und das Angebot am
+Küchentisch des Endkunden übergeben — als Dienstleistung, nicht als App.
+
+**Woche 3–4:** Zählen, wie viele dieser Angebote angenommen wurden, und die
+Quote gegen die eigene Quote des Betriebs stellen. Erst wenn dieser Unterschied
+sichtbar ist, über Software reden.
+
+**Bestätigungssignal:** Ein Malermeister will, dass du beim nächsten Termin
+wieder mitkommst. **Warnsignal:** Der Hersteller bringt sein eigenes Werkzeug
+kostenlos mit. Dann ist dein Vertriebsweg gleichzeitig dein Wettbewerber, und
+das ist die Stelle, an der dieses Modell scheitert.
+
 #### Mein Urteil
 
 **4,8/10**

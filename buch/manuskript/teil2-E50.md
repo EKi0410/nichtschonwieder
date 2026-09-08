@@ -135,6 +135,24 @@ und wer bereits im Haus ist, verkauft es zu Selbstkosten im Vertrieb.
 Die dritte Änderung ist die interessanteste, weil sie das Modell nicht ersetzt,
 sondern ergänzt: Reinigung als Zugang, Prüfleistungen als Marge.
 
+#### Wenn ich morgen starten müsste
+
+**Woche 1:** Dreißig Studios im Umkreis, alle öffentlichen Bewertungen
+auswerten, Nennungen zu Duschen, Umkleiden und Geräten zählen.
+
+**Woche 2:** Die fünf mit den meisten Nennungen besuchen, morgens zur Öffnung,
+mit der Auswertung auf einem Blatt.
+
+**Woche 3:** Einem Studio zwei Wochen dokumentierte Kontrollrundgänge schenken,
+inklusive Aushang mit Uhrzeit.
+
+**Woche 4:** Den Wochenpreis nennen — und den Nachweis verkaufen, nicht die
+Reinigung.
+
+**Bestätigungssignal:** Der Betreiber will den Aushang behalten.
+**Warnsignal:** Er verhandelt über den Stundenlohn deiner Kraft. Dann
+konkurrierst du mit Reinigung statt mit Nachweis, und dort verlierst du.
+
 #### Mein Urteil
 
 **5,2/10**
