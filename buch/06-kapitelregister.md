@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 63 von 116 Kapiteln (Teil I vollständig, 50 Modelle, 5 Kategorie-Einführungen). **Kategorien A, B, C, D und E vollständig — Teil II zur Hälfte fertig.** Manuskript ca. 104.100 Wörter / ca. 347 Seiten.
+Stand nach 74 von 116 Kapiteln (Teil I vollständig, 60 Modelle, 6 Kategorie-Einführungen). **Kategorien A bis F vollständig.** Manuskript ca. 124.900 Wörter / ca. 416 Seiten.
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -29,35 +29,60 @@ Stand nach 63 von 116 Kapiteln (Teil I vollständig, 50 Modelle, 5 Kategorie-Ein
 
 | Band | Ziel | vergeben | Modelle |
 |---|---:|---:|---|
-| 8,0–10,0 | 12–18 | 3 | **E47 (8,2)**, **B19 (8,0)**, **E41 (8,0)** — Spitzenband nach 50 Modellen. Von den restlichen 50 müssen 9 bis 15 hier landen. |
+| 8,0–10,0 | 12–18 | 6 | **E47 (8,2)**, **F51 (8,1)**, **B19 (8,0)**, **E41 (8,0)**, **F55 (8,0)**, **F57 (8,0)** |
 | *Anmerkung* | | | Korrekturen: 10× abwärts, 1× reine Aufwärtskorrektur (A06, +0,3 für den Verkaufsmoment), 1× zweiseitige Bilanz (A04). Damit ist gezeigt, dass das Instrument in beide Richtungen wirkt. |
-| 6,5–7,9 | 35–45 | 27 | B11 (7,8), A05 (7,6), E49 (7,6), B18 (7,5), A02 (7,4), D31 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), E43 (7,3), A10 (7,2), B14 (7,2), D40 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), D32 (6,9), D36 (6,9), C21 (6,8), C26 (6,8), D33 (6,8), E45 (6,7), A03 (6,7), D35 (6,6), A01 (6,6) |
-| 5,0–6,4 | 25–35 | 17 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), E42 (6,0), E44 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), E46 (5,8), D39 (5,7), C22 (5,6), E48 (5,6), C27 (5,4), D34 (5,2), E50 (5,2) |
-| unter 5,0 | 10–15 | 3 | C30 (4,4), D37 (4,8), D38 (4,2) — alle drei mit dem Pflichtabschnitt „Was fehlen müsste" |
+| 6,5–7,9 | 35–45 | 31 | B11 (7,8), A05 (7,6), E49 (7,6), B18 (7,5), A02 (7,4), D31 (7,4), F56 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), E43 (7,3), A10 (7,2), B14 (7,2), D40 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), D32 (6,9), D36 (6,9), C21 (6,8), C26 (6,8), D33 (6,8), F52 (6,8), E45 (6,7), A03 (6,7), D35 (6,6), A01 (6,6), F54 (6,6), F58 (6,6) |
+| 5,0–6,4 | 25–35 | 19 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), E42 (6,0), E44 (6,0), F59 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), E46 (5,8), D39 (5,7), F53 (5,7), C22 (5,6), E48 (5,6), C27 (5,4), D34 (5,2), E50 (5,2) |
+| unter 5,0 | 10–15 | 4 | F60 (4,9), D37 (4,8), C30 (4,4), D38 (4,2) — alle mit dem Pflichtabschnitt „Was fehlen müsste" |
 
-**Stand der Gegensteuerung nach 50 Modellen (Halbzeit von Teil II):**
+**Stand der Gegensteuerung nach 60 Modellen:**
 
-| | nach 40 | nach 50 | Anteil in E | Ziel-Anteil |
-|---|---:|---:|---:|---:|
-| ab 8,0 | 1 | **3** | 2 von 10 | 12–18 % |
-| 6,5–7,9 | 24 | 27 | **3 von 10** | 40 % |
-| 5,0–6,4 | 12 | 17 | 5 von 10 | 30 % |
-| unter 5,0 | 3 | 3 | 0 von 10 | 12 % |
+| | nach 40 | nach 50 | nach 60 | Anteil in F | Ziel-Anteil |
+|---|---:|---:|---:|---:|---:|
+| ab 8,0 | 1 | 3 | **6** | **3 von 10** | 12–18 % |
+| 6,5–7,9 | 24 | 27 | 31 | 4 von 10 | 40 % |
+| 5,0–6,4 | 12 | 17 | 19 | 2 von 10 | 30 % |
+| unter 5,0 | 3 | 3 | 4 | 1 von 10 | 12 % |
 
-Kategorie E hat die Verteilung deutlich korrigiert: nur drei von zehn Modellen im
-oberen Mittelband, zwei im Spitzenband. **Der Anteil des oberen Mittelbands ist
-von 60 % auf 54 % gesunken** und muss weiter fallen.
+Kategorie F hat die Erwartung erfüllt: **drei Modelle im Spitzenband**, damit 6
+von 60 (10 %) — das Ziel von 12–18 % ist erreichbar. Der Anteil des oberen
+Mittelbands ist von 60 % über 54 % auf **52 %** gefallen.
 
-**Offen und ab Kategorie F durchzuhalten:**
-1. **Spitzenband:** 9 bis 15 der letzten 50 Modelle müssen 8,0 oder mehr tragen.
-   Strukturelle Kandidaten in **F (Abo- und Betreuungsmodelle)** — dort steht
-   Recurring bauartbedingt hoch. Die in E41 und E47 gefundene Struktur ist der
-   Prüfmaßstab: **viele Einheiten je Vertriebsgespräch.**
-2. **Unteres Band:** 7 bis 12 der letzten 50 Modelle müssen unter 5,0. In
-   Kategorie E ist keines dazugekommen, was richtig war (die Kategorie ist
-   strukturell stark) — damit steigt der Druck auf **G (Handel)**, **H
-   (kapitalintensiv)** und **J (Plattformen)** entsprechend.
+**Offen und ab Kategorie G durchzuhalten:**
+1. **Spitzenband:** 6 bis 12 der letzten 40 Modelle müssen 8,0 oder mehr tragen.
+   Der Prüfmaßstab bleibt die in E41, E47, F55 und F57 gefundene Struktur:
+   **viele Einheiten je Vertriebsgespräch, ein Kunde ohne Ausweg, ein
+   Wettbewerber ohne Interesse.** In **G, H und I** ist damit sparsamer zu
+   rechnen — dort sind eher mittlere und schwache Modelle zu erwarten, was der
+   Verteilung hilft.
+2. **Unteres Band:** 6 bis 11 der letzten 40 Modelle müssen unter 5,0. Der Druck
+   liegt jetzt vollständig auf **G (Handel)**, **H (kapitalintensiv)** und
+   **J (Plattformen)**.
 3. **Mittelband:** Ein Modell ohne benennbaren Grund für 7,x gehört unter 6,5.
+
+---
+
+## Umfangskontrolle nach 60 Modellen
+
+Gemessen gegen die Seitenplanung in `01-bucharchitektur.md`, Abschnitt 9.
+
+| Tiefenstufe | Plan je Kapitel | tatsächlich Ø | Abweichung |
+|---|---:|---:|---:|
+| Leitmodelle (12 von 20 fertig) | 2.260 | 2.337 | +3 % |
+| Standardkapitel (32 von 60 fertig) | 1.800 | 1.926 | **+7 %** |
+| kompakte Vollkapitel (16 von 20 fertig) | 1.400 | 1.307 | −7 % |
+
+**Hochrechnung Teil II auf 100 Modelle plus 10 Einführungen: ca. 193.000 Wörter
+gegen 185.700 geplant — also rund 24 Seiten über Plan, bei einem Gesamtband von
+731 geplanten Seiten.** Das sind 3,3 Prozent und liegt innerhalb der Toleranz;
+die kompakten Kapitel kompensieren einen Teil der Überschreitung bei den
+Standardkapiteln.
+
+**Regel für G bis J:** Standardkapitel bei höchstens 1.900 Wörtern halten. Wenn
+ein Kapitel mehr braucht, muss der Grund benennbar sein (Nischenpaar,
+Spitzenbandmodell, neues Strukturelement) und hier vermerkt werden. Bisherige
+begründete Überschreitungen: **F55 (2.217 W, Spitzenband)**, **F58 (2.185 W,
+Selbstabgrenzung gegen Kursformate)**, **F52 und C22 (Nischenpaare)**.
 
 **⚠ ZWEI STEUERUNGSPROBLEME NACH 40 MODELLEN — ab Kategorie E gegenzusteuern:**
 
@@ -1013,7 +1038,7 @@ Fördermittel-Preissatz.
 Notenspanne 5,8 bis 8,0. Zusage der Einführung eingehalten: nur B17 trägt den
 Marker „sofort startbar".
 
-**Softwareantworten im Buch — zwölf Muster, alle zu erhalten:**
+**Softwareantworten im Buch — sechzehn Muster, alle zu erhalten:**
 B11 Bedingung 3 nicht erfüllt → nein · C21 erfüllt → ja · B17 erfüllt, aber
 Werkzeug käuflich → nein · B19 erfüllt und Werkzeug nicht käuflich → ja ·
 **C22 erfüllt, aber die Daten gehören anderen → nein** · **C23 erfüllt und die
@@ -1022,7 +1047,12 @@ eigenen Unterschied → nein** · **C25 erfüllt, aber nur als Modul im fremden
 System → ja, nicht allein** · **D34 erfüllt, aber kleines Ticket plus mühsamer
 Vertrieb → nein** · **D37 erfüllt, aber das Werkzeug wird sogar verschenkt →
 nein** · **D38 wie D34, verschärft → nein** · **D39 erfüllt, aber der Kunde kann
-selbst entwickeln → nein**.
+selbst entwickeln → nein** · **E44 wie B17 plus fremder Backend-Zugang → nein** ·
+**F52 erfüllt, aber du würdest den Billiganbieter nachbauen, der dir den Preis
+kaputt macht → nein** · **F55 erfüllt, vorhandene Werkzeuge sind Vorprodukt statt
+Wettbewerber → ja** · **F57 erfüllt, Werkzeug für den eigenen Betrieb, Markt
+zweitrangig → ja** · **F58 erfüllt, aber der Wert liegt im Raum und nicht im
+Datensatz → nein**.
 
 ### Kategorie-Einführung C — KI mit klarem Prozessbezug
 442 Wörter. Aufnahmekriterium wörtlich genannt: benennbarer Prozess plus eine
@@ -1927,6 +1957,354 @@ angelaufen: nur 3 von 10 Modellen dieser Kategorie liegen im oberen Mittelband.
 Ladenbauer (E43), Förderempfängerlisten (E44), Mieter statt Eigentümer (E45),
 Hygienefachkräfte (E46), Arbeitssicherheitsdienste (E47), Lehrwerkstätten (E48),
 Auditberichte (E49), öffentliche Bewertungen (E50).
+
+### Kategorie-Einführung F — Abo- und Betreuungsmodelle
+513 Wörter. Baut auf dem Abo-Test aus I.6 auf, ohne ihn zu wiederholen.
+**Zentrale Kennzahl der Kategorie:** **„Die Halbwertszeit der Dankbarkeit liegt
+bei etwa acht Monaten."** Danach braucht es einen anderen Grund, aus dem gezahlt
+wird.
+**Die drei tragenden Gründe — sie ordnen die Kategorie und sind zu erhalten:**
+1. **Eine Pflicht** (F51, F52) — der Kunde entscheidet nur, bei wem.
+2. **Ein monatliches Artefakt** (F53, F54, F55, F56, F58) — dessen Qualität
+   entscheidet über die Kündigungsquote, nicht die Arbeit dahinter.
+3. **Etwas Körperliches** (F59, F60) — wer ausliefert, muss nichts beweisen; bezahlt
+   wird mit dünnen Margen.
+F57 fällt bewusst heraus (vierte Logik: die Alternative wäre ein Stillstand, der
+Geld kostet).
+**Preis der Kategorie — für die Zielgruppe des Buches der wichtigste Satz:**
+**„Hier ist die Eintrittsbarriere kein Papier. Das ist die einzige Hürde in diesem
+Buch, die man mit achtzehn nicht kaufen kann."** Mit dem ausdrücklichen Zusatz,
+dass sie nicht unüberwindbar ist, sondern einen anderen Weg verlangt: klein
+anfangen bei jemandem, der dich kennt, und den Nachweis über gelieferte Monate
+führen statt über einen Lebenslauf.
+**Zusage:** zwei von zehn sofort startbar (F53, F60) — beide unter den drei
+schwächsten der Kategorie, mit Rückverweis auf E50 statt Wiederholung.
+
+---
+
+### F51 · Arbeitssicherheits-Betreuung als Abo für Kleinbetriebe — LEITMODELL
+2.298 Wörter · Note **8,1** (rechn. 7,8, **+0,3**: **Marktgröße — erste
+Aufwärtskorrektur dieser Art im Buch.** Ausdrücklich als Spiegelung von B14 und
+E46 begründet: Wenn ein zu kleiner Markt eine Abwertung verdient, verdient ein
+außergewöhnlich großer eine Aufwertung) · Sterne **3**/4/4/**5** · 4/4/4/3 ·
+Einstieg 2 → Ziel 6.
+
+**★ Beste Note der Kategorie · größter erreichbarer Markt im Buch: alle Betriebe
+in Deutschland mit Beschäftigten ★**
+
+**Kernthese:** *„Der Kunde kauft nicht die Erfüllung einer Pflicht. Er kauft, dass
+sie ihn nichts mehr angeht."*
+**Preise:** 890–2.400 € Gefährdungsbeurteilung · **Jahresabo 690–2.900 € je
+Betrieb (58–240 €/Monat)** · 80 Betriebe ≈ 8.800 €/Monat, rund 4.550 € (50 %) bei
+**45 Arbeitsstunden im Monat** — die Zahl, die das Modell erklärt.
+**Erster Vertriebsweg:** Betriebe, die gerade ausbilden wollen — datierbar
+(Anmeldung im Frühjahr), mit verschärften Pflichten bei Jugendlichen. Zugang über
+Ausbildungsberatung der Kammern und Innungen.
+**Schwäche, ausdrücklich als die einzige benannt:** die Monetarisierung mit
+3 Sternen. Modell funktioniert nur über Menge, Menge verlangt Ordnung.
+**Querverweis E43/E47 — wichtig und zu erhalten:** Die Gefährdungsbeurteilung ist
+der Türöffner, die Prüfleistungen sind die Marge. Beide Seiten zusammen ergeben ein
+Geschäft mit einem bezahlten Vertriebsweg.
+**Recherchestand:** Zu prüfen: Anwendungsbereich, Betreuungsformen und
+Einsatzzeiten nach den Vorschriften der Unfallversicherungsträger und dem
+Arbeitssicherheitsgesetz; Anforderungen an die Fachkunde.
+**Nicht wiederverwenden:** die Ausbildungsanmeldung als Vertriebsweg · der
+Nichts-mehr-angeht-Satz · die Marktgröße-Korrektur · die 80-Kunden-Rechnung.
+
+---
+
+### F52 · Externer Datenschutzbeauftragter für Bau- und Handwerksbetriebe — STANDARD
+2.104 Wörter · Note **6,8** (rechn. 7,2, **−0,4**: **Du verkaufst keine Leistung,
+sondern eine Rolle** — gesetzlich beschrieben, weisungsfrei, persönlich, kaum
+delegierbar und nicht vollständig wegvertraglichbar. Der Autor benennt seine
+Abneigung dagegen ausdrücklich, in Fortsetzung von G16 der Voice Bible) · Sterne
+3/3/3/**5** · 4/**5**/4/**2** · Einstieg 2 → Ziel 5.
+**Das Nischenpaar zu A02.** Kernthese: **„Dasselbe Angebot ist beim einen Kunden
+eine Versicherung und beim anderen eine Gebühr."** Daraus die Prüffrage für jedes
+Pflichtgeschäft: *Wovor genau hat mein Kunde Angst?* **A02 7,4 gegen F52 6,8 — der
+Unterschied ist die Angst des Kunden, nicht die Arbeit.**
+**Zweite Regel:** Pflichten über die Nachweise Dritter verkaufen, nie über
+Bußgelder. Mechanismus wie in A03 (Nachfrage über den Kunden des Kunden).
+**Preise:** 1.200–2.800 € Bestandsaufnahme · **Jahrespauschale 1.400–3.600 €
+(120–300 €/Monat)** · 25 Betriebe ≈ 4.750 €/Monat, rund 2.400 € (50 %).
+**Kapitalleichtigstes Modell mit einer Note über sechs** (unter 2.000 €).
+**Erster Vertriebsweg:** Präqualifizierungsverzeichnisse der Bau- und
+Ausbaubetriebe. **Abgrenzung zu A05 beachten:** dort veröffentlichte
+Vergabeergebnisse (wer nie geboten hat), hier Präqualifizierungseinträge (wer
+Nachweisdisziplin hat). Türöffner ist der Datenschutz-Fragebogen eines
+Generalunternehmers.
+**Softwareantwort: nein** — neuer Grund im Buch: **„Wenn du das Werkzeug bauen
+würdest, das dir gerade den Preis kaputt macht, bau es nicht."**
+**Einziges ausdrückliches Nein-Rat im Kapitel:** Benennung ohne Bestandsaufnahme
+ablehnen.
+**Recherchestand:** Zu prüfen: Schwellenwert und Voraussetzungen der
+Benennungspflicht (**wurde in der Vergangenheit geändert**), Stellung, Aufgaben und
+Haftung des benannten DSB, Anforderungen an die Fachkunde.
+**Nicht wiederverwenden:** Präqualifizierung als Vertriebsweg · der
+Versicherung-oder-Gebühr-Satz · „wovor hat mein Kunde Angst" · die
+Bau-den-Portalanbieter-nicht-Regel.
+
+---
+
+### F53 · Lokale Sichtbarkeit als Marketing-Abo für Zahnarztpraxen — STANDARD
+1.948 Wörter · Note **5,7** (rechn. 6,3, **−0,6**: **die Art der Abwanderung** —
+im Buch neue Korrekturbegründung. Zwei Sterne beim Recurring bilden ab, *dass*
+Kunden gehen, nicht *warum*) · Sterne 3/3/3/**2** · 4/**5**/4/**2** · Ziel 5.
+**Sofort startbar.** Mit Pflichtabschnitt „Was fehlen müsste", obwohl über 5,0 —
+weil der Fehler so genau benennbar ist.
+
+**Kernthese und der eigentliche Grund für die Note:** **„Du wirst nicht gekündigt,
+weil du schlecht bist. Du wirst gekündigt, weil jemand anders ein besseres
+Versprechen macht."** Daraus: **„Ein Modell, in dem man durch gute Arbeit nicht
+gegen Abwanderung ankommt, hat ein Problem, das man nicht wegarbeiten kann."**
+**Zweite Kernzahl:** *„Bei vierzig Prozent Abwanderung im Jahr arbeitest du die
+erste Hälfte des Jahres daran, den Bestand vom Vorjahr zu ersetzen."*
+**Dritte Lehre, im Buch neu und übertragbar:** **„Wenn alle Verbesserungen eines
+Modells auf ein anderes Modell zeigen, ist das andere die Antwort."** Zwei von drei
+Antworten führen hier zu C25.
+**Vierte:** *„Erfolg kann dich kündigen"* — die volle Praxis braucht keine
+Neupatienten.
+**Preise:** 1.400 € Einrichtung · **690 €/Monat** plus Anzeigenbudget (läuft durch,
+nie in die Marge rechnen) · 12 Praxen ≈ 8.280 €, rund 4.380 € (50 %).
+**Erster Vertriebsweg:** Praxisübernahme (nicht Gründung — Abgrenzung zu A02 steht
+im Text). Zugang über Praxisvermittler.
+**Recherchestand:** Zu prüfen: berufsrechtliche Werbebeschränkungen für Zahnärzte,
+Zulässigkeit von Bewertungsanfragen und Anreizen.
+**Nicht wiederverwenden:** die Praxisübernahme als Vertriebsweg · der
+Besseres-Versprechen-Satz · „Erfolg kann dich kündigen" · die
+Abwanderungsrechnung.
+
+---
+
+### F54 · Recruiting-Abo für ambulante Pflegedienste — STANDARD
+2.016 Wörter · Note **6,6** (rechn. 6,9, **−0,3**: Abhängigkeit von einem
+Arbeitsmarkt, den niemand steuert — verwandt mit E45 (Wetter) und C24
+(Zurechnung), aber schärfer, weil hier das Ergebnis betroffen ist, das über die
+Verlängerung entscheidet) · Sterne 4/4/3/4 · 3/4/3/**2** · Einstieg 2 → Ziel 6.
+**Kernthese:** **„Der Kunde rechnet nicht in Kosten je Einstellung, sondern in
+entgangenem Umsatz je unbesetzter Stelle."** Es gibt im Buch **kein zweites
+Kapitel, in dem der Nutzen den Preis so weit übersteigt.**
+**Zweite, entscheidende Vertragsregel:** *„Ein Vermittler liefert einen Menschen,
+ein Abo liefert einen Zustand."* Zugesagt wird eine **Leistung, kein Ergebnis** —
+plus Zwischenzahlen im Monatsbericht.
+**Preise:** 3.900 € Erstkampagne · **1.290 €/Monat** plus Anzeigenbudget · 8
+Dienste ≈ 10.320 €, rund 5.260 € (50 %).
+**Erster Vertriebsweg:** **Kliniksozialdienste und Entlassmanagement** — sie
+wissen, welcher Dienst ablehnt. Ein Weg über Personen, nicht über Institutionen.
+**Strukturelle Grenze, im Buch einmalig:** **ein Kunde je Region** — zwei Kunden
+in derselben Stadt konkurrieren um dieselben Bewerber. Gehört ins erste Gespräch.
+**Regel, die im Buch wiederverwendbar ist:** **„Vorfinanziere nie das Werbebudget
+deiner Kunden."**
+**Recherchestand:** Zu prüfen: Anforderungen an diskriminierungsfreie
+Stellenausschreibungen, Löschfristen für Bewerberdaten, Vergütungssystematik und
+Betreuungsschlüssel in der ambulanten Pflege.
+**Nicht wiederverwenden:** Entlassmanagement als Vertriebsweg · der
+Entgangener-Umsatz-Satz · „Leistung zusagen, kein Ergebnis" · ein Kunde je Region.
+
+---
+
+### F55 · Buchhaltungs-Vorerfassung als Abo für Onlinehändler — STANDARD
+2.217 Wörter (über dem Standard-Richtwert; Spitzenbandmodell) · Note **8,0**
+(rechn. 8,2, **−0,2**: die rechtliche Grenze zur Steuerberatung verläuft mitten
+durch das Leistungsversprechen) · Sterne 4/4/4/**5** · 4/**5**/4/3 · Einstieg 2 →
+Ziel 6.
+
+**★ Drittes Modell im Spitzenband · keine Schwachstelle unter drei Sternen ·
+kapitalleichtestes Spitzenbandmodell und das einzige, das vollständig aus der
+Ferne funktioniert ★**
+
+**Kernthese — die klarste Zuständigkeitslücke im Buch:** **„Der Händler kann es
+nicht, die Kanzlei will es nicht, und keiner von beiden hält es für seine
+Aufgabe."** Dazu: *„Wer seine Zahlen nicht kennt, kann nicht steuern."*
+**Preise:** 2.400–9.000 € Aufarbeitung (**immer getrennt abrechnen, nie im Abo**)
+· **Monatsabo 690–2.400 €** · 14 Händler ≈ 16.100 €, rund 7.980 € (50 %) ·
+**Leitkennzahl: Stunden je Kunde, von 20 auf 8.**
+**Erster Vertriebsweg:** **die Steuerkanzleien** — ein Onlinehändler-Mandat ist
+für sie unrentabel; wer die Vorarbeit übernimmt, macht es wieder rentabel.
+Türöffner ist eine fertige Abstimmung, nicht ein Angebot.
+**Größtes Risiko und wichtigster Recherchepunkt:** **zulässiger Umfang der
+Hilfeleistung in Steuersachen ohne Zulassung, insbesondere bei
+Umsatzsteuer-Voranmeldungen.** Ein Verstoß ist kein Formfehler. Im Text steht
+ausdrücklich: vor dem ersten Vertrag mit einem Steuerberater klären und die
+Abgrenzung hineinschreiben.
+**Zweites Risiko:** der Monatsanfang — alle Kunden in denselben zehn Tagen
+(Struktur wie der Morgengipfel in B12, im Monatsrhythmus).
+**Lehre, die im Buch neu ist:** **„Ein Modell ohne Schwachstelle unter drei
+Sternen ist mehr wert als eines mit zwei Fünfen und einer Zwei. Gleichmäßigkeit
+schlägt Spitzen."**
+**Nicht wiederverwenden:** Steuerkanzleien als Vertriebsweg (in F55 belegt) · die
+Zuständigkeitslücken-Formel · „Gleichmäßigkeit schlägt Spitzen" · die
+Stunden-je-Kunde-Kurve.
+
+---
+
+### F56 · Kaufmännische Leitung auf Zeit für Agenturen und IT-Dienstleister — STANDARD
+2.087 Wörter · Note **7,4** (rechn. 7,4, keine Korrektur — die Schwäche steht
+korrekt in der Skalierbarkeit) · Sterne **5**/3/3/4 · **2**/**5**/**5**/3 ·
+Einstieg 2 → Ziel 5.
+
+**★ Erstes Modell im Buch mit fünf Sternen bei Monetarisierung UND Marge · höchster
+Deckungsbeitrag des Buches (über 90 %) ★**
+
+**Ausdrückliche Abrat-Empfehlung für die Zielgruppe, und zwar begründet:** *„Wenn
+du zwanzig bist, ist das nicht dein Modell."* Nicht wegen fehlenden Fleißes,
+sondern weil der Kunde etwas kauft, das nur aus vergangenen Jahren entsteht.
+**Das Kapitel enthält als einziges im Buch ein „Ich könnte es nicht"** und ersetzt
+den üblichen Startplan durch zwei Wege (Angestelltenlaufbahn / eigene Firma) plus
+den Hinweis: **mit zwanzig macht man F55, in acht Jahren F56 — dieselben Zahlen,
+dreifacher Tagessatz.** Diese Reihenfolge ist für Teil III wichtig.
+**Kernthesen:** **„Wachsender Umsatz verbraucht Geld"** (Anschluss an I.4) · **„In
+Dienstleistungsunternehmen entstehen Verluste projektweise, und niemand rechnet
+nach."** · **„Neunzig Prozent Marge von zwanzig Tagen sind zwanzig Tage"** — hohe
+Marge ohne Skalierbarkeit ergibt ein Einkommen, kein Unternehmen.
+**Preise:** 4.900 € Analyseprojekt · **1.900–3.400 €/Monat für 2–3 Tage** · 8
+Kunden ≈ 19.200 €/Monat, rund 17.400 € vor Unternehmerlohn · **Deckel bei 7–9
+Kunden.**
+**Erster Vertriebsweg:** Firmenkundenbetreuer der Banken — **ausdrücklich in
+anderer Rolle als in A01**: dort Informationsquelle über Investitionen, hier
+Auslöser über Unterlagenanforderungen bei Kreditanträgen. Diese Abgrenzung steht
+im Text und ist zu erhalten.
+**Eingebautes Ablaufdatum, positiv gewendet:** Ab ca. 50 Mitarbeitern besetzt der
+Kunde die Rolle intern — *„Es endet, weil der Kunde gewachsen ist."*
+**Nicht wiederverwenden:** Bankbetreuer als Vertriebsweg in dieser Rolle · der
+Wachsender-Umsatz-Satz · die Neunzig-Prozent-von-zwanzig-Tagen-Regel · das
+„Ich könnte es nicht".
+
+---
+
+### F57 · Wartungs- und Update-Abo für Onlineshops im Mittelstand — LEITMODELL
+2.405 Wörter · Note **8,0** (rechn. 8,2, **−0,2**: Korrelation bei
+Plattformlücken — derselbe Abzug wie in B18 und aus demselben Grund) · Sterne
+4/4/4/**5** · 4/**5**/4/3 · Einstieg 2 → Ziel 6, Stufe 7 denkbar.
+
+**★ Bestes Abo-Modell des Buches ★** Vierte Abo-Logik, außerhalb der drei aus der
+Einführung: Der Kunde zahlt, weil die Alternative ein Stillstand ist, der pro
+Stunde Geld kostet.
+
+**Kernthese:** **„Wer baut, verdient an Projekten. Wer wartet, verdient an Ruhe.
+Das sind zwei verschiedene Geschäftsmodelle, und fast niemand betreibt beide
+gut."** Daraus die Positionsregel: **„Wenn dein Wettbewerber ein Produkt verkauft,
+an dem er nicht verdienen will, ist das eine bessere Position als jede technische
+Überlegenheit."**
+**Erster Vertriebsweg:** der **öffentlich sichtbare Versionsstand** des
+Shopsystems — **mit einer scharf gezogenen Grenze, die zu erhalten ist:** *„Wer
+einem Händler zeigt, dass sein System veraltet ist, hat ein Verkaufsgespräch. Wer
+ihm vorführt, wie man hineinkommt, hat eine Straftat begangen."* Keine Prüfung
+ohne Erlaubnis, keine konkreten Lücken in Anschreiben, keine Vorführung.
+**Preise:** 2.900–8.500 € Übernahmeprojekt (**nie weglassen**) · **Wartungsabo
+590–2.400 €/Monat** gestaffelt nach Onlineumsatz und Reaktionszeit · 18 Shops ≈
+17.640 €, rund 9.680 € (55 %).
+**Weitere Kernsätze:** **„Eine Sicherung, die nie zurückgespielt wurde, ist keine
+Sicherung"** (gehört in die Leistungsbeschreibung, nicht in die Werbung) · *„Ein
+Kunde, der seinen Umsatz je Stunde kennt, braucht keine Nutzenargumentation."*
+**Verteidigung gegen den Relaunch:** die große Versionsaktualisierung selbst
+anbieten, bevor eine neue Agentur einen Neubau vorschlägt.
+**Für die Zielgruppe ausdrücklich hervorgehoben:** ein Spitzenbandmodell, in das
+man sich **hineinarbeiten** kann — keine Ausbildung, keine Zulassung, kein
+Fahrzeug, ein halbes Jahr mit einem Testshop.
+**Recherchestand:** Zu prüfen: Meldefristen und Benachrichtigungspflichten bei
+Datenschutzverletzungen.
+**Nicht wiederverwenden:** der Versionsstand als Vertriebsweg · der
+Bauen-gegen-Warten-Satz · die Vertrieb-gegen-Straftat-Grenze · „eine Sicherung,
+die nie zurückgespielt wurde".
+
+---
+
+### F58 · Unternehmerkreis als Membership für Handwerksinhaber — STANDARD
+2.185 Wörter · Note **6,6** (rechn. 7,1, **−0,5**: **Du kontrollierst dein eigenes
+Produkt nicht** — im Buch einmalig. Der Wert entsteht aus den anderen Mitgliedern,
+und jeder Abgang erhöht die Wahrscheinlichkeit des nächsten) · Sterne 4/3/3/**3** ·
+3/**5**/**5**/3 · Einstieg 2 → Ziel 5.
+
+**Das Kapitel beginnt mit einer Selbstabgrenzung**, weil das Modell nah an dem
+liegt, was das Buch kritisiert: **„In einem Kurs redet der Anbieter. In einem
+Unternehmerkreis reden die Mitglieder."** Diese Linie ist der Inhalt des Kapitels.
+**Kernthese:** *„Und deshalb trifft er die größten Entscheidungen seines Lebens
+allein."* Zweitens: Der Inhaber weiß nicht, ob seine Zahlen normal sind.
+**Preise:** 890 € Aufnahme · **Jahresmitgliedschaft 4.200 € (350 €/Monat)** · drei
+volle Kreise ≈ 151.200 €/Jahr, rund 101.000 € bei ca. 120 Arbeitstagen ·
+**Bedingung: die Kreise müssen voll sein.**
+**Erster Vertriebsweg:** die Mitglieder selbst, mit der Regel **kein Wettbewerber
+und keine Region doppelt** — *„Der Vertrieb dieses Modells ist gleichzeitig seine
+Qualitätssicherung."* Der erste Kreis entsteht nur über einen glaubwürdigen
+Erstunterstützer; kalt funktioniert es nicht.
+**Weitere Lehre:** **„Was nicht nachbaubar ist, ist oft auch nicht erkennbar"** —
+gute Position mit schlechtem Verkaufsproblem.
+**Recherchestand:** Zu prüfen: **kartellrechtliche Grenzen des
+Informationsaustauschs zwischen Unternehmen, insbesondere zu Preisen und
+Konditionen** — die Regel „kein Wettbewerber im Kreis" ist auch rechtlich
+begründet.
+**Nicht wiederverwenden:** der Erstunterstützer-Weg · der Kurs-gegen-Kreis-Satz ·
+„du verkaufst den Wert der anderen Mitglieder" · die Drei-Kreise-Rechnung.
+
+---
+
+### F59 · Ersatzteil- und Serviceabo für Kaffeevollautomaten in Büros — KOMPAKT
+1.488 Wörter · Note **6,0** (rechn. 6,3, **−0,3**: Kapitalbindung in Leihgeräten —
+mildere Variante der E42-Korrektur, weil man als Servicepartner ohne Geräte
+anfangen kann) · Sterne 3/3/3/**5** · 3/**2**/3/**2** · Ziel 5.
+**Reinste Form der dritten Abo-Logik:** *„Wer jeden Monat etwas ausliefert, muss
+den Nutzen nicht beweisen."* Kein Bericht, kein Nachweis, keine Erinnerungsarbeit
+— der Kunde trinkt es.
+**Preise:** **Vollabo 189–420 €/Monat je Gerät** inklusive Verbrauch und
+Reparaturen · 45 Geräte ≈ 13.050 €, rund 3.900 € vor Gerätefinanzierung (30 %).
+**Erster Vertriebsweg:** Büroeinrichter und Gewerbeumzugsunternehmen — sie sind
+in den Wochen dabei, in denen über alles entschieden wird.
+**Preisregel, im Buch verwendbar:** **„Weise das Abo als Gesamtpreis aus, nicht
+als Summe von Posten."** Jeder Einzelposten mit öffentlichem Marktpreis ist eine
+Verhandlungseinladung.
+**Ausdrücklich als Beleg eingesetzt:** dass unspektakuläre Modelle funktionieren —
+ein Sechser mit fünf Sternen Recurring ist mehr wert als eine Softwareidee mit
+einer Präsentationsseite.
+**Recherchestand:** Zu prüfen: Hygieneanforderungen an Milchsysteme in gewerblich
+genutzten Geräten, Prüfpflichten für Druckbehälter in Kaffeemaschinen.
+**Nicht wiederverwenden:** Büroeinrichter als Vertriebsweg · die
+Gesamtpreis-Regel · die Achtzig-Mitarbeiter-Rechnung.
+
+---
+
+### F60 · Ausstattungsabo für Fahrer in Speditions- und Lieferflotten — KOMPAKT
+1.481 Wörter · Note **4,9** (rechn. 5,4, **−0,5**: **dein Lieferant ist dein
+Wettbewerber und kennt deine Einkaufspreise** — in dieser Konstellation ist die
+Marge nicht das Ergebnis deiner Arbeit, sondern die Entscheidung eines anderen) ·
+Sterne **2**/3/3/4 · 3/**2**/**2**/**2** · Ziel nur 4. **Sofort startbar.**
+
+**★ VIERTES MODELL UNTER 5,0 ★** Mit Pflichtabschnitt „Was fehlen müsste".
+
+**Erstes Modell im Buch, bei dem der Fehler nicht in der Idee liegt, sondern in
+der eingenommenen Position.**
+**Kernthese:** **„Du sitzt zwischen einem Großhändler und einem Einkäufer, und
+beide kennen die Preise, die du bezahlst."** Daraus: *„Ware mit öffentlichem Preis
+lässt sich nicht mit Service aufwerten."*
+**Die beste Idee des Modells, die es trotzdem nicht rettet:** Abrechnung **je
+aktivem Fahrer** — sie atmet mit der Flotte. *„Eine gute Abrechnungsidee macht kein
+gutes Geschäft."*
+**Was fehlen müsste:** eigene Substanz (Ausgabe- und Prüfnachweis für PSA) ·
+Abrechnung ohne Wareneinsatz (Marge von 18 % auf über 60 %) · der Prüfteil dazu —
+**und damit ist man bei E47 mit 8,2.** Muster: **„Zwei von drei Verbesserungen
+bestehen darin, den Handelsteil wegzulassen."**
+**Preise:** 240–390 € Erstausstattung je Fahrer · **19 € je aktivem Fahrer und
+Monat** · 300 Fahrer ≈ 5.700 €, rund 1.000 € (18 %).
+**Erster Vertriebsweg:** die Fahrerbeschaffung — laufende Stellenausschreibungen
+zeigen die Zahl der Erstausstattungen im Jahr. **Mit der ehrlichen Gegenrechnung
+im Text: 50 Stunden im Jahr sind für den Kunden billiger als deine Marge.**
+**Querverweis E47:** 3,3 Punkte Unterschied bei identischem Kunden — der ganze
+Abstand entsteht aus einer Qualifikation.
+**Recherchestand:** Zu prüfen: Pflichten zur Bereitstellung und Prüfung
+persönlicher Schutzausrüstung.
+**Nicht wiederverwenden:** die Fahrerbeschaffung als Vertriebsweg · der
+Zwischen-Großhändler-und-Einkäufer-Satz · „den Handelsteil weglassen".
+
+---
+
+**Kategorie F abgeschlossen.** 11 Kapitel, 20.742 Wörter, ca. 69 Seiten.
+Notenspanne **4,9 bis 8,1** — und **drei Modelle im Spitzenband** (F51, F55, F57).
+
+**Zehn verschiedene erste Vertriebswege:** Ausbildungsanmeldung (F51),
+Präqualifizierung (F52), Praxisübernahme (F53), Entlassmanagement (F54),
+Steuerkanzleien (F55), Firmenkundenbetreuer der Banken (F56), sichtbarer
+Versionsstand (F57), Erstunterstützer im Kreis (F58), Büroeinrichter (F59),
+Fahrerbeschaffung (F60).
 
 ---
 

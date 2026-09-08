@@ -226,6 +226,69 @@ Stundenpreise in der Gebäudereinigung — **die Zwölf-Prozent-Marge ist die
 zentrale Zahl des Kapitels und gehört belegt.** Dazu, falls verfügbar: Erhebungen
 zu Kündigungsgründen in Fitnessstudios.
 
+### Aus Kategorie F
+
+**F51 · Arbeitssicherheits-Betreuung.** Anwendungsbereich, Betreuungsformen und
+Einsatzzeiten nach den Vorschriften der Unfallversicherungsträger und dem
+Arbeitssicherheitsgesetz. Anforderungen an die Fachkunde als Sicherheitsfachkraft
+und Dauer der Ausbildung. Verschärfte Pflichten bei der Beschäftigung
+Jugendlicher — **das ist der Vertriebsweg des Kapitels.** Marktübliche
+Jahrespauschalen für Kleinbetriebe und die Angebote der Berufsgenossenschaften
+selbst, weil deren Preis die Obergrenze setzt.
+
+**F52 · Externer Datenschutzbeauftragter.** **Vorrangig: der aktuelle
+Schwellenwert der Benennungspflicht — er wurde in der Vergangenheit geändert und
+trägt die Zielgruppendefinition des Kapitels.** Dazu Stellung, Aufgaben,
+Weisungsfreiheit und Haftung des benannten Beauftragten, Anforderungen an die
+Fachkunde, Abgrenzung zur erlaubnispflichtigen Rechtsdienstleistung. Preisniveau
+der Portalangebote.
+
+**F53 · Praxismarketing.** Berufsrechtliche Werbebeschränkungen für Zahnärzte,
+Zulässigkeit von Bewertungsanfragen und von Anreizen dafür. Durchschnittliche
+Erstjahresumsätze je Neupatient, sofern belegbar; andernfalls die Rechnung
+entsprechend entschärfen. Abwanderungsquoten in Agenturverhältnissen dieser Art —
+**die Korrektur um 0,6 Punkte hängt daran.**
+
+**F54 · Recruiting Pflege.** Anforderungen an diskriminierungsfreie
+Stellenausschreibungen, Löschfristen für Bewerberdaten. Vergütungssystematik und
+Betreuungsschlüssel in der ambulanten Pflege — **daraus folgt die
+Nutzenrechnung.** Dauer und Ablauf von Anerkennungsverfahren für ausländische
+Pflegeabschlüsse.
+
+**F55 · Buchhaltungs-Vorerfassung.** **Der wichtigste Recherchepunkt der
+Kategorie: der zulässige Umfang der Hilfeleistung in Steuersachen ohne Zulassung,
+insbesondere bei Umsatzsteuer-Voranmeldungen und bei der Erfassung laufender
+Geschäftsvorfälle.** Davon hängt ab, was das Kapitel überhaupt empfehlen darf.
+Dazu: umsatzsteuerliche Behandlung von Marktplatzumsätzen und Fernverkäufen im
+EU-Ausland, Struktur der Abrechnungsdateien der verbreiteten Marktplätze.
+
+**F56 · Kaufmännische Leitung auf Zeit.** Marktübliche Tagessätze für Interim-
+und Teilzeit-Führungsleistungen in dieser Unternehmensgröße. Anforderungen der
+Banken an Planungsunterlagen bei Kreditanträgen im Mittelstand — **das ist der
+Vertriebsweg.** Abgrenzung zur Steuer- und Rechtsberatung.
+
+**F57 · Wartungs-Abo Onlineshops.** Meldefristen und Benachrichtigungspflichten
+bei Datenschutzverletzungen. **Rechtliche Grenze zwischen dem Auswerten öffentlich
+sichtbarer Versionsinformationen und einem unbefugten Zugriff — die im Kapitel
+gezogene Linie muss belastbar sein.** Dazu: typische Kosten einer großen
+Versionsaktualisierung, Häufigkeit kritischer Lücken in verbreiteten Shopsystemen.
+
+**F58 · Unternehmerkreis.** **Kartellrechtliche Grenzen des
+Informationsaustauschs zwischen Unternehmen, insbesondere zu Preisen,
+Konditionen und Kunden — die Regel „kein Wettbewerber im Kreis" wird im Kapitel
+auch rechtlich begründet und muss es sein.** Dazu: bestehende Angebote von
+Verbänden und Softwareherstellern, um die Wettbewerbsaussage zu prüfen.
+
+**F59 · Kaffeevollautomaten.** Hygieneanforderungen an Milchsysteme in gewerblich
+genutzten Geräten, Prüfpflichten für Druckbehälter in Kaffeemaschinen.
+Einkaufspreise gewerblicher Vollautomaten und übliche Abo-Preise der großen
+Kaffeedienstleister.
+
+**F60 · Fahrerausstattung.** Pflichten zur Bereitstellung, Prüfung und
+Dokumentation persönlicher Schutzausrüstung. Katalogpreise des
+Arbeitsschutzgroßhandels und übliche Handelsmargen — **die Note unter 5,0 hängt
+an diesem Vergleich.** Fluktuationsquoten im Fahrerbereich.
+
 ## Praktikerprüfung
 
 Ergänzend zur Recherche: mindestens ein Telefonat je Kategorie, bei den zwanzig
