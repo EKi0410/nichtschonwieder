@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-**MANUSKRIPT VOLLSTÄNDIG (Rohfassung).** Einleitung, Teil I mit Zwischenstück, Teil II mit 100 Modellen und 10 Kategorie-Einführungen, Teil III mit 8 Kapiteln, Nachwort und vier Anhänge — 132 Dateien, **232.607 Wörter / ca. 775 Seiten.** Nächster Schritt: Phase 3, Gesamtdurchsicht. Drei Entscheidungen des Autors stehen aus (Satzlängenkorridor, Umfang der Standardkapitel, Herstellung bei 775 Seiten).
+**MANUSKRIPT VOLLSTÄNDIG (Rohfassung).** Einleitung, Teil I mit Zwischenstück, Teil II mit 100 Modellen und 10 Kategorie-Einführungen, Teil III mit 8 Kapiteln, Nachwort, Beratungsseite und vier Anhänge — 133 Dateien, **233.039 Wörter / ca. 777 Seiten.** Nächster Schritt: Phase 3, Gesamtdurchsicht. Drei Entscheidungen des Autors stehen aus (Satzlängenkorridor, Umfang der Standardkapitel, Herstellung bei 775 Seiten).
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -3756,6 +3756,42 @@ den Wunsch („die nächste Idee in zwanzig Minuten beurteilen können") und
 > Die tausendste Idee fühlt sich genauso gut an wie die erste. Genau das ist das
 > Problem.
 
+### „Wenn du Unterstützung willst" — 432 Wörter, ca. 1,5 Seiten
+
+**Entscheidung des Autors, nachträglich getroffen und hier umgesetzt:** ein
+Hinweis auf die eigenen Beratungsleistungen am Ende des Buches.
+
+**Platzierung — und warum nicht im Nachwort.** Das Nachwort ist als „eine
+Seite, kein Preis, kein Call to Action" festgelegt und endet mit dem
+Schlusssatz des Buches. Ein Angebot darin hätte beides beschädigt. Die Seite
+steht deshalb **hinter dem Nachwort und vor Anhang A**: Der Schlusssatz bleibt
+der Schlusssatz des Textes, und das Angebot trifft den Leser an der Stelle, an
+der er gerade fertig geworden ist. Der Nachspann in `01-bucharchitektur.md`,
+Abschnitt 8, ist entsprechend ergänzt.
+
+**Wie die Seite den Widerspruch zur Positionierung auflöst** — das Buch ist das
+Gegenbuch zu Leuten, die vom Kursverkauf leben, und benennt das in der
+Einleitung:
+- **Sie beginnt mit dem Verzicht:** „Zuerst das Wichtigste: Du brauchst das
+  nicht." Das Buch ist so gebaut, dass es sich selbst überflüssig macht.
+- **Drei konkrete Anlässe** statt eines allgemeinen Angebots: die Auswahl (die
+  drei Filter aus Teil III), die Prüfung eines konkreten Vorhabens, die ersten
+  Monate.
+- **Vier ausdrückliche Ausschlüsse:** kein Kurs, keine Umsatzversprechen, keine
+  Beteiligung oder Erfolgsvergütung (mit Begründung: sie würde die
+  Einschätzung vom Vorhaben abhängig machen), keine Rechts- und
+  Steuerberatung.
+- **Dieselbe Selbstbegrenzung wie in der Einleitung**, wörtlich wiederholt: kein
+  Team geführt, kein Unternehmen verkauft.
+- **Schlusssatz der Seite:** „Ich beantworte nicht die Frage, ob deine Idee gut
+  ist. Ich rechne sie mit dir durch." Mit dem Hinweis, dass das Ergebnis
+  manchmal ein Nein ist.
+
+**Offen und vor Drucklegung zu füllen:** Der Kontaktblock ist ein Platzhalter
+— `[Kontakt: Name, Website, E-Mail]`. Ich habe hier bewusst nichts eingesetzt,
+weil Kontaktdaten im Buch eine Entscheidung des Autors sind und keine
+Formsache: Sie stehen für die Lebensdauer der Auflage darin.
+
 ### Anhänge — 11.032 Wörter, ca. 36 Seiten
 
 | Anhang | Wörter | Besonderheit |
@@ -3782,8 +3818,9 @@ im Text stehenden Klammern *(Vor Drucklegung prüfen: …)*.
 | Teil II (100 Modelle + 10 Einführungen) | 199.101 | 663 |
 | Teil III (8 Kapitel) | 8.866 | 29 |
 | Nachwort | 380 | 1 |
+| Beratungsseite | 432 | 1,5 |
 | Anhänge A–D | 11.032 | 36 |
-| **Gesamt** | **232.607** | **ca. 775** |
+| **Gesamt** | **233.039** | **ca. 777** |
 
 Plan war 212.000 Wörter und 731 Seiten. **Die Abweichung von +44 Seiten hat
 zwei Ursachen und keine dritte:** die Standardkapitel (+11 %, siehe die

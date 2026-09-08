@@ -4,16 +4,16 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     132 Dateien — MANUSKRIPT VOLLSTÄNDIG (Rohfassung)
+Gesamt:     133 Dateien — MANUSKRIPT VOLLSTÄNDIG (Rohfassung)
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
 Teil II:    100 / 100 Modelle — A bis J VOLLSTÄNDIG
             20 / 20 Leitmodelle · 60 / 60 Standardkapitel
             20 / 20 kompakte Vollkapitel · 10 / 10 Einführungen
 Teil III:   8 / 8 Kapitel — VOLLSTÄNDIG
-Rahmen:     1 / 1 Einleitung, 1 / 1 Nachwort — VOLLSTÄNDIG
+Rahmen:     1 / 1 Einleitung, 1 / 1 Nachwort, 1 Beratungsseite
 Anhänge:    4 / 4 — Bewertungsbogen, Modellmatrix, drei Register,
             Quellen und Stand der Recherche
-Umfang:     232.607 Wörter / ca. 775 Seiten (Plan: 212.000 / 731)
+Umfang:     233.039 Wörter / ca. 777 Seiten (Plan: 212.000 / 731)
 Ergebnis:   Teil II tatsächlich 199.101 Wörter (Plan 185.700), also
             ca. 45 Seiten über Plan — 7,2 %. Ursache und drei
             Entscheidungsvarianten stehen im Register.
@@ -240,13 +240,15 @@ dung:       (Befunde nach 70 Modellen, Punkt 1). (2) Zielumfang der
 | Anhang B — Modellmatrix, alle 100 Modelle | 3.428 | ca. 11,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Anhang C — Drei Register | 5.383 | ca. 17,9 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Anhang D — Quellen und Stand der Recherche | 1.189 | ca. 4,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
-| **MANUSKRIPT GESAMT** | **232.607** | **ca. 775** | **VOLLSTÄNDIGE ROHFASSUNG** |
+| Nachspann — Wenn du Unterstützung willst | 432 | ca. 1,5 | **OFFEN: Kontaktblock ist Platzhalter** |
+| **MANUSKRIPT GESAMT** | **233.039** | **ca. 777** | **VOLLSTÄNDIGE ROHFASSUNG** |
 
 ## Änderungsprotokoll
 
 | Version | Änderung |
 |---|---|
 | 1.0 | Erstfassung: Struktur, 100 Modelle, Bewertungssystem, Voice Bible 0.1 |
+| 2.2 | **Beratungsseite ergaenzt** (432 Woerter), auf Wunsch des Autors: ein Hinweis darauf, dass es bei der Umsetzung Unterstuetzung gibt. **Nicht im Nachwort**, weil dieses als eine Seite ohne Preis und ohne Aufruf festgelegt ist und mit dem Schlusssatz des Buches endet - sondern als eigene Seite dahinter und vor Anhang A. Der Nachspann in der Architektur ist entsprechend ergaenzt. Die Seite loest den Widerspruch zur Positionierung des Buches ausdruecklich auf: Sie beginnt mit "Du brauchst das nicht", nennt drei konkrete Anlaesse statt eines allgemeinen Angebots, schliesst Kurs, Umsatzversprechen, Beteiligung und Rechtsberatung ausdruecklich aus und wiederholt die Selbstbegrenzung aus der Einleitung. **Offen: der Kontaktblock ist ein Platzhalter** - Kontaktdaten im Buch sind eine Autorenentscheidung, weil sie fuer die Lebensdauer der Auflage darin stehen. |
 | 2.1 | **MANUSKRIPT VOLLSTAENDIG.** Teil III (8 Kapitel, 8.866 Woerter), Einleitung (1.735), Nachwort (380) und alle vier Anhaenge (11.032) geschrieben. **Gesamtumfang 232.607 Woerter / ca. 775 Seiten** gegen einen Plan von 212.000 / 731. Die Einleitung enthaelt alle verbindlichen Elemente: den ersten Satz woertlich, "ich suche bis heute", den einen Neurodivergenz-Absatz nach den Regeln der Voice Bible, die Aufloesung des Umschlagwiderspruchs, das Nicht-Versprechen mit fuenf Punkten, das Argument der niedrigen Lebenshaltungskosten und neu einen Abschnitt "Was ich nicht kann". Das Nachwort endet mit dem festgelegten Schlusssatz. **Anhang B (Modellmatrix) und Anhang C (drei Register) werden aus dem Manuskript selbst erzeugt** - Sterne, Noten, Stufen und Startkapital sind aus den Kapiteldateien extrahiert und koennen daher nicht abweichen. Anhang D listet 53 Pruefpunkte aus 50 Kapiteln sowie die Zaehlung der Kennzeichnungen (111 modellhafte Annahmen, 127 Beispielrechnungen). Verbotsliste ueber das gesamte Manuskript geprueft: keine Treffer. Satzlaenge Teil III Oe 12,7 im Zielkorridor. **Neue Entscheidungsfrage: 775 Seiten liegen nahe an der Obergrenze des Print-on-Demand (ca. 800). Drei Kuerzungsoptionen stehen im Register.** |
 | 2.0 | **TEIL II VOLLSTAENDIG.** Kategorie J abgeschlossen (11 Kapitel, 23.083 Woerter). Damit 100 von 100 Modellen, 199.101 Woerter in Teil II, Manuskript ca. 210.600 Woerter / ca. 701 Seiten. **Alle vier Notenbaender liegen im Zielkorridor: 13 Modelle ab 8,0 (Ziel 12-18), 41 im oberen Mittelband (35-45), 34 im unteren (25-35), 12 unter 5,0 (10-15).** Gesamtschnitt 6,49. J91 (8,1), J96 (8,0) und J99 (8,0) sind das elfte bis dreizehnte Spitzenbandmodell; J92 (4,6), J93 (4,3) und J94 (4,9) das zehnte bis zwoelfte unter 5,0. **J92 ist das einzige Leitmodell des Buches unter fuenf Punkten, und das mit Absicht:** An ihm wird die haeufigste Fehlform des ganzen Buches gezeigt - der Marktplatz fuer ungenutzte Ressourcen, dessen beide Marktseiten gegenlaeufig sind. J93 traegt mit 4,3 die zweitschlechteste Note des Buches. J94 enthaelt den Satz, dass es von allen hundert Modellen den groessten volkswirtschaftlichen Nutzen hat und trotzdem kein gutes Geschaeft ist. J96 hat die einzige Fuenf bei Skalierbarkeit im ganzen Buch. J100 ist das hundertste Modell und schliesst Teil II mit einer Bilanz ab. **Hundert verschiedene erste Vertriebswege, Dubletten null**, mit 24 ausdruecklichen Abgrenzungen im Text. Satzlaenge in J Oe 14,1 im Zielkorridor, keine verbotenen Wendungen, doppelte Absatzanfaenge bereinigt. **Beide Autorenentscheidungen nach §25 stehen weiter an** - Satzlaengenkorridor und Umfang der Standardkapitel (tatsaechlich 1.992 statt 1.800 Woerter, in keiner Kategorie erreicht). Die Pruefliste fuer Phase 3 ist im Register auf acht Punkte festgeschrieben. |
 | 1.9 | Kategorie I vollstaendig (11 Kapitel, 21.075 Woerter). **Niedrigster Kategorieschnitt des Buches (6,07)** - und das aus einem Grund, der im Kapitel benannt wird: Alle zehn Modelle kosten fast kein Geld und zwoelf bis vierundzwanzig Monate. Die Einfuehrung ordnet die Kategorie nach der Frage, wer bezahlt, und stellt den Prüfsatz auf: drei Unternehmen nennen, die im letzten Jahr Geld dafuer ausgegeben haben, diese Zielgruppe zu erreichen - mit Betrag. **Das Lehrstueck der Kategorie ist I81 gegen I88:** dasselbe Geschaeft in umgekehrter Reihenfolge, 8,0 gegen 5,4. I81 (8,0) ist das zehnte Spitzenbandmodell, I83 (4,7) und I85 (4,8) sind das achte und neunte unter 5,0. I85 traegt den zweiten einzelnen Stern des Buches (Wettbewerbsposition, nach C30), weil sein Produkt gerade billig geworden ist. I89 zeigt zwei Fuenfsternewerte bei einer Note unter 6 und damit, dass Startbarkeit und Skalierbarkeit allein keine Note tragen. Zehn neue Vertriebswege, gegen alle 80 vorherigen geprueft, keine Dublette. Satzlaenge Oe 13,6 im Zielkorridor. **Neue Monotoniequelle erkannt und ab J abgestellt:** Der dreiteilige Aufbau des Urteils erzeugt in jedem Kapitel dieselben Absatzanfaenge; in H und I wurden je sieben Kapitel nachtraeglich variiert, fuer A bis G gehoert eine Durchsicht in Phase 3. **Der Umfangsbefund aus H hat sich bestaetigt:** In I wurde von Anfang an auf 1.850 bis 1.950 Woerter geschrieben und trotzdem bei 1.990 gelandet. Die Autorenentscheidung nach §25 steht damit unveraendert an. |

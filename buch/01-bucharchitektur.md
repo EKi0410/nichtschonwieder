@@ -264,8 +264,8 @@ TEIL III — VOM MODELL ZUM UNTERNEHMEN                    (32 S.)
   8 Kapitel
 
 NACHSPANN
-  Nachwort, Bewertungsbogen, Modellmatrix über alle 100
-  Modelle, Register, Quellen                             (27 S.)
+  Nachwort, Beratungsseite, Bewertungsbogen, Modellmatrix
+  über alle 100 Modelle, drei Register, Quellen           (38 S.)
 ```
 
 Gesamtumfang: **rund 730 Seiten**, etwa 212.000 Wörter, in einem Band.
@@ -400,6 +400,9 @@ ist und keine Niederlage.
 ### Nachspann
 
 - Nachwort: wer hier geschrieben hat, für wen, und für wen nicht
+- Wenn du Unterstützung willst: das Beratungsangebot des Autors, als eigene
+  Seite hinter dem Nachwort — damit der Schlusssatz des Buches der Schlusssatz
+  bleibt und das Nachwort ohne Aufruf endet, wie entschieden
 - Bewertungsbogen: das Raster zum Kopieren und selbst Anwenden
 - Modellmatrix: alle 100 Modelle mit Sternen, Note, Zielstufe und
   Kapitalbedarf auf acht Seiten — das Nachschlagewerk im Nachschlagewerk
