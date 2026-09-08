@@ -3787,10 +3787,17 @@ Einleitung:
   ist. Ich rechne sie mit dir durch." Mit dem Hinweis, dass das Ergebnis
   manchmal ein Nein ist.
 
-**Offen und vor Drucklegung zu füllen:** Der Kontaktblock ist ein Platzhalter
-— `[Kontakt: Name, Website, E-Mail]`. Ich habe hier bewusst nichts eingesetzt,
-weil Kontaktdaten im Buch eine Entscheidung des Autors sind und keine
-Formsache: Sie stehen für die Lebensdauer der Auflage darin.
+**Kontaktblock gefüllt** (Entscheidung des Autors): **Jan-Erik Stern**,
+**sternjanerik.de**. Bewusst ohne E-Mail-Adresse — der Weg über die Website ist
+änderbar, eine gedruckte Adresse nicht. Falls doch eine Adresse hinein soll,
+gehört sie hierher und nicht ins Impressum allein.
+
+**Und ein Nebenbefund, der daraus folgt:** Dies ist die **erste und bisher
+einzige Stelle im ganzen Manuskript, an der der Name des Autors steht.** Das
+Buch ist durchgehend in der Ich-Form geschrieben, ohne sich zu benennen — auch
+das Nachwort nennt keinen Namen. Das ist stimmig und soll so bleiben; der Name
+gehört auf das **Titelblatt**, und die **Titelei fehlt noch** (siehe
+Schlussbilanz, offene Punkte).
 
 ### Anhänge — 11.032 Wörter, ca. 36 Seiten
 

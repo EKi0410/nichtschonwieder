@@ -48,7 +48,8 @@ kann.
 
 **Wie du mich erreichst:**
 
-> [Kontakt: Name, Website, E-Mail]
+> **Jan-Erik Stern**
+> **sternjanerik.de**
 
 Ein Satz zur Erwartung: Ich beantworte nicht die Frage, ob deine Idee gut ist.
 Ich rechne sie mit dir durch. Das Ergebnis ist manchmal, dass du es lässt — und
