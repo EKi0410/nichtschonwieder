@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-**TEIL II VOLLSTÄNDIG.** Fertig: Teil I (7 Kapitel und das Zwischenstück) sowie Teil II (100 Modelle und 10 Kategorie-Einführungen) — zusammen 118 fertige Textstücke, ca. 210.600 Wörter / ca. 701 Seiten. Offen: Teil III (8 Kapitel), Einleitung, Nachwort, 4 Anhänge.
+**MANUSKRIPT VOLLSTÄNDIG (Rohfassung).** Einleitung, Teil I mit Zwischenstück, Teil II mit 100 Modellen und 10 Kategorie-Einführungen, Teil III mit 8 Kapiteln, Nachwort und vier Anhänge — 132 Dateien, **232.607 Wörter / ca. 775 Seiten.** Nächster Schritt: Phase 3, Gesamtdurchsicht. Drei Entscheidungen des Autors stehen aus (Satzlängenkorridor, Umfang der Standardkapitel, Herstellung bei 775 Seiten).
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -3693,6 +3693,136 @@ abgearbeitet:**
 7. **Verbotsliste** als Textsuche über das gesamte Manuskript.
 8. **Recherche-Backlog** — inzwischen über 100 Positionen, kategorieweise
    geführt in `05-recherche-backlog.md`.
+
+---
+
+## TEIL III, RAHMEN UND ANHÄNGE — Abschluss der Rohfassung
+
+**Teil III, 8 Kapitel, 8.866 Wörter, ca. 29 Seiten** (Plan 9.600 / 32 — unter
+Plan). Kein Kapitel über 1.160 Wörter.
+
+| Kapitel | Wörter | Leitgedanke |
+|---|---:|---|
+| 1 Auswahl | 1.151 | Drei Filter (Zugang, Kapital, Charakter) und vier Typen. **„Zugang schlägt Bewertung. Charakter schlägt Kapital. Und die Note schlägt gar nichts."** |
+| 2 Validierung | 1.115 | **„Zustimmung ist gratis, deshalb ist sie kein Beweis."** Rangfolge der Zusagen, das vorher aufgeschriebene Abbruchkriterium, und der eigene Fehler: den Markt getestet statt die eigene Position darin. |
+| 3 Erste zehn Kunden | 1.132 | Die zehn Kunden als Programm (Wahrheit, Wiederholung, Preis, Vertriebsweg) · vier Spalten ab Kunde eins · **„Nenne immer den vollen Preis und gib dann etwas weg — mit Enddatum."** |
+| 4 Preise | 1.158 | Stundenrechnung als Obergrenze · vier Preisstufen bis zum Abo je Einheit · **„Nenne deinen Preis nie allein, sondern neben der Zahl, gegen die er verglichen werden soll."** |
+| 5 Vertrieb | 1.121 | Ein Kanal statt fünf · die vier Zahlen und die Rückwärtsrechnung bis auf Erstkontakte pro Tag · die drei Bedingungen für den ersten Vertriebsmitarbeiter · **die Fehlerkette von hinten** |
+| 6 Allein mehr schaffen | 1.023 | Vier Schritte vor der ersten Einstellung · **„Ein voller Kalender sieht aus wie Wachstum, meistens ist er schlechte Organisation."** · ausdrückliche Selbstbegrenzung bei Personalführung |
+| 7 Software und Skalierung | 1.015 | Make-or-buy als **Teilungsfrage** · die drei fehlenden Kosten (Betrieb, Support, Vertrieb) · **„Was spart sie mir, wenn sie niemand kauft?"** · Automatisierung vor Produktisierung als teuerster Fehler |
+| 8 Kennzahlen und Aufhören | 1.151 | Sechs Zahlen · **Deckungsgrad der Fixkosten durch wiederkehrenden Umsatz als Leitkennzahl** · wann weitermachen, verkaufen, schließen · **„Das Beenden eines Modells ist eine unternehmerische Leistung."** |
+
+**Redundanzhinweis, geprüft:** Teil III Kapitel 7 überschneidet sich thematisch
+mit Teil I Kapitel 7. Gelöst durch Rollenteilung — **Teil I enthält den
+Entscheidungsbaum, Teil III die Anwendung im Alltag**, mit ausdrücklichem
+Verweis im ersten Absatz. In Phase 3 gegenzulesen, ob die Trennung trägt.
+
+### Einleitung — 1.735 Wörter
+
+Alle verbindlichen Elemente enthalten und in der festgelegten Reihenfolge:
+1. **Erster Satz wörtlich** (G24): „Ehrlich gesagt schreibe ich dieses Buch für
+   mein achtzehnjähriges Ich."
+2. **G29 direkt danach:** „Ich suche bis heute. Ich habe nur aufgehört, darauf
+   zu warten, dass sich eine Idee sicher anfühlt."
+3. **Der Neurodivergenz-Absatz** — ein Absatz, Ich-Form, beschreibend, keine
+   Ferndiagnose, keine Kausalbehauptung, kein Ratgeberton. Schluss: „Bei mir ist
+   das so. Vielleicht kennst du das."
+4. **Auflösung des Umschlagwiderspruchs:** die hundert Modelle als
+   Trainingsmaterial. „Du sollst es so lange lesen, bis du es nicht mehr
+   brauchst."
+5. **Das Nicht-Versprechen**, fünf Punkte, als eigener Abschnitt.
+6. **Was es stattdessen tut:** sieben Stufen, acht Dimensionen, Note, und die
+   offengelegte Verteilung mit zwölf Modellen unter fünf.
+7. **Die niedrigen Lebenshaltungskosten** als Argument, ausdrücklich „kein
+   Motivationsspruch".
+8. **Für wen es nicht geschrieben ist** — vier Gruppen.
+9. **Die Positionierung gegen Video-Content**, mit der eigenen
+   Dropshipping-Rechnung: „Ich rechne hier nicht mit ihnen ab. Ich rechne nach."
+10. **Neu und nicht geplant: „Was ich nicht kann."** Kein Team geführt, kein
+    Unternehmen verkauft, nicht hundert Modelle betrieben. **Das ist die
+    Glaubwürdigkeitsklammer zu Teil III, Kapitel 6**, und die Stelle, an der die
+    Analyse als Analyse benannt wird.
+11. **Wie du es liest** — linear oder als Nachschlagewerk, mit dem Marker über
+    der Note: „Die Note sagt, was ein Geschäft wert ist. Der Marker sagt, ob du
+    drankommst."
+
+### Nachwort — 380 Wörter
+
+Eine Seite, kein Preis, kein Aufruf — wie entschieden. Enthält die
+Selbstbegrenzung, den Verweis auf G67 als einzige nicht-rechnerische Ablehnung,
+den Wunsch („die nächste Idee in zwanzig Minuten beurteilen können") und
+**endet mit dem festgelegten Schlusssatz des Buches:**
+
+> Die tausendste Idee fühlt sich genauso gut an wie die erste. Genau das ist das
+> Problem.
+
+### Anhänge — 11.032 Wörter, ca. 36 Seiten
+
+| Anhang | Wörter | Besonderheit |
+|---|---:|---|
+| A Bewertungsbogen | 1.032 | Sechs Teile: Vorprüfung (5 Fragen), acht Dimensionen mit Gewichten und Rechenformel, Korrekturregeln mit zulässigen und unzulässigen Gründen, sieben Stufen mit Dreifachtest, die Rechnung inklusive **Ergebnis bei 80 % Auslastung**, die Haftungsfrage, das Abbruchkriterium zum Ausfüllen |
+| B Modellmatrix | 3.428 | **Wird aus den Kapiteldateien erzeugt.** Sterne als Ziffernfolge, Note, Stufen, Startkapital, Sofort-Marker — je Kategorie eine Tabelle |
+| C Drei Register | 5.383 | C.1 nach Kapitalbedarf in sechs Stufen · C.2 nach Kundenbranche in elf Gruppen · C.3 nach Note in vier Bändern · C.4 die elf sofort startbaren Modelle. **Ebenfalls erzeugt** |
+| D Quellen | 1.189 | Die drei Kennzeichnungen und ihre Zählung (**111 modellhafte Annahmen, 127 Beispielrechnungen**), der Stand der Recherche in drei Gruppen, **53 Prüfpunkte aus 50 Kapiteln** wörtlich aufgeführt, und was in dieser Fassung ausdrücklich fehlt |
+
+**Wichtig für die Pflege:** Anhang B und C sind **generiert**, nicht getippt.
+Sterne, Noten, Stufen und Startkapital werden aus den Kapiteldateien gelesen.
+Wer ein Kapitel ändert, muss beide Anhänge neu erzeugen — dann können sie nicht
+vom Manuskript abweichen. Anhang D wird ebenso erzeugt: Die Prüfpunkte sind die
+im Text stehenden Klammern *(Vor Drucklegung prüfen: …)*.
+
+---
+
+## Schlussbilanz der Rohfassung
+
+| | Wörter | Seiten |
+|---|---:|---:|
+| Einleitung | 1.735 | 5 |
+| Teil I (7 Kapitel + Zwischenstück) | 11.493 | 38 |
+| Teil II (100 Modelle + 10 Einführungen) | 199.101 | 663 |
+| Teil III (8 Kapitel) | 8.866 | 29 |
+| Nachwort | 380 | 1 |
+| Anhänge A–D | 11.032 | 36 |
+| **Gesamt** | **232.607** | **ca. 775** |
+
+Plan war 212.000 Wörter und 731 Seiten. **Die Abweichung von +44 Seiten hat
+zwei Ursachen und keine dritte:** die Standardkapitel (+11 %, siehe die
+§25-Entscheidung) und die Anhänge (36 statt 24 Seiten, weil die Register alle
+hundert Modelle mehrfach auflisten).
+
+### Dritte Entscheidungsfrage — Herstellung
+
+**775 Seiten liegen nahe an der Obergrenze des Print-on-Demand von etwa 800
+Seiten.** Die Architektur hat diesen Punkt in Abschnitt 9 bereits benannt; er
+ist jetzt aktuell. Drei Optionen, keine davon dringend:
+
+1. **Anhänge kürzen.** Register C.2 und C.3 listen dieselben hundert Modelle
+   erneut auf. Wer sie auf Nummern statt Volltitel reduziert, spart etwa
+   **zwölf Seiten** ohne inhaltlichen Verlust.
+2. **Zwei Bände.** Teil I, Teil III und Rahmen in einem schmalen Band, Teil II
+   als Nachschlagewerk. Löst die Herstellungsfrage vollständig und widerspricht
+   der Entscheidung für einen Band.
+3. **So lassen.** 775 Seiten sind herstellbar. Rückenstärke rund vier
+   Zentimeter, Gewicht etwa 1,2 kg, Ladenpreis im Bereich 48–58 €. **Ein E-Book
+   zum kleinen Preis daneben bleibt der entscheidende Punkt für eine Zielgruppe
+   von achtzehn bis fünfundzwanzig.**
+
+### Prüfliste für Phase 3 — Stand nach Abschluss der Rohfassung
+
+Die acht Punkte nach 100 Modellen bleiben, dazu vier neue:
+
+9. **Redundanz Teil I / Teil III Kapitel 7** — trägt die Rollenteilung?
+10. **Rationierte Elemente:** „Denk darüber nach" (2 von 20 verbraucht),
+    „Unternehmerische Frage" (2 von 16), „Perspektivwechsel" (2 von 12) —
+    sämtlich nur in Teil I. **Entscheidung des Autors nötig:** Kontingente
+    kürzen oder die Elemente in Teil II und III nachträglich einsetzen. Ich
+    empfehle das Kürzen: In den Modellkapiteln erfüllen die Abschnitte „Was du
+    daraus lernen kannst" dieselbe Funktion.
+11. **Dubletten-Prüfung verfeinern:** Das eigene Skript meldet
+    Absatzanfänge doppelt, die absichtliche Parallelführungen sind („Kunde drei
+    bis fünf" / „Kunde sechs bis acht"). Die Prüfung muss beabsichtigte
+    Parallelität von Monotonie unterscheiden.
+12. **Anhänge nach jeder Kapiteländerung neu erzeugen.**
 
 ---
 

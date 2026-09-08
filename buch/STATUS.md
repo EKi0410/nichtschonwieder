@@ -4,21 +4,24 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     118 fertige Textstücke — TEIL I UND TEIL II VOLLSTÄNDIG
+Gesamt:     132 Dateien — MANUSKRIPT VOLLSTÄNDIG (Rohfassung)
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
 Teil II:    100 / 100 Modelle — A bis J VOLLSTÄNDIG
-            20 / 20 Leitmodelle
-            60 / 60 Standardkapitel
-            20 / 20 kompakte Vollkapitel
-            10 / 10 Kategorie-Einführungen
-Umfang:     ca. 210.600 Wörter / ca. 701 Seiten geschrieben
+            20 / 20 Leitmodelle · 60 / 60 Standardkapitel
+            20 / 20 kompakte Vollkapitel · 10 / 10 Einführungen
+Teil III:   8 / 8 Kapitel — VOLLSTÄNDIG
+Rahmen:     1 / 1 Einleitung, 1 / 1 Nachwort — VOLLSTÄNDIG
+Anhänge:    4 / 4 — Bewertungsbogen, Modellmatrix, drei Register,
+            Quellen und Stand der Recherche
+Umfang:     232.607 Wörter / ca. 775 Seiten (Plan: 212.000 / 731)
 Ergebnis:   Teil II tatsächlich 199.101 Wörter (Plan 185.700), also
             ca. 45 Seiten über Plan — 7,2 %. Ursache und drei
             Entscheidungsvarianten stehen im Register.
 Teil III:   0 / 8 Kapitel
 Rahmen:     0 / 1 Einleitung, 0 / 1 Nachwort, 0 / 4 Anhänge
 Zielumfang: ca. 730 Seiten / 212.000 Wörter, ein Band
-Status:     TEIL III als nächstes, danach Rahmen und Anhänge
+Status:     PHASE 3 — Gesamtdurchsicht. Zwei §25-Entscheidungen offen,
+            dazu neu die Umfangs- und Herstellungsfrage (775 Seiten).
 Offen zur   (1) Zielkorridor Satzlänge: korrekt gemessen Ø 11,6 Wörter
 Entschei-   gegen 12,5–14,5 in der Vorlage — drei Varianten im Register
 dung:       (Befunde nach 70 Modellen, Punkt 1). (2) Zielumfang der
@@ -223,12 +226,28 @@ dung:       (Befunde nach 70 Modellen, Punkt 1). (2) Zielumfang der
 | Teil II, J100 — Holdingstruktur Nischenbetriebe | 2.412 | ca. 8,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | **Kategorie J, Summe** | **23.083** | **ca. 77** | **vollständig, 11 Kapitel** |
 | **TEIL II GESAMT** | **199.101** | **ca. 664** | **VOLLSTÄNDIG, 110 Kapitel** |
+| Teil III, 1 — Auswahl: Welches Modell zu dir passt | 1.151 | ca. 3,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil III, 2 — Validierung in dreißig Tagen | 1.115 | ca. 3,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil III, 3 — Die ersten zehn Kunden | 1.132 | ca. 3,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil III, 4 — Preise | 1.158 | ca. 3,9 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil III, 5 — Vertrieb als System statt als Glück | 1.121 | ca. 3,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil III, 6 — Wie du allein mehr schaffst | 1.023 | ca. 3,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil III, 7 — Automatisierung, Softwarefrage, Skalierung | 1.015 | ca. 3,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil III, 8 — Kennzahlen und die Frage, wann man aufhört | 1.151 | ca. 3,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Einleitung — Warum dieses Buch anders rechnet | 1.735 | ca. 5,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Nachwort | 380 | ca. 1,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Anhang A — Bewertungsbogen | 1.032 | ca. 3,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Anhang B — Modellmatrix, alle 100 Modelle | 3.428 | ca. 11,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Anhang C — Drei Register | 5.383 | ca. 17,9 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Anhang D — Quellen und Stand der Recherche | 1.189 | ca. 4,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| **MANUSKRIPT GESAMT** | **232.607** | **ca. 775** | **VOLLSTÄNDIGE ROHFASSUNG** |
 
 ## Änderungsprotokoll
 
 | Version | Änderung |
 |---|---|
 | 1.0 | Erstfassung: Struktur, 100 Modelle, Bewertungssystem, Voice Bible 0.1 |
+| 2.1 | **MANUSKRIPT VOLLSTAENDIG.** Teil III (8 Kapitel, 8.866 Woerter), Einleitung (1.735), Nachwort (380) und alle vier Anhaenge (11.032) geschrieben. **Gesamtumfang 232.607 Woerter / ca. 775 Seiten** gegen einen Plan von 212.000 / 731. Die Einleitung enthaelt alle verbindlichen Elemente: den ersten Satz woertlich, "ich suche bis heute", den einen Neurodivergenz-Absatz nach den Regeln der Voice Bible, die Aufloesung des Umschlagwiderspruchs, das Nicht-Versprechen mit fuenf Punkten, das Argument der niedrigen Lebenshaltungskosten und neu einen Abschnitt "Was ich nicht kann". Das Nachwort endet mit dem festgelegten Schlusssatz. **Anhang B (Modellmatrix) und Anhang C (drei Register) werden aus dem Manuskript selbst erzeugt** - Sterne, Noten, Stufen und Startkapital sind aus den Kapiteldateien extrahiert und koennen daher nicht abweichen. Anhang D listet 53 Pruefpunkte aus 50 Kapiteln sowie die Zaehlung der Kennzeichnungen (111 modellhafte Annahmen, 127 Beispielrechnungen). Verbotsliste ueber das gesamte Manuskript geprueft: keine Treffer. Satzlaenge Teil III Oe 12,7 im Zielkorridor. **Neue Entscheidungsfrage: 775 Seiten liegen nahe an der Obergrenze des Print-on-Demand (ca. 800). Drei Kuerzungsoptionen stehen im Register.** |
 | 2.0 | **TEIL II VOLLSTAENDIG.** Kategorie J abgeschlossen (11 Kapitel, 23.083 Woerter). Damit 100 von 100 Modellen, 199.101 Woerter in Teil II, Manuskript ca. 210.600 Woerter / ca. 701 Seiten. **Alle vier Notenbaender liegen im Zielkorridor: 13 Modelle ab 8,0 (Ziel 12-18), 41 im oberen Mittelband (35-45), 34 im unteren (25-35), 12 unter 5,0 (10-15).** Gesamtschnitt 6,49. J91 (8,1), J96 (8,0) und J99 (8,0) sind das elfte bis dreizehnte Spitzenbandmodell; J92 (4,6), J93 (4,3) und J94 (4,9) das zehnte bis zwoelfte unter 5,0. **J92 ist das einzige Leitmodell des Buches unter fuenf Punkten, und das mit Absicht:** An ihm wird die haeufigste Fehlform des ganzen Buches gezeigt - der Marktplatz fuer ungenutzte Ressourcen, dessen beide Marktseiten gegenlaeufig sind. J93 traegt mit 4,3 die zweitschlechteste Note des Buches. J94 enthaelt den Satz, dass es von allen hundert Modellen den groessten volkswirtschaftlichen Nutzen hat und trotzdem kein gutes Geschaeft ist. J96 hat die einzige Fuenf bei Skalierbarkeit im ganzen Buch. J100 ist das hundertste Modell und schliesst Teil II mit einer Bilanz ab. **Hundert verschiedene erste Vertriebswege, Dubletten null**, mit 24 ausdruecklichen Abgrenzungen im Text. Satzlaenge in J Oe 14,1 im Zielkorridor, keine verbotenen Wendungen, doppelte Absatzanfaenge bereinigt. **Beide Autorenentscheidungen nach §25 stehen weiter an** - Satzlaengenkorridor und Umfang der Standardkapitel (tatsaechlich 1.992 statt 1.800 Woerter, in keiner Kategorie erreicht). Die Pruefliste fuer Phase 3 ist im Register auf acht Punkte festgeschrieben. |
 | 1.9 | Kategorie I vollstaendig (11 Kapitel, 21.075 Woerter). **Niedrigster Kategorieschnitt des Buches (6,07)** - und das aus einem Grund, der im Kapitel benannt wird: Alle zehn Modelle kosten fast kein Geld und zwoelf bis vierundzwanzig Monate. Die Einfuehrung ordnet die Kategorie nach der Frage, wer bezahlt, und stellt den Prüfsatz auf: drei Unternehmen nennen, die im letzten Jahr Geld dafuer ausgegeben haben, diese Zielgruppe zu erreichen - mit Betrag. **Das Lehrstueck der Kategorie ist I81 gegen I88:** dasselbe Geschaeft in umgekehrter Reihenfolge, 8,0 gegen 5,4. I81 (8,0) ist das zehnte Spitzenbandmodell, I83 (4,7) und I85 (4,8) sind das achte und neunte unter 5,0. I85 traegt den zweiten einzelnen Stern des Buches (Wettbewerbsposition, nach C30), weil sein Produkt gerade billig geworden ist. I89 zeigt zwei Fuenfsternewerte bei einer Note unter 6 und damit, dass Startbarkeit und Skalierbarkeit allein keine Note tragen. Zehn neue Vertriebswege, gegen alle 80 vorherigen geprueft, keine Dublette. Satzlaenge Oe 13,6 im Zielkorridor. **Neue Monotoniequelle erkannt und ab J abgestellt:** Der dreiteilige Aufbau des Urteils erzeugt in jedem Kapitel dieselben Absatzanfaenge; in H und I wurden je sieben Kapitel nachtraeglich variiert, fuer A bis G gehoert eine Durchsicht in Phase 3. **Der Umfangsbefund aus H hat sich bestaetigt:** In I wurde von Anfang an auf 1.850 bis 1.950 Woerter geschrieben und trotzdem bei 1.990 gelandet. Die Autorenentscheidung nach §25 steht damit unveraendert an. |
 | 1.8 | Kategorie H vollstaendig (11 Kapitel, 20.423 Woerter). **H77 traegt mit 8,3 die hoechste Note des Buches** - und ist gleichzeitig das Modell mit dem hoechsten Kapitalbedarf. Der Widerspruch wird im Kapitel ausdruecklich nicht aufgeloest, sondern zur Begruendung des Startbarkeits-Markers aller hundert Kapitel gemacht: Die Note sagt, was das Geschaeft wert ist, der Marker sagt, ob der Leser drankommt. H71 (8,0) ist das neunte Spitzenbandmodell und traegt die staerkste interne Softwareamortisation des Buches; H74 (7,8) gibt im selben Kundenfeld die umgekehrte Softwareantwort. Bemerkenswert und beabsichtigt: **das Modell mit dem groesseren Abstand zur Haftung hat die hoehere Note.** H72 (4,9) und H73 (4,6) sind das sechste und siebte Modell unter 5,0, H73 mit dem zweitgroessten Abzug des Buches (-0,7), weil eine Verbindlichkeit weiterlaeuft, wenn das Modell scheitert. Erster einzelner Stern bei Recurring Revenue im Buch (H79). Alle 20 kompakten Vollkapitel sind damit verbraucht. Zehn neue Vertriebswege, gegen alle 70 vorherigen geprueft, keine Dublette. **Zweiter Punkt fuer die Autorenentscheidung nach §25:** Der Zielumfang von 1.800 Woertern je Standardkapitel ist mit dem Pflichtinhalt der Vorlage nicht erreichbar - tatsaechlich 1.956 im Schnitt ueber 44 Kapitel. Drei Varianten liegen im Register, Empfehlung ist die Anhebung auf 1.950 (Buch dann ca. 755 statt 731 Seiten). |
