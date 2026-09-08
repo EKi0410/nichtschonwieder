@@ -478,6 +478,95 @@ und Formate bestehender Vorbereitungskurse.
 durch Moderatoren und Coaches. Zahl der jährlichen Unternehmensnachfolgen im
 Mittelstand. Preise vergleichbarer Gruppenprogramme und Unternehmerkreise.
 
+## Kategorie J — Plattform, Vermittlung, Beteiligung
+
+**Grundsätzlich für die ganze Kategorie.** Bei allen Vermittlungs- und
+Beteiligungsmodellen sind zwei Zahlengruppen bisher **modellhafte Annahme** und
+tragen jede Rechnung: übliche Provisions- und Gebührensätze der jeweiligen
+Vermittlung, und realistische Abschlussquoten. Die Abschlussquote ist in dieser
+Kategorie der wichtigste zu verifizierende Wert überhaupt.
+
+**J91 · Fachkräfte für Anlagenstillstände.** **Erlaubnispflicht für
+Arbeitnehmerüberlassung, Abgrenzung zum Werkvertrag,
+Überlassungshöchstdauer, Equal-Pay-Anforderungen** — davon hängt die gesamte
+Vertragsgestaltung ab. Übliche Verrechnungssätze und Vorhalteentgelte bei
+Stillstandspersonal. **Stillstandskosten je Tag nach Anlagentyp** — die
+zentrale Vergleichszahl des Kapitels. Übliche Zahlungsziele in der
+Industrieinstandhaltung.
+
+**J92 · Marktplatz Maschinenkapazitäten.** Anforderungen an den Schutz von
+Geschäftsgeheimnissen bei Weitergabe technischer Unterlagen, mögliche
+exportkontrollrechtliche Beschränkungen. Übliche Vermittlungsprovisionen in der
+Lohnfertigung. **Auslastungsgrade in der Zerspanung im Konjunkturverlauf** — der
+Beleg für die Gegenläufigkeitsthese, auf der die Note beruht.
+
+**J93 · Verbund kleine IT-Dienstleister.** Anforderungen an
+Auftragsverarbeitung bei Fernzugriff auf Kundensysteme, Zulässigkeit von
+Kundenschutzklauseln zwischen Verbundmitgliedern, **kartellrechtliche Grenzen
+bei Einkaufsgemeinschaften von Wettbewerbern.** Ob und wie
+Hersteller-Partnerprogramme die Bündelung von Umsätzen und Zertifizierungen
+zulassen — **der erste Vertriebsweg des Kapitels hängt daran.**
+
+**J94 · Nachfolgevermittlung Handwerk.** Grenzen erlaubter Rechts- und
+Steuerberatung bei Unternehmensübertragungen, Haftung für
+Unternehmensbewertungen, Erlaubnispflichten bei Finanzierungsvermittlung.
+**Zahl der jährlich geschlossenen statt übergebenen Handwerksbetriebe** und
+übliche Kaufpreisfaktoren nach Gewerk. Erfolgsquoten in der
+Nachfolgevermittlung.
+
+**J95 · Backoffice Versicherungsmakler.** Beratungs- und
+Dokumentationspflichten für Versicherungsvermittler, Aufbewahrungsfristen,
+**Anforderungen an die Auslagerung von Tätigkeiten und die Grenze zur
+erlaubnispflichtigen Beratung.** Entwicklung der Zahl kleiner
+Versicherungsmakler — **die Grundlage der Notenkorrektur.** Marktpreise für
+Maklerbackoffice-Dienstleistungen.
+
+**J96 · Franchisesystem.** **Vorvertragliche Aufklärungspflichten im
+Franchiserecht und die Haftung für Ertragsprognosen** — der wichtigste
+Rechtspunkt der Kategorie. Zulässigkeit von Wettbewerbsverboten,
+Gebietsschutzklauseln und nachvertraglichen Kundenschutzregeln.
+Kartellrechtliche Grenzen bei Preisvorgaben. Marktübliche Eintritts- und
+laufende Gebühren im Dienstleistungsfranchise.
+
+**J97 · Zusammenführung Hausverwaltungen.** Erlaubnis- und
+Zertifizierungsanforderungen für Verwalter, Anforderungen an die Verwaltung von
+Gemeinschaftsvermögen und Rücklagen, **Übertragbarkeit von
+Verwaltungsverträgen bei einem Unternehmenskauf** — davon hängt der ganze
+Kaufpreis ab. Marktübliche Kaufpreise je verwaltete Einheit und übliche
+Verwaltervergütungen im Bestand.
+
+**J98 · Beteiligungsmodell Handwerksnachfolgen.** Haftung von Gesellschaftern
+und Geschäftsführern, **üblicher Umfang von Bürgschaften bei
+Übernahmefinanzierungen**, steuerliche Gestaltung von Anteilsübertragungen und
+Aufstockungsrechten. **Handwerksrechtliche Anforderungen an die Eintragung bei
+zulassungspflichtigen Gewerken** — das existenzielle Risiko des Kapitels.
+Übliche Kaufpreisfaktoren und Eigenkapitalanforderungen der Banken.
+
+**J99 · Implementierungspartnerschaft.** Haftung bei Datenmigration und
+Systemeinführung, Anforderungen an Auftragsverarbeitung, **Aufbewahrungs- und
+Unveränderbarkeitspflichten bei kaufmännischen Daten.** Übliche
+Partnerprovisionen bei vertikaler Software und übliche Tagessätze für
+Einführungsprojekte.
+
+**J100 · Holdingstruktur.** Anforderungen an Verrechnungspreise zwischen
+verbundenen Unternehmen, steuerliche Behandlung von Holdingstrukturen,
+**Haftungsdurchgriff bei Kreuzbesicherungen.** Typische Verwaltungskostenquoten
+in Kleinbetrieben — **die Grundlage der Einsparungsrechnung.**
+
+## Stand des Backlogs nach Abschluss von Teil II
+
+Der Backlog umfasst jetzt **über hundert Positionen** in zehn
+Kategorieabschnitten. Drei Gruppen sind vor Drucklegung zwingend:
+
+1. **Rechtsfragen mit Haftungsfolgen** — überall dort, wo im Kapitel eine
+   Rollen- oder Haftungsabgrenzung getroffen wird. Etwa vierzig Positionen.
+   **Diese Gruppe braucht anwaltliche Prüfung, keine Recherche.**
+2. **Preise, Margen und Marktgrößen** — alle als „modellhafte Annahme" oder
+   „Beispielrechnung" gekennzeichneten Zahlen. Etwa fünfzig Positionen.
+3. **Kernzahlen, an denen eine Note hängt** — im Text jeweils fett
+   hervorgehoben. Etwa fünfzehn Positionen, und sie sind die wichtigsten:
+   Wenn eine davon nicht stimmt, ändert sich eine Bewertung.
+
 ## Praktikerprüfung
 
 Ergänzend zur Recherche: mindestens ein Telefonat je Kategorie, bei den zwanzig

@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 107 von 116 Kapiteln (Teil I vollständig, 90 Modelle, 9 Kategorie-Einführungen). **Kategorien A bis I vollständig.** Manuskript ca. 187.500 Wörter / ca. 625 Seiten.
+**TEIL II VOLLSTÄNDIG.** Fertig: Teil I (7 Kapitel und das Zwischenstück) sowie Teil II (100 Modelle und 10 Kategorie-Einführungen) — zusammen 118 fertige Textstücke, ca. 210.600 Wörter / ca. 701 Seiten. Offen: Teil III (8 Kapitel), Einleitung, Nachwort, 4 Anhänge.
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -29,11 +29,11 @@ Stand nach 107 von 116 Kapiteln (Teil I vollständig, 90 Modelle, 9 Kategorie-Ei
 
 | Band | Ziel | vergeben | Modelle |
 |---|---:|---:|---|
-| 8,0–10,0 | 12–18 | 10 | **I81 (8,0)**, **H77 (8,3)**, **E47 (8,2)**, **F51 (8,1)**, **G61 (8,1)**, **B19 (8,0)**, **E41 (8,0)**, **F55 (8,0)**, **F57 (8,0)**, **H71 (8,0)** |
+| 8,0–10,0 | 12–18 | **13** | **J91 (8,1)**, **J96 (8,0)**, **J99 (8,0)**, **I81 (8,0)**, **H77 (8,3)**, **E47 (8,2)**, **F51 (8,1)**, **G61 (8,1)**, **B19 (8,0)**, **E41 (8,0)**, **F55 (8,0)**, **F57 (8,0)**, **H71 (8,0)** |
 | *Anmerkung* | | | Korrekturen: 10× abwärts, 1× reine Aufwärtskorrektur (A06, +0,3 für den Verkaufsmoment), 1× zweiseitige Bilanz (A04). Damit ist gezeigt, dass das Instrument in beide Richtungen wirkt. |
-| 6,5–7,9 | 35–45 | 39 | B11 (7,8), A05 (7,6), E49 (7,6), B18 (7,5), A02 (7,4), D31 (7,4), F56 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), E43 (7,3), A10 (7,2), B14 (7,2), D40 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), D32 (6,9), D36 (6,9), C21 (6,8), C26 (6,8), D33 (6,8), F52 (6,8), E45 (6,7), A03 (6,7), D35 (6,6), A01 (6,6), F54 (6,6), F58 (6,6), G70 (7,6), G63 (7,0), G65 (6,7), G64 (6,5), H74 (7,8), H80 (6,8), I82 (7,2), I84 (7,0) |
-| 5,0–6,4 | 25–35 | 32 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), E42 (6,0), E44 (6,0), F59 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), E46 (5,8), D39 (5,7), F53 (5,7), C22 (5,6), E48 (5,6), C27 (5,4), D34 (5,2), E50 (5,2), G69 (6,1), G67 (5,7), G66 (5,6), G68 (5,1), H75 (6,3), H78 (5,9), H76 (5,8), H79 (5,5), I86 (6,4), I87 (6,1), I89 (5,9), I88 (5,4), I90 (5,2) |
-| unter 5,0 | 10–15 | 9 | F60 (4,9), **H72 (4,9)**, D37 (4,8), **G62 (4,8)**, **I85 (4,8)**, **I83 (4,7)**, **H73 (4,6)**, C30 (4,4), D38 (4,2) — alle mit dem Pflichtabschnitt „Was fehlen müsste" |
+| 6,5–7,9 | 35–45 | **41** | B11 (7,8), A05 (7,6), E49 (7,6), B18 (7,5), A02 (7,4), D31 (7,4), F56 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), E43 (7,3), A10 (7,2), B14 (7,2), D40 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), D32 (6,9), D36 (6,9), C21 (6,8), C26 (6,8), D33 (6,8), F52 (6,8), E45 (6,7), A03 (6,7), D35 (6,6), A01 (6,6), F54 (6,6), F58 (6,6), G70 (7,6), G63 (7,0), G65 (6,7), G64 (6,5), H74 (7,8), H80 (6,8), I82 (7,2), I84 (7,0), J95 (7,4), J97 (7,0) |
+| 5,0–6,4 | 25–35 | **34** | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), E42 (6,0), E44 (6,0), F59 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), E46 (5,8), D39 (5,7), F53 (5,7), C22 (5,6), E48 (5,6), C27 (5,4), D34 (5,2), E50 (5,2), G69 (6,1), G67 (5,7), G66 (5,6), G68 (5,1), H75 (6,3), H78 (5,9), H76 (5,8), H79 (5,5), I86 (6,4), I87 (6,1), I89 (5,9), I88 (5,4), I90 (5,2), J100 (6,2), J98 (5,6) |
+| unter 5,0 | 10–15 | **12** | F60 (4,9), **H72 (4,9)**, **J94 (4,9)**, **J92 (4,6)**, **J93 (4,3)**, D37 (4,8), **G62 (4,8)**, **I85 (4,8)**, **I83 (4,7)**, **H73 (4,6)**, C30 (4,4), D38 (4,2) — alle mit dem Pflichtabschnitt „Was fehlen müsste" |
 
 **Stand der Gegensteuerung nach 70 Modellen:**
 
@@ -3327,6 +3327,372 @@ Gesamtdurchsicht, weil dort dieselbe Wendung mehrfach unverändert steht.
 - **„Manche Modelle sind gute Anfänge und schlechte Ziele."** (I85 — der erste
   Fall im Buch, in dem ein Modell ausdrücklich als Durchgangsstation empfohlen
   wird.)
+
+---
+
+### J00 · Kategorie-Einführung Plattform, Vermittlung, Beteiligung
+540 Wörter. **Die Regel, die über der ganzen Kategorie steht:** „Jede Plattform
+ist die vierte Stufe eines Geschäfts, nicht die erste."
+**Denkfehler:** mit der Plattform anfangen statt mit dem Geschäft, das sie später
+abbildet. **„Eine Plattform ist keine Idee, sondern eine Konsequenz."**
+**Die Frage, die alles entscheidet:** Bei jedem Vermittlungsmodell gibt es eine
+knappe und eine reichliche Seite — **„Wenn die knappe Seite ohne dich gefunden
+wird, hast du kein Henne-Ei-Problem, sondern kein Modell."**
+**Drei Arten:** Vermittlung (J91, J92, J94) · Verbund und System (J93, J96,
+J97, J100) · Rücken an Rücken mit einem anderen Unternehmen (J95, J99) · dazu
+eine Konstruktion statt eines Angebots (J98).
+**Zusagen, nachgerechnet:** drei Modelle ab 8,0 und drei unter 5,0, Spanne 4,3
+bis 8,1 — **die größte Spreizung aller zehn Kategorien** · sofort startbar drei
+von zehn (J93, J94, J99), und keines davon ist eine Plattform.
+**Der ausdrückliche Rat der Einführung:** die einzige Kategorie, in der davon
+abgeraten wird, mit einem ihrer Modelle zu starten. **„Sie ist für die gedacht,
+die in fünf Jahren zurückkommen."**
+**Nicht wiederverwenden:** die Vierte-Stufe-Regel · die Frage nach der knappen
+Seite · die Dreiteilung der Ertragsarten.
+
+### J91 · Vermittlung von Fachkräften für Anlagenstillstände in der Instandhaltung
+2.169 Wörter · Note **8,1** (rechn. 8,1, keine Korrektur) · Sterne **5**/4/3/4 ·
+4/3/4/4 · Stufe 2 → 6, Stufe 7 real. **Elftes Modell im Spitzenband.**
+**Kernthese:** **„Dein Preis wird gegen einen Stillstandstag gerechnet, nicht
+gegen einen Stundensatz."** Ein Tag Verzug kostet eine Papiermaschine einen
+mittleren sechsstelligen Betrag.
+**Strukturelle Knappheit statt konjunktureller:** Stillstände liegen aus
+technischen Gründen in denselben Wochen — **die Spitze ist planbar und trotzdem
+nicht vorzuhalten.**
+**Preise:** 48–95 € je Stunde, Vorhalteentgelt, Saisonzuschläge · ein Stillstand
+mit 40 Fachkräften ≈ 244.800 € Umsatz, 33.200 € Rohertrag (13,5 %) · zwölf
+Einsätze ≈ 220.000 € im Jahr.
+**Erster Vertriebsweg:** die Gerüstbauer — erstes Gewerk auf dem Gelände,
+kennen den Termin sechs bis zwölf Monate vorher, kein konkurrierendes Interesse.
+**Ausdrücklich anders als H75** (Bautafeln = öffentliche Information).
+**Die Todesursache dieses Modells, ausdrücklich benannt:** Wochenlöhne gegen
+sechzig Tage Zahlungsziel — **„sie tritt im Wachstum ein, nicht im Rückgang."**
+**Wer haftet:** Abgrenzung Arbeitnehmerüberlassung / Werkvertrag.
+**Recherchestand:** Zu prüfen: Erlaubnispflicht für Arbeitnehmerüberlassung,
+Überlassungshöchstdauer, Equal Pay, Stillstandskosten je Anlagentyp.
+**Nicht wiederverwenden:** die Gerüstbauer als Vertriebsweg · „gegen einen
+Stillstandstag rechnen" · die Liquiditätslücke im Wachstum.
+
+### J92 · Marktplatz für freie Maschinenkapazitäten in der Lohnfertigung — LEITMODELL
+2.458 Wörter · Note **4,6** (rechn. 5,2, **−0,6**: **die beiden Marktseiten sind
+gegenläufig**) · Sterne 3/**2**/3/3 · 3/4/**2**/**2** · Ziel nur 4.
+
+**★ ZEHNTES MODELL UNTER 5,0 — UND DAS EINZIGE LEITMODELL DES BUCHES UNTER
+FÜNF ★** Mit Pflichtabschnitt „Was fehlen müsste" und Coaching-Überleitung.
+
+**Absicht und Begründung im Kapitel selbst:** Es bekommt die volle Länge, weil
+man an ihm mehr über Plattformen lernt als an den neun anderen der Kategorie
+zusammen — und weil es die häufigste Fehlform des ganzen Buches ist.
+**Die Kernaussage, übertragbar auf jede Ressourcenplattform:** **„Freie
+Kapazität und Kapazitätsbedarf sind gegenläufig. Die beiden Marktseiten sind
+niemals gleichzeitig knapp — sie sind gleichzeitig reichlich oder gleichzeitig
+leer."**
+**Die zweite Aussage:** **„Ein Einkäufer kauft keine Maschinenstunde, sondern
+ein maßhaltiges Teil mit jemandem, der für Ausschuss haftet"** — und damit endet
+jeder Marktplatzgedanke: **„In dem Moment, in dem du das zusagst, bist du ein
+Fertigungshändler mit Haftung."**
+**Erster Vertriebsweg:** die Zweitquellenpflicht der Einkäufer — der einzige
+Bedarf in diesem Markt, der nicht konjunkturabhängig ist.
+**Die Stundenrechnung:** achtzehn Abschlüsse aus zweihundert Anfragen, rund
+sechzig Euro je Stunde, davon die Hälfte kündbarer Mitgliedsbeitrag.
+**Was fehlen müsste:** eigene Auftragsverantwortung (über sieben Punkte) · ein
+Verfahren statt aller · ein Segment mit dauerhafter Knappheit (**das ist G61 mit
+8,1**) · oder die Kalkulationshilfe als Produkt für die Fertiger.
+**Neues Muster für Teil III:** **„Aus fast jeder gescheiterten Plattformidee
+lässt sich ein funktionierendes Dienstleistungsmodell schneiden — nie
+umgekehrt."**
+**Umfangsüberschreitung (2.458) — Begründung:** Leitmodell mit zwei
+Zusatzabschnitten (Was fehlen müsste, Coaching-Überleitung).
+**Nicht wiederverwenden:** die Gegenläufigkeit als Argument · die
+Zweitquellenpflicht als Vertriebsweg · „Marktplatz oder Haftung".
+
+### J93 · Einkaufs- und Kooperationsverbund für kleine IT-Dienstleister
+1.981 Wörter · Note **4,3 — die zweitschlechteste Note des Buches** (rechn. 4,9,
+**−0,6**: **dieses Modell verkauft gegen den Charakter seiner Zielgruppe**) ·
+Sterne **2**/**2**/**2**/4 · **2**/**5**/**2**/**2** · Ziel nur 4.
+
+**★ ELFTES MODELL UNTER 5,0 ★** Mit Pflichtabschnitt „Was fehlen müsste".
+
+**Kernthese:** **„Wer sich selbständig gemacht hat, um niemandem Rechenschaft
+zu schulden, kooperiert schlecht."**
+**Der Punkt, an dem Verbünde tatsächlich scheitern:** die Vertretung braucht
+Zugänge zu Kundensystemen — Vertrauen, Datenschutz und Abwanderungssorge in
+einem.
+**Erster Vertriebsweg:** die Partnerstufen der Hersteller — öffentlich,
+datiert, schmerzhaft. Mit dem Vorbehalt, dass viele Programme Bündelung nicht
+zulassen.
+**Der schwierigste Verkaufszustand, den ein Modell haben kann:** Der Nutzen
+entsteht erst mit zwanzig Mitgliedern, und die ersten zahlen dafür vorher.
+**Was fehlen müsste:** eine Leistung, die am ersten Tag wirkt
+(Urlaubsvertretung) · Honorar statt Beitrag · gemeinsame Leistungserbringung
+(**das ist J99 mit 8,0**) · oder eine Zielgruppe mit Präqualifizierungspflicht
+(**F52**). Muster: **„Verkauf niemals eine Struktur. Verkauf die erste Leistung,
+die diese Struktur möglich macht."**
+**Nicht wiederverwenden:** „gegen den Charakter der Zielgruppe" · die
+Partnerstufen als Vertriebsweg · „kostenlose Gewohnheiten sind harte
+Wettbewerber".
+
+### J94 · Nachfolgevermittlung für Handwerksbetriebe mit Begleitung
+2.263 Wörter · Note **4,9** (rechn. 5,6, **−0,7**: **sieben von zehn Mandaten
+kommen nicht zustande, und die Ursachen liegen außerhalb deiner Arbeit**) ·
+Sterne 3/3/3/**2** · **2**/**5**/3/3 · Ziel nur 4. **Sofort startbar.**
+
+**★ ZWÖLFTES UND LETZTES MODELL UNTER 5,0 ★** Mit Pflichtabschnitt „Was fehlen
+müsste".
+
+**Der ausdrückliche Satz des Kapitels:** **„Von allen hundert Modellen ist
+dieses das mit dem größten volkswirtschaftlichen Nutzen"** — und trotzdem unter
+fünf. Daraus die Lehre: **„Ein wichtiges Problem ist kein gutes Geschäft."**
+**Kernthese:** **„Ein Betrieb ist genau so lange verkäuflich, wie sein Inhaber
+noch arbeitet."** Vier Jahre Warten senken den Firmenwert auf einen Bruchteil.
+**Erster Vertriebsweg:** die eingestellte Ausbildung — **derselbe Datenbestand
+wie in F51, rückwärts gelesen.** Zeigt Betriebe drei bis fünf Jahre vor dem
+üblichen Zeitpunkt.
+**Was fehlen müsste:** Vorabhonorare statt Erfolgshonorare · die Käuferseite als
+eigenes Produkt · die Finanzierung mitbringen (**das ist J98**) · früher
+ansetzen.
+**Nicht wiederverwenden:** die eingestellte Ausbildung als Signal · „ein
+wichtiges Problem ist kein gutes Geschäft" · „such Signale im Ausbleiben".
+
+### J95 · White-Label-Backoffice für kleine Versicherungsmakler
+2.065 Wörter · Note **7,4** (rechn. 7,8, **−0,4**: **dein Markt schrumpft** —
+die Zahl kleiner Makler geht seit Jahren zurück) · Sterne 3/4/4/**5** ·
+4/4/4/3 · Stufe 2 → 6, Stufe 7 real.
+**Kernthese:** **„Wer einem Makler Verwaltungszeit abnimmt, verkauft ihm
+Beratungszeit."** Dreißig Stunden im Monat sind zu viel für den Inhaber und zu
+wenig für eine Stelle.
+**Die Wachstumsmechanik, die die Note trägt:** Jede eingestellte Person bringt
+Kapazität für drei bis vier Makler und rund 1.400 € Ergebnis — **Wachstum als
+Rechenaufgabe, nicht als Wette.** Und die Gegenzahl: **bei drei Kunden ist das
+Ergebnis negativ.**
+**Erster Vertriebsweg:** die Maklerpools — sie verlieren an fehlerhaften
+Anträgen Geld. Mit der Rollenregel: **wer als Wettbewerber der Anbindung
+wahrgenommen wird, verliert den Weg.**
+**Stufe 6 ja, mit ungewöhnlicher Begründung:** **„Die Automatisierung kommt
+ohnehin — wer sie selbst betreibt, verwandelt eine Bedrohung in einen
+Vorsprung."**
+**Recherchestand:** Zu prüfen: Beratungs- und Dokumentationspflichten für
+Versicherungsvermittler, Anforderungen an die Auslagerung von Tätigkeiten,
+Erlaubnisgrenzen.
+**Nicht wiederverwenden:** die Maklerpools als Vertriebsweg · „die
+Automatisierung kommt ohnehin" · „Wachstum in Stufen statt in Prozenten".
+
+### J96 · Franchisesystem für eine produktisierte lokale Dienstleistung — LEITMODELL
+2.540 Wörter · Note **8,0** (rechn. 8,2, **−0,2**: **die Qualität deines
+Unternehmens liegt ab dem ersten Nehmer in fremden Händen**) · Sterne 4/3/4/**5**
+· **5**/4/4/4 · Stufe 5 → 7. **Zwölftes Modell im Spitzenband.**
+**Die einzige Fünf bei Skalierbarkeit im ganzen Buch** — und gleichzeitig fünf
+bei Recurring. **„Wachstum kostet dich kein Kapital und keine Anwesenheit."**
+**Kernthese:** **„Was du beim Franchise verkaufst, ist deine eigene
+Vergangenheit."** Der Nehmer kauft drei Jahre Lernkurve.
+**Die Franchisefähigkeitsprüfung, übertragbar:** Marge über 25 %? In
+Arbeitsanweisungen beschreibbar? An einem zweiten Ort ohne dich funktionsfähig?
+**Der zweite eigene Standort ist der Beweis** und wird am häufigsten
+übersprungen.
+**Preise:** Eintritt 12.000–35.000 € · laufend 5–8 % vom Nettoumsatz ·
+vierzehn Nehmer ≈ 22.300 € Umsatz, 8.600 € Ergebnis — **und der sechzehnte
+Nehmer kostet fast nichts mehr.**
+**Erster Vertriebsweg:** die Anfragen aus Orten, in denen du nicht bist —
+**„normalerweise Absagen, in Wahrheit die Marktforschung für dein Franchise."**
+**Die Gebührenfrage im vierten Jahr** ausdrücklich benannt: Ein System, das nur
+den Anfang erleichtert, verliert mit dem Erfolg seiner Nehmer.
+**Wer haftet:** vorvertragliche Aufklärungspflicht, Prognosehaftung,
+kartellrechtliches Verbot von Preisvorgaben.
+**Umfangsüberschreitung (2.540) — Begründung:** Leitmodell mit
+Coaching-Überleitung und der Franchisefähigkeitsprüfung, die für alle Modelle
+aus A bis E gilt.
+**Recherchestand:** Zu prüfen: vorvertragliche Aufklärungspflichten im
+Franchiserecht, Zulässigkeit von Wettbewerbsverboten und Gebietsschutz,
+kartellrechtliche Grenzen bei Preisvorgaben.
+**Nicht wiederverwenden:** die drei Franchisefähigkeitsfragen · „deine eigene
+Vergangenheit verkaufen" · die Anfragen von außerhalb als Vertriebsweg.
+
+### J97 · Zusammenführung kleiner Hausverwaltungen
+2.165 Wörter · Note **7,0** (rechn. 7,5, **−0,5**: **du kaufst einen Wert, der
+an einer Person hängt, die geht — und bezahlst ihn über Jahre aus dem Ertrag,
+den dieser Wert erst bringen muss**) · Sterne 4/3/3/**5** · 4/**1**/4/4 ·
+Ziel Stufe 5.
+**Kernthese:** **„Eine Verwaltung mit vierhundert Einheiten ist nicht
+unrentabel, sondern unbezahlbar."** Erst ab etwa zweitausend Einheiten trägt ein
+ordentlich betriebener Apparat sich selbst.
+**Der eigentliche Hebel, unspektakulär:** die Vergütungsanpassung. Drei Euro je
+Einheit sind bei zweitausend Einheiten mehr als das halbe Ergebnis.
+**Preise:** Kaufpreise ein bis zwei Jahresumsätze bzw. 150–450 € je Einheit ·
+1.900 Einheiten ≈ 47.500 € Umsatz, 8.800 € Ergebnis — **ohne Kaufpreisraten
+17.800 €.**
+**Erster Vertriebsweg:** die Aushänge an den Häusern — **„ein vollständiges,
+öffentlich zugängliches Verzeichnis der Verwaltungsbestände einer Stadt."**
+Ausdrücklich anders als H71 (Verwalterwechsel als Moment): hier eine Landkarte.
+**Wichtigste Vertragsklausel:** Kaufpreis in Raten, gekoppelt an den
+Bestandserhalt, plus Übergabephase mit persönlicher Vorstellung in jeder
+Versammlung.
+**Recherchestand:** Zu prüfen: Erlaubnis- und Zertifizierungsanforderungen für
+Verwalter, Verwaltung von Gemeinschaftsvermögen und Rücklagen, Übertragbarkeit
+von Verwaltungsverträgen bei Unternehmenskauf.
+**Nicht wiederverwenden:** die Aushänge als Datenbank · „nicht unrentabel,
+sondern unbezahlbar" · die Vergütungsanpassung als Haupthebel.
+
+### J98 · Beteiligungsmodell aus Kapital und operativer Führung für Handwerksnachfolgen
+2.252 Wörter · Note **5,6** (rechn. 5,8, **−0,2**: **dieses Modell steht und
+fällt mit einem einzigen Menschen**) · Sterne 3/**2**/3/4 · **2**/**2**/4/3 ·
+Ziel nur 4.
+**Kernthese:** **„Kreditentscheidungen bewerten Sicherheiten, nicht
+Führungsfähigkeit."** Der sicherste Nachfolger ist der schlechteste
+Antragsteller — dort liegt die Preislücke.
+**Die Rechnung:** 450.000 € Kaufpreis, 150.000 € Eigenkapital, Ergebnis 60.000 €
+zur Verteilung — **24 % auf das eingesetzte Eigenkapital plus Entschuldung aus
+dem Gewinn des Betriebs.** Gegenzahl: ein Jahr mit 20 % Umsatzrückgang bringt
+die Ausschüttung auf null.
+**Erster Vertriebsweg:** die abgelehnten Finanzierungsanfragen — **„für die Bank
+ein verlorener Fall, für dich ein geprüfter."** Ausdrücklich anders als A01 und
+F56 (Bank als Türöffner zu Kunden).
+**Ausdrückliche Empfehlung gegen den eigenen Ertrag:** vierzig Prozent
+Beteiligung mit Aufstockungsrecht für den operativen Partner — **„keine
+Sozialpolitik, sondern Risikomanagement."**
+**Wer haftet:** Bürgschaften heben die Trennung auf. Dazu die
+handwerksrechtliche Eintragung, die mit dem operativen Partner geht.
+**Recherchestand:** Zu prüfen: Haftung von Gesellschaftern und
+Geschäftsführern, üblicher Bürgschaftsumfang bei Übernahmefinanzierungen,
+steuerliche Gestaltung von Aufstockungsrechten.
+**Nicht wiederverwenden:** die abgelehnten Finanzierungsanfragen als
+Vertriebsweg · „Rendite kommt aus der Tilgung" · „Sicherheiten statt
+Fähigkeiten".
+
+### J99 · Implementierungspartnerschaft für vertikale Software
+2.250 Wörter · Note **8,0** (rechn. 8,2, **−0,2**: **dein Geschäft steht auf
+einer Plattform, die jemand anderem gehört, und die Abhängigkeit wächst mit dem
+Erfolg**) · Sterne 4/4/4/**5** · 4/**5**/4/3 · Ziel Stufe 5.
+**Dreizehntes und letztes Modell im Spitzenband — und das zugänglichste:**
+fünf Sterne bei Kapitalleichtigkeit und Recurring gleichzeitig, sofort startbar.
+**Kernthese:** **„Zwischen Technik und Fach liegt das Geld."** Der Anbieter kann
+nur über Software sprechen, der Betrieb nur über Abläufe.
+**Erster Vertriebsweg:** die Warteliste des Softwareanbieters — **„der einzige
+Vertriebsweg in diesem Buch, bei dem die Gegenseite ein größeres Interesse hat
+als du."**
+**Die Zeile, die das Modell erklärt:** 9.360 € im Monat aus Lizenzbeteiligungen
+ohne Arbeit — **„nach fünf Jahren tragen die Provisionen allein die
+Fixkosten."**
+**Stufe 5 als Risikovorsorge, nicht als Effizienz:** eigene Erweiterungen für
+vierzig Betriebe derselben Branche. **Stufe 6 (eigene vertikale Software)
+ausdrücklich nein** — man würde gegen den antreten, der einen groß gemacht hat.
+**Recherchestand:** Zu prüfen: Haftung bei Datenmigration und
+Systemeinführung, Aufbewahrungs- und Unveränderbarkeitspflichten bei
+kaufmännischen Daten.
+**Nicht wiederverwenden:** die Warteliste als Vertriebsweg · „zwischen Technik
+und Fach liegt das Geld" · „wenn die Gegenseite mehr Interesse hat als du".
+
+### J100 · Holdingstruktur mit gemeinsamen Diensten für mehrere Nischenbetriebe
+2.413 Wörter · Note **6,2** (rechn. 6,5, **−0,3**: **der Ertrag aus geteilten
+Diensten ist einmalig, die Komplexität ist dauerhaft**) · Sterne 3/3/3/4 ·
+3/**2**/4/3 · Stufe 5 → 7. **Das hundertste Modell.**
+**Das einzige Modell des Buches, das kein Angebot ist, sondern eine
+Anordnung** — und es hat ausdrücklich keine Stufen 1 bis 4, weil die in einem
+anderen Kapitel liegen.
+**Die zentrale Regel, die das Kapitel trägt:** **Ohne gemeinsame Achse —
+derselbe Kunde, dieselbe Fähigkeit oder dieselbe Region — ist eine Holding ein
+Steuermodell und kein Geschäftsmodell.**
+**Die Rechnung:** vier Betriebe, 2,03 Mio. € Umsatz, Verwaltung einzeln
+264.000 € gegen 156.000 € geteilt — **108.000 € Ersparnis, 38 % mehr
+Gruppenergebnis ohne einen neuen Kunden.**
+**Erster Vertriebsweg:** die Rechnungen, die deine Kunden anderen bezahlen —
+**„die präziseste Marktforschung, die du bekommen kannst."**
+**Der Test, der im ganzen Buch weiterverwendet werden sollte:** **drei Wochen
+Abwesenheit.** Was in dieser Zeit zusammenbricht, ist die Arbeit vor dem
+nächsten Schritt.
+**Persönliche Stelle:** „Wer wie ich Freude daran hat, Modelle zu finden, wird
+an dieser Stelle gefährlich" — die Achse als Regel gegen die eigene Neigung.
+**Recherchestand:** Zu prüfen: Verrechnungspreise zwischen verbundenen
+Unternehmen, steuerliche Behandlung von Holdingstrukturen, Haftungsdurchgriff
+bei Kreuzbesicherungen.
+**Nicht wiederverwenden:** die drei Achsen · der Drei-Wochen-Test · „Ergebnis
+aus Anordnung statt aus Umsatz".
+
+**Abschluss von Teil II** *(im Anschluss an J100, kursiv)*: nennt die
+Verteilung (13 ab 8,0 · 12 unter 5,0 · 75 dazwischen), die Softwarequote (gut
+zwei von drei Fällen nein) und die Plattformquote (etwa jedes zehnte Modell),
+und führt zur Frage von Teil III über. **Die genauen Zahlen für Software und
+Plattform sind in Phase 3 exakt auszuzählen** — die derzeitigen Formulierungen
+(„gut zwei von drei", „etwa jedes zehnte") sind bewusst so gewählt, dass sie
+auch bei geringen Abweichungen stimmen.
+
+---
+
+**Kategorie J abgeschlossen.** 11 Kapitel, 23.083 Wörter, ca. 77 Seiten.
+Notenspanne **4,3 bis 8,1**, Kategorieschnitt **6,41**. **Die größte Spreizung
+aller zehn Kategorien** — drei Modelle im Spitzenband und drei unter 5,0.
+
+**Zehn verschiedene erste Vertriebswege:** Gerüstbauer (J91),
+Zweitquellenpflicht (J92), Partnerstufen der Hersteller (J93), eingestellte
+Ausbildung (J94), Maklerpools (J95), Anfragen aus fremden Orten (J96), Aushänge
+an den Häusern (J97), abgelehnte Finanzierungsanfragen (J98), Warteliste des
+Softwareanbieters (J99), Rechnungen an Dritte (J100). **Gegen alle 90
+vorherigen geprüft: keine Dublette.**
+
+---
+
+## TEIL II ABGESCHLOSSEN — Schlussbilanz nach 100 Modellen
+
+**1. Notenverteilung: alle vier Bänder im Zielkorridor.**
+
+| Band | Ziel | Ist | Modelle |
+|---|---:|---:|---|
+| 8,0–10,0 | 12–18 | **13** | H77 8,3 · E47 8,2 · F51/G61/J91 8,1 · B19, E41, F55, F57, H71, I81, J96, J99 8,0 |
+| 6,5–7,9 | 35–45 | **41** | — |
+| 5,0–6,4 | 25–35 | **34** | — |
+| unter 5,0 | 10–15 | **12** | D38 4,2 · J93 4,3 · C30 4,4 · H73/J92 4,6 · I83 4,7 · D37/G62/I85 4,8 · F60/H72/J94 4,9 |
+
+**Gesamtschnitt 6,49.** Alle zwölf Modelle unter 5,0 tragen den Pflichtabschnitt
+„Was fehlen müsste, damit daraus ein Geschäft wird".
+
+**Kategorieschnitte:** B 7,10 · A 6,83 · F 6,81 · E 6,64 · J 6,41 · H 6,39 ·
+G 6,32 · D 6,17 · C 6,14 · I 6,07.
+**Spreizungen:** J 3,8 · H 3,7 · G/I 3,3 · D/F 3,2 · E 3,0 · C 2,9 · B 2,2 ·
+A 1,7.
+
+**2. Hundert verschiedene erste Vertriebswege.** Geprüft nach jeder Kategorie,
+Dubletten null. Eine geplante Kollision wurde vor dem Schreiben erkannt und
+ersetzt (G70, Versicherungsmakler → Impfstoffvorbestellung, weil B18 den Weg
+hat). Wiederkehrende Mechanismen sind im Text ausdrücklich gegeneinander
+abgegrenzt — insgesamt 24 solcher Abgrenzungen („ausdrücklich anders als …").
+
+**3. Umfang.**
+
+| Ebene | Anzahl | Ø Wörter | Ziel | Summe | Abweichung |
+|---|---:|---:|---:|---:|---:|
+| Leitmodelle | 20 | 2.357 | 2.260 | 47.143 | +4 % |
+| Standardkapitel | 60 | 1.992 | 1.800 | 119.531 | +11 % |
+| Kompakte Vollkapitel | 20 | 1.381 | 1.400 | 27.618 | −1 % |
+| Kategorie-Einführungen | 10 | 494 | 450 | 4.940 | +10 % |
+
+**Teil II: 199.101 Wörter. Manuskript insgesamt: 210.594 Wörter, ca. 701
+Seiten** (Teil I, Zwischenstück und Teil II; Teil III, Einleitung, Nachwort und
+Anhänge fehlen noch).
+
+**Damit ist die Entscheidung nach §25 zum Umfang der Standardkapitel
+unausweichlich geworden** — die drei Varianten stehen unter „Befunde nach 80
+Modellen", Punkt 2. Zur Grundlage jetzt vollständige Zahlen: Der Zielwert von
+1.800 Wörtern wurde in **keiner** der zehn Kategorien erreicht, auch nicht in
+denen, in denen von Anfang an darauf geschrieben und nachträglich gekürzt wurde.
+Die Ursache ist der Pflichtinhalt der Vorlage.
+
+**4. Was in Phase 3 zu prüfen ist — die Liste wächst nicht mehr, sie wird jetzt
+abgearbeitet:**
+1. **Satzlängen-Entscheidung** (Befunde nach 70 Modellen, Punkt 1) und danach
+   gegebenenfalls eine Durchsicht von A bis F.
+2. **Umfangsentscheidung** (Befunde nach 80 Modellen, Punkt 2).
+3. **Absatzanfänge im Urteil** — die Wendungen „Was mir gefällt" und „Was das
+   Modell begrenzt" sind in A bis G unverändert häufig; in H bis J wurden sie
+   variiert.
+4. **Exakte Auszählung** der Software- und Plattformantworten für den
+   Schlussabsatz von J100 und für die Modellmatrix.
+5. **Sternekonsistenz über alle 100** — insbesondere die Fünf-Sterne-Werte
+   (Monetarisierung 5×, Marge 5×, Recurring, Skalierbarkeit, Kapitalleichtigkeit)
+   und die Einzelsterne (C30 Position, I85 Position, H79 Recurring).
+6. **Redundanzprüfung** gegen die Liste „Nicht wiederverwenden" aller 100
+   Registereinträge.
+7. **Verbotsliste** als Textsuche über das gesamte Manuskript.
+8. **Recherche-Backlog** — inzwischen über 100 Positionen, kategorieweise
+   geführt in `05-recherche-backlog.md`.
 
 ---
 
