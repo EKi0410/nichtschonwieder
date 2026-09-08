@@ -1,4 +1,4 @@
-## Kategorie I · Medien, Bildung, Community
+## Kategorie I — Medien, Bildung, Community
 
 Diese Kategorie hat die niedrigste Durchschnittsnote des ganzen Buches, und das
 liegt nicht an den Ideen. Es liegt an der Zeit.

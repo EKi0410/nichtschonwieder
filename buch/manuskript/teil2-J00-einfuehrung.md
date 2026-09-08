@@ -1,4 +1,4 @@
-## Kategorie J · Plattform, Vermittlung, Beteiligung
+## Kategorie J — Plattform, Vermittlung, Beteiligung
 
 Das ist der Endpunkt des Frameworks, und es ist die Kategorie mit der höchsten
 Ausfallwahrscheinlichkeit. Beides gehört zusammen.

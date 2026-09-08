@@ -278,6 +278,15 @@ als Einstiegspunkte funktionieren.
 
 ## 8. Inhaltsverzeichnis
 
+### Titelei
+
+- Schmutztitel (Titel ohne Untertitel), Rückseite vakat
+- Haupttitel mit Titel, Untertitel und Autorenname
+- Impressum auf der Rückseite des Haupttitels, mit Haftungsausschluss und
+  dem Hinweis auf die Kennzeichnung aller Zahlen
+- Inhaltsverzeichnis, 133 Einträge, im Manuskript aus den Kapiteldateien
+  erzeugt und im Satz ein letztes Mal zu erneuern
+
 ### Vorspann
 
 **Einleitung — Warum dieses Buch anders rechnet.** Was es leistet, was nicht,
@@ -432,7 +441,7 @@ bei 11 pt. Boxen sind flächenbereinigt eingerechnet.
 
 | Baustein | Anzahl | Wörter je Einheit | Seiten gesamt | Wörter |
 |---|---:|---:|---:|---:|
-| Titelei, Inhaltsverzeichnis (116 Einträge) | — | — | 8 | — |
+| Titelei, Inhaltsverzeichnis (133 Einträge) | — | — | 9 | — |
 | Einleitung | 1 | 2.100 | 7 | 2.100 |
 | Teil I, Kapitel *(fertig)* | 7 | ca. 1.400 | 32,8 | 9.845 |
 | Teil I, Zwischenstück *(fertig)* | 1 | 1.450 | 5,0 | 1.450 |
@@ -445,7 +454,13 @@ bei 11 pt. Boxen sind flächenbereinigt eingerechnet.
 | Anhang: Bewertungsbogen | — | — | 4 | — |
 | Anhang: Modellmatrix (100 Zeilen) | — | — | 8 | — |
 | Anhang: Register und Quellen | — | — | 12 | 2.000 |
-| **Summe** | | | **ca. 731** | **ca. 212.000** |
+| **Summe** | | | **ca. 732** | **ca. 212.000** |
+
+*Diese Tabelle ist die ursprüngliche Planung. Am fertigen Manuskript
+gemessen liegt der Band bei rund 777 Seiten — die Standardkapitel sind
+durchgehend länger geworden als die geplanten 1.800 Wörter. Das ist eine der
+drei offenen Autorenentscheidungen; bis sie gefallen ist, bleibt die Tabelle als
+Planungsstand stehen und wird nicht nachgerechnet.*
 
 ### Was ein Band mit 730 Seiten bedeutet
 

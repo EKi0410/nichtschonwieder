@@ -14,7 +14,7 @@ elf Modelle, die im Marker ausdrücklich als sofort startbar gekennzeichnet
 sind.
 
 
-## Kategorie A — Regulierung, Pflicht und Nachweis
+## Kategorie A — Produktisierte Fachdienstleistungen
 
 | Nr. | Modell | Mo Ve Up Re · Sk Ka Ma Po | Note | Stufen | Startbar mit | Sofort |
 |---|---|---|---:|---|---|---|
@@ -29,7 +29,7 @@ sind.
 | **A09** | Stammdatenbereinigung für Instandhaltungsabteilungen | `4 2 3 3 · 4 4 4 4` | **6,3** | 2→4 | ab ca. 2.000 € |  |
 | **A10** | Personaldokumenten-Service für ambulante Pflegedienste | `3 3 4 5 · 4 5 4 3` | **7,2** | 2→5 | unter 2.000 € |  |
 
-## Kategorie B — IT, Daten und Sicherheit
+## Kategorie B — Managed IT und Security, vertikal
 
 | Nr. | Modell | Mo Ve Up Re · Sk Ka Ma Po | Note | Stufen | Startbar mit | Sofort |
 |---|---|---|---:|---|---|---|
@@ -44,7 +44,7 @@ sind.
 | **B19** | Sicherer Fernzugriff als Produkt für Maschinenbauer | `4 4 5 5 · 4 4 4 4` | **8,0** | 2→5 | 5.000–12.000 € |  |
 | **B20** | IT-Betrieb für Kita- und Schulträger in freier Trägerschaft | `4 2 4 5 · 4 3 4 4` | **6,9** | 2→5 | 8.000–20.000 € |  |
 
-## Kategorie C — KI-gestützte Dienstleistungen
+## Kategorie C — KI mit klarem Prozessbezug
 
 | Nr. | Modell | Mo Ve Up Re · Sk Ka Ma Po | Note | Stufen | Startbar mit | Sofort |
 |---|---|---|---:|---|---|---|
@@ -59,7 +59,7 @@ sind.
 | **C29** | Bestandsaufbereitung und Dokumentation für Versicherungsmakler | `2 3 3 4 · 3 4 3 2` | **5,9** | 2→4 | 2.000–6.000 € |  |
 | **C30** | Fahrzeugbeschreibungen und Inserate für Autohäuser | `2 2 2 2 · 3 5 2 1` | **4,4** | 2→4 | unter 1.000 € |  |
 
-## Kategorie D — Handwerk, Bau und Industrienahes
+## Kategorie D — Vertikale Software aus operativer Erfahrung
 
 | Nr. | Modell | Mo Ve Up Re · Sk Ka Ma Po | Note | Stufen | Startbar mit | Sofort |
 |---|---|---|---:|---|---|---|
@@ -74,7 +74,7 @@ sind.
 | **D39** | Gerätebuchung und Verbrauchsabrechnung für Forschungseinrichtungen | `3 2 3 3 · 4 5 3 3` | **5,7** | 2→5 | unter 2.000 € |  |
 | **D40** | Auditmanagement für zertifizierte Lebensmittelbetriebe | `4 3 3 4 · 3 4 4 3` | **7,2** | 2→6 | 3.000–8.000 € |  |
 
-## Kategorie E — Prüfung, Wartung und Hygiene
+## Kategorie E — Lokale Dienstleistungen mit Wiederholungslogik
 
 | Nr. | Modell | Mo Ve Up Re · Sk Ka Ma Po | Note | Stufen | Startbar mit | Sofort |
 |---|---|---|---:|---|---|---|
@@ -89,7 +89,7 @@ sind.
 | **E49** | Schädlingsmonitoring mit digitaler Dokumentation für Lebensmittelbetriebe | `4 3 4 5 · 4 3 4 3` | **7,6** | 2→6 | 6.000–15.000 € |  |
 | **E50** | Sanitär- und Hygieneservice für Fitnessstudios und Sportstätten | `2 3 2 4 · 3 4 2 2` | **5,2** | 2→4 | unter 2.000 € |  |
 
-## Kategorie F — Kaufmännische Dienstleistungen und Abos
+## Kategorie F — Abo- und Betreuungsmodelle
 
 | Nr. | Modell | Mo Ve Up Re · Sk Ka Ma Po | Note | Stufen | Startbar mit | Sofort |
 |---|---|---|---:|---|---|---|

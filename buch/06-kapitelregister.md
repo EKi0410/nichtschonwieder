@@ -3884,6 +3884,89 @@ Coaching-Überleitung: ja/nein
 Recherchestand: verifiziert / modellhafte Annahme
 ```
 
-## Teil III
+## Titelei — geschrieben
 
-*Noch keine Kapitel geschrieben.*
+Die letzte fehlende Baugruppe des Buches. Drei Dateien.
+
+**`titelei-01-titelblatt.md`.** Schmutztitel nur mit dem Titel, Rückseite vakat,
+Haupttitel mit Titel, Untertitel und Autorenname. Damit steht der Name jetzt
+dort, wo er hingehört — und der Befund aus Version 2.3 löst sich auf: Im
+laufenden Text bleibt das Buch bei der Ich-Form ohne Selbstbenennung, genannt
+wird der Autor auf dem Titelblatt, im Impressum und auf der Beratungsseite. Drei
+Stellen, alle außerhalb des Textes. Das bleibt so.
+
+**`titelei-02-impressum.md`.** Angaben des Autors: Jan-Erik Stern,
+Dieselstr. 20D, 61231 Bad Nauheim, mail@sternjanerik.de, sternjanerik.de.
+Dazu Auflage, Copyright, Urheberrechtsvermerk und drei Absätze, die für dieses
+Buch mehr sind als Formalie:
+
+1. **Haftungsausschluss zur Rechts- und Steuerberatung.** Ein Buch, das hundert
+   Geschäftsmodelle durchrechnet und dabei laufend Erlaubnispflichten, Fristen
+   und Schwellenwerte nennt, braucht diesen Absatz. Er wiederholt, was auf der
+   Beratungsseite ohnehin steht, und verweist auf die Stellen im Text.
+2. **Der Absatz zu den Zahlen.** Er nimmt die beiden Kennzeichnungen des Buches
+   („modellhafte Annahme", „Beispielrechnung") in das Impressum auf und
+   verweist auf Anhang D. Das ist die juristisch belastbare Entsprechung zu dem,
+   was das Buch inhaltlich ohnehin tut: keine Zahl ohne Herkunftsangabe.
+3. **Der Absatz zu Marken und konstruierten Fällen.** Alle Betriebe in den
+   Fallbeispielen sind konstruiert; das steht jetzt an einer Stelle, an der es
+   nachprüfbar ist.
+
+Offen im Impressum, weil erst nach der Wahl des Dienstleisters bekannt: **Name
+und Anschrift der Druckerei** (nach den Landespressegesetzen im Druckwerk
+anzugeben), **ISBN** für Druck und gegebenenfalls E-Book, **Umschlaggestaltung
+und Satz**, sowie das **Jahr**, das derzeit auf 2026 steht und das Jahr der
+tatsächlichen Veröffentlichung tragen muss. Alle vier sind als Prüfpunkte
+markiert und laufen damit in Anhang D auf.
+
+**`titelei-03-inhaltsverzeichnis.md`.** Aus den Kapiteldateien erzeugt, nicht
+getippt — wie Anhang B und C, und aus demselben Grund: Ein getipptes
+Inhaltsverzeichnis mit 133 Einträgen weicht ab, sobald ein Kapiteltitel sich
+ändert. **133 Einträge**, nicht die geplanten 116: 1 Einleitung, 7 Teil I,
+1 Zwischenstück, 10 Kategorie-Einführungen, 100 Modelle, 8 Teil III, 2 im
+Nachspann, 4 Anhänge. Seitenzahlen fehlen und können im Manuskript nicht
+entstehen; das Verzeichnis wird nach dem Satz ein letztes Mal erneuert. Der
+Seitenplan in der Architektur steht damit auf 9 statt 8 Seiten für die Titelei.
+
+### Drei Befunde, die die Erzeugung des Verzeichnisses geliefert hat
+
+Das Skript hat alle 133 Dateien in Leseordnung eingelesen und gegen den
+Dateibestand abgeglichen — keine fehlende Datei, keine Datei außerhalb der
+Ordnung. Dabei sind drei Abweichungen aufgefallen, alle behoben:
+
+1. **Anhang B trug für die Kategorien A bis F andere Namen als das Buch.**
+   „Kategorie A — Regulierung, Pflicht und Nachweis" statt „Produktisierte
+   Fachdienstleistungen", und entsprechend für B bis F. Sechs von zehn
+   Kategorien hatten in der Modellmatrix eine andere Bezeichnung als in der
+   Kategorie-Einführung, dem Modellkatalog und der Architektur. Das ist der
+   Fehlertyp, den ein erzeugtes Verzeichnis findet und ein gelesenes nicht:
+   Beide Namen klingen plausibel, nebeneinander sieht man den Widerspruch.
+   Auf die Namen des Modellkatalogs vereinheitlicht.
+2. **Die Kategorie-Einführungen H, I und J trennten mit `·`, A bis G mit `—`.**
+   Auf den Halbgeviertstrich vereinheitlicht.
+3. **Das Prüfskript zählte 99 statt 100 Modelle.** Ursache war das eigene
+   Muster, nicht das Manuskript: Es erwartete zwei Ziffern hinter dem
+   Kategoriebuchstaben und übersah damit J100. Für jede künftige Auswertung
+   über alle Modelle gilt: `[A-J]\d{2,3}`, nie `[A-J]\d\d`.
+
+### Was damit an der Titelei noch offen ist
+
+Nichts, was ich schreiben kann. Die vier Prüfpunkte im Impressum brauchen
+Entscheidungen über Hersteller und ISBN, die Seitenzahlen brauchen den Satz.
+
+**Eine Frage gehört dem Autor, und ich entscheide sie nicht selbst.** Dieses
+Manuskript ist unter Mitwirkung eines KI-Systems entstanden. Ob und wie das im
+Buch steht, ist eine Entscheidung mit drei Seiten: Vertriebsplattformen fragen
+es beim Hochladen ohnehin ab, das Buch positioniert sich als das ehrlichere
+gegen die Kursverkäufer, und eine Offenlegung im Impressum wäre für einen Teil
+der Zielgruppe ein Argument gegen das Buch und für einen anderen ein Argument
+dafür. Ich habe deshalb nichts dazu ins Impressum geschrieben. Meine Empfehlung
+wäre ein Satz im Impressum statt im Text — knapp, ohne Rechtfertigung, weil
+jede Erklärung an dieser Stelle länger wirkt als der Sachverhalt ist.
+
+**Ein Hinweis zur Anschrift, ohne den Auftrag zu ändern.** Die angegebene
+Adresse erfüllt die Impressumspflicht. Sie ist damit für die Lebensdauer der
+Auflage öffentlich und über den Buchhandel dauerhaft auffindbar; ein Postfach
+genügt der Vorschrift nicht. Wenn eine Geschäftsanschrift existiert oder
+eingerichtet werden soll, ist das der Zeitpunkt dafür — sonst bleibt es wie
+angegeben.

@@ -1,4 +1,4 @@
-## Kategorie H · Immobilien- und objektnahe Modelle
+## Kategorie H — Immobilien- und objektnahe Modelle
 
 Zehn Modelle, die alle an einem Gebäude hängen. Das klingt nach einer
 Branchenkategorie und ist in Wahrheit eine Kapitalkategorie: **Die Startsummen in diesen zehn Kapiteln reichen von unter dreitausend bis

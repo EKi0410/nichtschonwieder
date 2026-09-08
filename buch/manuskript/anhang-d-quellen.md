@@ -58,7 +58,18 @@ reichen: **Stimmt das so? Und was fehlt?**
 
 Jeder Punkt steht im Text an der Stelle, an der er auftritt, als
 *(Vor Drucklegung prüfen: …)*. Hier zusammengefasst, nach Kapitel geordnet —
-insgesamt 53 Prüfpunkte in 50 Kapiteln.
+insgesamt 57 Prüfpunkte in 51 Kapiteln — vier davon im Impressum, weil sie
+erst nach der Wahl von Druckerei und Vertriebsweg feststehen.
+
+
+**Impressum**
+
+- Name und Anschrift der Druckerei, nach den Landespressegesetzen im Druckwerk
+  anzugeben.
+- ISBN für die Druckausgabe, gegebenenfalls eine zweite für das E-Book.
+- Umschlaggestaltung und Satz.
+- Jahresangabe: derzeit 2026, muss das Jahr der tatsächlichen Veröffentlichung
+  tragen.
 
 
 **A01**
