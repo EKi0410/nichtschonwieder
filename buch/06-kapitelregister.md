@@ -3970,3 +3970,107 @@ Auflage öffentlich und über den Buchhandel dauerhaft auffindbar; ein Postfach
 genügt der Vorschrift nicht. Wenn eine Geschäftsanschrift existiert oder
 eingerichtet werden soll, ist das der Zeitpunkt dafür — sonst bleibt es wie
 angegeben.
+
+
+---
+
+## Herstellung — die Bauwege stehen, und eine Entscheidung ist erzwungen
+
+Auf Frage des Autors, wie die 136 Dateien für einen Upload bei Amazon KDP
+zusammenkommen. Die Antwort ist eine Kette aus vier Schritten, dokumentiert in
+`build/README.md`. Wichtiger als die Kette ist, was sie gemessen hat.
+
+### Der Befund
+
+Das Buch passt nicht in einen KDP-Band.
+
+| Fassung | Seiten | Rücken | Taschenbuch (max. 828) | Hardcover (max. 550) |
+|---|---:|---:|---|---|
+| ein Band | 906 | 51,8 mm | **nein**, 78 Seiten darüber | nein |
+| Band 1 (Denkweise + A–E) | 423 | 24,2 mm | ja | **ja** |
+| Band 2 (F–J + Teil III + Anhänge) | 504 | 28,8 mm | ja | **ja** |
+
+Gemessen, nicht geschätzt: gesetzt im KDP-Trimformat 6,14 × 9,21 Zoll mit dem
+für 601 bis 828 Seiten vorgeschriebenen Bundsteg von 22,3 mm, Grundschrift
+10,5 pt. Die Seitenplanung in der Architektur hatte 731 Seiten gerechnet, die
+Schlussbilanz 777 — beide mit der Annahme 300 Wörter je Seite. Der Satz liefert
+tatsächlich rund 350 Wörter auf einer vollen Textseite, aber ein Modellkapitel
+hat keine vollen Textseiten: acht Sternefelder, ein Kasten, eine
+Kapitelanfangsseite. Das kostet je Modell etwa anderthalb Seiten, über hundert
+Modelle rund 160.
+
+**Damit ist die dritte offene Autorenentscheidung entschieden, aber nicht von
+mir und nicht durch Kürzen: sie ist von der Druckerei entschieden.** Die drei
+Kürzungsoptionen aus Version 2.1 hätten zusammen rund 20 Seiten gebracht. Es
+fehlen 78.
+
+### Was ich empfehle
+
+**Zwei Bände, ein vollständiges E-Book.** Nicht als Notlösung, sondern weil es
+in drei Punkten besser ist als der eine Band:
+
+1. **Der Preis.** Ein Band mit 906 Seiten kostet im Laden 45 bis 55 €. Zwei
+   Bände von 423 und 504 Seiten liegen bei je 22 bis 28 €. Für eine Zielgruppe
+   von achtzehn bis fünfundzwanzig ist das der Unterschied zwischen einer
+   Anschaffung und einem Verzicht — und der Leser kann mit Band 1 anfangen.
+2. **Hardcover wird möglich.** Bei 906 Seiten ist es ausgeschlossen (KDP-Grenze
+   550). Beide Bände liegen darunter, Band 2 mit 46 Seiten Luft.
+3. **Der Schnitt liegt ohnehin im Buch.** Band 1 endet nach Kategorie E, also
+   nach dem fünfzigsten Modell, und das ist die Stelle, die das Manuskript
+   selbst als Halbzeit von Teil II führt. Band 1 ist die Denkweise plus die
+   kapitalarmen Kategorien A bis E, Band 2 die kapitalintensiven F bis J plus
+   der Weg zum Unternehmen. Die Kategorien stehen von Anfang an in der
+   Reihenfolge kapitalarm nach kapitalintensiv — der Schnitt folgt ihr.
+
+**Was Band 2 noch braucht, wenn es so kommt:** eine eigene kurze Einleitung
+(die vorhandene gehört zu Band 1) und in Band 1 einen Verweis darauf, wo Teil
+III steht. Das Zwischenstück mit dem Bewertungsrahmen und Anhang A stehen im
+Bauweg bereits in beiden Bänden, weil beide sie brauchen. Anhang B bis D
+stehen nur in Band 2 und müssten für Band 1 auf die Kategorien A bis E gekürzt
+werden — das kann das Skript, es ist noch nicht gemacht.
+
+**Die Gegenrechnung, damit die Entscheidung eine bleibt.** Ein Band bliebe
+möglich, wenn Grundschrift auf 9,5 pt, Durchschuss enger und der
+Kapitelanfang ohne freie Seite gesetzt würden. Das bringt geschätzt 80 bis 110
+Seiten und landet damit knapp unter der Grenze. Ich empfehle es nicht: Es gibt
+keinen Puffer für den Satz, und ein enger gesetztes Nachschlagewerk mit
+Sternetabellen wird für die Zielgruppe schwerer lesbar, nicht leichter.
+
+### Drei Sachfehler, die der Satz gefunden hat
+
+Kein Textfehler, aber drei Formfehler, die im Manuskript unsichtbar waren:
+
+1. **Die Modellmatrix war unlesbar.** Die Sternespalte
+   (`4 3 4 3 · 3 5 4 3`) braucht 28 mm, die Spalte hat 23 — sie lief in die
+   Modellspalte hinein und überdruckte sie. Anhang B brauchte dadurch 34 statt
+   8 Seiten. Der Bauweg verdichtet die Spalte jetzt auf die Kurzform, die die
+   Legende von Anhang B ohnehin als das gemeinte Format beschreibt.
+2. **Modellkapitel und Unterabschnitte von Teil I stehen auf derselben
+   Überschriftenebene.** Das ist im Manuskript richtig (`### A01` unter
+   `## Kategorie A`), im Buch aber nicht auflösbar: Ein Inhaltsverzeichnis bis
+   Ebene 2 enthält kein einziges Modell, eines bis Ebene 3 enthält jeden
+   Unterabschnitt von Teil I, insgesamt über 400 Einträge. Der Bauweg hebt
+   Modellkapitel um eine Ebene an. **Für Phase 3 heißt das: Die
+   Überschriftenebene ist kein reines Formatthema, sie ist Gliederung.**
+3. **Der Untertitel des Buches wäre als Kapitel im Inhaltsverzeichnis
+   gelandet**, weil er auf dem Titelblatt als `##` ausgezeichnet ist.
+
+### Was noch nicht Produktionsqualität ist
+
+**Die Schrift.** Gesetzt wird derzeit Liberation Serif als Rückfall; Sterne,
+Pfeile und Mittelpunkte kommen aus einer CJK-Rückfallschrift. Brauchbar für
+einen Andruck, nicht für eine Auflage. Eine Buchschrift ist eine Entscheidung
+des Autors — und sie ändert die Seitenzahl, also auch die Bandaufteilung.
+
+**Der Umschlag.** Fehlt vollständig. Er braucht die Rückenstärke, und die
+steht jetzt fest: 24,2 mm für Band 1, 28,8 mm für Band 2, bei weißem Papier.
+
+**Die ISBN.** Bei zwei Bänden werden es mindestens zwei, mit E-Book vier. Die
+kostenlose KDP-ISBN führt KDP als Verlag und ist außerhalb von Amazon nicht
+verwendbar; eigene ISBN kommen in Deutschland von der MVB. Das ist eine
+Entscheidung darüber, ob das Buch in den Buchhandel soll oder nicht.
+
+**Die KDP-Abfrage zur KI-Nutzung.** KDP fragt beim Upload, ob Inhalte
+KI-generiert oder KI-unterstützt sind. Diese Angabe geht an Amazon und ist von
+der Frage getrennt, ob im Impressum ein Satz dazu steht. Beide Fragen liegen
+beim Autor; die KDP-Angabe ist verpflichtend, der Impressumssatz nicht.

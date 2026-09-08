@@ -1,0 +1,4 @@
+# Bauergebnisse werden erzeugt, nicht versioniert. `bash build/bauen.sh`
+# stellt sie aus dem Manuskript wieder her.
+out/
+__pycache__/
