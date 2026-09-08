@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 85 von 116 Kapiteln (Teil I vollständig, 70 Modelle, 7 Kategorie-Einführungen). **Kategorien A bis G vollständig.** Manuskript ca. 146.400 Wörter / ca. 488 Seiten.
+Stand nach 96 von 116 Kapiteln (Teil I vollständig, 80 Modelle, 8 Kategorie-Einführungen). **Kategorien A bis H vollständig.** Manuskript ca. 166.400 Wörter / ca. 554 Seiten.
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -29,11 +29,11 @@ Stand nach 85 von 116 Kapiteln (Teil I vollständig, 70 Modelle, 7 Kategorie-Ein
 
 | Band | Ziel | vergeben | Modelle |
 |---|---:|---:|---|
-| 8,0–10,0 | 12–18 | 7 | **E47 (8,2)**, **F51 (8,1)**, **G61 (8,1)**, **B19 (8,0)**, **E41 (8,0)**, **F55 (8,0)**, **F57 (8,0)** |
+| 8,0–10,0 | 12–18 | 9 | **H77 (8,3)**, **E47 (8,2)**, **F51 (8,1)**, **G61 (8,1)**, **B19 (8,0)**, **E41 (8,0)**, **F55 (8,0)**, **F57 (8,0)**, **H71 (8,0)** |
 | *Anmerkung* | | | Korrekturen: 10× abwärts, 1× reine Aufwärtskorrektur (A06, +0,3 für den Verkaufsmoment), 1× zweiseitige Bilanz (A04). Damit ist gezeigt, dass das Instrument in beide Richtungen wirkt. |
-| 6,5–7,9 | 35–45 | 35 | B11 (7,8), A05 (7,6), E49 (7,6), B18 (7,5), A02 (7,4), D31 (7,4), F56 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), E43 (7,3), A10 (7,2), B14 (7,2), D40 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), D32 (6,9), D36 (6,9), C21 (6,8), C26 (6,8), D33 (6,8), F52 (6,8), E45 (6,7), A03 (6,7), D35 (6,6), A01 (6,6), F54 (6,6), F58 (6,6), G70 (7,6), G63 (7,0), G65 (6,7), G64 (6,5) |
-| 5,0–6,4 | 25–35 | 23 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), E42 (6,0), E44 (6,0), F59 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), E46 (5,8), D39 (5,7), F53 (5,7), C22 (5,6), E48 (5,6), C27 (5,4), D34 (5,2), E50 (5,2), G69 (6,1), G67 (5,7), G66 (5,6), G68 (5,1) |
-| unter 5,0 | 10–15 | 5 | F60 (4,9), D37 (4,8), **G62 (4,8)**, C30 (4,4), D38 (4,2) — alle mit dem Pflichtabschnitt „Was fehlen müsste" |
+| 6,5–7,9 | 35–45 | 37 | B11 (7,8), A05 (7,6), E49 (7,6), B18 (7,5), A02 (7,4), D31 (7,4), F56 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), E43 (7,3), A10 (7,2), B14 (7,2), D40 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), D32 (6,9), D36 (6,9), C21 (6,8), C26 (6,8), D33 (6,8), F52 (6,8), E45 (6,7), A03 (6,7), D35 (6,6), A01 (6,6), F54 (6,6), F58 (6,6), G70 (7,6), G63 (7,0), G65 (6,7), G64 (6,5), H74 (7,8), H80 (6,8) |
+| 5,0–6,4 | 25–35 | 27 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), E42 (6,0), E44 (6,0), F59 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), E46 (5,8), D39 (5,7), F53 (5,7), C22 (5,6), E48 (5,6), C27 (5,4), D34 (5,2), E50 (5,2), G69 (6,1), G67 (5,7), G66 (5,6), G68 (5,1), H75 (6,3), H78 (5,9), H76 (5,8), H79 (5,5) |
+| unter 5,0 | 10–15 | 7 | F60 (4,9), **H72 (4,9)**, D37 (4,8), **G62 (4,8)**, **H73 (4,6)**, C30 (4,4), D38 (4,2) — alle mit dem Pflichtabschnitt „Was fehlen müsste" |
 
 **Stand der Gegensteuerung nach 70 Modellen:**
 
@@ -1042,7 +1042,7 @@ Fördermittel-Preissatz.
 Notenspanne 5,8 bis 8,0. Zusage der Einführung eingehalten: nur B17 trägt den
 Marker „sofort startbar".
 
-**Softwareantworten im Buch — achtzehn Muster, alle zu erhalten:**
+**Softwareantworten im Buch — zwanzig Muster, alle zu erhalten:**
 B11 Bedingung 3 nicht erfüllt → nein · C21 erfüllt → ja · B17 erfüllt, aber
 Werkzeug käuflich → nein · B19 erfüllt und Werkzeug nicht käuflich → ja ·
 **C22 erfüllt, aber die Daten gehören anderen → nein** · **C23 erfüllt und die
@@ -1057,7 +1057,7 @@ kaputt macht → nein** · **F55 erfüllt, vorhandene Werkzeuge sind Vorprodukt 
 Wettbewerber → ja** · **F57 erfüllt, Werkzeug für den eigenen Betrieb, Markt
 zweitrangig → ja** · **F58 erfüllt, aber der Wert liegt im Raum und nicht im
 Datensatz → nein** · **G70 erfüllt, aber nur für einen Teil: Portal gekauft,
-prüffähiges Protokoll selbst gebaut → ja, geteilt**.
+prüffähiges Protokoll selbst gebaut → ja, geteilt** · **H71 erfüllt, und die Software ersetzt eine Stelle, bevor sie einen Fremdkunden hat → ja, zwingend** · **H74 dieselbe Kundenwelt, aber fünfzig Objekte erzeugen diese Entlastung nicht → nein**.
 
 ### Kategorie-Einführung C — KI mit klarem Prozessbezug
 442 Wörter. Aufnahmekriterium wörtlich genannt: benennbarer Prozess plus eine
@@ -2640,6 +2640,366 @@ zwei Sternen oder darunter". Nachgezählt sind es **neun von zehn**; nur G70 lie
 bei drei. Im Text korrigiert. Lehre für H bis J: Aussagen einer
 Kategorie-Einführung über ihre zehn Kapitel erst nach dem zehnten Kapitel
 festschreiben — G00 macht drei solcher Zusagen, zwei waren richtig.
+
+---
+
+### H00 · Kategorie-Einführung Immobilien- und objektnahe Modelle
+533 Wörter. **Die Trennlinie der Kategorie, die alles ordnet:** *Modelle am
+Objekt* (du mietest, kaufst oder betreibst Fläche — H73, H75, H77, H78 ab
+Stufe 3) gegen *Modelle über das Objekt* (du übernimmst Pflichten des
+Eigentümers — H71, H72, H74, H76, H79, H80). Sechs von zehn gehören zur zweiten
+Art, und das ist eine Empfehlung, kein Zufall der Auswahl.
+**Denkfehler:** die Rendite auf dem Papier rechnen und den Betrieb vergessen.
+Prüfsatz: **Rechne mit achtzig Prozent Auslastung und frag dich, ob es dann noch
+funktioniert.**
+**Fristenfalle:** „Du unterschreibst zehn Jahre und verkaufst zwölf Monate" —
+in H73 durchgerechnet.
+**Zusagen, alle nachgerechnet:** sofort startbar zwei von zehn (H79, H80) ·
+drei Modelle brauchen eine Bank (H73, H75, H77), ein viertes ab Stufe 3 (H78) ·
+beste Note des Buches in dieser Kategorie.
+**Nicht wiederverwenden:** die Trennung am/über das Objekt · der
+Achtzig-Prozent-Prüfsatz · der Fristensatz.
+
+### H71 · Digitale Objektakte und Verkehrssicherungsnachweis für Hausverwaltungen — LEITMODELL
+2.392 Wörter · Note **8,0** (rechn. 8,0, keine Korrektur) · Sterne 4/4/3/**5** ·
+4/4/4/3 · Stufe 2 → 6, Stufe 7 bedingt. **Achtes Modell im Spitzenband.**
+**Kernthese:** **„Nicht die Prüfung fehlt, sondern der Beweis, dass sie
+stattgefunden hat."** Marktlogik dahinter: **„Die Pflicht wächst, die Vergütung
+nicht."**
+**Bewusster Verzicht als Produktkern:** Upsell nur 3 Sterne, weil die Prüfungen
+selbst nicht verkauft werden — **„Wer den Nachweis führt, soll die Leistung
+nicht verkaufen."** Derselbe Grundsatz in H74 und H76.
+**Stufe 6 mit der stärksten internen Amortisation des Buches:** Die Software
+ersetzt eine Stelle, bevor sie einen Fremdkunden hat. Achtzehntes bis
+neunzehntes Softwaremuster — siehe Liste.
+**Preise:** Ersterfassung 400–1.200 € je Objekt · Abo 30–80 € je Objekt und
+Monat · zweite Rechnung bei 220 Objekten zeigt, warum Stufe 5 dort nicht mehr
+optional ist.
+**Erster Vertriebsweg:** die Verwalterwechsel — der einzige Moment, in dem ein
+Verwalter selbst eine Bestandsaufnahme sucht. Einstiegsfrage: „Nennen Sie mir
+ein Objekt, das Sie letztes Jahr übernommen haben."
+**Umfangsüberschreitung (2.392 statt max. 2.350) — Begründung:** zwei
+Beispielrechnungen (heute und in drei Jahren) plus die
+Stufe-6-Zwingend-Begründung.
+**Recherchestand:** Zu prüfen: Reichweite der Vermögensschadenhaftpflicht für
+Verwalter, Umlagefähigkeit von Kosten der Verkehrssicherung und
+Betreiberdokumentation.
+**Nicht wiederverwenden:** der fallende Ast als Einstieg · „Pflicht wächst,
+Vergütung nicht" · Verwalterwechsel als Vertriebsweg · der Nachweis-statt-
+Leistung-Grundsatz (ab hier nur noch verweisen).
+
+### H72 · Sondereigentumsverwaltung für private Kapitalanleger
+1.930 Wörter · Note **4,9** (rechn. 5,3, **−0,4**: **die Zahl der Kunden, die
+du brauchst, steht im Widerspruch zur Zeit, die jeder einzelne kostet**) ·
+Sterne **2**/3/3/4 · **2**/4/**2**/**2** · Ziel nur 4.
+
+**★ SECHSTES MODELL UNTER 5,0 ★** Mit Pflichtabschnitt „Was fehlen müsste".
+
+**Warum es im Buch steht:** Es ist das am häufigsten empfohlene
+Einstiegsmodell im Immobilienbereich, und die Empfehlung ist falsch — nicht
+wegen der Idee, sondern wegen der Dimensionierung. **„Es verlangt Menge, und
+Menge ist genau das, was es nicht verträgt."**
+**Die Zahl des Kapitels:** hundertzwanzig Einheiten bedeuten
+**hundertsechzig Menschen mit deiner Telefonnummer** für 3.400 € Umsatz.
+**Preise:** 20–35 € je Wohnung und Monat · Mieterwechsel 250–500 € · 120
+Einheiten ≈ 3.885 €, davon 2.425 € Ergebnis für eine volle Stelle.
+**Erster Vertriebsweg:** die Vertriebe, die Anlagewohnungen verkaufen — mit dem
+harten Haken, dass viele eine eigene Verwaltung haben. **Drittes Auftreten des
+Musters „dein Vertriebsweg ist dein Wettbewerber"** nach D37 und F60 — ab hier
+nur noch als Verweis.
+**Was fehlen müsste:** Mindestportfolio ab fünf Einheiten · Preis über 40 € mit
+Nähe begründet · alles Unregelmäßige aus der Pauschale · **Kundengruppe
+wechseln — damit ist man bei H74 mit 7,8.** Muster: „Drei von vier
+Verbesserungen bestehen darin, weniger Kunden mit mehr Einheiten zu bedienen."
+**Recherchestand:** Zu prüfen: Erlaubnispflicht für Wohnimmobilienverwalter,
+Weiterbildungspflichten, Verwahrung von Kautionen und Fremdgeldern.
+**Nicht wiederverwenden:** die Telefonnummer-Zählung · „wachse geografisch,
+nicht nach Kunden" · die Zehn-Prozent-Aufwandsverteilung.
+
+### H73 · Flexible Büroflächen in B-Städten
+2.037 Wörter · Note **4,6** (rechn. 5,3, **−0,7** — der zweitgrößte Abzug des
+Buches: **die Note muss auch aussagen, was passiert, wenn ein Modell nicht
+funktioniert**; hier bleibt eine Verbindlichkeit, die weiterläuft) ·
+Sterne 3/3/3/4 · **2**/**1**/**2**/**2** · Ziel nur 4.
+
+**★ SIEBTES MODELL UNTER 5,0 ★** Mit Pflichtabschnitt „Was fehlen müsste".
+
+**Das Rechenkapitel der Kategorie.** Zwei Beispielrechnungen mit demselben
+Objekt: bei 75 % Auslastung **minus 600 €**, bei 90 % **plus 1.810 €** — und mit
+Zinsen braucht das Modell über neunzig Prozent. **Fünfzehn Prozentpunkte
+entscheiden über alles, und der Unterschied sind neun Arbeitsplätze.**
+**Preise:** 250–350 € je Arbeitsplatz und Monat · Anmietung 8,50 €/m².
+**Erster Vertriebsweg:** die Wirtschaftsförderung der Stadt — mit dem ehrlichen
+Einwand, dass der Kontakt erst trägt, wenn gebaut ist, und das bei diesem Modell
+die falsche Reihenfolge ist.
+**Was fehlen müsste:** Ankermieter vor dem Mietvertrag · kurze Grundlaufzeit ·
+**fremde Fläche statt eigener Ausbau (Betreibermodell: Kapitalleichtigkeit vier
+statt ein Stern) — die einzige Änderung, die über sechs Punkte bringt** · oder
+die kleine Testvariante für unter 20.000 €.
+**Nicht wiederverwenden:** die Auslastungs-Doppelrechnung · „prüf, was im
+Scheitern übrig bleibt" · „kein Wettbewerber ist zweimal ein Signal".
+
+### H74 · Betreiberpflichten-Management für Eigentümer von Gewerbeimmobilien
+1.898 Wörter · Note **7,8** (rechn. 8,0, **−0,2**, Grund außerhalb der Boxen:
+**dieses Modell wird laufend versucht, in eine Haftungsübernahme zu verwandeln —
+von Kunden, die gut zahlen**) · Sterne 4/3/4/**5** · 4/4/**5**/3 · Stufe 2 → 5.
+**Bemerkenswert im Vergleich zu H71:** **Das Modell mit dem größeren Abstand
+zur Haftung hat die höhere Note.** Diese Richtung ist beabsichtigt und im
+Kapitel benannt.
+**Kernthese:** Pflichten sind **delegierbar, aber nicht abwählbar** — Auswahl,
+Unterrichtung und Überwachung bleiben beim Eigentümer.
+**Verkaufsmoment:** zwei Betreiberklauseln aus seinen eigenen Mietverträgen
+prüfen. Kostet einen Tag, beweist das Problem in einer Stunde.
+**Preise:** Pflichtenanalyse 2.500–9.000 € je Objekt · 200–600 € je Objekt und
+Monat · 18 Objekte ≈ 9.090 € Umsatz, 7.240 € Ergebnis — **18 Objekte aus sechs
+Kundengesprächen**, der höchste Umsatz je Vertriebskontakt der Kategorie.
+**Erster Vertriebsweg:** die technische Due Diligence beim Ankauf — das Problem
+ist von einem Dritten schriftlich festgestellt. Ausdrücklich nicht über die
+Berichte (vertraulich), sondern über das Objekt.
+**Stufe 6 nein**, und der Grund ist lehrreich: Bei fünfzig Gewerbeobjekten
+scheitert der Dreifachtest an der internen Amortisation — **derselbe Test,
+denselbe Kundenwelt, andere Antwort als H71.**
+**Recherchestand:** Zu prüfen: Reichweite der Delegation von Betreiberpflichten,
+Pflichten zu Auswahl/Unterrichtung/Überwachung, Bestellung von Beauftragten.
+**Nicht wiederverwenden:** die Due Diligence als Vertriebsweg · „wer zur Kette
+gehört, kann sie nicht überwachen" · „das gefährlichste Angebot ist das, das
+mehr Geld bringt".
+
+### H75 · Möbliertes Wohnen für Monteure und Projektmitarbeiter — KOMPAKT
+1.476 Wörter · Note **6,3** (rechn. 6,5, **−0,2**: **sieht auf dem Papier wie
+Vermietung aus und ist in der Praxis Gastgewerbe**) · Sterne 4/4/**2**/4 ·
+3/**1**/3/**2** · Ziel nur 4.
+**Kernunterscheidung:** **„Der Kunde ist die Firma, nicht der Monteur."**
+**Preise:** 28–45 € je Bett und Nacht gegen 70–95 € im Hotel · 16 Betten bei
+70 % ≈ 11.424 €, Ergebnis 6.324 € — **bei 40 % Auslastung 1.428 € Verlust.**
+**Erster Vertriebsweg:** die Bautafeln. **„Der Vertriebsweg steht an der Straße,
+und er nennt die Firmennamen."** Dazu Genehmigungen und Ausschreibungen, die
+Monate vorher öffentlich sind.
+**Recherchestand:** Zu prüfen: Abgrenzung Wohnnutzung und Beherbergung,
+Nutzungsänderung und Brandschutz, Meldepflichten, örtliche
+Übernachtungsabgaben.
+**Nicht wiederverwenden:** die Hotelkostenrechnung · Bautafeln als Vertriebsweg
+· „wo private Anbieter aus Bequemlichkeit nicht hingehen, ist Platz".
+
+### H76 · Energieausweis und Sanierungsfahrplan für Eigentümer von Mehrfamilienhäusern
+1.870 Wörter · Note **5,8** (rechn. 6,1, **−0,3**: **ein großer Teil der
+Nachfrage entsteht aus Förderprogrammen, über die politisch entschieden wird**)
+· Sterne 3/4/4/**2** · 3/4/3/**2** · Ziel nur 4.
+**Verkaufsargument, nicht Klimaschutz:** doppelte Gerüste und eine
+überdimensionierte Heizung. **„Eine Sanierung in der falschen Ordnung kostet
+zwei bis drei Maßnahmen doppelt."**
+**Der Befund über das Nebenprodukt:** Der Billigausweis für 79 € hat den Ruf des
+Hauptprodukts beschädigt — **„ein billiges Nebenprodukt kann dein Hauptprodukt
+entwerten."**
+**Preise:** Energieausweis 250–600 € · Fahrplan 1.500–4.000 € ·
+Umsetzungsbegleitung 300–800 € im Monat · vier Fahrpläne im Monat ≈ 11.250 €
+Umsatz, 9.440 € Ergebnis — **und im Monat ohne Verkauf bleiben 1.800 € Kosten.**
+**Erster Vertriebsweg:** die Schornsteinfeger — der einzige Berufsstand, der
+jedes Jahr jeden Heizungsraum betritt. **Mit der ausdrücklichen Grenze: keine
+Provisionen, weil es ein Hoheitsberuf mit Nebentätigkeitsregeln ist.**
+**Recherchestand:** Zu prüfen: Voraussetzungen der Ausstellungsberechtigung,
+Eintragung in die Energieeffizienz-Expertenliste, Förderfähigkeit von
+Energieberatung und Sanierungsfahrplänen.
+**Nicht wiederverwenden:** Schornsteinfeger als Vertriebsweg · die
+Gerüstrechnung · „neunzig Prozent Rohmarge ohne Wiederkehr ist keine
+Sicherheit".
+
+### H77 · Selfstorage in Klein- und Mittelstädten mit automatisiertem Betrieb — LEITMODELL
+2.508 Wörter · Note **8,3 — die höchste Note dieses Buches** (rechn. 8,5,
+**−0,2**: **das einzige Modell im Buch, in dem ein einziger Fehler nicht
+korrigierbar ist** — das Kapital steckt in einem Gebäude an einem Ort) ·
+Sterne **5**/4/3/**5** · 4/**1**/**5**/4 · Stufe 2 → 5.
+**Zwei Fünf-Sterne-Werte plus fünf Sterne bei Recurring — die stärkste
+Sternenzeile des Buches, mit einem einzigen Stern bei Kapitalleichtigkeit.**
+**Kernthese:** **„Der Quadratmeter, den niemand als Wohnraum haben will, ist als
+Lagerfläche der teuerste im Ort."** Und die Beobachtung, die das Modell
+trägt: **„Die Kündigung kommt nicht."**
+**Ausdrücklich benannte Ethikstelle:** Ein Geschäft, das von Trägheit lebt,
+wird nicht schöngeredet — monatliche Kündigung, anteilige Rückerstattung,
+**„wer es ausnutzt, verdient kurzfristig mehr und beschädigt seinen einzigen
+Vorteil."**
+**Der Widerspruch, der ausdrücklich nicht aufgelöst wird:** Das Buch schreibt
+für Achtzehn- bis Fünfundzwanzigjährige, und die höchste Note steht auf einem
+Modell ab 200.000 € Eigenkapital. Begründung: **Kapitalleichtigkeit wiegt fünf
+Prozent, weil sie sagt, wie schwer der Anfang ist — nicht, wie gut das Geschäft
+ist.** Daraus die Rechtfertigung des Startbarkeits-Markers für das ganze
+Buch: **„Die Note sagt, was das Geschäft wert ist. Der Marker sagt, ob du
+drankommst."** Gegenpol ist E47 (8,2) — ein Fahrzeug und eine Qualifikation.
+**Preise:** 8–20 € je m² und Monat · 1.000 m² Boxenfläche bei 85 % ≈ 11.900 €,
+Ergebnis **6.650 € bei rund acht Stunden Arbeit in der Woche** · bei 55 %
+Auslastung immer noch 2.600 € — **der direkte Gegensatz zu H73.**
+**Erster Vertriebsweg:** die Handwerksbetriebe als Ankermieter — ausdrücklich
+gegen die naheliegende Reihenfolge (erst Privatkundenwerbung). Zweiter Weg: die
+Sichtbarkeit des Standorts selbst.
+**Wer haftet:** **Miete, nicht Verwahrung.** Ein Lagervertrag mit Obhutspflicht
+würde für den Inhalt haftbar machen.
+**Umfangsüberschreitung (2.508 statt max. 2.350) — Begründung:** Spitzennote des
+Buches plus die Startbarkeits-Argumentation, auf der der Marker aller hundert
+Kapitel beruht. **Die einzige bewusste Überschreitung dieser Kategorie neben
+H71.**
+**Recherchestand:** Zu prüfen: durchschnittliche Mietdauern im Selfstorage,
+Abgrenzung Miet- und Lagervertrag, Nutzungsänderung und Brandschutz bei
+Lagernutzung, Vermieterpfandrecht und Verwertung bei Zahlungsverzug.
+**Nicht wiederverwenden:** der Wohnraum-gegen-Lagerfläche-Vergleich · „die
+Kündigung kommt nicht" · die Trennung von Wert und Erreichbarkeit · „was mit
+Geld skaliert, skaliert planbar".
+
+### H78 · Dachflächenvermarktung für Photovoltaik auf Gewerbehallen
+1.988 Wörter · Note **5,9** (rechn. 6,3, **−0,4**: **du wirst einmal bezahlt für
+eine Beziehung, die zwanzig Jahre läuft**) · Sterne 3/4/3/**2** · 3/4/4/**2** ·
+Ziel nur 3.
+**Der beste Vertriebsweg-Gedanke der Kategorie:** **„Über die Netzkapazität,
+nicht über die Dächer."** Der Engpass wird zum Auswahlkriterium — erst der
+Netzabschnitt mit freier Kapazität, dann die Dächer darin.
+**Preise:** Provision 15.000–60.000 € je Dach · sechs Abschlüsse im Jahr ≈
+14.000 € im Monat, Ergebnis 11.400 € — **aus etwa vierzig geprüften Dächern, und
+ob es drei oder sechs werden, entscheiden Netz und Förderlage.**
+**Größter Hebel im Urteil:** Beteiligung an der Dachpacht statt Provision —
+kostet zwei Drittel des ersten Ertrags und macht ein Bestandsgeschäft daraus.
+**Recherchestand:** Zu prüfen: Verfügbarkeit und Aussagekraft von
+Netzkapazitätsinformationen der Netzbetreiber.
+**Nicht wiederverwenden:** die Netzkapazität als Vertriebsweg · „such den
+begrenzenden Faktor und mach ihn zum Vertriebsweg" · „zu klein für den Großen,
+zu komplex für den Kunden".
+
+### H79 · Abnahmebegleitung für private Käufer von Neubauwohnungen — KOMPAKT
+1.681 Wörter · Note **5,5** (rechn. 5,8, **−0,3**, Grund außerhalb der Boxen:
+**du stehst als Einzelperson gegen die Routine eines Bauträgers, und dein Kunde
+erwartet, dass du ihn dabei vertritt**) · Sterne 3/4/3/**1** · **2**/**5**/4/**2**
+· Ziel nur 4. **Sofort startbar.**
+**Erster einzelner Stern bei Recurring Revenue im ganzen Buch** — begründet mit:
+**„Empfehlung ersetzt Werbung, nicht Umsatz."**
+**Kernthese:** Mit der Abnahme kehrt sich die Beweislast um. **„Wer einziehen
+will, unterschreibt."**
+**Preisargument des Kapitels:** 700 € sind viel, zwei Promille des Kaufpreises
+sind es nicht — **dieselbe Zahl.**
+**Preise:** 450–900 € je Termin · Paket 1.200–2.500 € · 18 Termine im Monat ≈
+12.240 €, Ergebnis 10.620 € **im guten Monat** — Januar und August fallen aus.
+**Erster Vertriebsweg:** die Erwerbergemeinschaft eines einzigen Bauvorhabens.
+**„Man kommt hinein, indem man hilft, und man fliegt hinaus, indem man
+verkauft."**
+**Rollengrenze:** keine Rechtsberatung. **„Ich sage Ihnen, was falsch ist, nicht
+was Sie unterschreiben sollen."**
+**Recherchestand:** Zu prüfen: Wirkung der Abnahme auf Beweislast und
+Verjährung, Wirksamkeit von Abnahmeklauseln in Bauträgerverträgen, Grenzen
+erlaubter Rechtsdienstleistung für Bausachverständige.
+**Nicht wiederverwenden:** die Zwei-Promille-Rechnung · die
+Erwerbergemeinschaft als Vertriebsweg · „Sichtbarkeitsproblem statt
+Angebotsproblem".
+
+### H80 · Umbauprojektsteuerung für Praxen und Kanzleien
+2.110 Wörter · Note **6,8** (rechn. 7,0, **−0,2**: **du haftest terminlich für
+Gewerke, die du nicht führst**) · Sterne 4/4/4/**2** · 3/**5**/4/3 · Ziel nur 4.
+**Sofort startbar.**
+**Kernthese:** **„Der Schaden liegt nicht im Bau, sondern im Betrieb."** Sechs
+Wochen Verzug bei 45.000 € Monatsumsatz sind rund 67.000 € — **mehr als der
+halbe Umbau.**
+**Nutzenwährung:** zweitausend Euro pro Tag früher eröffnen. **„Nenn den Nutzen
+in der Währung des Kunden."**
+**Preise:** 6–9 % der Bausumme oder 8.000–25.000 € je Projekt · fünf parallele
+Projekte ≈ 15.400 € Umsatz, 13.320 € Ergebnis — **fünf sind das Maximum einer
+Person, und die Auftragskette reißt lautlos.**
+**Erster Vertriebsweg:** die Eigentümer von Ärztehäusern. **Ausdrücklich anders
+als G62, F53 und G67**, die alle über die Praxis gehen: Hier führt der Weg über
+den, dem der Raum gehört — die Kategorielogik dieses Kapitels.
+**Stufe 4 als eigentlicher Sprung:** das Gewerkenetz macht aus der Behauptung
+„zwei Wochen früher" eine belegbare Zusage.
+**Recherchestand:** Zu prüfen: notwendige Anzeigen und Abnahmen bei
+Praxisumbauten, Anforderungen an Röntgenräume und Hygienebereiche.
+**Nicht wiederverwenden:** die Verzugsrechnung einer Praxis · das Gewerkenetz
+als Verteidigungsmerkmal · „Projektgeschäfte haben eine Auftragskette, keine
+Auslastungsschwankung".
+
+---
+
+**Kategorie H abgeschlossen.** 11 Kapitel, 20.423 Wörter, ca. 68 Seiten.
+Notenspanne **4,6 bis 8,3**, Kategorieschnitt **6,39**. **Die größte Spreizung
+aller Kategorien** — und die einzige, die gleichzeitig die höchste Note des
+Buches und zwei Modelle unter 5,0 enthält.
+
+**Zehn verschiedene erste Vertriebswege:** Verwalterwechsel (H71),
+Anlagewohnungsvertriebe (H72), Wirtschaftsförderung (H73), technische Due
+Diligence (H74), Bautafeln (H75), Schornsteinfeger (H76), Handwerksbetriebe als
+Ankermieter (H77), Netzkapazität (H78), Erwerbergemeinschaft (H79), Eigentümer
+von Ärztehäusern (H80). **Geprüft gegen alle 70 vorherigen Modelle: keine
+Dublette.** Die geplante Kollision (Versicherungsmakler in H70) war die letzte;
+seither wird der Weg vor dem Schreiben der Vertriebsbox geprüft.
+
+**Kategorie-Eigenheiten, die nicht wiederkehren dürfen:** die Trennung
+am/über das Objekt · der Achtzig-Prozent-Auslastungsprüfsatz · der
+Nachweis-statt-Leistung-Grundsatz (H71, H74, H76 — dreimal verbraucht).
+
+---
+
+## Befunde nach 80 Modellen
+
+**1. Notenverteilung.**
+
+| Band | Ziel (100) | Ist (80) | Rest 20 muss liefern |
+|---|---:|---:|---|
+| 8,0–10,0 | 12–18 | **9** | 3 bis 9 |
+| 6,5–7,9 | 35–45 | **37** | 0 bis 8 — **weiterhin der Engpass** |
+| 5,0–6,4 | 25–35 | **27** | 0 bis 8 |
+| unter 5,0 | 10–15 | **7** | **3 bis 8** |
+
+Spitzenband: **H77 8,3** · E47 8,2 · F51 8,1 · G61 8,1 · B19 8,0 · E41 8,0 ·
+F55 8,0 · F57 8,0 · **H71 8,0**.
+Unter 5,0: **H73 4,6** · D38 4,2 · C30 4,4 · D37 4,8 · G62 4,8 · **H72 4,9** ·
+F60 4,9.
+
+**Zielaufteilung für I und J (20 Modelle):** etwa **4 im Spitzenband, 5 im
+Mittelband, 6 im unteren Mittelband, 5 unter 5,0.** Kategorie I (Medien,
+Bildung, Community) trägt das untere Band, Kategorie J (Plattform, Vermittlung)
+beide Enden.
+
+**2. Umfangskontrolle nach 80 Modellen.**
+
+| Ebene | Anzahl | Ø Wörter | Ziel | Abweichung |
+|---|---:|---:|---:|---:|
+| Leitmodelle | 16 | 2.341 | 2.260 | +4 % |
+| Standardkapitel | 44 | 1.956 | 1.800 | +9 % |
+| Kompakte Vollkapitel | 20 | 1.381 | 1.400 | −1 % |
+
+**Entscheidung des Autors erforderlich (§25 — nicht eigenmächtig geändert).**
+Die Standardkapitel liegen seit Kategorie C stabil bei rund 1.960 Wörtern, und
+zwar nicht aus Nachlässigkeit: Die Vorlage verlangt in jedem Kapitel fünfzehn
+Abschnitte, acht erklärte Boxen mit je Zahl, Logik, Grenze und
+Sternebegründung, drei bis sieben Herausforderungen, einen Startplan und drei
+bis fünf Learnings. In H wurden fünf Kapitel nachträglich gekürzt; keines ließ
+sich unter etwa 1.900 Wörter bringen, ohne eine Box auf Behauptungen zu
+reduzieren. **Der Zielwert von 1.800 Wörtern ist mit dem Pflichtinhalt der
+Vorlage nicht erreichbar.**
+
+Drei Varianten:
+- **Variante 1:** Zielwert für Standardkapitel auf **1.950** anheben. Folge:
+  Teil II landet bei rund 197.000 Wörtern, das Buch bei etwa **755 Seiten** statt
+  731. Kein Eingriff in fertige Kapitel.
+- **Variante 2:** Zielwert halten und einen Pflichtinhalt für Standardkapitel
+  streichen — realistisch die Beispielrechnung oder die Learnings von fünf auf
+  drei begrenzen. Folge: 60 Kapitel wären anzupassen, und das Buch verliert
+  genau die Stellen, die es überprüfbar machen.
+- **Variante 3:** Die Mischung ändern: 20 Leitmodelle, **50** Standardkapitel,
+  **30** kompakte Vollkapitel. Folge: zehn heute als Standard geplante Modelle
+  aus I und J werden kompakt geschrieben, der Seitenumfang bleibt im Plan.
+
+**Empfehlung: Variante 1.** Vierundzwanzig Seiten auf 731 sind 3,3 Prozent, und
+die Alternative kostet Substanz. Bis zur Entscheidung wird in I und J auf
+1.850–1.950 geschrieben, damit keine Variante ausgeschlossen wird.
+
+Zusätzlich als Regel bereits umgesetzt: **Standardkapitel unter 5,0 dürfen
+1.950 Wörter überschreiten**, weil sie mit „Was fehlen müsste" einen elften
+Abschnitt tragen (H72, H73).
+
+**3. Neunzehntes Softwareantwort-Muster.**
+`Stufe 6 ja, weil die Software eine Stelle ersetzt, bevor sie einen Fremdkunden
+hat` (H71) — die stärkste interne Amortisation des Buches. Dazu der
+Gegenfall im selben Kundenfeld: **H74 nein, weil fünfzig Objekte diese
+Entlastung nicht erzeugen.** Beide Muster in der Liste ergänzt.
+
+**4. Zwei Grundsätze, die jetzt dreimal verwendet sind und ab I nur noch
+verwiesen werden dürfen:**
+- „Wer den Nachweis führt, soll die Leistung nicht verkaufen" (H71, H74, H76).
+- „Dein Vertriebsweg ist dein Wettbewerber" (D37, F60, H72).
 
 ---
 

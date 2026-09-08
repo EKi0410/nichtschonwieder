@@ -4,24 +4,28 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     85 / 116 Kapitel und Modelle final
+Gesamt:     96 / 116 Kapitel und Modelle final
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
-Teil II:    70 / 100 Modelle — A bis G VOLLSTÄNDIG
-            14 / 20 Leitmodelle
-            38 / 60 Standardkapitel
-            18 / 20 kompakte Vollkapitel
-            7 / 10 Kategorie-Einführungen
-Umfang:     ca. 146.000 Wörter / ca. 486 Seiten geschrieben
+Teil II:    80 / 100 Modelle — A bis H VOLLSTÄNDIG
+            16 / 20 Leitmodelle
+            44 / 60 Standardkapitel
+            20 / 20 kompakte Vollkapitel — ALLE VERBRAUCHT
+            8 / 10 Kategorie-Einführungen
+Umfang:     ca. 166.400 Wörter / ca. 554 Seiten geschrieben
 Prognose:   Teil II hochgerechnet ca. 193.000 Wörter (Plan 185.700),
             also ca. 24 Seiten über Plan — 3,3 %, innerhalb der Toleranz
 Teil III:   0 / 8 Kapitel
 Rahmen:     0 / 1 Einleitung, 0 / 1 Nachwort, 0 / 4 Anhänge
 Zielumfang: ca. 730 Seiten / 212.000 Wörter, ein Band
-Status:     KAPITELENTWICKLUNG, Teil II — Kategorie H als nächste
-Offen zur   Zielkorridor Satzlänge: korrekt gemessen liegt das Manuskript
-Entschei-   bei Ø 11,6 Wörtern, der Korridor in 03-kapitelvorlage bei
-dung:       12,5–14,5. Drei Varianten stehen im Register (Befunde nach
-            70 Modellen, Punkt 1) — nicht eigenmächtig geändert.
+Status:     KAPITELENTWICKLUNG, Teil II — Kategorie I als nächste
+Offen zur   (1) Zielkorridor Satzlänge: korrekt gemessen Ø 11,6 Wörter
+Entschei-   gegen 12,5–14,5 in der Vorlage — drei Varianten im Register
+dung:       (Befunde nach 70 Modellen, Punkt 1). (2) Zielumfang der
+            Standardkapitel: 1.800 Wörter sind mit dem Pflichtinhalt der
+            Vorlage nicht erreichbar, tatsächlich 1.956 — drei Varianten
+            im Register (Befunde nach 80 Modellen, Punkt 2), Empfehlung
+            Variante 1 (Zielwert 1.950, Buch ca. 755 Seiten).
+            Beides nach §25 nicht eigenmächtig geändert.
 ```
 
 ## Getroffene Entscheidungen
@@ -181,12 +185,25 @@ dung:       12,5–14,5. Drei Varianten stehen im Register (Befunde nach
 | Teil II, G69 — Fahrzeugbeschriftung im Abo | 1.665 | ca. 5,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, G70 — Sensorik-Nachrüstsets Kühlketten | 2.171 | ca. 7,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | **Kategorie G, Summe** | **20.631** | **ca. 69** | **vollständig, 11 Kapitel** |
+| Teil II, Einführung Kategorie H | 533 | ca. 1,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, H71 — Digitale Objektakte Hausverwaltungen *(Leitmodell)* | 2.392 | ca. 8,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, H72 — Sondereigentumsverwaltung Kapitalanleger | 1.930 | ca. 6,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, H73 — Flexible Büroflächen B-Städte | 2.037 | ca. 6,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, H74 — Betreiberpflichten Gewerbeimmobilien | 1.898 | ca. 6,3 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, H75 — Möbliertes Wohnen für Monteure | 1.476 | ca. 4,9 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, H76 — Energieausweis und Sanierungsfahrplan | 1.870 | ca. 6,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, H77 — Selfstorage Kleinstädte *(Leitmodell)* | 2.508 | ca. 8,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, H78 — Dachflächenvermarktung Photovoltaik | 1.988 | ca. 6,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, H79 — Abnahmebegleitung Neubaukäufer | 1.681 | ca. 5,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, H80 — Umbauprojektsteuerung Praxen | 2.110 | ca. 7,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| **Kategorie H, Summe** | **20.423** | **ca. 68** | **vollständig, 11 Kapitel** |
 
 ## Änderungsprotokoll
 
 | Version | Änderung |
 |---|---|
 | 1.0 | Erstfassung: Struktur, 100 Modelle, Bewertungssystem, Voice Bible 0.1 |
+| 1.8 | Kategorie H vollstaendig (11 Kapitel, 20.423 Woerter). **H77 traegt mit 8,3 die hoechste Note des Buches** - und ist gleichzeitig das Modell mit dem hoechsten Kapitalbedarf. Der Widerspruch wird im Kapitel ausdruecklich nicht aufgeloest, sondern zur Begruendung des Startbarkeits-Markers aller hundert Kapitel gemacht: Die Note sagt, was das Geschaeft wert ist, der Marker sagt, ob der Leser drankommt. H71 (8,0) ist das neunte Spitzenbandmodell und traegt die staerkste interne Softwareamortisation des Buches; H74 (7,8) gibt im selben Kundenfeld die umgekehrte Softwareantwort. Bemerkenswert und beabsichtigt: **das Modell mit dem groesseren Abstand zur Haftung hat die hoehere Note.** H72 (4,9) und H73 (4,6) sind das sechste und siebte Modell unter 5,0, H73 mit dem zweitgroessten Abzug des Buches (-0,7), weil eine Verbindlichkeit weiterlaeuft, wenn das Modell scheitert. Erster einzelner Stern bei Recurring Revenue im Buch (H79). Alle 20 kompakten Vollkapitel sind damit verbraucht. Zehn neue Vertriebswege, gegen alle 70 vorherigen geprueft, keine Dublette. **Zweiter Punkt fuer die Autorenentscheidung nach §25:** Der Zielumfang von 1.800 Woertern je Standardkapitel ist mit dem Pflichtinhalt der Vorlage nicht erreichbar - tatsaechlich 1.956 im Schnitt ueber 44 Kapitel. Drei Varianten liegen im Register, Empfehlung ist die Anhebung auf 1.950 (Buch dann ca. 755 statt 731 Seiten). |
 | 1.7 | Kategorie G vollstaendig (11 Kapitel, 20.631 Woerter). G61 (8,1) ist das beste Handelsmodell des Buches und das siebte im Spitzenband, G62 (4,8) das fuenfte unter 5,0 - bewusst direkt dahinter platziert, weil die 3,3 Punkte Abstand vollstaendig aus einem Verteidigungsmerkmal bestehen. G67 ist das Kapitel, in dem der Autor ein wirtschaftlich gutes Modell aus persoenlicher Grenze ablehnt und die Ablehnung begruendet. G70 (7,6) ist die erste geteilte Softwareantwort des Buches: Portal gekauft, prueffaehiges Protokoll selbst gebaut. **Drei Befunde der Qualitaetspruefung, alle im Register unter „Befunde nach 70 Modellen" dokumentiert:** (1) Das eigene Pruefskript hat Satzlaengen systematisch zu hoch gemessen, weil ein Punkt vor einer Fettauszeichnung nicht als Satzende erkannt wurde - korrekt gemessen liegt das Manuskript bei Oe 11,6 Woertern und damit unter dem eigenen Zielkorridor von 12,5 bis 14,5. Drei Varianten zur Entscheidung des Autors vorgelegt, nichts eigenmaechtig geaendert, keine weiteren Straffungsdurchgaenge bis dahin. (2) Neun Kapitel hatten den Pflichtabschnitt „Wenn ich morgen starten muesste" nicht (C30, D37, E50, F53, F60, G62, G66, G67, G68) - alle nachgeschrieben, jetzt haben alle 70 Modellkapitel alle zehn Bestandteile. (3) G70 war mit Versicherungsmaklern als erstem Vertriebsweg geplant und kollidierte mit B18; ersetzt durch die Impfstoffvorbestellung. Damit 70 verschiedene erste Vertriebswege. **Neue Engpassdiagnose:** das Mittelband 6,5 bis 7,9 ist mit 35 Modellen an seiner Untergrenze fuer hundert Modelle angekommen - die letzten 30 Modelle muessen 5 bis 11 im Spitzenband und 5 bis 10 unter 5,0 liefern. Umfangsregel verschaerft: Standardkapitel 1.750 bis 1.850 Woerter, hoechstens eine begruendete Ueberschreitung je Kategorie. |
 | 1.6 | Kategorie F vollstaendig (11 Kapitel, 20.742 Woerter). **Drei neue Modelle im Spitzenband** - F51 (8,1, erste Aufwaertskorrektur wegen Marktgroesse), F55 (8,0, keine Schwachstelle unter drei Sternen, kapitalleichtestes Spitzenbandmodell) und F57 (8,0, bestes Abo-Modell des Buches). Damit 6 von 60 Modellen ab 8,0. Der Anteil des oberen Mittelbands ist von 60 ueber 54 auf 52 Prozent gefallen. F60 ist das vierte Modell unter 5,0. F56 ist das erste Kapitel mit fuenf Sternen bei Monetarisierung und Marge gleichzeitig und das einzige, in dem der Autor ausdruecklich schreibt, dass er es selbst nicht starten koennte - mit der Reihenfolge F55 heute, F56 in acht Jahren. **Neu im Register: eine Umfangskontrolle gegen die Seitenplanung.** Teil II laeuft hochgerechnet 24 Seiten ueber Plan (3,3 Prozent); als Regel fuer G bis J gilt, Standardkapitel bei hoechstens 1.900 Woertern zu halten und Ueberschreitungen zu begruenden. |
 | 1.5 | Kategorie E vollstaendig (11 Kapitel, 18.030 Woerter). **Halbzeit von Teil II: 50 von 100 Modellen.** Zwei neue Modelle im Spitzenband: E47 (8,2, beste Note des Buches) und E41 (8,0). Die im Register nach 40 Modellen festgelegte Gegensteuerung greift - nur drei von zehn E-Modellen liegen im oberen Mittelband, der Anteil sank von 60 auf 54 Prozent. Zusage der Kategorie-Einfuehrung eingeloest: genau ein sofort startbares Modell (E50), und es traegt die schlechteste Note der Kategorie. Der Vergleich E47 gegen E50 liefert die zentrale Kalibrierung fuer Teil III und das Startbarkeits-Register: Die Huerde, die am Anfang aufhaelt, ist dieselbe, die spaeter ernaehrt. E48 wurde nach der ersten Fassung von Kurzform auf das volle Standardformat erweitert, um die Tiefenstufen des Katalogs einzuhalten. |

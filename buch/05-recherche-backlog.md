@@ -350,6 +350,73 @@ der erste Vertriebsweg des Kapitels hängt daran. Bedingungen von
 Warenverderb- und Kühlgutversicherungen, insbesondere Nachweispflichten im
 Schadensfall.
 
+## Kategorie H — Immobilien- und objektnahe Modelle
+
+**Grundsätzlich für die ganze Kategorie.** Bei jedem Modell am Objekt sind zwei
+Zahlen entscheidend und beide bisher **modellhafte Annahme**: die ortsübliche
+Miete je Quadratmeter und die realistische Auslastung im dritten Jahr. Ohne
+beide ist keine Rechnung dieser Kategorie belastbar.
+
+**H71 · Digitale Objektakte.** Reichweite der Vermögensschadenhaftpflicht für
+Immobilienverwalter und Obliegenheiten des Versicherungsnehmers.
+**Umlagefähigkeit von Kosten der Verkehrssicherung und der
+Betreiberdokumentation** — davon hängt der Preisspielraum des Kapitels ab.
+Übliche Verwaltervergütung je Einheit und ihre Entwicklung in zwanzig Jahren
+(die Kernthese „die Pflicht wächst, die Vergütung nicht" braucht Zahlen).
+
+**H72 · Sondereigentumsverwaltung.** Erlaubnispflicht für
+Wohnimmobilienverwalter, Weiterbildungspflichten, Anforderungen an die
+Verwahrung von Kautionen und Fremdgeldern. Marktübliche Preise je Einheit und
+Monat sowie übliche Fluktuationsquoten.
+
+**H73 · Flexible Büroflächen.** Ortsübliche Bürowarmmieten in Städten unter
+hunderttausend Einwohnern, Ausbaukosten je Arbeitsplatz, übliche
+Mietvertragslaufzeiten und Vermieterbeteiligungen an Mieterausbauten. Ob
+Betreibermodelle mit Umsatzbeteiligung durch Eigentümer in Mittelstädten
+vorkommen — **die Variante, die im Kapitel als einzige Rettung genannt wird.**
+
+**H74 · Betreiberpflichten Gewerbeimmobilien.** Reichweite der Delegation von
+Betreiberpflichten, Pflichten zu Auswahl, Unterrichtung und Überwachung,
+Anforderungen an die Bestellung von Beauftragten. Marktübliche Preise für
+Betreiberpflichten-Management je Objekt.
+
+**H75 · Möbliertes Wohnen für Monteure.** Abgrenzung von Wohnnutzung und
+Beherbergung, Anforderungen an Nutzungsänderung und Brandschutz, Meldepflichten
+für Beherbergungsbetriebe, Anwendbarkeit örtlicher Übernachtungsabgaben.
+Übliche Bettpreise bei Firmenrahmenverträgen.
+
+**H76 · Energieausweis und Sanierungsfahrplan.** Voraussetzungen der
+Ausstellungsberechtigung und der Eintragung in die
+Energieeffizienz-Expertenliste. **Aktuelle Förderfähigkeit und Fördersätze für
+Energieberatung und Sanierungsfahrpläne** — die Notenkorrektur des Kapitels
+hängt genau an der Volatilität dieser Zahlen. Marktpreise für Fahrpläne und
+Baubegleitung.
+
+**H77 · Selfstorage.** **Durchschnittliche Mietdauern im Selfstorage** — die
+Kernbeobachtung „die Kündigung kommt nicht" ist bisher modellhafte Annahme und
+muss vor Drucklegung belegt werden. Abgrenzung Mietvertrag und Lagervertrag
+(Obhutspflicht), Anforderungen an Nutzungsänderung und Brandschutz bei
+Lagernutzung, Vermieterpfandrecht und zulässige Verwertung bei Zahlungsverzug.
+Marktpreise je Quadratmeter in Klein- und Mittelstädten sowie
+Investitionskosten je Quadratmeter Boxenfläche.
+
+**H78 · Dachflächenvermarktung.** Verfügbarkeit und Aussagekraft von
+Netzkapazitäts- und Einspeiseinformationen der Netzbetreiber — **der erste
+Vertriebsweg des Kapitels beruht darauf.** Übliche Dachpachten je Quadratmeter
+und Kilowattpeak, marktübliche Vermittlungsprovisionen, typische Projektdauern
+von Erstkontakt bis Vertragsschluss.
+
+**H79 · Abnahmebegleitung.** Wirkung der Abnahme auf Beweislast und Verjährung,
+Wirksamkeit von Abnahmeklauseln in Bauträgerverträgen, **Grenzen erlaubter
+Rechtsdienstleistung für Bausachverständige** — die Notenkorrektur des Kapitels
+hängt daran. Marktübliche Honorare für Abnahmebegleitung.
+
+**H80 · Umbauprojektsteuerung.** Notwendige Anzeigen und Abnahmen bei
+Praxisumbauten, Anforderungen an Röntgenräume und Hygienebereiche. Übliche
+Honorarsätze für Projektsteuerung im Verhältnis zur Objektüberwachung nach
+Honorarordnung. Durchschnittliche Umsatzausfälle bei Praxisverzug — **die Zahl,
+mit der das ganze Kapitel argumentiert.**
+
 ## Praktikerprüfung
 
 Ergänzend zur Recherche: mindestens ein Telefonat je Kategorie, bei den zwanzig
