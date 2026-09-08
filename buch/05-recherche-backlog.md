@@ -417,6 +417,67 @@ Honorarsätze für Projektsteuerung im Verhältnis zur Objektüberwachung nach
 Honorarordnung. Durchschnittliche Umsatzausfälle bei Praxisverzug — **die Zahl,
 mit der das ganze Kapitel argumentiert.**
 
+## Kategorie I — Medien, Bildung, Community
+
+**Grundsätzlich für die ganze Kategorie.** Zwei Zahlengruppen sind bisher
+**modellhafte Annahme** und tragen jede Rechnung dieser Kapitel: übliche
+Sponsoring- und Anzeigenpreise in Fachnischen, und realistische Aufbauzeiten bis
+zum ersten belastbaren Umsatz.
+
+**I81 · Fachnewsletter mit Stellenmarkt.** Öffnungsraten in engen
+B2B-Verteilern. Anforderungen an Einwilligung und Nachweis bei
+E-Mail-Newslettern, Kennzeichnungspflichten für Werbung, Impressumspflichten.
+Marktübliche Preise für Fachnewsletter-Sponsoring und Stellenanzeigen in
+Nischenmedien. **Übliche Honorare von Personalberatungen in Prozent des
+Jahresgehalts** — die Vergleichszahl, mit der das Kapitel argumentiert.
+
+**I82 · Videoschulungsbibliothek.** Anforderungen an Unterweisungen nach
+Arbeitsschutzrecht, Wiederholungsintervalle, **Zulässigkeit elektronischer
+Unterweisung und Anforderungen an die Dokumentation** — davon hängt das ganze
+Modell ab. Marktpreise für Unterweisungsbibliotheken je Mitarbeiter.
+
+**I83 · Fachpodcast.** Marktübliche Sponsoringpreise für B2B-Fachpodcasts nach
+Hörerzahl. Realistische Aufbaudauer bis zu verlässlicher Hörerschaft.
+
+**I84 · Zertifikatslehrgang Praxismanagerinnen.** Zulässigkeit und Grenzen
+privater Zertifikatsbezeichnungen, Abgrenzung zu geschützten
+Fortbildungsbezeichnungen und Kammerabschlüssen. Bestehende Angebote von Kammern
+und Akademien mit Preisen und Formaten. Kosten einer Nachbesetzung in
+Heilberufspraxen — **die Zahl für das Bindungsargument.**
+
+**I85 · White-Label Content.** Anforderungen an diskriminierungsfreie
+Stellenausschreibungen, Angabepflichten, Verantwortlichkeit bei
+Auftragstexten. Marktübliche Preise je Stellenanzeige und je
+Niederlassungspaket — **und ihre Entwicklung in den letzten drei Jahren**, weil
+die Notenkorrektur genau darauf beruht.
+
+**I86 · Branchenreport.** Anforderungen an die Verarbeitung von
+Unternehmensdaten und an Anonymisierung, **wettbewerbsrechtliche Grenzen des
+Informationsaustauschs zwischen Wettbewerbern** (dieselbe Prüfung wie bei F58).
+Übliche Teilnahmequoten bei Branchenbefragungen und marktübliche Preise für
+Benchmark-Reports.
+
+**I87 · Fachkonferenz.** **Anerkennungsverfahren für Fortbildungen in einzelnen
+Berufsfeldern, Anforderungen an Nachweise und Punktevergabe** — der erste
+Vertriebsweg des Kapitels beruht darauf. Übliche Ausstellerpreise auf
+Fachkonferenzen dieser Größe, Kostensätze für Veranstaltungsorte und Catering,
+Verfügbarkeit und Bedingungen von Veranstaltungsausfallversicherungen.
+
+**I88 · Spezialisierte Jobbörse.** Anforderungen an die Verarbeitung von
+Bewerberdaten, Aufbewahrungs- und Löschfristen, Vertraulichkeit bei
+Kandidatenprofilen. Übliche Honorare in der Personalvermittlung für knappe
+Qualifikationen. Größenordnung ausgewählter Fachkräftegruppen in Deutschland.
+
+**I89 · Meisterprüfung kaufmännischer Teil.** Zulässigkeit von
+Erfolgsversprechen in der Kurswerbung, Widerrufsrechte bei
+Online-Bildungsangeboten, Voraussetzungen für Förderfähigkeit. **Bestehensquoten
+im betriebswirtschaftlichen Prüfungsteil** — die Grundlage der Kernthese. Preise
+und Formate bestehender Vorbereitungskurse.
+
+**I90 · Nachfolger-Community.** Grenzen erlaubter Rechts- und Steuerberatung
+durch Moderatoren und Coaches. Zahl der jährlichen Unternehmensnachfolgen im
+Mittelstand. Preise vergleichbarer Gruppenprogramme und Unternehmerkreise.
+
 ## Praktikerprüfung
 
 Ergänzend zur Recherche: mindestens ein Telefonat je Kategorie, bei den zwanzig

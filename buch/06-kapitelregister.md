@@ -15,7 +15,7 @@ nie später.
 
 ## Globale Zähler
 
-Stand nach 96 von 116 Kapiteln (Teil I vollständig, 80 Modelle, 8 Kategorie-Einführungen). **Kategorien A bis H vollständig.** Manuskript ca. 166.400 Wörter / ca. 554 Seiten.
+Stand nach 107 von 116 Kapiteln (Teil I vollständig, 90 Modelle, 9 Kategorie-Einführungen). **Kategorien A bis I vollständig.** Manuskript ca. 187.500 Wörter / ca. 625 Seiten.
 
 | Kontingent | Budget | verbraucht | Kapitel |
 |---|---:|---:|---|
@@ -29,11 +29,11 @@ Stand nach 96 von 116 Kapiteln (Teil I vollständig, 80 Modelle, 8 Kategorie-Ein
 
 | Band | Ziel | vergeben | Modelle |
 |---|---:|---:|---|
-| 8,0–10,0 | 12–18 | 9 | **H77 (8,3)**, **E47 (8,2)**, **F51 (8,1)**, **G61 (8,1)**, **B19 (8,0)**, **E41 (8,0)**, **F55 (8,0)**, **F57 (8,0)**, **H71 (8,0)** |
+| 8,0–10,0 | 12–18 | 10 | **I81 (8,0)**, **H77 (8,3)**, **E47 (8,2)**, **F51 (8,1)**, **G61 (8,1)**, **B19 (8,0)**, **E41 (8,0)**, **F55 (8,0)**, **F57 (8,0)**, **H71 (8,0)** |
 | *Anmerkung* | | | Korrekturen: 10× abwärts, 1× reine Aufwärtskorrektur (A06, +0,3 für den Verkaufsmoment), 1× zweiseitige Bilanz (A04). Damit ist gezeigt, dass das Instrument in beide Richtungen wirkt. |
-| 6,5–7,9 | 35–45 | 37 | B11 (7,8), A05 (7,6), E49 (7,6), B18 (7,5), A02 (7,4), D31 (7,4), F56 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), E43 (7,3), A10 (7,2), B14 (7,2), D40 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), D32 (6,9), D36 (6,9), C21 (6,8), C26 (6,8), D33 (6,8), F52 (6,8), E45 (6,7), A03 (6,7), D35 (6,6), A01 (6,6), F54 (6,6), F58 (6,6), G70 (7,6), G63 (7,0), G65 (6,7), G64 (6,5), H74 (7,8), H80 (6,8) |
-| 5,0–6,4 | 25–35 | 27 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), E42 (6,0), E44 (6,0), F59 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), E46 (5,8), D39 (5,7), F53 (5,7), C22 (5,6), E48 (5,6), C27 (5,4), D34 (5,2), E50 (5,2), G69 (6,1), G67 (5,7), G66 (5,6), G68 (5,1), H75 (6,3), H78 (5,9), H76 (5,8), H79 (5,5) |
-| unter 5,0 | 10–15 | 7 | F60 (4,9), **H72 (4,9)**, D37 (4,8), **G62 (4,8)**, **H73 (4,6)**, C30 (4,4), D38 (4,2) — alle mit dem Pflichtabschnitt „Was fehlen müsste" |
+| 6,5–7,9 | 35–45 | 39 | B11 (7,8), A05 (7,6), E49 (7,6), B18 (7,5), A02 (7,4), D31 (7,4), F56 (7,4), C25 (7,3), A06 (7,3), B13 (7,3), E43 (7,3), A10 (7,2), B14 (7,2), D40 (7,2), A04 (7,1), B12 (7,1), B17 (7,1), C23 (7,0), B20 (6,9), D32 (6,9), D36 (6,9), C21 (6,8), C26 (6,8), D33 (6,8), F52 (6,8), E45 (6,7), A03 (6,7), D35 (6,6), A01 (6,6), F54 (6,6), F58 (6,6), G70 (7,6), G63 (7,0), G65 (6,7), G64 (6,5), H74 (7,8), H80 (6,8), I82 (7,2), I84 (7,0) |
+| 5,0–6,4 | 25–35 | 32 | A09 (6,3), B15 (6,3), A07 (6,2), C28 (6,2), C24 (6,0), E42 (6,0), E44 (6,0), F59 (6,0), A08 (5,9), C29 (5,9), B16 (5,8), E46 (5,8), D39 (5,7), F53 (5,7), C22 (5,6), E48 (5,6), C27 (5,4), D34 (5,2), E50 (5,2), G69 (6,1), G67 (5,7), G66 (5,6), G68 (5,1), H75 (6,3), H78 (5,9), H76 (5,8), H79 (5,5), I86 (6,4), I87 (6,1), I89 (5,9), I88 (5,4), I90 (5,2) |
+| unter 5,0 | 10–15 | 9 | F60 (4,9), **H72 (4,9)**, D37 (4,8), **G62 (4,8)**, **I85 (4,8)**, **I83 (4,7)**, **H73 (4,6)**, C30 (4,4), D38 (4,2) — alle mit dem Pflichtabschnitt „Was fehlen müsste" |
 
 **Stand der Gegensteuerung nach 70 Modellen:**
 
@@ -3000,6 +3000,333 @@ Entlastung nicht erzeugen.** Beide Muster in der Liste ergänzt.
 verwiesen werden dürfen:**
 - „Wer den Nachweis führt, soll die Leistung nicht verkaufen" (H71, H74, H76).
 - „Dein Vertriebsweg ist dein Wettbewerber" (D37, F60, H72).
+
+---
+
+### I00 · Kategorie-Einführung Medien, Bildung, Community
+469 Wörter. **Die Kategorie mit der niedrigsten Durchschnittsnote des Buches
+(6,07)** — und die einzige, in der das nichts mit den Ideen zu tun hat, sondern
+mit der Zeit: alle zehn Modelle kosten fast kein Geld und zwölf bis
+vierundzwanzig Monate.
+**Denkfehler:** Reichweite als Ziel statt als Mittel. **„Aufmerksamkeit ohne
+zahlende Gegenseite ist ein Hobby mit Statistik."**
+**Ordnungsfrage der Kategorie: Wer bezahlt?** Drei Antworten — jemand, der deine
+Leser erreichen will (I81, I83, I86, I87) · der Nutzer selbst (I82, I84, I89,
+I90) · ein Unternehmen, das eine Aufgabe abgibt (I85, I88). Die dritte Gruppe
+zahlt ab dem ersten Monat und hat deshalb die schwächste Position: **Was sofort
+bezahlt wird, ist auch sofort vergleichbar.**
+**Prüfsatz:** drei Unternehmen nennen, die im letzten Jahr Geld dafür ausgegeben
+haben, diese Zielgruppe zu erreichen — mit Betrag.
+**Zusagen, nachgerechnet:** sechs von zehn sofort startbar (I81, I83, I85, I86,
+I89, I90) · acht von zehn mit Kapitalleichtigkeit ≥ 4 Sterne, nach A die beste
+Quote · die zwei schwächsten Modelle der Kategorie (I83 4,7 und I85 4,8) sind
+beide sofort startbar — **die deutlichste Bestätigung des Satzes, dass
+Startbarkeit und Qualität eher negativ zusammenhängen.**
+**Zentrale Umkehrung:** erst der Zahler, dann das Publikum. In I81 heißt das:
+der erste Sponsor vor der ersten Ausgabe.
+**Nicht wiederverwenden:** die Drei-Zahler-Ordnung · der Prüfsatz mit drei
+Unternehmen und Betrag · „Hobby mit Statistik".
+
+### I81 · Fachnewsletter mit Stellenmarkt für eine enge B2B-Nische — LEITMODELL
+2.357 Wörter · Note **8,0** (rechn. 8,0, keine Korrektur) · Sterne 4/3/4/**5** ·
+4/**5**/4/4 · Stufe 2 → 6, Stufe 7 real. **Zehntes Modell im Spitzenband.**
+**Kernthese:** **„Der Stellenmarkt ist wertvoller als die Redaktion."** Alle
+Leser kommen für den Inhalt, zwei Drittel des Geldes kommen aus Stellenmarkt und
+Mitgliedschaft. Daraus die übertragbare Regel: **„Das Produkt, das
+Aufmerksamkeit erzeugt, ist selten das Produkt, das bezahlt wird."**
+**Zweite These:** **„Ein Budget mit Datum schlägt ein Budget mit
+Jahresplanung."** Personalsuche ist dringend, Werbung ist geplant.
+**Preise:** Sponsoring 800–3.500 € je Ausgabe · Stellenanzeige 350–900 € ·
+Mitgliedschaft 15–40 € im Monat · Jahr drei ≈ 17.960 € Umsatz, 12.980 €
+Ergebnis — **und im ersten Jahr 400 bis 900 € im Monat.**
+**Erster Vertriebsweg:** die Ausstellerliste der Fachmesse — die vollständige
+Aufzählung der Unternehmen, die nachweisbar schon Geld dafür ausgegeben haben,
+genau diese Leser zu erreichen. Warum nur drei Sterne: Werbebudgets sind
+jahresgebunden, Verkaufszyklus bis neun Monate.
+**Stufe 6 geteilt** (Versand gekauft, Stellenmarkt gebaut — wie G70 und H71),
+**Stufe 7 real** und ausdrücklich mit Verweis auf I88: Wer die Leser hat, hat
+das Henne-Ei-Problem gelöst, bevor es entsteht.
+**Recherchestand:** Zu prüfen: Öffnungsraten in engen B2B-Verteilern,
+Anforderungen an Einwilligung und Nachweis bei Newslettern,
+Kennzeichnungspflichten für Werbung.
+**Nicht wiederverwenden:** die Ausstellerliste als Vertriebsweg · der
+Stellenmarkt-schlägt-Redaktion-Satz · „Budget mit Datum" · die
+Provisionsrechnung gegen dreißig Prozent Jahresgehalt.
+
+### I82 · Videoschulungsbibliothek für Maschinen- und Geräteeinweisungen
+2.015 Wörter · Note **7,2** (rechn. 7,5, **−0,3**: **eine Unterweisung muss
+betriebsspezifisch sein, und ein Video ist es nie ganz**) · Sterne 4/3/3/**5** ·
+4/3/4/3 · Ziel Stufe 4.
+**Ertragsstruktur als Kern:** 85 % des Umsatzes aus der Bibliothek, 15 % aus
+Spezialproduktionen, die die ganze Arbeit machen. **„Wer den nächsten Kunden mit
+fünf Spezialproduktionen gewinnt, kauft Umsatz und verkauft Marge."**
+**Wichtigste Vertragsklausel des Kapitels:** Der Kunde zahlt die Produktion, du
+behältst die Zweitverwertung.
+**Erster Vertriebsweg:** die externen Fachkräfte für Arbeitssicherheit — **und
+damit ist der Vertriebsweg dieses Kapitels das Geschäftsmodell von F51.** Daraus
+die Regel: **„Wer über Dienstleister nachdenkt, hat für sein nächstes Modell
+schon die Vertriebswege."**
+**Stufe 6 nein — und ausdrücklich als Gegenfall zu G70 und H71 begründet:** Dort
+liefern gekaufte Systeme den Nachweis nicht, hier liefern sie ihn.
+**Recherchestand:** Zu prüfen: Anforderungen an Unterweisungen,
+Wiederholungsintervalle, Zulässigkeit elektronischer Unterweisung und
+Dokumentationsanforderungen.
+**Nicht wiederverwenden:** die Sifa als Vertriebsweg · die
+Zweitverwertungsklausel · „frag nicht, ob unterwiesen wurde, sondern was".
+
+### I83 · Fachpodcast mit Sponsoring in einer Einkäufer-Nische
+1.863 Wörter · Note **4,7** (rechn. 5,3, **−0,6**: **du baust zwei Jahre ein
+Publikum auf und verkaufst danach ein Produkt, dessen Wirkung dein Kunde nicht
+messen kann**) · Sterne **2**/**2**/3/3 · 4/**5**/**2**/**2** · Ziel nur 4.
+
+**★ ACHTES MODELL UNTER 5,0 ★** Mit Pflichtabschnitt „Was fehlen müsste".
+
+**Die Stundenlohnrechnung, die das Urteil trägt:** 1.080 € Ergebnis im Monat für
+45 bis 60 Stunden Arbeit — **achtzehn bis vierundzwanzig Euro je Stunde im
+zweiten Jahr.**
+**Gefährlichste Eigenschaft, ausdrücklich benannt:** **„Es belohnt dich
+falsch."** Hörerzahlen wachsen, der Umsatz steht.
+**Erster Vertriebsweg:** die Gäste, nicht die Hörer — Gäste nach den Anbietern
+auswählen, die man erreichen will.
+**Was fehlen müsste:** ein eigenes Angebot statt Sponsoring (**führt zu I86 oder
+I87**) · Sponsoren, die Zugang statt Werbefläche kaufen · der Podcast als
+Vertriebsweg für eine vorhandene Dienstleistung. Muster: **„Aufmerksamkeit ist
+ein Vertriebsweg und selten ein Produkt."**
+**Nicht wiederverwenden:** die Stundenlohnrechnung · „es belohnt dich falsch" ·
+die Gästeliste als Verkaufsliste.
+
+### I84 · Zertifikatslehrgang für Praxismanagerinnen
+1.986 Wörter · Note **7,0** (rechn. 7,4, **−0,4**, Grund außerhalb der Boxen:
+**der Nutzen entsteht beim Inhaber, die Mühe trägt die Mitarbeiterin — und wenn
+sie kündigt, hat er für einen Wettbewerber ausgebildet**) · Sterne 4/4/3/3 ·
+4/4/4/3 · Ziel Stufe 5.
+**Kaufmotiv, das nicht auf der Hand liegt:** nicht die Qualifikation, sondern
+**acht Stunden Behandlungszeit pro Woche beim Inhaber.**
+**Erster Vertriebsweg:** die privatärztlichen Abrechnungs- und
+Verrechnungsstellen — tausende Praxen, und ihr täglicher Ansprechpartner ist
+genau die Zielperson. **Ausdrücklich anders als F53, G62 und G67**, die über
+Übernahme, Umbau oder Auflösung gehen: Hier ist der Anlass ein Alltag, kein
+Ereignis.
+**Preise:** Lehrgang 1.800–3.400 € · Zertifikatspflege 25–45 € im Monat · drei
+Durchgänge ≈ 18.320 € Umsatz, 11.020 € Ergebnis. **Nach fünf Jahren tragen die
+Zertifikate die Fixkosten.**
+**Querverweis I88:** Eine Stellenvermittlung für zertifizierte
+Praxismanagerinnen hätte mit dreihundert Absolventinnen das Henne-Ei-Problem
+gelöst, das I88 auf 5,4 drückt.
+**Recherchestand:** Zu prüfen: Zulässigkeit privater Zertifikatsbezeichnungen,
+Abgrenzung zu geschützten Fortbildungsbezeichnungen und Kammerabschlüssen.
+**Nicht wiederverwenden:** die Abrechnungsstellen als Vertriebsweg · „such
+Rollen, die faktisch entstanden sind" · der erste Durchgang live als
+Produktionsfinanzierung (**in I89 bewusst wiederholt, dort mit Verweis**).
+
+### I85 · Content-Produktion als White-Label für Personaldienstleister
+2.029 Wörter · Note **4,8** (rechn. 5,5, **−0,7**: **dein Produkt ist das, was
+gerade billig geworden ist**) · Sterne **2**/3/3/4 · 3/**5**/**2**/**1** ·
+Ziel nur 4.
+
+**★ NEUNTES MODELL UNTER 5,0 ★** Mit Pflichtabschnitt „Was fehlen müsste".
+**★ ZWEITER EINZELNER STERN DES BUCHES ★** — Wettbewerbsposition, nach C30.
+Begründung in einem Satz: **„Dein Kunde kann dein Produkt selbst herstellen,
+seit die Werkzeuge dafür frei verfügbar sind, und dein Wettbewerber kann es zum
+halben Preis."**
+**Erster Vertriebsweg:** die Anzeigen, die zum dritten Mal geschaltet werden.
+**Ausdrücklich anders als F51**, wo Stellenanzeigen zeigen, wer wächst: Hier
+zählt nicht die Existenz, sondern die Wiederholung. Daraus: **„Wiederholung ist
+ein besseres Signal als Existenz."**
+**Was fehlen müsste:** Ergebnis statt Menge verkaufen · eigene Daten als
+Grundlage (der einzige Weg von einem Stern auf drei) · Nische statt Branche ·
+**oder die ehrliche Konsequenz: das Modell als bezahlte Ausbildung von zwölf
+Monaten betrachten und dann zu I88 oder I81 übergehen.**
+**Neues Muster für Teil III:** **„Manche Modelle sind gute Anfänge und schlechte
+Ziele."**
+**Recherchestand:** Zu prüfen: Anforderungen an diskriminierungsfreie
+Stellenausschreibungen, Verantwortlichkeit bei Auftragstexten.
+**Nicht wiederverwenden:** die dritte Wiederholung als Vertriebsweg · „was
+gerade billig geworden ist" · „ein überfüllter Markt ist ein schlechtes
+Vorzeichen".
+
+### I86 · Jährlicher Branchenreport mit Benchmark-Daten
+2.039 Wörter · Note **6,4** (rechn. 6,9, **−0,5**: **der Wert des Reports hängt
+an der Teilnahmequote, und die musst du jedes Jahr neu erbetteln**) · Sterne
+3/3/3/3 · 4/4/4/4 · Stufe 2 → 5, Stufe 7 bedingt.
+**Der Tauschhandel, der das Modell trägt:** **„Nur wer teilnimmt, bekommt die
+Auswertung."**
+**Der Vorteil, der von allein wächst:** die Zeitreihe. **„Ein Report mit vierzig
+Teilnehmern ist eine Meinung, mit dreihundert ist er ein Maßstab."**
+**Warum es niemand macht:** Verbände scheuen unangenehme Zahlen, Steuerberater
+dürfen ihre Daten nicht verwenden — **beides dauerhafte Gründe, keine
+vorübergehenden.**
+**Preise:** Report 690–2.500 € · Sponsoring 5.000–25.000 € · Panel 150–400 € im
+Monat · dritte Ausgabe ≈ 24.700 € Umsatz im Monat, 16.850 € Ergebnis — **erste
+Ausgabe 70.000 € im Jahr bei fast gleichen Kosten.**
+**Erster Vertriebsweg:** die Referenten der Branchentagungen — sie brauchen
+Zahlen und liefern Glaubwürdigkeit, freiwillig.
+**Recherchestand:** Zu prüfen: Anonymisierungsanforderungen bei
+Unternehmensdaten, wettbewerbsrechtliche Grenzen des Informationsaustauschs
+zwischen Wettbewerbern (dieselbe Grenze wie F58, mit Zahlen statt Gesprächen).
+**Nicht wiederverwenden:** „nur wer teilnimmt, bekommt die Auswertung" · die
+Zeitreihe als Verteidigungsmerkmal · die Referenten als Vertriebsweg.
+
+### I87 · Fachkonferenz für eine eng definierte Zielgruppe — LEITMODELL
+2.328 Wörter · Note **6,1** (rechn. 6,6, **−0,5**: **ein Jahr Arbeit hängt an
+einem Termin**) · Sterne 4/4/3/3 · **2**/**2**/4/3 · Ziel Stufe 4, Stufe 7 als
+Community real.
+**Der Vertriebsweg, der ein Grundproblem löst statt es zu bearbeiten:** die
+Anerkennung als Pflichtfortbildung. **„Eine anerkannte Pflichtfortbildung
+verwandelt eine freiwillige Reise in einen Termin."** Die Prüfung, ob es für
+eine Rolle eine anerkennende Stelle gibt, ist die wichtigste Stunde des
+Vorhabens.
+**Zwei zahlende Seiten:** ein Aussteller finanziert zehn bis dreißig
+Teilnehmertickets. **Und der Teilnehmerpreis darf nicht maximiert werden, weil
+der Teilnehmer das Produkt für die zweite Seite ist.**
+**Die Rechnung, die das Kapitel ausmacht:** 230 Teilnehmer ergeben 119.850 €,
+140 Teilnehmer 41.100 €, 110 Teilnehmer null. **Zwei Drittel Fixkosten, und die
+letzten fünfzig Anmeldungen entscheiden über ein Jahr.**
+**Zielgruppendefinition als Lehre:** **„Definiere Zielgruppen als Rolle, nicht
+als Branche."**
+**Recherchestand:** Zu prüfen: Anerkennungsverfahren für Fortbildungen in
+einzelnen Berufsfeldern, Anforderungen an Nachweise und Punktevergabe.
+**Nicht wiederverwenden:** die Anerkennung als Vertriebsweg · die
+Auslastungsrechnung der Veranstaltung · „Rolle statt Branche" · die
+Vorabbuchung am Abschlusstag.
+
+### I88 · Spezialisierte Jobbörse für eine knappe Qualifikation
+1.961 Wörter · Note **5,4** (rechn. 5,8, **−0,4**: **die Seite, die du
+brauchst, hat keinen Grund, zu dir zu kommen**) · Sterne 3/**2**/3/3 ·
+4/4/3/**2** · Ziel Stufe 5, Stufe 7 als Fernziel.
+**Das Lehrstück der Kategorie, und der Grund, warum es im Buch steht:** Es ist
+dasselbe Geschäft wie I81 in umgekehrter Reihenfolge. **„Wer zuerst das Publikum
+baut und dann die Börse, kommt auf 8,0. Wer zuerst die Börse baut und dann das
+Publikum, kommt auf 5,4."**
+**Erster Vertriebsweg:** die Ausbildungsstätten dieser Qualifikation — der
+einzige Ort, an dem die knappe Seite gebündelt ansprechbar ist. **Ausdrücklich
+anders als F51**, wo Ausbildungsanmeldungen von Betrieben zeigen, wer wächst.
+**Finanzierung des Aufbaus:** drei Jahre faktisch Personalvermittlung. **„Die
+Plattform ist hier das Ende, nicht der Anfang."**
+**Recherchestand:** Zu prüfen: Anforderungen an die Verarbeitung von
+Bewerberdaten, Löschfristen, Vertraulichkeit bei Kandidatenprofilen.
+**Nicht wiederverwenden:** die Ausbildungsstätten als Vertriebsweg · der
+Reihenfolge-Vergleich mit I81 · „achtzehntausend gegen achthundert".
+
+### I89 · Online-Vorbereitung auf den betriebswirtschaftlichen Teil der Meisterprüfung
+1.910 Wörter · Note **5,9** (rechn. 6,2, **−0,3**: **dieses Modell hat keine
+Kundenbasis, sondern einen Kundenstrom**) · Sterne **2**/3/**2**/**2** ·
+**5**/**5**/4/**2** · Ziel nur 4.
+**Zwei Fünfsternewerte (Skalierbarkeit und Kapitalleichtigkeit) bei einer Note
+unter 6** — das deutlichste Beispiel des Buches dafür, dass Startbarkeit und
+Skalierbarkeit allein keine Note tragen.
+**Kaufanlass:** nicht Bildung, sondern Zeitverlust. Wer den kaufmännischen Teil
+nicht besteht, verliert ein Jahr Meisterplan.
+**Erster Vertriebsweg:** die Anbieter der fachpraktischen Meisterkurse — für sie
+bist du eine Erleichterung, kein Wettbewerber. Zweiter Weg über die
+Prüfungstermine als Zeitfenster (wie D32 und G70).
+**Größter Hebel:** den Zahler wechseln — neun Bildungsträger mit Zugangsabo
+statt vierhundert Einzelkäufer.
+**Recherchestand:** Zu prüfen: Zulässigkeit von Erfolgsversprechen in der
+Kurswerbung, Widerrufsrechte bei Online-Bildungsangeboten, Förderfähigkeit.
+**Nicht wiederverwenden:** „Kundenbasis gegen Kundenstrom" · „wer schon einmal
+gescheitert ist, ist der zahlungsbereitere Kunde" · die Meisterkursanbieter als
+Vertriebsweg.
+
+### I90 · Community und Begleitprogramm für Nachfolger in Familienunternehmen
+2.115 Wörter · Note **5,2** (rechn. 5,6, **−0,4**: **du verkaufst an ein
+Bedürfnis, das der Kunde nicht ausspricht, über einen Dritten, der nicht der
+Kunde ist**) · Sterne 3/**2**/3/3 · 3/**5**/3/**2** · Ziel nur 4.
+**Das Problem hinter dem Problem, in einem Wort:** Isolation. **„Der Nachfolger
+hat keine Kollegen."**
+**Die Marktforschungsfrage des Kapitels, übertragbar auf alles:** **„Mit wem
+sprichst du darüber?"** Wenn die Antwort „mit niemandem" lautet, ist ein Markt
+gefunden.
+**Erster Vertriebsweg:** die Übergeber, nicht die Nachfolger — **ausdrücklich
+anders als der Weg „über die Nachfolgegeneration" in Kategorie A**, wo der
+Nachfolger der Zugang zum Betrieb ist. Und mit dem benannten Risiko: **ein
+Dreiecksverkauf**, bei dem ein falscher Ton aus Unterstützung eine Kränkung
+macht.
+**Wachstumsgrenze:** drei bis fünf Gruppen je Person. **„Dieses Modell hat keine
+Skalierungsgrenze aus Kapital oder Nachfrage, sondern aus Vertrauen."**
+**Querverweis F58:** dasselbe Format, derselbe Kartellrechtshinweis zur
+Zusammensetzung, anderer Anlass — **ein Inhaber kauft für sich selbst, ein
+Nachfolger muss überzeugt werden, dass er es braucht.**
+**Recherchestand:** Zu prüfen: Grenzen erlaubter Rechts- und Steuerberatung
+durch Moderatoren.
+**Nicht wiederverwenden:** „mit wem sprichst du darüber" · die Übergeber als
+Vertriebsweg · „Vertrauen skaliert schlecht und bindet stark".
+
+---
+
+**Kategorie I abgeschlossen.** 11 Kapitel, 21.075 Wörter, ca. 70 Seiten.
+Notenspanne **4,7 bis 8,0**, Kategorieschnitt **6,07 — der niedrigste des
+Buches.** Zwei Modelle unter 5,0, zwei im oberen Mittelband, eines im
+Spitzenband.
+
+**Zehn verschiedene erste Vertriebswege:** Ausstellerliste der Fachmesse (I81),
+externe Sicherheitsfachkräfte (I82), die Gäste statt der Hörer (I83),
+privatärztliche Abrechnungsstellen (I84), die dritte Wiederholung einer Anzeige
+(I85), Referenten der Branchentagungen (I86), Anerkennung als
+Pflichtfortbildung (I87), Ausbildungsstätten der Qualifikation (I88), Anbieter
+fachpraktischer Meisterkurse (I89), die Übergeber (I90). **Gegen alle 80
+vorherigen geprüft: keine Dublette.**
+
+**Das Lehrstück dieser Kategorie:** I81 gegen I88 — dasselbe Geschäft, umgekehrte
+Reihenfolge, 2,6 Punkte Unterschied. Und I83 gegen I81 — dieselbe Nische,
+dieselbe Aufbauzeit, 3,3 Punkte, weil ein Newsletter neben der Aufmerksamkeit
+ein messbares zweites Produkt trägt.
+
+---
+
+## Befunde nach 90 Modellen
+
+**1. Notenverteilung.**
+
+| Band | Ziel (100) | Ist (90) | Rest 10 (Kategorie J) |
+|---|---:|---:|---|
+| 8,0–10,0 | 12–18 | **10** | **2 bis 8 nötig** |
+| 6,5–7,9 | 35–45 | **39** | 0 bis 6 möglich |
+| 5,0–6,4 | 25–35 | **32** | 0 bis 3 möglich |
+| unter 5,0 | 10–15 | **9** | **1 bis 6 nötig** |
+
+Spitzenband: H77 8,3 · E47 8,2 · F51 8,1 · G61 8,1 · B19 8,0 · E41 8,0 ·
+F55 8,0 · F57 8,0 · H71 8,0 · **I81 8,0**.
+Unter 5,0: D38 4,2 · C30 4,4 · H73 4,6 · **I83 4,7** · D37 4,8 · G62 4,8 ·
+**I85 4,8** · F60 4,9 · H72 4,9.
+
+**Planvorgabe für Kategorie J — die letzten zehn Modelle:** **3 im Spitzenband,
+2 im Mittelband, 2 im unteren Mittelband, 3 unter 5,0.** Damit endet Teil II bei
+13 / 41 / 34 / 12 und alle vier Bänder liegen im Zielkorridor. **Die
+Verteilung ist jetzt eine Rechenaufgabe mit genau einer Lösung — es gibt keinen
+Spielraum mehr für ein Modell, dessen Note sich beim Schreiben verschiebt.**
+Kategorie J trägt beide Enden: Plattformmodelle mit erreichter Liquidität sind
+die skalierbarsten des Buches, Plattformmodelle ohne sie die schlechtesten.
+
+**2. Umfangskontrolle nach 90 Modellen.**
+
+| Ebene | Anzahl | Ø Wörter | Ziel | Abweichung |
+|---|---:|---:|---:|---:|
+| Leitmodelle | 18 | 2.341 | 2.260 | +4 % |
+| Standardkapitel | 52 | 1.961 | 1.800 | +9 % |
+| Kompakte Vollkapitel | 20 | 1.381 | 1.400 | −1 % |
+
+**Der Befund von Kategorie H hat sich bestätigt, nicht relativiert.** In I wurde
+von Anfang an auf 1.850–1.950 geschrieben und in acht Kapiteln nachträglich
+gekürzt; der Schnitt liegt trotzdem bei **1.990 für die acht I-Standardkapitel.**
+Die Ursache ist unverändert der Pflichtinhalt der Vorlage. Die drei Varianten
+und die Empfehlung (Variante 1: Zielwert 1.950) stehen unverändert unter
+„Befunde nach 80 Modellen", Punkt 2. **Manuskript nach 90 Modellen: 187.500
+Wörter, ca. 625 Seiten.**
+
+**3. Neue Monotoniequelle, ab J zu beachten und in Phase 3 zu bereinigen.**
+Der dreiteilige Aufbau des Urteils erzeugt in jedem Kapitel dieselben
+Absatzanfänge: „Was mir gefällt …" und „Was das Modell begrenzt …". In H und I
+wurden je sieben Kapitel nachträglich variiert. **Ab J werden die Anfänge von
+vornherein gewechselt**; für A bis G gehört eine Durchsicht in die
+Gesamtdurchsicht, weil dort dieselbe Wendung mehrfach unverändert steht.
+
+**4. Zwei neue Muster für Teil III, beide aus dieser Kategorie:**
+- **„Aufmerksamkeit ist ein Vertriebsweg und selten ein Produkt."** (I83, I85,
+  I88 — das durchgehende Thema der Kategorie.)
+- **„Manche Modelle sind gute Anfänge und schlechte Ziele."** (I85 — der erste
+  Fall im Buch, in dem ein Modell ausdrücklich als Durchgangsstation empfohlen
+  wird.)
 
 ---
 

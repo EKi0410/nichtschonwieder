@@ -4,20 +4,20 @@
 **Phase:** 2 — KAPITELENTWICKLUNG
 
 ```
-Gesamt:     96 / 116 Kapitel und Modelle final
+Gesamt:     107 / 116 Kapitel und Modelle final
 Teil I:     7 / 7 Kapitel + 1 / 1 Zwischenstück — VOLLSTÄNDIG
-Teil II:    80 / 100 Modelle — A bis H VOLLSTÄNDIG
-            16 / 20 Leitmodelle
-            44 / 60 Standardkapitel
+Teil II:    90 / 100 Modelle — A bis I VOLLSTÄNDIG
+            18 / 20 Leitmodelle
+            52 / 60 Standardkapitel
             20 / 20 kompakte Vollkapitel — ALLE VERBRAUCHT
-            8 / 10 Kategorie-Einführungen
-Umfang:     ca. 166.400 Wörter / ca. 554 Seiten geschrieben
+            9 / 10 Kategorie-Einführungen
+Umfang:     ca. 187.500 Wörter / ca. 625 Seiten geschrieben
 Prognose:   Teil II hochgerechnet ca. 193.000 Wörter (Plan 185.700),
             also ca. 24 Seiten über Plan — 3,3 %, innerhalb der Toleranz
 Teil III:   0 / 8 Kapitel
 Rahmen:     0 / 1 Einleitung, 0 / 1 Nachwort, 0 / 4 Anhänge
 Zielumfang: ca. 730 Seiten / 212.000 Wörter, ein Band
-Status:     KAPITELENTWICKLUNG, Teil II — Kategorie I als nächste
+Status:     KAPITELENTWICKLUNG, Teil II — Kategorie J als letzte
 Offen zur   (1) Zielkorridor Satzlänge: korrekt gemessen Ø 11,6 Wörter
 Entschei-   gegen 12,5–14,5 in der Vorlage — drei Varianten im Register
 dung:       (Befunde nach 70 Modellen, Punkt 1). (2) Zielumfang der
@@ -197,12 +197,25 @@ dung:       (Befunde nach 70 Modellen, Punkt 1). (2) Zielumfang der
 | Teil II, H79 — Abnahmebegleitung Neubaukäufer | 1.681 | ca. 5,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | Teil II, H80 — Umbauprojektsteuerung Praxen | 2.110 | ca. 7,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
 | **Kategorie H, Summe** | **20.423** | **ca. 68** | **vollständig, 11 Kapitel** |
+| Teil II, Einführung Kategorie I | 469 | ca. 1,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, I81 — Fachnewsletter mit Stellenmarkt *(Leitmodell)* | 2.357 | ca. 7,9 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, I82 — Videoschulungen für Unterweisungen | 2.015 | ca. 6,7 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, I83 — Fachpodcast Einkäufer-Nische | 1.863 | ca. 6,2 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, I84 — Zertifikatslehrgang Praxismanagerinnen | 1.986 | ca. 6,6 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, I85 — White-Label Content Personaldienstleister | 2.029 | ca. 6,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, I86 — Branchenreport mit Benchmark-Daten | 2.039 | ca. 6,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, I87 — Fachkonferenz enge Zielgruppe *(Leitmodell)* | 2.328 | ca. 7,8 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, I88 — Spezialisierte Jobbörse | 1.961 | ca. 6,5 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, I89 — Meisterprüfung kaufmännischer Teil | 1.910 | ca. 6,4 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| Teil II, I90 — Community für Nachfolger | 2.115 | ca. 7,0 | **DRUCKFREIGEGEBEN** (vorbehaltlich Autorenabnahme) |
+| **Kategorie I, Summe** | **21.075** | **ca. 70** | **vollständig, 11 Kapitel** |
 
 ## Änderungsprotokoll
 
 | Version | Änderung |
 |---|---|
 | 1.0 | Erstfassung: Struktur, 100 Modelle, Bewertungssystem, Voice Bible 0.1 |
+| 1.9 | Kategorie I vollstaendig (11 Kapitel, 21.075 Woerter). **Niedrigster Kategorieschnitt des Buches (6,07)** - und das aus einem Grund, der im Kapitel benannt wird: Alle zehn Modelle kosten fast kein Geld und zwoelf bis vierundzwanzig Monate. Die Einfuehrung ordnet die Kategorie nach der Frage, wer bezahlt, und stellt den Prüfsatz auf: drei Unternehmen nennen, die im letzten Jahr Geld dafuer ausgegeben haben, diese Zielgruppe zu erreichen - mit Betrag. **Das Lehrstueck der Kategorie ist I81 gegen I88:** dasselbe Geschaeft in umgekehrter Reihenfolge, 8,0 gegen 5,4. I81 (8,0) ist das zehnte Spitzenbandmodell, I83 (4,7) und I85 (4,8) sind das achte und neunte unter 5,0. I85 traegt den zweiten einzelnen Stern des Buches (Wettbewerbsposition, nach C30), weil sein Produkt gerade billig geworden ist. I89 zeigt zwei Fuenfsternewerte bei einer Note unter 6 und damit, dass Startbarkeit und Skalierbarkeit allein keine Note tragen. Zehn neue Vertriebswege, gegen alle 80 vorherigen geprueft, keine Dublette. Satzlaenge Oe 13,6 im Zielkorridor. **Neue Monotoniequelle erkannt und ab J abgestellt:** Der dreiteilige Aufbau des Urteils erzeugt in jedem Kapitel dieselben Absatzanfaenge; in H und I wurden je sieben Kapitel nachtraeglich variiert, fuer A bis G gehoert eine Durchsicht in Phase 3. **Der Umfangsbefund aus H hat sich bestaetigt:** In I wurde von Anfang an auf 1.850 bis 1.950 Woerter geschrieben und trotzdem bei 1.990 gelandet. Die Autorenentscheidung nach §25 steht damit unveraendert an. |
 | 1.8 | Kategorie H vollstaendig (11 Kapitel, 20.423 Woerter). **H77 traegt mit 8,3 die hoechste Note des Buches** - und ist gleichzeitig das Modell mit dem hoechsten Kapitalbedarf. Der Widerspruch wird im Kapitel ausdruecklich nicht aufgeloest, sondern zur Begruendung des Startbarkeits-Markers aller hundert Kapitel gemacht: Die Note sagt, was das Geschaeft wert ist, der Marker sagt, ob der Leser drankommt. H71 (8,0) ist das neunte Spitzenbandmodell und traegt die staerkste interne Softwareamortisation des Buches; H74 (7,8) gibt im selben Kundenfeld die umgekehrte Softwareantwort. Bemerkenswert und beabsichtigt: **das Modell mit dem groesseren Abstand zur Haftung hat die hoehere Note.** H72 (4,9) und H73 (4,6) sind das sechste und siebte Modell unter 5,0, H73 mit dem zweitgroessten Abzug des Buches (-0,7), weil eine Verbindlichkeit weiterlaeuft, wenn das Modell scheitert. Erster einzelner Stern bei Recurring Revenue im Buch (H79). Alle 20 kompakten Vollkapitel sind damit verbraucht. Zehn neue Vertriebswege, gegen alle 70 vorherigen geprueft, keine Dublette. **Zweiter Punkt fuer die Autorenentscheidung nach §25:** Der Zielumfang von 1.800 Woertern je Standardkapitel ist mit dem Pflichtinhalt der Vorlage nicht erreichbar - tatsaechlich 1.956 im Schnitt ueber 44 Kapitel. Drei Varianten liegen im Register, Empfehlung ist die Anhebung auf 1.950 (Buch dann ca. 755 statt 731 Seiten). |
 | 1.7 | Kategorie G vollstaendig (11 Kapitel, 20.631 Woerter). G61 (8,1) ist das beste Handelsmodell des Buches und das siebte im Spitzenband, G62 (4,8) das fuenfte unter 5,0 - bewusst direkt dahinter platziert, weil die 3,3 Punkte Abstand vollstaendig aus einem Verteidigungsmerkmal bestehen. G67 ist das Kapitel, in dem der Autor ein wirtschaftlich gutes Modell aus persoenlicher Grenze ablehnt und die Ablehnung begruendet. G70 (7,6) ist die erste geteilte Softwareantwort des Buches: Portal gekauft, prueffaehiges Protokoll selbst gebaut. **Drei Befunde der Qualitaetspruefung, alle im Register unter „Befunde nach 70 Modellen" dokumentiert:** (1) Das eigene Pruefskript hat Satzlaengen systematisch zu hoch gemessen, weil ein Punkt vor einer Fettauszeichnung nicht als Satzende erkannt wurde - korrekt gemessen liegt das Manuskript bei Oe 11,6 Woertern und damit unter dem eigenen Zielkorridor von 12,5 bis 14,5. Drei Varianten zur Entscheidung des Autors vorgelegt, nichts eigenmaechtig geaendert, keine weiteren Straffungsdurchgaenge bis dahin. (2) Neun Kapitel hatten den Pflichtabschnitt „Wenn ich morgen starten muesste" nicht (C30, D37, E50, F53, F60, G62, G66, G67, G68) - alle nachgeschrieben, jetzt haben alle 70 Modellkapitel alle zehn Bestandteile. (3) G70 war mit Versicherungsmaklern als erstem Vertriebsweg geplant und kollidierte mit B18; ersetzt durch die Impfstoffvorbestellung. Damit 70 verschiedene erste Vertriebswege. **Neue Engpassdiagnose:** das Mittelband 6,5 bis 7,9 ist mit 35 Modellen an seiner Untergrenze fuer hundert Modelle angekommen - die letzten 30 Modelle muessen 5 bis 11 im Spitzenband und 5 bis 10 unter 5,0 liefern. Umfangsregel verschaerft: Standardkapitel 1.750 bis 1.850 Woerter, hoechstens eine begruendete Ueberschreitung je Kategorie. |
 | 1.6 | Kategorie F vollstaendig (11 Kapitel, 20.742 Woerter). **Drei neue Modelle im Spitzenband** - F51 (8,1, erste Aufwaertskorrektur wegen Marktgroesse), F55 (8,0, keine Schwachstelle unter drei Sternen, kapitalleichtestes Spitzenbandmodell) und F57 (8,0, bestes Abo-Modell des Buches). Damit 6 von 60 Modellen ab 8,0. Der Anteil des oberen Mittelbands ist von 60 ueber 54 auf 52 Prozent gefallen. F60 ist das vierte Modell unter 5,0. F56 ist das erste Kapitel mit fuenf Sternen bei Monetarisierung und Marge gleichzeitig und das einzige, in dem der Autor ausdruecklich schreibt, dass er es selbst nicht starten koennte - mit der Reihenfolge F55 heute, F56 in acht Jahren. **Neu im Register: eine Umfangskontrolle gegen die Seitenplanung.** Teil II laeuft hochgerechnet 24 Seiten ueber Plan (3,3 Prozent); als Regel fuer G bis J gilt, Standardkapitel bei hoechstens 1.900 Woertern zu halten und Ueberschreitungen zu begruenden. |
