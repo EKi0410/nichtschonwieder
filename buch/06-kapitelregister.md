@@ -1038,7 +1038,7 @@ Fördermittel-Preissatz.
 Notenspanne 5,8 bis 8,0. Zusage der Einführung eingehalten: nur B17 trägt den
 Marker „sofort startbar".
 
-**Softwareantworten im Buch — sechzehn Muster, alle zu erhalten:**
+**Softwareantworten im Buch — siebzehn Muster, alle zu erhalten:**
 B11 Bedingung 3 nicht erfüllt → nein · C21 erfüllt → ja · B17 erfüllt, aber
 Werkzeug käuflich → nein · B19 erfüllt und Werkzeug nicht käuflich → ja ·
 **C22 erfüllt, aber die Daten gehören anderen → nein** · **C23 erfüllt und die
