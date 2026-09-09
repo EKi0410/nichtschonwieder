@@ -68,6 +68,13 @@ ohne Georgia setzt LibreOffice hier DejaVu Serif und braucht 21 Prozent mehr
 Seiten — an einer Stichprobe von Teil I gemessen, 46 statt 38 Seiten. **Der
 Druckstand ist das PDF, nicht das Word-Dokument.**
 
+**Warum das Inhaltsverzeichnis selbst gebaut wird.** `--toc` setzt es immer an
+den Dokumentanfang, also vor den Schmutztitel. Die Reihenfolge im Buch ist
+Schmutztitel, Haupttitel, Impressum, Inhalt. `inhalt-einsetzen.py` liest daher
+die Überschriften aus dem erzeugten HTML und setzt das Verzeichnis hinter das
+Impressum; die Seitenzahlen trägt das Stylesheet über `target-counter` ein.
+136 Einträge, aus dem Dokument selbst, nicht getippt.
+
 **Warum eine eigene pandoc-Vorlage.** `--standalone` bettet ein eigenes
 Stylesheet ein, das in der Kaskade vor dem übergebenen liegt. Ergebnis waren
 1.472 statt 946 Seiten, ohne eine einzige Warnung. Die Vorlage in
@@ -109,7 +116,7 @@ eine Datei in der Leseordnung.
 | Beschnitt | keiner | kein Bild läuft an den Rand |
 | Bundsteg | 22,3 mm | KDP-Mindestmaß 601–828 Seiten |
 | Außen, oben, unten | 16 / 18 / 18 mm | Satzentscheidung, KDP-Minimum 6,35 mm |
-| Grundschrift | 10,5 pt / 14,9 pt | Satzentscheidung |
+| Grundschrift | Linux Libertine O, 10,5 / 14,6 pt | Satzentscheidung |
 
 Der Bundsteg richtet sich bei KDP nach der Seitenzahl. `nach-pdf.py` rechnet
 das erforderliche Maß aus der gemessenen Seitenzahl und meldet, wenn der Wert
@@ -119,13 +126,27 @@ das ist zulässig und lässt Luft.
 *Vor jedem Upload gegen die aktuellen KDP-Angaben prüfen. Amazon ändert
 Seitengrenzen, Bundstegtabelle und Herstellungskosten ohne Ankündigung.*
 
-## Zwei Dinge, die noch nicht Produktionsqualität sind
+## Die Schrift
 
-**Die Schrift.** Im Stylesheet steht Source Serif 4 mit Georgia als Rückfall.
-Beide sind hier nicht installiert, gesetzt wird deshalb Liberation Serif. Die
-Sterne, Pfeile und Mittelpunkte kommen aus einer CJK-Rückfallschrift. Das ist
-für einen Andruck brauchbar und für die Auflage nicht. Eine Buchschrift ist
-eine Entscheidung des Autors; sie ändert die Seitenzahl.
+**Linux Libertine O**, 10,5 pt auf 14,6 pt. Eine echte Buchschrift mit
+brauchbarer Kursive, in Debian und Ubuntu als `fonts-linuxlibertine` verfügbar
+und frei verwendbar. Gewählt nach einem Vergleich von sieben Serifenschriften
+an einer Stichprobe von 26.700 Wörtern; bei gleicher optischer Größe lagen alle
+sieben innerhalb von drei Prozent, die Wahl ist also keine Frage der Seitenzahl,
+sondern des Aussehens.
 
-**Die Sternetabelle im Modellkapitel.** Bezeichnung und Sterne fallen je nach
-Länge auf zwei Zeilen. Lesbar, aber uneinheitlich.
+**Die Sterne kommen aus FreeSerif**, weil keine Buchschrift den leeren Stern ☆
+enthält. Ohne Auszeichnung holt sich der gefüllte ★ seine Form aus der
+Buchschrift und der leere aus einer CJK-Rückfallschrift — das Paar passt dann
+nicht zusammen. Deshalb fasst `zusammenfuegen.py` jede Sternefolge in eine
+Auszeichnung `.sternfolge`, die als Ganzes aus FreeSerif kommt.
+
+## Was der Produktionsapparat nicht mehr enthält
+
+Die Klammern *(Vor Drucklegung prüfen: …)* richten sich an den Hersteller, nicht
+an den Leser. Sie stehen im Manuskript und in keiner Ausgabe. Ebenso entfällt
+die Aufzählung der 57 Prüfpunkte in Anhang D — mit den Klammern im Text ist sie
+ohne Bezug; die drei leserseitigen Abschnitte des Anhangs bleiben. Im Impressum
+entfallen die Zeilen für Druckerei, ISBN und Umschlag, solange die Angaben nicht
+vorliegen. **Vollständig geführt werden alle offenen Punkte in
+`05-recherche-backlog.md` und `06-kapitelregister.md`.**

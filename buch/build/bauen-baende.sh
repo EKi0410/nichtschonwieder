@@ -12,8 +12,9 @@ for b in 1 2; do
     --reference-doc=build/referenz.docx --toc --toc-depth=2 \
     --metadata lang=de-DE -o build/out/band$b.docx
   "$PANDOC" build/out/gesamt-print-band$b.md -f "$MD" -t html5 \
-    --template=build/vorlage-print.html --toc --toc-depth=2 --section-divs \
+    --template=build/vorlage-print.html --section-divs \
     --metadata lang=de-DE --metadata title="100 Geschäftsideen, Band $b" \
     -o build/out/gesamt-print-band$b.html
+  python3 build/inhalt-einsetzen.py build/out/gesamt-print-band$b.html
 done
 python3 build/baende-messen.py

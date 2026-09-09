@@ -13,9 +13,10 @@ for z in print epub docx; do python3 build/zusammenfuegen.py "$z"; done
 
 echo "== 2. Druckausgabe (PDF für KDP Paperback) =="
 "$PANDOC" "$OUT/gesamt-print.md" -f "$MD_EIN" -t html5 \
-  --template=build/vorlage-print.html --toc --toc-depth=2 --section-divs \
+  --template=build/vorlage-print.html --section-divs \
   --metadata lang=de-DE --metadata title="100 Geschäftsideen" \
   -o "$OUT/gesamt-print.html"
+python3 build/inhalt-einsetzen.py "$OUT/gesamt-print.html"
 python3 build/nach-pdf.py
 
 echo "== 3. E-Book (EPUB für Kindle) =="

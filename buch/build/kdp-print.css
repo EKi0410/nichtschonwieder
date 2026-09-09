@@ -1,214 +1,331 @@
-/* Satzvorlage für Amazon KDP Paperback.
-   Trimformat 6,14 × 9,21 Zoll = 155,96 × 233,93 mm, ohne Beschnitt.
-   Bundsteg 22,3 mm — KDP-Mindestmaß für Bücher von 601 bis 828 Seiten.
-   Jede Zahl hier ist eine KDP-Vorgabe oder eine Satzentscheidung; beides ist
-   im Kommentar benannt, damit später nachvollziehbar bleibt, was verhandelbar
-   ist und was nicht. */
+/* ═══════════════════════════════════════════════════════════════════════
+   100 Geschäftsideen — Satzvorlage für Amazon KDP Paperback
 
-/* ---------- Seitengeometrie ---------- */
+   Trimformat  6,14 × 9,21 Zoll = 155,96 × 233,93 mm, ohne Beschnitt
+   Bundsteg    22,3 mm — KDP-Mindestmaß für 601 bis 828 Seiten
+   Buchschrift Linux Libertine O, 10,5 pt auf 14,6 pt
+
+   Jede Zahl hier ist entweder eine KDP-Vorgabe oder eine Satzentscheidung.
+   Der Kommentar sagt jeweils, welche von beiden — damit später klar ist,
+   was verhandelbar ist und was nicht.
+   ══════════════════════════════════════════════════════════════════════ */
+
+:root {
+  --schrift: "Linux Libertine O", "Charis SIL", Georgia, serif;
+  --sterne:  "FreeSerif", serif;   /* die einzige Schrift mit ★ und ☆ */
+  --grund:   10.5pt;
+  --zeile:   14.6pt;
+  --einzug:  4.4mm;
+  --klein:   9.2pt;
+}
+
+/* ─────────── Seitengeometrie ─────────── */
 @page {
   size: 155.96mm 233.93mm;
-  margin: 18mm 16mm 18mm 16mm;        /* Satzentscheidung, KDP-Minimum 6,35mm */
+  margin: 20mm 16mm 20mm 16mm;      /* Satzentscheidung; KDP-Minimum 6,35 mm */
   @bottom-center {
     content: counter(page);
-    font: 9pt "Source Serif 4", Georgia, serif;
-    color: #000;
-    margin-top: 4mm;
+    font: var(--klein) var(--schrift);
+    margin-top: 5mm;
   }
 }
-@page :left  { margin-right: 22.3mm; @top-left  { content: string(kolumne); } }
-@page :right { margin-left:  22.3mm; @top-right { content: string(kolumne); } }
-@page :left, @page :right {
-  @top-left, @top-right {
-    font: italic 8.5pt "Source Serif 4", Georgia, serif;
-    color: #333; margin-bottom: 5mm;
-  }
+/* Der Bundsteg liegt innen: auf der linken Seite rechts, auf der rechten links. */
+@page :left  { margin-right: 22.3mm;
+  @top-left  { content: string(buch);    font: italic 8.6pt var(--schrift);
+               color: #222; margin-bottom: 6mm; letter-spacing: .02em } }
+@page :right { margin-left: 22.3mm;
+  @top-right { content: string(kolumne); font: italic 8.6pt var(--schrift);
+               color: #222; margin-bottom: 6mm } }
+
+/* Titelei: römische Zahlen, keine Kolumnentitel. */
+@page titelei {
+  @top-left { content: none } @top-right { content: none }
+  @bottom-center { content: counter(page, lower-roman);
+                   font: var(--klein) var(--schrift) }
+}
+/* Anfangsseite eines Kapitels: Seitenzahl ja, Kolumnentitel nein. */
+@page anfang { @top-left { content: none } @top-right { content: none } }
+/* Teiltitel und Titelblatt: nichts außer dem Titel. */
+@page blanko {
+  @top-left { content: none } @top-right { content: none }
+  @bottom-center { content: none }
+}
+/* Leerseiten tragen keine Seitenzahl. */
+@page :blank {
+  @top-left { content: none } @top-right { content: none }
+  @bottom-center { content: none }
 }
 
-/* Titelei: römische Zahlen, keine Kolumnentitel */
-@page titelei { @top-left { content: none } @top-right { content: none }
-  @bottom-center { content: counter(page, lower-roman); font-size: 9pt } }
-.titelei { page: titelei }
-
-/* Erste Seite eines Kapitels ohne Kolumnentitel */
-@page kapitelanfang { @top-left { content: none } @top-right { content: none } }
-
-/* ---------- Grundschrift ---------- */
+/* ─────────── Grundschrift ─────────── */
 html {
-  font: 10.5pt/1.42 "Source Serif 4", "Georgia", "Times New Roman", serif;
+  font: var(--grund)/1 var(--schrift);
+  line-height: var(--zeile);
   hyphens: auto;
   -weasy-hyphens: auto;
   text-align: justify;
-  widows: 2; orphans: 2;
+  hyphenate-limit-chars: 6 3 3;     /* keine Zweibuchstaben-Trennung */
+  widows: 2;
+  orphans: 2;
+  string-set: buch "100 Geschäftsideen";
 }
 body { margin: 0 }
-p { margin: 0; text-indent: 4.5mm }          /* Einzug statt Leerzeile */
-p:first-of-type, h1 + p, h2 + p, h3 + p, h4 + p,
-blockquote + p, .startbar + p, table + p, ul + p, ol + p, pre + p
-  { text-indent: 0 }
 
-/* ---------- Gliederung ----------
-   Wichtig: Der Umbruch hängt an der Überschrift, nicht am Abschnitt. Beides
-   zugleich erzeugt pro Datei eine halbleere Seite — bei 135 Dateien waren das
-   in der ersten Fassung über hundert Seiten Luft. */
+p { margin: 0; text-indent: var(--einzug) }
+/* Kein Einzug nach einer Überschrift oder einem abgesetzten Element —
+   der Einzug markiert die Fortsetzung, nicht den Anfang. */
+h1 + p, h2 + p, h3 + p, h4 + p, hr + p,
+blockquote + p, .startbar + p, table + p, ul + p, ol + p, pre + p,
+.stufen + p, p:first-child { text-indent: 0 }
 
-h1 {                                          /* TEIL, Einleitung, Anhang */
-  break-before: right; page: kapitelanfang;
-  font-size: 19pt; font-weight: 600; line-height: 1.15;
-  margin: 24mm 0 9mm; text-align: left;
+em { font-style: italic }
+strong { font-weight: 600 }
+.sternfolge { font-family: var(--sterne); letter-spacing: .04em;
+              white-space: nowrap; font-size: .95em }
+
+/* ─────────── Gliederung ───────────
+   Der Umbruch hängt an der Überschrift, nicht am Abschnitt. Beides zugleich
+   erzeugt pro Datei eine halbleere Seite — bei 135 Dateien über hundert
+   Seiten Luft. */
+
+/* Ebene 1: Teiltitel, Einleitung, Nachwort, Anhänge. */
+h1 {
+  break-before: right;
+  page: blanko;
+  font-size: 21pt;
+  font-weight: 400;
+  line-height: 1.16;
+  letter-spacing: .01em;
+  margin: 78mm 0 0;
+  text-align: center;
+  text-indent: 0;
+  hyphens: none;
+  string-set: kolumne content(), buch "100 Geschäftsideen";
+}
+/* Einleitung, Nachwort und Anhänge sind Kapitel, keine Teiltitel:
+   oben auf der Seite, linksbündig, und die Seite trägt eine Zahl. */
+.vorspann > h1, .nachspann > h1, .anhang > h1 {
+  page: anfang;
+  font-size: 18pt;
+  font-weight: 600;
+  margin: 26mm 0 9mm;
+  text-align: left;
+}
+
+/* Ebene 2: Kapitel in Teil I und III, Kategorie-Einführung, Modellkapitel. */
+h2 {
+  break-before: page;
+  break-after: avoid;
+  page: anfang;
+  font-size: 14pt;
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 22mm 0 7mm;
+  text-align: left;
+  text-indent: 0;
+  hyphens: none;
   string-set: kolumne content();
 }
-h2 {                                          /* Kapitel, Kategorie */
-  break-before: page; page: kapitelanfang; break-after: avoid;
-  font-size: 14pt; font-weight: 600; line-height: 1.2;
-  margin: 14mm 0 5mm; text-align: left;
-  string-set: kolumne content();
+/* Eine Kategorie ist der Auftakt zu zehn Kapiteln — rechte Seite, mehr Luft. */
+.kategorie > h2 {
+  break-before: right;
+  font-size: 18pt;
+  margin: 46mm 0 9mm;
 }
-h3 {                                          /* Unterkapitel in Teil I / III */
-  break-before: auto; break-after: avoid;
-  font-size: 11.5pt; font-weight: 600; line-height: 1.25;
-  margin: 6mm 0 2mm; text-align: left;
+/* Ein Modellkapitel ist eine Nachschlageeinheit: oben auf der Seite,
+   damit alle hundert gleich aussehen. */
+.modell > h2 { margin: 14mm 0 4mm; font-size: 13.5pt; line-height: 1.22 }
+
+/* Ebene 3: Abschnitte innerhalb eines Kapitels. */
+h3 {
+  break-before: auto;
+  break-after: avoid;
+  font-size: 11.5pt;
+  font-weight: 600;
+  margin: 6.5mm 0 1.8mm;
+  text-align: left;
+  text-indent: 0;
+  hyphens: none;
 }
 h4 {
-  break-after: avoid; break-before: avoid;
-  font-size: 10.5pt; font-weight: 600; margin: 4mm 0 1.2mm; text-align: left;
+  break-before: avoid;
+  break-after: avoid;
+  font-size: var(--grund);
+  font-weight: 600;
+  margin: 4.5mm 0 1.2mm;
+  text-align: left;
+  text-indent: 0;
 }
-
-/* Ein Modellkapitel ist eine Nachschlageeinheit und fängt oben an. */
-.modell > h3 {
-  break-before: page; page: kapitelanfang;
-  font-size: 13pt; margin: 10mm 0 3mm;
-  string-set: kolumne content();
+/* In den Anhängen sind die Zwischentitel Gliederung, keine Kapitel. */
+.anhang h2 {
+  break-before: auto; page: auto;
+  font-size: 12.5pt; margin: 8mm 0 3mm;
 }
-/* Erste Überschrift eines Abschnitts bricht nicht doppelt um */
-.abschnitt > h1:first-child, .abschnitt > h2:first-child { break-before: auto }
-.abschnitt.titelei { break-before: right }
+.anhang > h2:first-of-type { break-before: auto }
 
-/* In den Anhängen sind die Zwischentitel Gliederung, keine Kapitel —
-   dort wäre ein Seitenumbruch je Überschrift reine Papierverschwendung. */
-.anhang h2 { break-before: auto; page: auto; font-size: 12.5pt;
-             margin: 7mm 0 3mm }
+/* ─────────── Titelblatt ─────────── */
+.titelblatt { page: blanko; text-align: center; hyphens: none }
+.titelblatt p { text-indent: 0; margin: 0 }
+.titelzeile  { display: block; font-size: 16pt; margin-top: 62mm }
+.haupttitel  { display: block; break-before: right;
+               font-size: 27pt; line-height: 1.1; margin-top: 68mm }
+.untertitel  { display: block; font-size: 13pt; font-style: italic;
+               line-height: 1.35; margin: 7mm 14mm 0 }
+.titelblatt p:last-of-type .titelzeile { font-size: 12.5pt; margin-top: 34mm }
 
-/* ---------- Kästen, Tabellen, Zitate ---------- */
+/* ─────────── Startbarkeits-Kasten ─────────── */
 .startbar {
-  break-inside: avoid; break-before: avoid;
-  border: 0.4pt solid #000; padding: 2.5mm 3mm;
-  margin: 3mm 0 4mm; font-size: 9.5pt; line-height: 1.3;
-  text-align: left; hyphens: none;
+  break-inside: avoid;
+  break-before: avoid;
+  border: 0.4pt solid #000;
+  padding: 2.6mm 3.2mm;
+  margin: 3.2mm 0 4.4mm;
+  font-size: var(--klein);
+  line-height: 1.34;
+  text-align: left;
+  hyphens: none;
 }
 .startbar p { text-indent: 0; margin: 0 }
 
+/* ─────────── Tabellen ─────────── */
 table {
-  border-collapse: collapse; width: 100%;
-  margin: 3mm 0 4mm; font-size: 9pt; line-height: 1.25;
-  break-inside: avoid; hyphens: none;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 3.2mm 0 4.4mm;
+  font-size: var(--klein);
+  line-height: 1.26;
+  break-inside: avoid;
+  hyphens: none;
+  table-layout: fixed;
 }
-th, td { border: 0.3pt solid #666; padding: 1.2mm 1.8mm;
-         text-align: left; vertical-align: top }
-th { font-weight: 600; background: #f0f0f0 }
-/* Die achtteilige Sternetabelle hat leere Kopfzellen — Rahmen dort weg */
+th, td {
+  border: 0.3pt solid #555;
+  padding: 1.3mm 1.8mm;
+  text-align: left;
+  vertical-align: top;
+  overflow-wrap: break-word;
+}
+th { font-weight: 600; background: #efefef }
+/* Kopflose Tabellen (das Sternegitter) tragen keine Kopfzeile. */
 thead tr:empty, thead th:empty { border: none; background: none; padding: 0 }
 
+/* Das achtteilige Sternegitter: vier Spalten, zwei Zeilen, nichts umbrechen. */
+.modell table {
+  font-size: 8.8pt;
+  line-height: 1.2;
+}
+.modell table td { width: 25%; white-space: nowrap; padding: 1.1mm 1.4mm }
+.modell table col { width: 25% !important }
+
+/* ─────────── Zitate und abgesetzte Blöcke ─────────── */
 blockquote {
-  margin: 3mm 4mm 4mm; padding-left: 3mm; border-left: 1pt solid #999;
-  font-size: 10pt; text-indent: 0; break-inside: avoid;
+  margin: 3.4mm 5mm 4.4mm;
+  padding-left: 3.4mm;
+  border-left: 0.7pt solid #888;
+  font-size: 10pt;
+  line-height: 1.36;
+  text-indent: 0;
+  break-inside: avoid;
 }
 blockquote p { text-indent: 0 }
+blockquote p + p { margin-top: 1.8mm }
 
-pre, pre.stufen {
-  font: 8pt/1.35 "DejaVu Sans Mono", monospace;
-  white-space: pre-wrap; word-break: break-word;
-  margin: 3mm 0; padding: 2mm; background: #f4f4f4;
-  break-inside: avoid; hyphens: none;
+/* Das Sieben-Stufen-Diagramm. Im Manuskript ein Codeblock, damit die
+   Ausrichtung im Editor stimmt — gesetzt ist es Text, keine
+   Schreibmaschinenschrift. */
+pre {
+  font-family: var(--schrift);
+  font-size: 9.6pt;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  text-align: center;
+  margin: 4mm 2mm;
+  padding: 2.6mm 3mm;
+  border-top: 0.3pt solid #999;
+  border-bottom: 0.3pt solid #999;
+  break-inside: avoid;
+  hyphens: none;
 }
-code { font: 0.92em "DejaVu Sans Mono", monospace; hyphens: none }
+code { font-family: var(--schrift); hyphens: none }
 
-ul, ol { margin: 2.5mm 0 3.5mm; padding-left: 6mm; text-align: left }
-li { margin-bottom: 1mm }
-hr { border: none; border-top: 0.3pt solid #999; margin: 5mm 20mm }
+/* ─────────── Listen und Linien ─────────── */
+ul, ol { margin: 2.6mm 0 3.6mm; padding-left: 6.5mm; text-align: left }
+li { margin-bottom: 1.1mm }
+li > p { text-indent: 0 }
+li > p + p { margin-top: 1.1mm }
+hr { border: none; border-top: 0.3pt solid #999;
+     margin: 6mm 34mm; break-after: avoid }
 
-/* ---------- Inhaltsverzeichnis mit echten Seitenzahlen ---------- */
-#TOC { break-before: right; page: titelei }
+/* ─────────── Inhaltsverzeichnis ─────────── */
+#TOC {
+  break-before: right;
+  page: titelei;
+  hyphens: none;
+}
+#TOC > h1 {
+  break-before: avoid; page: titelei;
+  font-size: 18pt; font-weight: 600; text-align: left;
+  margin: 26mm 0 8mm;
+}
+#TOC ul { list-style: none; padding-left: 5mm; margin: 0 }
 #TOC > ul { padding-left: 0 }
-#TOC ul { list-style: none; padding-left: 4mm; margin: 0 }
-#TOC > ul > li { margin-top: 2.5mm; font-weight: 600 }
-#TOC > ul > li > ul > li { font-weight: 400 }
-#TOC li { margin-bottom: 0.6mm; text-align: left; hyphens: none;
-          font-size: 9.5pt; line-height: 1.3 }
+#TOC li { margin: 0 0 0.7mm; text-align: left;
+          font-size: 9.4pt; line-height: 1.32 }
+#TOC > ul > li { margin-top: 3mm; font-weight: 600 }
+#TOC > ul > li > ul > li { font-weight: 400; margin-top: 0 }
 #TOC a { text-decoration: none; color: #000 }
 #TOC a::after {
   content: " " leader('.') " " target-counter(attr(href), page);
   font-weight: 400;
 }
 
-/* ---------- Titelblatt ---------- */
-.titelblatt { text-align: center; hyphens: none }
-.titelblatt p { text-indent: 0; margin: 0 }
-.titelzeile { display: block; font-size: 17pt; font-weight: 600;
-              margin-top: 55mm }
-.haupttitel { display: block; font-size: 26pt; font-weight: 600;
-              line-height: 1.1; margin-top: 55mm; break-before: right }
-.untertitel { display: block; font-size: 13pt; font-weight: 400;
-              font-style: italic; margin-top: 6mm; line-height: 1.3 }
-.titelblatt p:last-of-type .titelzeile { font-size: 12pt; font-weight: 400;
-              margin-top: 40mm }
-
-/* Kategorie-Einführung soll größer wirken als ein Modellkapitel, obwohl
-   beide auf derselben Gliederungsebene stehen. */
-.kategorie > h2 { break-before: right; font-size: 17pt; margin: 30mm 0 8mm }
-
-/* ---------- Modellmatrix in Anhang B ----------
-   Die Sternespalte ist im Manuskript eine Ziffernfolge in Codeauszeichnung.
-   Ohne feste Spaltenbreiten bricht sie um, und die Tabelle wird unlesbar —
-   in der ersten Fassung brauchte Anhang B dadurch 34 Seiten. */
-.matrix table { font-size: 7.8pt; line-height: 1.2; table-layout: fixed }
-.matrix table code { white-space: nowrap; font-size: 7.6pt; letter-spacing: 0 }
-.matrix table th, .matrix table td { padding: 0.9mm 1.2mm }
-
-.matrix table th:nth-child(1), .matrix table td:nth-child(1) { width: 8% }
-.matrix table th:nth-child(2), .matrix table td:nth-child(2) { width: 44% }
-.matrix table th:nth-child(3), .matrix table td:nth-child(3) { width: 13%;
-                     text-align: center }
-.matrix table th:nth-child(4), .matrix table td:nth-child(4) { width: 7%;
-                     text-align: right }
-.matrix table th:nth-child(5), .matrix table td:nth-child(5) { width: 8%;
-                     white-space: nowrap }
-.matrix table th:nth-child(6), .matrix table td:nth-child(6) { width: 13% }
-.matrix table th:nth-child(7), .matrix table td:nth-child(7) { width: 7% }
-/* Lange Tabellen dürfen umbrechen, sonst passt eine Kategorie nicht auf
-   eine Seite und lässt die halbe Seite leer. */
-.anhang table { break-inside: auto }
-.anhang table tr { break-inside: avoid }
-
-/* Die achtteilige Sternetabelle im Modellkapitel: Bezeichnung und Sterne
-   sollen nicht auf zwei Zeilen fallen. */
-.modell table { font-size: 8.6pt; table-layout: fixed }
-.modell table td { width: 25%; white-space: nowrap; overflow: hidden }
-
-/* Leerseiten tragen keine Seitenzahl. */
-@page :blank { @bottom-center { content: none }
-               @top-left { content: none } @top-right { content: none } }
-
-/* Die Modellnamen enthalten lange Komposita ("Nachhaltigkeitsdaten",
-   "Personaldokumenten-Service"). Ohne Trennung laufen sie bei fester
-   Spaltenbreite in die Nachbarspalte. */
-.matrix table td:nth-child(2) {
-  hyphens: auto; -weasy-hyphens: auto; overflow-wrap: break-word;
-  word-break: break-word;
-}
-.matrix table th:nth-child(1), .matrix table td:nth-child(1) { width: 7% }
-.matrix table th:nth-child(2), .matrix table td:nth-child(2) { width: 45% }
-.matrix table th:nth-child(3), .matrix table td:nth-child(3) { width: 12% }
-.matrix table th:nth-child(6), .matrix table td:nth-child(6) { width: 14% }
-
-/* pandoc erzeugt aus der Trennzeile der Markdown-Tabelle ein <colgroup> mit
+/* ─────────── Modellmatrix in Anhang B ───────────
+   pandoc erzeugt aus der Trennzeile der Markdown-Tabelle ein <colgroup> mit
    Inline-Breiten. Bei table-layout: fixed haben die Vorrang vor jeder Angabe
-   an th und td — die Breiten oben kamen deshalb nicht an. Hier die Korrektur
-   für die siebenspaltige Modellmatrix in Anhang B. */
-.matrix table col:nth-child(1) { width: 7%  !important }
-.matrix table col:nth-child(2) { width: 45% !important }
+   an th und td — Breiten müssen deshalb an den col-Elementen stehen. */
+.matrix table { font-size: 7.9pt; line-height: 1.22; break-inside: auto }
+.matrix table tr { break-inside: avoid }
+.matrix table th, .matrix table td { padding: 0.9mm 1.2mm }
+.matrix table col:nth-child(1) { width:  7% !important }
+.matrix table col:nth-child(2) { width: 42% !important }
 .matrix table col:nth-child(3) { width: 12% !important }
-.matrix table col:nth-child(4) { width: 7%  !important }
-.matrix table col:nth-child(5) { width: 8%  !important }
+.matrix table col:nth-child(4) { width:  7% !important }
+.matrix table col:nth-child(5) { width: 10% !important }
 .matrix table col:nth-child(6) { width: 13% !important }
-.matrix table col:nth-child(7) { width: 9%  !important }
+.matrix table col:nth-child(7) { width:  9% !important }
+.matrix table td:nth-child(3) { text-align: center; font-family: var(--schrift) }
+.matrix table td:nth-child(4) { text-align: right }
+.matrix table td:nth-child(5) { white-space: nowrap }
+/* Die Modellnamen sind lange Komposita ("Personaldokumenten-Service").
+   Ohne Trennung laufen sie bei fester Spaltenbreite in die Nachbarspalte. */
+.matrix table td:nth-child(2) { hyphens: auto; -weasy-hyphens: auto }
+
+/* Die zweispaltigen Arbeitstabellen in Anhang A brauchen andere Breiten. */
+.anhang:not(.matrix) table col { width: auto !important }
+
+/* Kategorien im Verzeichnis eine Stufe über ihren zehn Modellkapiteln. */
+#TOC li.kategorie { font-weight: 600; margin-top: 2.2mm }
+#TOC li.kategorie + li { margin-top: 0.9mm }
+
+/* Titelblatt: Titel größer, Untertitel mit weniger Rand, damit er
+   nach "Suche" bricht und nicht nach "das". */
+.haupttitel { font-size: 30pt }
+.untertitel { margin: 8mm 6mm 0 }
+
+/* Abschnittsüberschriften enger: vierzehn davon in jedem Modellkapitel
+   ergeben sonst ein halbes Blatt Zwischenraum. */
+h3 { margin: 4.6mm 0 1.6mm }
+
+/* ─────────── Teiltitelseite ─────────── */
+h1 .teilnummer {
+  display: block; font-size: 12pt; letter-spacing: .22em;
+  text-transform: none; margin-bottom: 9mm;
+}
+h1 .teilname { display: block; font-size: 23pt; line-height: 1.18 }
+
+/* Das Motto einer Kategorie steht abgesetzt, nicht als erster Absatz. */
+.kategorie > h2 + p { margin-bottom: 5mm; font-size: 10.8pt }
+h1 .teiltrenner { display: none }
+
+/* Die Spaltenköpfe der Matrix nicht trennen — "Stufen" darf nicht als
+   "Stufe / n" umbrechen. */
+.matrix table th { hyphens: none; overflow-wrap: normal }

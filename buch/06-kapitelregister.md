@@ -4157,3 +4157,87 @@ Satz, nicht danach.
   die führende Fassung — dann muss der Rückweg von Hand gemacht werden. Das ist
   eine Entscheidung, keine Kleinigkeit, und sie ist jetzt zu treffen und nicht
   nach dreihundert Änderungen.
+
+
+---
+
+## Leseausgabe — ein Band, durchgehend gesetzt, ohne Produktionsapparat
+
+Auf Wunsch des Autors: das gesamte Buch als ein PDF, einheitlich gesetzt und
+ohne die Platzhalter. **927 Seiten.**
+
+### Was aus jeder Ausgabe entfernt ist
+
+Die Klammern *(Vor Drucklegung prüfen: …)* richten sich an den Hersteller,
+nicht an den Leser — 53 Stellen in 50 Kapiteln, dazu drei Schreibweisen im
+Manuskript (`prüfen:`, `prüfen.`, `mit Fundstelle klären:`), die alle erfasst
+sind. Ebenso entfällt die Aufzählung der 57 Prüfpunkte in Anhang D: Ohne die
+Klammern im Text ist sie ohne Bezug. Die drei leserseitigen Abschnitte des
+Anhangs bleiben, ihr Einleitungssatz ist entsprechend umgeschrieben. Im
+Impressum sind die Zeilen für Druckerei, ISBN, Umschlag und Satz gestrichen,
+solange die Angaben fehlen.
+
+**Nichts davon ist verloren.** Im Manuskript stehen alle Klammern, und
+`05-recherche-backlog.md` führt den vollständigen Backlog. Die Streichung
+passiert im Bauweg, nicht am Text.
+
+### Die Schrift — und warum die Sterne aus einer anderen kommen
+
+**Linux Libertine O, 10,5 pt auf 14,6 pt.** Gewählt nach einem Vergleich von
+sieben Serifenschriften an 26.700 Wörtern. Befund: Bei gleicher optischer Größe
+liegen alle sieben innerhalb von drei Prozent Seitenzahl — **die Schriftwahl ist
+also keine Frage des Umfangs, sondern des Aussehens.** Das korrigiert den
+Eindruck aus dem letzten Eintrag: Die dort gemessenen 21 Prozent stammten aus
+einem Vergleich bei gleicher Punktgröße, nicht bei gleicher optischer Größe.
+Wer eine Schrift wählt und die Größe mitwählt, verliert keine 190 Seiten.
+
+**Keine Buchschrift enthält den leeren Stern ☆.** Geprüft über alle
+installierten Schriften: nur DejaVu Sans, FreeSans, FreeSerif und einige
+CJK-Schriften haben ★ und ☆ zusammen. Ohne Auszeichnung kommt der gefüllte
+Stern aus der Buchschrift und der leere aus einer CJK-Ersatzschrift — 1.633
+Sternefolgen mit zwei verschiedenen Sternformen in derselben Zeile. Der Bauweg
+fasst jede Folge in eine Auszeichnung, die als Ganzes aus FreeSerif kommt.
+**Das ist der Fehler, der ohne Sichtprüfung durchgegangen wäre**, weil er in
+keiner Warnung auftaucht und im Fließtext nicht auffällt.
+
+### Vier weitere Befunde des Satzes
+
+1. **Das Inhaltsverzeichnis stand vor dem Schmutztitel.** pandoc setzt es
+   immer an den Dokumentanfang; die Reihenfolge im Buch ist Schmutztitel,
+   Haupttitel, Impressum, Inhalt. Es wird jetzt aus dem erzeugten HTML gebaut
+   und hinter das Impressum gesetzt — 136 Einträge mit echten Seitenzahlen
+   über `target-counter`, aus dem Dokument selbst.
+2. **Das Sternegitter lief über die Zellen.** Bei vier Spalten hat eine Zelle
+   29 mm, „Kapitalleichtigkeit ★★★★★" braucht 38 — der Text lief in die
+   Nachbarzelle und überdruckte sie. Im Satz jetzt zwei Spalten mit vier
+   Zeilen, 58 mm je Zelle. **Dritter Fall eines Elements, das je Ausgabe
+   anders aussehen muss:** vier Spalten im Manuskript, zwei im Druck, eine
+   Zeile in Word.
+3. **Ein Teiltitel ist keine Überschrift.** „TEIL I — DIE DENKWEISE" steht auf
+   der Teiltitelseite zweizeilig, die Nummer gesperrt und klein über dem Namen.
+   Der Gedankenstrich bleibt als eigene Auszeichnung im Markup stehen und wird
+   im Satz ausgeblendet, weil das Inhaltsverzeichnis den Überschriftentext ohne
+   Auszeichnungen liest und ihn braucht.
+4. **pandoc bricht lange Zeilen mitten im Tag um** (`<section` und `id=` auf
+   zwei Zeilen). Ein Muster mit einem Leerzeichen dazwischen findet 94 von 152
+   Abschnitten — und das ohne Fehlermeldung, nur mit einem zu kurzen
+   Inhaltsverzeichnis. Für jede künftige Auswertung von pandoc-HTML gilt:
+   `\s+` statt eines Leerzeichens, überall.
+
+### Was jetzt einheitlich ist
+
+Titelblatt und Teiltitel ohne Seitenzahl und ohne Kolumnentitel. Leerseiten
+ohne beides. Titelei mit römischen Zahlen, Buchblock mit arabischen ab 1.
+Kolumnentitel links der Buchtitel, rechts das laufende Kapitel, auf
+Kapitelanfangsseiten keiner. Alle hundert Modellkapitel beginnen oben auf einer
+neuen Seite mit derselben Folge: Titel, Kennzeile, Startbarkeits-Kasten,
+Sternegitter. Jede Kategorie beginnt auf einer rechten Seite. Einzug statt
+Leerzeile, kein Einzug nach Überschrift oder abgesetztem Element.
+Silbentrennung mit Mindestlängen, Witwen und Waisen unterdrückt.
+
+### Was das an der Bandfrage ändert: nichts
+
+927 Seiten in einem Band gegen eine KDP-Grenze von 828. Als zwei Bände 427 und
+521 Seiten, beide auch unter der Hardcover-Grenze von 550. Die Empfehlung von
+zwei Bänden steht unverändert — jetzt aber mit einem fertig gesetzten Band als
+Anschauung, was der Leser in der Hand hätte.
