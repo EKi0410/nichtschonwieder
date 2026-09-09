@@ -24,9 +24,11 @@ echo "== 3. E-Book (EPUB für Kindle) =="
   --metadata lang=de-DE \
   -o "$OUT/100-geschaeftsideen.epub"
 
-echo "== 4. Satzvorlage (DOCX, falls im Satzprogramm weitergearbeitet wird) =="
+echo "== 4. Word-Ausgabe (DOCX, das Arbeitsdokument) =="
+python3 build/referenz-bauen.py
 "$PANDOC" "$OUT/gesamt-docx.md" -f "$MD_EIN" -t docx \
-  --toc --toc-depth=2 --metadata lang=de-DE \
+  --reference-doc=build/referenz.docx --toc --toc-depth=2 \
+  --metadata lang=de-DE \
   -o "$OUT/100-geschaeftsideen.docx"
 
 echo

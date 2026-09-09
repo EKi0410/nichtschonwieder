@@ -17,7 +17,8 @@ Sichtprüfung der Seiten zusätzlich `poppler-utils`.
 |---|---|---|
 | `out/100-geschaeftsideen-interior.pdf` | Buchblock | Taschenbuch, Feld „Manuskript" |
 | `out/100-geschaeftsideen.epub` | E-Book | Kindle |
-| `out/100-geschaeftsideen.docx` | Satzvorlage | nur, wenn im Satzprogramm weitergearbeitet wird |
+| `out/100-geschaeftsideen.docx` | Arbeitsdokument in Word | Taschenbuch, Feld „Manuskript" (KDP nimmt DOCX) |
+| `out/band1.docx`, `out/band2.docx` | dasselbe als zwei Bände | dito |
 | `out/gesamt-*.md` | zusammengefügtes Manuskript | Zwischenergebnis, prüfbar |
 
 ## Die Kette
@@ -29,7 +30,43 @@ manuskript/*.md
    → pandoc + build/vorlage-print.html
    → build/kdp-print.css       Satz nach KDP-Vorgaben
    → build/nach-pdf.py         PDF und Seitenmessung
+
+manuskript/*.md
+   → build/zusammenfuegen.py docx
+   → build/referenz-bauen.py    Stilvorlage referenz.docx
+   → pandoc --reference-doc
 ```
+
+## Die Word-Ausgabe
+
+`referenz-bauen.py` erzeugt `referenz.docx` — die Stilvorlage. pandoc übernimmt
+daraus Seitenformat, Ränder, Bundsteg, Schrift und alle Absatzstile. **Wer die
+Word-Ausgabe umformatieren will, ändert dort etwas und baut neu, nicht im
+900-Seiten-Dokument.** Enthalten sind: KDP-Trimformat mit gespiegelten Rändern
+und 22,3 mm Bundsteg, Georgia 10,5 pt auf 14,9 pt, deutsche Silbentrennung,
+Fußzeile mit Seitenzahl, Überschriften 1 bis 4 mit Seitenumbruch auf den
+Ebenen 1 und 2, ein umrandeter Absatzstil `startbar` und ein linksbündiger
+`sterne`.
+
+Das Inhaltsverzeichnis ist ein Word-Feld: beim ersten Öffnen mit **F9**
+aktualisieren, dann stehen die Seitenzahlen drin. Die Gliederung im
+Navigationsbereich funktioniert sofort — bei 133 Kapiteln ist das der
+eigentliche Grund, in Word zu arbeiten.
+
+**Zwei Eingriffe nur für Word**, beide im Skript kommentiert:
+
+- Das achtteilige Sternegitter wird eine Zeile. Als Tabelle mit vier Spalten à
+  25 Prozent brechen die Zellen in Word auf drei bis fünf Zeilen um — aus zwei
+  Zeilen wird eine halbe Seite. Im Druck bleibt das Gitter.
+- Kästen und Sternezeile gehen als `custom-style` durch, nicht als Klasse. Der
+  docx-Writer von pandoc ignoriert eine reine Div-Klasse stillschweigend; der
+  Kasten war in der ersten Fassung ein Absatz ohne Rahmen.
+
+**Die Seitenzahl in Word ist nicht die Seitenzahl des Buches.** Word und CSS
+brechen unterschiedlich um, und die Zahl hängt an der installierten Schrift:
+ohne Georgia setzt LibreOffice hier DejaVu Serif und braucht 21 Prozent mehr
+Seiten — an einer Stichprobe von Teil I gemessen, 46 statt 38 Seiten. **Der
+Druckstand ist das PDF, nicht das Word-Dokument.**
 
 **Warum eine eigene pandoc-Vorlage.** `--standalone` bettet ein eigenes
 Stylesheet ein, das in der Kaskade vor dem übergebenen liegt. Ergebnis waren

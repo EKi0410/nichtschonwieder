@@ -51,10 +51,12 @@ def aufbereiten(text, bereich):
     # 2. Startbarkeits-Marker: im Manuskript ein Codeblock, damit die
     #    Ausrichtung im Editor stimmt. Im Buch ist er ein Kasten, keine
     #    Schreibmaschinenschrift.
+    kasten = ('::: {custom-style="startbar"}' if ZIEL == 'docx'
+              else '::: startbar')
     text = re.sub(
         r'```\nSTARTBAR MIT(.*?)```',
-        lambda m: '::: startbar\n**Startbar mit** — %s\n:::'
-                  % ' '.join(m.group(1).split()),
+        lambda m: '%s\n**Startbar mit** — %s\n:::'
+                  % (kasten, ' '.join(m.group(1).split())),
         text, flags=re.S)
 
     # 3. Das Stufendiagramm bleibt vorformatiert, bekommt aber eine Klasse,
@@ -96,6 +98,22 @@ def aufbereiten(text, bereich):
     #    keine neue Entscheidung, sondern die dort erklärte Schreibweise.
     text = re.sub(r'`(\d) (\d) (\d) (\d) · (\d) (\d) (\d) (\d)`',
                   r'`\1\2\3\4\5\6\7\8`', text)
+
+    # 6. Nur für Word: das achtteilige Sternegitter wird eine Zeile.
+    #    Als Tabelle mit vier Spalten a 25 Prozent brechen die Zellen in Word
+    #    auf drei bis fuenf Zeilen um — aus einem Kasten von zwei Zeilen wird
+    #    eine halbe Seite. Im Druck bleibt das Gitter, dort stimmen die
+    #    Spaltenbreiten. Word ist das Arbeitsdokument, nicht der Satz.
+    if ZIEL == 'docx':
+        def gitter(m):
+            felder = []
+            for zeile in m.group(0).strip().split('\n')[2:]:
+                felder += [z.strip() for z in zeile.strip('|').split('|')
+                           if z.strip()]
+            return ('::: {custom-style="sterne"}\n**'
+                    + '**  ·  **'.join(felder) + '**\n:::\n')
+        text = re.sub(r'^\| \| \| \| \|\n\|-+\|-+\|-+\|-+\|\n'
+                      r'(?:\|[^\n]*\|\n)+', gitter, text, flags=re.M)
 
     text = re.sub(r'\n{4,}', '\n\n\n', text).strip()
     return text
@@ -139,4 +157,5 @@ t = io.open(aus, encoding='utf-8').read()
 print('%-22s %6d Wörter · %6d Zeilen · %s Dateien'
       % (aus, len(t.split()), t.count('\n'), len(teile)))
 print('  Startbar-Kästen: %d · Codeblöcke übrig: %d · HTML-Kommentare: %d'
-      % (t.count('::: startbar'), t.count('```') // 2, t.count('<!--')))
+      % (t.count('::: startbar') + t.count('custom-style="startbar"'),
+         t.count('```') // 2, t.count('<!--')))

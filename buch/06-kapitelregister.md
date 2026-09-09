@@ -4074,3 +4074,86 @@ Entscheidung darüber, ob das Buch in den Buchhandel soll oder nicht.
 KI-generiert oder KI-unterstützt sind. Diese Angabe geht an Amazon und ist von
 der Frage getrennt, ob im Impressum ein Satz dazu steht. Beide Fragen liegen
 beim Autor; die KDP-Angabe ist verpflichtend, der Impressumssatz nicht.
+
+
+---
+
+## Word-Ausgabe — auf Wunsch des Autors, mit Stilvorlage statt pandoc-Standard
+
+Der Autor will das Manuskript erst einmal in Word haben. Das ist der richtige
+Zwischenschritt: Bei 133 Kapiteln ist die Gliederung im Navigationsbereich der
+einzige brauchbare Weg, sich im eigenen Buch zu bewegen.
+
+Drei Dateien: `100-geschaeftsideen.docx` (vollständig) sowie `band1.docx` und
+`band2.docx`. Alle drei schemavalide geprüft.
+
+**Nicht mit pandoc-Standardformatierung, sondern über eine Stilvorlage.**
+`build/referenz-bauen.py` erzeugt `referenz.docx`; pandoc übernimmt daraus
+Seitenformat, Ränder, Schrift und alle Absatzstile. Wer umformatieren will,
+ändert die Vorlage und baut neu — nicht das 900-Seiten-Dokument. Enthalten:
+KDP-Trimformat mit gespiegelten Rändern und 22,3 mm Bundsteg, Georgia 10,5 pt
+auf 14,9 pt, deutsche Silbentrennung, Fußzeile mit Seitenzahl, Überschriften 1
+bis 4 mit Seitenumbruch auf den oberen zwei Ebenen, ein umrandeter Absatzstil
+für den Startbarkeits-Kasten und ein linksbündiger für die Sternezeile. Das
+Inhaltsverzeichnis ist ein Word-Feld — einmal F9, dann stehen die Seitenzahlen
+drin.
+
+### Vier Fehler, die dabei aufgefallen sind
+
+1. **Der Startbarkeits-Kasten war ein Absatz ohne Rahmen.** pandoc bildet eine
+   Div-Klasse im docx-Writer nicht auf einen Word-Stil ab; das geht nur über
+   `custom-style`, und zwar stillschweigend — keine Warnung, kein Fehler, nur
+   ein Kasten, der keiner ist. Dasselbe galt für die Sternezeile, die deshalb
+   im Blocksatz stand und die Abstände zwischen den Dimensionen auseinanderriss.
+2. **Das achtteilige Sternegitter ist in Word eine halbe Seite.** Als Tabelle
+   mit vier Spalten à 25 Prozent brechen die Zellen auf drei bis fünf Zeilen
+   um. Für die Word-Ausgabe wird es eine Zeile; im Druck bleibt das Gitter,
+   dort stimmen die Spaltenbreiten. **Das ist der zweite Fall, in dem dasselbe
+   Element in zwei Ausgaben verschieden aussehen muss** — nach dem
+   Inhaltsverzeichnis, das im Druck erzeugt und im E-Book weggelassen wird.
+3. **OOXML erzwingt die Reihenfolge der Kindelemente.** Ein `<w:spacing>` an
+   der falschen Stelle macht die Datei schemawidrig, und Word zeigt das nicht
+   als Fehler an, sondern ignoriert die Formatierung. Vier Stellen betroffen
+   (Überschriften, Zitatblock, Tabellenstil, Seitenformat). Die Vorlage
+   sortiert die Elemente jetzt selbst, statt sie von Hand in die Folge zu
+   bringen.
+4. **Ein Formatfehler dieser Art ist unsichtbar.** Das ist der Grund, warum
+   jede Word-Ausgabe hier gegen das Schema geprüft und anschließend als PDF
+   angesehen wird, nicht nur erzeugt.
+
+### Warum die Seitenzahl in Word nicht die des Buches ist
+
+Word zählt hier 1.243 Seiten, das PDF 906. Zwei Ursachen, beide gemessen:
+
+- **Die Schrift.** Georgia ist auf diesem System nicht installiert, ersetzt
+  wird sie durch DejaVu Serif, die deutlich breiter läuft. An einer Stichprobe
+  von Teil I gegengeprüft: 46 Seiten mit dem Ersatz, 38 mit Liberation Serif —
+  **21 Prozent Unterschied allein durch die Schrift.** Hochgerechnet liegt das
+  Word-Dokument mit einer echten Buchschrift bei etwa 1.000 Seiten.
+- **Der Rest ist Umbruchlogik.** Word und CSS brechen Überschriften, Tabellen
+  und Absätze verschieden um.
+
+**Der Druckstand ist das PDF, nicht das Word-Dokument.** Beide sagen dasselbe
+über die KDP-Grenze: ein Band geht nicht. Die Empfehlung von zwei Bänden bleibt
+davon unberührt.
+
+### Was das für die Buchschrift bedeutet
+
+Bisher stand im Register, die Schriftwahl sei offen und ändere die Seitenzahl.
+Jetzt steht die Größenordnung: **21 Prozent zwischen zwei Serifenschriften
+derselben Punktgröße.** Bei 927 Seiten in zwei Bänden sind das rund 190 Seiten.
+Die Schriftwahl ist damit keine Geschmacksfrage am Ende, sondern die
+Entscheidung, die über die Bandaufteilung mitentscheidet — sie gehört vor den
+Satz, nicht danach.
+
+### Was in Word zu tun ist
+
+- Beim ersten Öffnen **F9** auf dem Inhaltsverzeichnis.
+- Silbentrennung ist in der Vorlage eingeschaltet und braucht das deutsche
+  Wörterbuch; ohne es steht der Blocksatz mit großen Wortabständen.
+- **Änderungen am Text gehören ins Manuskript, nicht ins Word-Dokument.**
+  Sonst laufen Markdown und Word auseinander, und der nächste Bau überschreibt
+  die Word-Fassung. Wenn in Word lektoriert wird, ist das Word-Dokument ab dann
+  die führende Fassung — dann muss der Rückweg von Hand gemacht werden. Das ist
+  eine Entscheidung, keine Kleinigkeit, und sie ist jetzt zu treffen und nicht
+  nach dreihundert Änderungen.
